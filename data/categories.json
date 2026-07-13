@@ -1,0 +1,1290 @@
+[
+  {
+    "slug": "tutoring",
+    "name": "Tutoring",
+    "emoji": "📚",
+    "entry_count": 25,
+    "query_count": 34,
+    "last_activity": "2026-07-09"
+  },
+  {
+    "slug": "contractor",
+    "name": "Contractor",
+    "emoji": "🏗️",
+    "entry_count": 22,
+    "query_count": 30,
+    "last_activity": "2026-07-13"
+  },
+  {
+    "slug": "catering",
+    "name": "Catering",
+    "emoji": "🍳",
+    "entry_count": 20,
+    "query_count": 22,
+    "last_activity": "2026-07-11"
+  },
+  {
+    "slug": "doctor",
+    "name": "Doctor",
+    "emoji": "🏥",
+    "entry_count": 16,
+    "query_count": 20,
+    "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "plumber",
+    "name": "Plumber",
+    "emoji": "🔧",
+    "entry_count": 14,
+    "query_count": 18,
+    "last_activity": "2026-07-13"
+  },
+  {
+    "slug": "landscaper",
+    "name": "Landscaper",
+    "emoji": "🌿",
+    "entry_count": 12,
+    "query_count": 19,
+    "last_activity": "2026-07-07"
+  },
+  {
+    "slug": "nanny",
+    "name": "Nanny",
+    "emoji": "👶",
+    "entry_count": 12,
+    "query_count": 16,
+    "last_activity": "2026-07-10"
+  },
+  {
+    "slug": "electrician",
+    "name": "Electrician",
+    "emoji": "⚡",
+    "entry_count": 10,
+    "query_count": 15,
+    "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 9,
+    "query_count": 16,
+    "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "pest-control",
+    "name": "Pest Control",
+    "emoji": "🐜",
+    "entry_count": 7,
+    "query_count": 9,
+    "last_activity": "2026-07-11"
+  },
+  {
+    "slug": "dentist",
+    "name": "Dentist",
+    "emoji": "🦷",
+    "entry_count": 8,
+    "query_count": 5,
+    "last_activity": "2026-06-17"
+  },
+  {
+    "slug": "pool-service",
+    "name": "Pool Service",
+    "emoji": "🏊",
+    "entry_count": 7,
+    "query_count": 7,
+    "last_activity": "2026-06-29"
+  },
+  {
+    "slug": "appliance-repair",
+    "name": "Appliance Repair",
+    "emoji": "🔌",
+    "entry_count": 4,
+    "query_count": 11,
+    "last_activity": "2026-06-29"
+  },
+  {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 2,
+    "query_count": 15,
+    "last_activity": "2026-07-10"
+  },
+  {
+    "slug": "mover",
+    "name": "Mover",
+    "emoji": "📦",
+    "entry_count": 6,
+    "query_count": 7,
+    "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "architect",
+    "name": "Architect",
+    "emoji": "📐",
+    "entry_count": 7,
+    "query_count": 4,
+    "last_activity": "2026-07-01"
+  },
+  {
+    "slug": "tree-service",
+    "name": "Tree Service",
+    "emoji": "🌳",
+    "entry_count": 5,
+    "query_count": 7,
+    "last_activity": "2026-07-08"
+  },
+  {
+    "slug": "yoga",
+    "name": "Yoga",
+    "emoji": "🧘",
+    "entry_count": 7,
+    "query_count": 2,
+    "last_activity": "2026-05-21"
+  },
+  {
+    "slug": "hvac",
+    "name": "Hvac",
+    "emoji": "🌡️",
+    "entry_count": 5,
+    "query_count": 5,
+    "last_activity": "2026-06-10"
+  },
+  {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 5,
+    "query_count": 5,
+    "last_activity": "2026-06-30"
+  },
+  {
+    "slug": "lawyer",
+    "name": "Lawyer",
+    "emoji": "⚖️",
+    "entry_count": 4,
+    "query_count": 7,
+    "last_activity": "2026-06-17"
+  },
+  {
+    "slug": "tailor",
+    "name": "Tailor",
+    "emoji": "🪡",
+    "entry_count": 3,
+    "query_count": 9,
+    "last_activity": "2026-07-06"
+  },
+  {
+    "slug": "window-cleaning",
+    "name": "Window Cleaning",
+    "emoji": "🪟",
+    "entry_count": 4,
+    "query_count": 7,
+    "last_activity": "2026-07-02"
+  },
+  {
+    "slug": "insurance",
+    "name": "Insurance",
+    "emoji": "🛡️",
+    "entry_count": 4,
+    "query_count": 6,
+    "last_activity": "2026-06-22"
+  },
+  {
+    "slug": "party-planner",
+    "name": "Party Planner",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 3,
+    "last_activity": "2026-06-29"
+  },
+  {
+    "slug": "photographer",
+    "name": "Photographer",
+    "emoji": "📷",
+    "entry_count": 4,
+    "query_count": 5,
+    "last_activity": "2026-06-20"
+  },
+  {
+    "slug": "pediatric-dentist",
+    "name": "Pediatric Dentist",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 2,
+    "last_activity": "2026-06-14"
+  },
+  {
+    "slug": "car-mechanic",
+    "name": "Car Mechanic",
+    "emoji": "🚗",
+    "entry_count": 3,
+    "query_count": 5,
+    "last_activity": "2026-06-15"
+  },
+  {
+    "slug": "cook",
+    "name": "Cook",
+    "emoji": "👨‍🍳",
+    "entry_count": 2,
+    "query_count": 7,
+    "last_activity": "2026-06-21"
+  },
+  {
+    "slug": "hair-stylist",
+    "name": "Hair Stylist",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 3,
+    "last_activity": "2026-06-24"
+  },
+  {
+    "slug": "music-teacher",
+    "name": "Music Teacher",
+    "emoji": "🎵",
+    "entry_count": 5,
+    "query_count": 1,
+    "last_activity": "2026-01-27"
+  },
+  {
+    "slug": "restaurant",
+    "name": "Restaurant",
+    "emoji": "🍽️",
+    "entry_count": 3,
+    "query_count": 4,
+    "last_activity": "2026-06-15"
+  },
+  {
+    "slug": "caregiver",
+    "name": "Caregiver",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-07-08"
+  },
+  {
+    "slug": "dry-cleaning",
+    "name": "Dry Cleaning",
+    "emoji": "👔",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-05-05"
+  },
+  {
+    "slug": "homeowner-insurance",
+    "name": "Homeowner Insurance",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-01-23"
+  },
+  {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 1,
+    "last_activity": "2026-05-25"
+  },
+  {
+    "slug": "dj",
+    "name": "Dj",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 2,
+    "last_activity": "2026-05-31"
+  },
+  {
+    "slug": "elder-care",
+    "name": "Elder Care",
+    "emoji": "🧓",
+    "entry_count": 2,
+    "query_count": 4,
+    "last_activity": "2026-05-12"
+  },
+  {
+    "slug": "gardener",
+    "name": "Gardener",
+    "emoji": "🌱",
+    "entry_count": 2,
+    "query_count": 4,
+    "last_activity": "2026-06-19"
+  },
+  {
+    "slug": "driving-school",
+    "name": "Driving School",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-03-08"
+  },
+  {
+    "slug": "medical-equipment",
+    "name": "Medical Equipment",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-01-04"
+  },
+  {
+    "slug": "pediatrician",
+    "name": "Pediatrician",
+    "emoji": "👶",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-06-25"
+  },
+  {
+    "slug": "physical-therapy",
+    "name": "Physical Therapy",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 3,
+    "last_activity": "2026-05-19"
+  },
+  {
+    "slug": "pulmonologist",
+    "name": "Pulmonologist",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-04-22"
+  },
+  {
+    "slug": "storage-rental",
+    "name": "Storage Rental",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-03-31"
+  },
+  {
+    "slug": "water-softener",
+    "name": "Water Softener",
+    "emoji": "💧",
+    "entry_count": 2,
+    "query_count": 3,
+    "last_activity": "2026-05-28"
+  },
+  {
+    "slug": "car-service",
+    "name": "Car Service",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-06-16"
+  },
+  {
+    "slug": "dry-cleaner",
+    "name": "Dry Cleaner",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-01-08"
+  },
+  {
+    "slug": "event-planner",
+    "name": "Event Planner",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-05-01"
+  },
+  {
+    "slug": "gutter-cleaning",
+    "name": "Gutter Cleaning",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-06-03"
+  },
+  {
+    "slug": "massage",
+    "name": "Massage",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-07-04"
+  },
+  {
+    "slug": "painter",
+    "name": "Painter",
+    "emoji": "🎨",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-04-26"
+  },
+  {
+    "slug": "real-estate-agent",
+    "name": "Real Estate Agent",
+    "emoji": "🏡",
+    "entry_count": 0,
+    "query_count": 6,
+    "last_activity": "2026-06-13"
+  },
+  {
+    "slug": "swim-classes",
+    "name": "Swim Classes",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-01-20"
+  },
+  {
+    "slug": "transportation",
+    "name": "Transportation",
+    "emoji": "🚐",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-01-26"
+  },
+  {
+    "slug": "accountant",
+    "name": "Accountant",
+    "emoji": "🧾",
+    "entry_count": 1,
+    "query_count": 3,
+    "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "camp",
+    "name": "Camp",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 3,
+    "last_activity": "2026-07-04"
+  },
+  {
+    "slug": "chiropractor",
+    "name": "Chiropractor",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-02-19"
+  },
+  {
+    "slug": "ear-piercing",
+    "name": "Ear Piercing",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-06-17"
+  },
+  {
+    "slug": "entertainer",
+    "name": "Entertainer",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-06-19"
+  },
+  {
+    "slug": "flooring",
+    "name": "Flooring",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-01-05"
+  },
+  {
+    "slug": "framing",
+    "name": "Framing",
+    "emoji": "🖼️",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-01-05"
+  },
+  {
+    "slug": "garage-door-repair",
+    "name": "Garage Door Repair",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-06-21"
+  },
+  {
+    "slug": "gardening",
+    "name": "Gardening",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-06-17"
+  },
+  {
+    "slug": "home-alarm-system",
+    "name": "Home Alarm System",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-04-24"
+  },
+  {
+    "slug": "psychiatrist",
+    "name": "Psychiatrist",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-05-25"
+  },
+  {
+    "slug": "roofer",
+    "name": "Roofer",
+    "emoji": "🏠",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-02-17"
+  },
+  {
+    "slug": "vet",
+    "name": "Vet",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-05-13"
+  },
+  {
+    "slug": "donation-center",
+    "name": "Donation Center",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 0,
+    "last_activity": "2026-06-13"
+  },
+  {
+    "slug": "grocery",
+    "name": "Grocery",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-05-05"
+  },
+  {
+    "slug": "henna",
+    "name": "Henna",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 0,
+    "last_activity": "2026-03-27"
+  },
+  {
+    "slug": "home-help",
+    "name": "Home Help",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-01-28"
+  },
+  {
+    "slug": "tennis-coach",
+    "name": "Tennis Coach",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-06-22"
+  },
+  {
+    "slug": "window-replacement",
+    "name": "Window Replacement",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-05-29"
+  },
+  {
+    "slug": "audiologist",
+    "name": "Audiologist",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-03-28"
+  },
+  {
+    "slug": "car-detailing",
+    "name": "Car Detailing",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-04-25"
+  },
+  {
+    "slug": "car-shipping",
+    "name": "Car Shipping",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-02-01"
+  },
+  {
+    "slug": "chef",
+    "name": "Chef",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-06-16"
+  },
+  {
+    "slug": "college-counseling",
+    "name": "College Counseling",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-01-26"
+  },
+  {
+    "slug": "daycare",
+    "name": "Daycare",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "dog-walking",
+    "name": "Dog Walking",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-04-27"
+  },
+  {
+    "slug": "donation",
+    "name": "Donation",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-04-21"
+  },
+  {
+    "slug": "facial",
+    "name": "Facial",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-05-25"
+  },
+  {
+    "slug": "fence",
+    "name": "Fence",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-01-11"
+  },
+  {
+    "slug": "florist",
+    "name": "Florist",
+    "emoji": "💐",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2025-12-28"
+  },
+  {
+    "slug": "grocery-service",
+    "name": "Grocery Service",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-03-29"
+  },
+  {
+    "slug": "optician",
+    "name": "Optician",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-03-07"
+  },
+  {
+    "slug": "private-chef",
+    "name": "Private Chef",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-05-14"
+  },
+  {
+    "slug": "religious-service",
+    "name": "Religious Service",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-03-07"
+  },
+  {
+    "slug": "robotics",
+    "name": "Robotics",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-06-20"
+  },
+  {
+    "slug": "sauna",
+    "name": "Sauna",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-05-31"
+  },
+  {
+    "slug": "septic-tank",
+    "name": "Septic Tank",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-06-08"
+  },
+  {
+    "slug": "swim-lessons",
+    "name": "Swim Lessons",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-03-28"
+  },
+  {
+    "slug": "tennis-coaching",
+    "name": "Tennis Coaching",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-05-17"
+  },
+  {
+    "slug": "travel-agent",
+    "name": "Travel Agent",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-06-13"
+  },
+  {
+    "slug": "valet-service",
+    "name": "Valet Service",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-06-22"
+  },
+  {
+    "slug": "adu",
+    "name": "Adu",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-02-07"
+  },
+  {
+    "slug": "bakery",
+    "name": "Bakery",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-04-03"
+  },
+  {
+    "slug": "bartender",
+    "name": "Bartender",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-06-17"
+  },
+  {
+    "slug": "care-services",
+    "name": "Care Services",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-04-29"
+  },
+  {
+    "slug": "carpet-cleaning",
+    "name": "Carpet Cleaning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-06-05"
+  },
+  {
+    "slug": "driver",
+    "name": "Driver",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-06-21"
+  },
+  {
+    "slug": "obgyn",
+    "name": "Obgyn",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-04-23"
+  },
+  {
+    "slug": "party-helper",
+    "name": "Party Helper",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-06-03"
+  },
+  {
+    "slug": "paving",
+    "name": "Paving",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-05-17"
+  },
+  {
+    "slug": "phone-repair",
+    "name": "Phone Repair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-06-25"
+  },
+  {
+    "slug": "summer-camp",
+    "name": "Summer Camp",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-06-19"
+  },
+  {
+    "slug": "swim-club",
+    "name": "Swim Club",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-03-31"
+  },
+  {
+    "slug": "urgent-care",
+    "name": "Urgent Care",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-01-27"
+  },
+  {
+    "slug": "visa-agent",
+    "name": "Visa Agent",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-01-07"
+  },
+  {
+    "slug": "water-filter",
+    "name": "Water Filter",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "arborist",
+    "name": "Arborist",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "au-pair",
+    "name": "Au Pair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "babysitter",
+    "name": "Babysitter",
+    "emoji": "👶",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-21"
+  },
+  {
+    "slug": "basketball-court",
+    "name": "Basketball Court",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-28"
+  },
+  {
+    "slug": "beauty-service",
+    "name": "Beauty Service",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-14"
+  },
+  {
+    "slug": "business-broker",
+    "name": "Business Broker",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-20"
+  },
+  {
+    "slug": "car-wash",
+    "name": "Car Wash",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-24"
+  },
+  {
+    "slug": "carpenter",
+    "name": "Carpenter",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-24"
+  },
+  {
+    "slug": "caterer",
+    "name": "Caterer",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-22"
+  },
+  {
+    "slug": "closet-design",
+    "name": "Closet Design",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-31"
+  },
+  {
+    "slug": "construction",
+    "name": "Construction",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-23"
+  },
+  {
+    "slug": "dance-lessons",
+    "name": "Dance Lessons",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-04"
+  },
+  {
+    "slug": "dog-sitter",
+    "name": "Dog Sitter",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-02"
+  },
+  {
+    "slug": "entertainment",
+    "name": "Entertainment",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-06"
+  },
+  {
+    "slug": "event-planning",
+    "name": "Event Planning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-02"
+  },
+  {
+    "slug": "fiber-installer",
+    "name": "Fiber Installer",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-01"
+  },
+  {
+    "slug": "fire-sprinkler",
+    "name": "Fire Sprinkler",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-18"
+  },
+  {
+    "slug": "furniture-repair",
+    "name": "Furniture Repair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-26"
+  },
+  {
+    "slug": "garage-door",
+    "name": "Garage Door",
+    "emoji": "🚪",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-04"
+  },
+  {
+    "slug": "grocery-delivery",
+    "name": "Grocery Delivery",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-25"
+  },
+  {
+    "slug": "househelp",
+    "name": "Househelp",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-03"
+  },
+  {
+    "slug": "household-help",
+    "name": "Household Help",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-20"
+  },
+  {
+    "slug": "insulation",
+    "name": "Insulation",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-09"
+  },
+  {
+    "slug": "insurance-agent",
+    "name": "Insurance Agent",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-25"
+  },
+  {
+    "slug": "insurance-broker",
+    "name": "Insurance Broker",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-30"
+  },
+  {
+    "slug": "irrigation",
+    "name": "Irrigation",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-20"
+  },
+  {
+    "slug": "language-teacher",
+    "name": "Language Teacher",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-09"
+  },
+  {
+    "slug": "lifeguard",
+    "name": "Lifeguard",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-28"
+  },
+  {
+    "slug": "lighting",
+    "name": "Lighting",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-26"
+  },
+  {
+    "slug": "locksmith",
+    "name": "Locksmith",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-29"
+  },
+  {
+    "slug": "meditation",
+    "name": "Meditation",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-02-07"
+  },
+  {
+    "slug": "mother-s-helper",
+    "name": "Mother'S Helper",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-04"
+  },
+  {
+    "slug": "musician",
+    "name": "Musician",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-13"
+  },
+  {
+    "slug": "ophthalmologist",
+    "name": "Ophthalmologist",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-11"
+  },
+  {
+    "slug": "party-decor",
+    "name": "Party Decor",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-24"
+  },
+  {
+    "slug": "pediatric-orthopedic-surgeon",
+    "name": "Pediatric Orthopedic Surgeon",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-27"
+  },
+  {
+    "slug": "real-estate",
+    "name": "Real Estate",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-04"
+  },
+  {
+    "slug": "rehab-facility",
+    "name": "Rehab Facility",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-04"
+  },
+  {
+    "slug": "spa-repair",
+    "name": "Spa Repair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-05-31"
+  },
+  {
+    "slug": "stone-cleaning",
+    "name": "Stone Cleaning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-19"
+  },
+  {
+    "slug": "storage-facility",
+    "name": "Storage Facility",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-17"
+  },
+  {
+    "slug": "structural-engineer",
+    "name": "Structural Engineer",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-06"
+  },
+  {
+    "slug": "tennis-lessons",
+    "name": "Tennis Lessons",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-24"
+  },
+  {
+    "slug": "tour-guide",
+    "name": "Tour Guide",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-29"
+  },
+  {
+    "slug": "vastu-specialist",
+    "name": "Vastu Specialist",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-26"
+  },
+  {
+    "slug": "water-delivery",
+    "name": "Water Delivery",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-26"
+  },
+  {
+    "slug": "water-filtration",
+    "name": "Water Filtration",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-03-19"
+  },
+  {
+    "slug": "window-repair",
+    "name": "Window Repair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-01-14"
+  },
+  {
+    "slug": "yoga-instructor",
+    "name": "Yoga Instructor",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-06-12"
+  },
+  {
+    "slug": "yoga-teacher",
+    "name": "Yoga Teacher",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-04-24"
+  }
+]
