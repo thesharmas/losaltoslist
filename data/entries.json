@@ -1318,6 +1318,35 @@
     "mention_count": 2
   },
   {
+    "id": "sequoia-cleaning-inc",
+    "category": "cleaner",
+    "name": "Sequoia Cleaning Inc.",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sequoia Cleaning Inc.\nhttps://share.google/0vwM7qlfYX5rTMq9g",
+        "by": "Namrata",
+        "date": "2026-07-13",
+        "msg_id": "3AE22C3FD267FCA1B082",
+        "type": "contact"
+      },
+      {
+        "quote": "We have used them for many years now, they are very reliable.",
+        "by": "Namrata",
+        "date": "2026-07-13",
+        "msg_id": "3A98773BA647B0810258",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "mention_count": 2
+  },
+  {
     "id": "brenda",
     "category": "cleaner",
     "name": "Brenda",

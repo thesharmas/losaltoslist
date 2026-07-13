@@ -56,19 +56,19 @@
     "last_activity": "2026-07-10"
   },
   {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 10,
+    "query_count": 16,
+    "last_activity": "2026-07-13"
+  },
+  {
     "slug": "electrician",
     "name": "Electrician",
     "emoji": "⚡",
     "entry_count": 10,
     "query_count": 15,
-    "last_activity": "2026-07-12"
-  },
-  {
-    "slug": "cleaner",
-    "name": "Cleaner",
-    "emoji": "🧹",
-    "entry_count": 9,
-    "query_count": 16,
     "last_activity": "2026-07-12"
   },
   {
@@ -1016,6 +1016,14 @@
     "last_activity": "2026-06-02"
   },
   {
+    "slug": "fabricator",
+    "name": "Fabricator",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-13"
+  },
+  {
     "slug": "fiber-installer",
     "name": "Fiber Installer",
     "emoji": "📌",
@@ -1246,6 +1254,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-03-29"
+  },
+  {
+    "slug": "upholstery-cleaning",
+    "name": "Upholstery Cleaning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-13"
   },
   {
     "slug": "vastu-specialist",
