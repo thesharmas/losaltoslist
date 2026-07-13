@@ -1,0 +1,48 @@
+# Los Altos List
+
+> Community-sourced directory of local service providers (plumbers, tutors,
+> doctors, caterers, contractors, and more) for Los Altos, CA and nearby.
+> Auto-generated from a neighborhood WhatsApp group's recommendations and
+> updated daily. 368 providers across
+> 162 categories; 164 entries include direct
+> contact info. Last updated 2026-07-13.
+
+All data is plain JSON, no auth required. Fetch the raw files directly:
+
+## Data
+
+- [entries.json](https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/entries.json): Provider-level entries — name,
+  category, contact info (phones/websites/emails), and quoted neighbor
+  recommendations with dates. Primary dataset.
+- [categories.json](https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/categories.json): Category index with slug,
+  display name, emoji, provider count, request count, last activity date.
+- [meta.json](https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/meta.json): Generation timestamp, source watermark,
+  and counts. Check `generated_at` for freshness.
+
+## Top categories
+
+- 📚 Tutoring: 25 providers, 34 requests
+- 🏗️ Contractor: 22 providers, 30 requests
+- 🍳 Catering: 20 providers, 22 requests
+- 🏥 Doctor: 16 providers, 20 requests
+- 🔧 Plumber: 14 providers, 18 requests
+- 🌿 Landscaper: 12 providers, 19 requests
+- 👶 Nanny: 12 providers, 16 requests
+- ⚡ Electrician: 10 providers, 15 requests
+- 🧹 Cleaner: 9 providers, 16 requests
+- 🐜 Pest Control: 7 providers, 9 requests
+- 🦷 Dentist: 8 providers, 5 requests
+- 🏊 Pool Service: 7 providers, 7 requests
+- 🔌 Appliance Repair: 4 providers, 11 requests
+- 🔨 Handyman: 2 providers, 15 requests
+- 📦 Mover: 6 providers, 7 requests
+
+## Notes
+
+- Recommenders are identified by first name only; no community-member contact
+  info is ever published. Provider contact details were shared voluntarily in
+  the group for referral purposes.
+- Data quality: quotes are verbatim from chat; classification is LLM-assisted.
+  Cross-check contact info before relying on it.
+- To request a correction or removal, open a GitHub issue on
+  thesharmas/losaltoslist.
