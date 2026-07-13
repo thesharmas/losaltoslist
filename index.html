@@ -80,6 +80,38 @@
 
   .wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
 
+  /* ---------- Agent-ready top bar ---------- */
+  .topbar {
+    background: var(--oak-deep); color: #E7E0CF;
+    border-bottom: 1px solid rgba(0,0,0,.22);
+  }
+  .topbar-row {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 6px 16px; padding: 8px 0; flex-wrap: wrap;
+  }
+  .topbar-tag {
+    display: inline-flex; align-items: center; gap: 9px;
+    font-size: .8rem; color: #EDE7D7; letter-spacing: .01em;
+  }
+  .topbar-tag b { color: #fff; font-weight: 700; }
+  .live-dot {
+    width: 7px; height: 7px; border-radius: 50%; background: var(--clay); flex: none;
+    box-shadow: 0 0 0 0 rgba(201,111,68,.55); animation: livepulse 2.6s ease-out infinite;
+  }
+  @keyframes livepulse {
+    0%   { box-shadow: 0 0 0 0 rgba(201,111,68,.55); }
+    70%  { box-shadow: 0 0 0 7px rgba(201,111,68,0); }
+    100% { box-shadow: 0 0 0 0 rgba(201,111,68,0); }
+  }
+  .topbar-links { display: flex; flex-wrap: wrap; gap: 6px; }
+  .topbar-links a {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .76rem;
+    color: #F3EEE0; text-decoration: none;
+    border: 1px solid rgba(237,231,215,.28); border-radius: 7px; padding: 3px 9px;
+    transition: background .12s ease, border-color .12s ease;
+  }
+  .topbar-links a:hover { background: rgba(237,231,215,.14); border-color: rgba(237,231,215,.55); }
+
   /* ---------- Masthead ---------- */
   .masthead {
     border-bottom: 1px solid var(--line);
@@ -403,6 +435,11 @@
     .toolbar { padding: 18px 0 16px; }
   }
 
+  @media (max-width: 560px) {
+    .topbar-tag-more { display: none; }
+    .topbar-row { justify-content: flex-start; }
+  }
+
   @media (max-width: 480px) {
     .wrap { padding: 0 14px; }
     .hero { padding: 30px 0 14px; }
@@ -425,6 +462,20 @@
 </style>
 </head>
 <body>
+
+<div class="topbar">
+  <div class="wrap topbar-row">
+    <span class="topbar-tag">
+      <span class="live-dot" aria-hidden="true"></span>
+      <b>Agent-ready.</b><span class="topbar-tag-more">&nbsp;This whole directory is machine-readable —</span>
+    </span>
+    <nav class="topbar-links" aria-label="Machine-readable resources">
+      <a href="./llms.txt">llms.txt</a>
+      <a href="./AGENTS.md">AGENTS.md</a>
+      <a href="./data/entries.json">JSON API</a>
+    </nav>
+  </div>
+</div>
 
 <header class="masthead">
   <div class="wrap masthead-row">
