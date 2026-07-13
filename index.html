@@ -5,6 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>The Block List · DOLAH Nagar</title>
 <meta name="description" content="Trusted service recommendations shared by neighbors in the DOLAH Nagar group — plumbers, tutors, doctors and more, in their own words." />
+
+<!-- Machine-readable pointers for LLMs and agent crawlers. Relative hrefs so they
+     resolve under the GitHub Pages project subpath, not the domain root. -->
+<link rel="alternate" type="text/plain" href="./llms.txt" title="llms.txt — site summary for LLMs" />
+<link rel="alternate" type="text/markdown" href="./AGENTS.md" title="AGENTS.md — guide for AI agents" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Los Altos List",
+  "alternateName": "The Block List",
+  "description": "Community-sourced directory of local service providers (plumbers, tutors, doctors, contractors and more) for Los Altos, CA, built from a neighborhood WhatsApp group's recommendations and updated daily.",
+  "url": "https://thesharmas.github.io/losaltoslist/",
+  "sameAs": "https://github.com/thesharmas/losaltoslist",
+  "isAccessibleForFree": true,
+  "creativeWorkStatus": "Updated daily",
+  "keywords": ["Los Altos", "local services", "directory", "recommendations", "neighborhood"],
+  "creator": { "@type": "Organization", "name": "DOLAH Nagar neighborhood group" },
+  "distribution": [
+    { "@type": "DataDownload", "name": "entries.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/entries.json" },
+    { "@type": "DataDownload", "name": "categories.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/categories.json" },
+    { "@type": "DataDownload", "name": "meta.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/meta.json" }
+  ]
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@1,6..72,400;1,6..72,500;0,6..72,500&display=swap" rel="stylesheet" />
@@ -341,6 +367,29 @@
   footer p { margin: 0 0 8px; max-width: 40ch; }
   footer a { color: var(--oak); }
 
+  /* machine-readable strip — quiet, monospace, sits under the human footer */
+  .foot-dev {
+    margin-top: 34px; padding-top: 22px; border-top: 1px solid var(--line);
+    display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px;
+  }
+  .foot-dev-label {
+    font-size: .68rem; letter-spacing: .16em; text-transform: uppercase;
+    font-weight: 700; color: var(--moss);
+  }
+  .foot-dev-links { display: flex; flex-wrap: wrap; gap: 8px; }
+  .foot-dev-links a {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .8rem;
+    color: var(--oak); text-decoration: none;
+    background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+    padding: 5px 10px; transition: border-color .12s ease, background .12s ease;
+  }
+  .foot-dev-links a:hover { border-color: var(--moss); background: #fff; }
+  .foot-dev-note { flex-basis: 100%; max-width: 62ch; margin: 4px 0 0; font-size: .82rem; }
+  .foot-dev-note code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .9em;
+    background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px;
+  }
+
   :focus-visible { outline: 2.5px solid var(--clay); outline-offset: 2px; border-radius: 4px; }
 
   @media (max-width: 720px) {
@@ -443,6 +492,18 @@
       <p>Only <b>service providers’</b> contact details appear here — never a
          neighbor’s. To remove a listing, open an issue on the repo.</p>
     </div>
+  </div>
+
+  <div class="wrap foot-dev">
+    <span class="foot-dev-label">Built for machines too</span>
+    <nav class="foot-dev-links" aria-label="Machine-readable resources">
+      <a href="./llms.txt">llms.txt</a>
+      <a href="./AGENTS.md">AGENTS.md</a>
+      <a href="./data/entries.json">Raw JSON</a>
+      <a href="https://github.com/thesharmas/losaltoslist">Source on GitHub</a>
+    </nav>
+    <p class="foot-dev-note">The whole directory is plain JSON, no key needed — point an agent at
+       <code>AGENTS.md</code> and it can read the schema and rules for itself.</p>
   </div>
 </footer>
 
