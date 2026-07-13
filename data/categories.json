@@ -376,6 +376,14 @@
     "last_activity": "2026-06-16"
   },
   {
+    "slug": "carpet-cleaning",
+    "name": "Carpet Cleaning",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-07-13"
+  },
+  {
     "slug": "dry-cleaner",
     "name": "Dry Cleaner",
     "emoji": "📌",
@@ -800,14 +808,6 @@
     "last_activity": "2026-04-29"
   },
   {
-    "slug": "carpet-cleaning",
-    "name": "Carpet Cleaning",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 2,
-    "last_activity": "2026-06-05"
-  },
-  {
     "slug": "driver",
     "name": "Driver",
     "emoji": "📌",
@@ -894,6 +894,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "asbestos-and-mold-mitigation",
+    "name": "Asbestos And Mold Mitigation",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-13"
   },
   {
     "slug": "au-pair",

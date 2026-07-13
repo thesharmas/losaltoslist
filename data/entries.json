@@ -623,6 +623,52 @@
     "mention_count": 1
   },
   {
+    "id": "magic-carpet-cleaning",
+    "category": "carpet cleaning",
+    "name": "Magic Carpet Cleaning",
+    "contact": {
+      "phones": [
+        "(650) 420-7447"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We recently used Magic Carpet Cleaning and I’m very happy with their work. +1 (650) 420-7447",
+        "by": "Monal",
+        "date": "2026-07-13",
+        "msg_id": "3ADF25E425E72347EA81",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "mention_count": 1
+  },
+  {
+    "id": "sal",
+    "category": "carpet cleaning",
+    "name": "Sal",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Have used Sal for years and he does an impeccable job every time. Also very reasonable.",
+        "by": "Shivanjali",
+        "date": "2026-07-13",
+        "msg_id": "3AEA05175A31DB66FEF1",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "mention_count": 1
+  },
+  {
     "id": "beetroot-catering-co",
     "category": "catering",
     "name": "Beetroot Catering Co",
