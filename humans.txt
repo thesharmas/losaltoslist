@@ -1,0 +1,29 @@
+/* TEAM */
+
+  Creator & developer: Rohit Sharma
+  Site:                 https://www.thesharmas.org
+  GitHub:               https://github.com/thesharmas
+  Location:             Los Altos, California, USA
+
+
+/* THE PROJECT */
+
+  Los Altos List — a community directory of trusted local service
+  providers, built from a neighborhood group's recommendations and
+  regenerated daily by an LLM-assisted pipeline. Every update is a git
+  commit, so the whole history is auditable.
+
+  Thanks to the DOLAH Nagar neighborhood group — every listing here
+  exists because a neighbor took the time to vouch for someone.
+
+
+/* THE TECH */
+
+  Front end:   Hand-written HTML, CSS, and vanilla JavaScript. No build
+               step, no framework — one file that fetches plain JSON.
+  Hosting:     GitHub Pages
+  Data:        /data/*.json  (open, no auth)
+  For agents:  /llms.txt and /AGENTS.md
+  Type:        Bricolage Grotesque + Newsreader
+
+  Made in California, for the people who live here.
