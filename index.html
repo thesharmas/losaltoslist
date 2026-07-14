@@ -632,8 +632,10 @@
     if (!iso) return "";
     var p = iso.split("-");
     if (p.length !== 3) return iso;
+    var mi = +p[1] - 1;
+    if (!(mi >= 0 && mi < 12)) return iso; // out-of-range month: leave as-is
     var m = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    return m[+p[1] - 1] + " " + (+p[2]) + ", " + p[0];
+    return m[mi] + " " + (+p[2]) + ", " + p[0];
   }
   function copyText(text) {
     if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -651,6 +653,16 @@
   function hostname(url) {
     try { return new URL(url).hostname.replace(/^www\./, ""); }
     catch (e) { return url.replace(/^https?:\/\//, "").replace(/^www\./, "").split("/")[0]; }
+  }
+  // provider websites are untrusted: only allow http(s), and upgrade bare
+  // domains ("example.com") to https. anything else (javascript:, data:, …) is
+  // rejected so it can never become a live link.
+  function safeUrl(url) {
+    var s = String(url).trim();
+    if (/^https?:\/\//i.test(s)) return s;
+    if (/^[a-z][a-z0-9+.\-]*:/i.test(s)) return null; // some other scheme
+    if (!s) return null;
+    return "https://" + s;
   }
   function catMeta(entry) {
     var slug = slugify(entry.category);
@@ -819,7 +831,11 @@
                (b.last_seen || "").localeCompare(a.last_seen || "");
       },
       recent: function (a, b) { return (b.last_seen || "").localeCompare(a.last_seen || ""); },
-      az: function (a, b) { return (a.name || "~").localeCompare(b.name || "~"); },
+      az: function (a, b) {
+        var an = a.name || "", bn = b.name || "";
+        if (an && bn) return an.localeCompare(bn);
+        return an ? -1 : bn ? 1 : 0; // unnamed entries sink to the bottom
+      },
     };
     return list.sort(sorters[state.sort] || sorters.loved);
   }
@@ -863,7 +879,9 @@
       out.push(contactPill("mailto:" + m, false, "mail", m, m, "Copy email"));
     });
     (c.websites || []).forEach(function (w) {
-      out.push(contactPill(w, true, "web", hostname(w), w, "Copy link"));
+      var href = safeUrl(w);
+      if (!href) return; // drop unsafe/malformed URLs rather than link to them
+      out.push(contactPill(href, true, "web", hostname(href), href, "Copy link"));
     });
     return out.length ? out.join("") :
       '<span class="no-contact">No contact shared — ask in the group.</span>';

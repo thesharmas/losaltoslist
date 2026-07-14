@@ -1,0 +1,24 @@
+{
+  "name": "losaltoslist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A community services directory for the Los Altos area, auto-generated from a neighborhood WhatsApp group's recommendations.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesharmas/losaltoslist.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesharmas/losaltoslist/issues"
+  },
+  "homepage": "https://github.com/thesharmas/losaltoslist#readme",
+  "devDependencies": {
+    "jsdom": "^26.1.0",
+    "vitest": "^3.2.7"
+  }
+}
