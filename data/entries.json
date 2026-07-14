@@ -1289,6 +1289,42 @@
     "mention_count": 1
   },
   {
+    "id": "sequoia-cleaning-inc",
+    "category": "cleaner",
+    "name": "Sequoia Cleaning Inc.",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sequoia Cleaning Inc.\nhttps://share.google/0vwM7qlfYX5rTMq9g",
+        "by": "Namrata",
+        "date": "2026-07-13",
+        "msg_id": "3AE22C3FD267FCA1B082",
+        "type": "contact"
+      },
+      {
+        "quote": "We have used them for many years now, they are very reliable.",
+        "by": "Namrata",
+        "date": "2026-07-13",
+        "msg_id": "3A98773BA647B0810258",
+        "type": "review"
+      },
+      {
+        "quote": "Yes",
+        "by": "Namrata",
+        "date": "2026-07-13",
+        "msg_id": "3ADB5BBDCBB3E9417200",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "mention_count": 3
+  },
+  {
     "id": "lucy",
     "category": "cleaner",
     "name": "Lucy",
@@ -1315,35 +1351,6 @@
     ],
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
-    "mention_count": 2
-  },
-  {
-    "id": "sequoia-cleaning-inc",
-    "category": "cleaner",
-    "name": "Sequoia Cleaning Inc.",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Sequoia Cleaning Inc.\nhttps://share.google/0vwM7qlfYX5rTMq9g",
-        "by": "Namrata",
-        "date": "2026-07-13",
-        "msg_id": "3AE22C3FD267FCA1B082",
-        "type": "contact"
-      },
-      {
-        "quote": "We have used them for many years now, they are very reliable.",
-        "by": "Namrata",
-        "date": "2026-07-13",
-        "msg_id": "3A98773BA647B0810258",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
     "mention_count": 2
   },
   {
@@ -2406,6 +2413,44 @@
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
     "mention_count": 1
+  },
+  {
+    "id": "dj-sunny-sfo",
+    "category": "dj",
+    "name": "DJ Sunny Sfo",
+    "contact": {
+      "phones": [
+        "(650) 814-7487"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: DJ Sunny Sfo (+1 (650) 814-7487)",
+        "by": "Komal",
+        "date": "2026-07-13",
+        "msg_id": "ACEF5070D796CEA65E6D815278DA7643",
+        "type": "contact"
+      },
+      {
+        "quote": "He played my wedding. So good 👍",
+        "by": "Komal",
+        "date": "2026-07-13",
+        "msg_id": "AC565531369F51206DBB57AFFCCC490A",
+        "type": "review"
+      },
+      {
+        "quote": "Thx so much.",
+        "by": "Dolly",
+        "date": "2026-07-14",
+        "msg_id": "3A8276D00502A6B60FB2",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-14",
+    "mention_count": 3
   },
   {
     "id": "dj-rohan",
@@ -5200,6 +5245,30 @@
     ],
     "first_seen": "2026-04-30",
     "last_seen": "2026-04-30",
+    "mention_count": 1
+  },
+  {
+    "id": "raul-mendoza",
+    "category": "marble/quartz fabricator",
+    "name": "Raul Mendoza",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.baystoneworks.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Raul Mendoza at: https://www.baystoneworks.com",
+        "by": "Supriya",
+        "date": "2026-07-13",
+        "msg_id": "3B2BCA5F8552D00FF647",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
     "mention_count": 1
   },
   {

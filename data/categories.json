@@ -232,6 +232,14 @@
     "last_activity": "2026-06-21"
   },
   {
+    "slug": "dj",
+    "name": "Dj",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 3,
+    "last_activity": "2026-07-14"
+  },
+  {
     "slug": "hair-stylist",
     "name": "Hair Stylist",
     "emoji": "📌",
@@ -286,14 +294,6 @@
     "entry_count": 4,
     "query_count": 1,
     "last_activity": "2026-05-25"
-  },
-  {
-    "slug": "dj",
-    "name": "Dj",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 2,
-    "last_activity": "2026-05-31"
   },
   {
     "slug": "elder-care",
@@ -816,6 +816,14 @@
     "last_activity": "2026-06-21"
   },
   {
+    "slug": "marble-quartz-fabricator",
+    "name": "Marble/Quartz Fabricator",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-07-13"
+  },
+  {
     "slug": "obgyn",
     "name": "Obgyn",
     "emoji": "📌",
@@ -862,6 +870,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-03-31"
+  },
+  {
+    "slug": "upholstery-cleaning",
+    "name": "Upholstery Cleaning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-07-13"
   },
   {
     "slug": "urgent-care",
@@ -1208,6 +1224,14 @@
     "last_activity": "2026-05-04"
   },
   {
+    "slug": "soldering-training",
+    "name": "Soldering Training",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-13"
+  },
+  {
     "slug": "spa-repair",
     "name": "Spa Repair",
     "emoji": "📌",
@@ -1254,14 +1278,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-03-29"
-  },
-  {
-    "slug": "upholstery-cleaning",
-    "name": "Upholstery Cleaning",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-07-13"
   },
   {
     "slug": "vastu-specialist",
