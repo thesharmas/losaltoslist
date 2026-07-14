@@ -15,6 +15,37 @@ Updated daily by an automated pipeline that classifies new group messages
 (LLM-based) and merges them into the directory. Every change is a commit, so
 the full history is auditable.
 
+## Front end
+
+The site is a single static `index.html` (no build step) that fetches the JSON
+in `data/` and renders the directory. Serve it over HTTP to develop locally —
+opening the file from disk won't work because the browser blocks the `fetch`:
+
+```
+python3 -m http.server   # then visit http://localhost:8000
+```
+
+## Tests
+
+The front-end logic is covered by a [Vitest](https://vitest.dev) + jsdom suite
+under `test/`. The tests load the real `index.html` into jsdom with a stubbed
+`fetch` and drive it through the DOM — `index.html` ships unmodified, with no
+extracted modules.
+
+```
+npm ci
+npm test          # single run
+npm run test:watch
+```
+
+## Deployment
+
+Deploys are automated by `.github/workflows/deploy.yml`. On every push to
+`main` (including the daily data-pipeline commits) it runs `npm test`, and
+**only if the tests pass** publishes the static site to GitHub Pages at
+[losaltos.space](https://losaltos.space). A red test run blocks the deploy, so
+the live site never ships on a failing build.
+
 ## Privacy
 
 - Recommenders appear as **first name only** — no phone numbers, emails, or
