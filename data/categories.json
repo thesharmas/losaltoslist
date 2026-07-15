@@ -80,6 +80,14 @@
     "last_activity": "2026-07-11"
   },
   {
+    "slug": "architect",
+    "name": "Architect",
+    "emoji": "📐",
+    "entry_count": 8,
+    "query_count": 5,
+    "last_activity": "2026-07-14"
+  },
+  {
     "slug": "dentist",
     "name": "Dentist",
     "emoji": "🦷",
@@ -118,14 +126,6 @@
     "entry_count": 6,
     "query_count": 7,
     "last_activity": "2026-07-12"
-  },
-  {
-    "slug": "architect",
-    "name": "Architect",
-    "emoji": "📐",
-    "entry_count": 7,
-    "query_count": 4,
-    "last_activity": "2026-07-01"
   },
   {
     "slug": "tree-service",
@@ -664,6 +664,14 @@
     "last_activity": "2026-04-21"
   },
   {
+    "slug": "fabricator",
+    "name": "Fabricator",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-07-14"
+  },
+  {
     "slug": "facial",
     "name": "Facial",
     "emoji": "📌",
@@ -814,6 +822,14 @@
     "entry_count": 0,
     "query_count": 2,
     "last_activity": "2026-06-21"
+  },
+  {
+    "slug": "home-networking",
+    "name": "Home Networking",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-07-14"
   },
   {
     "slug": "marble-quartz-fabricator",
@@ -1030,14 +1046,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-06-02"
-  },
-  {
-    "slug": "fabricator",
-    "name": "Fabricator",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-07-13"
   },
   {
     "slug": "fiber-installer",

@@ -114,6 +114,39 @@
     "mention_count": 1
   },
   {
+    "id": "salar-safaei",
+    "category": "architect",
+    "name": "Salar Safaei",
+    "contact": {
+      "phones": [
+        "(408) 997-9977"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/reel/CyekIeOv5kV/?igsh=NTc4MTIwNjQ2YQ=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "This is our architect: Salar Safaei",
+        "by": "Aman",
+        "date": "2026-02-01",
+        "msg_id": "3A78A7F1E2BF2417C6FD",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Salar Safaei (+1 (408) 997-9977)",
+        "by": "Vinija",
+        "date": "2026-07-14",
+        "msg_id": "3AC0C2A87754A9B2BA48",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-02-01",
+    "last_seen": "2026-07-14",
+    "mention_count": 2
+  },
+  {
     "id": "adu-collective",
     "category": "architect",
     "name": "ADU COLLECTIVE",
@@ -204,32 +237,6 @@
     "mention_count": 1
   },
   {
-    "id": "salar-safaei",
-    "category": "architect",
-    "name": "Salar Safaei",
-    "contact": {
-      "phones": [
-        "(408) 997-9977"
-      ],
-      "emails": [],
-      "websites": [
-        "https://www.instagram.com/reel/CyekIeOv5kV/?igsh=NTc4MTIwNjQ2YQ=="
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "This is our architect: Salar Safaei",
-        "by": "Aman",
-        "date": "2026-02-01",
-        "msg_id": "3A78A7F1E2BF2417C6FD",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-01",
-    "last_seen": "2026-02-01",
-    "mention_count": 1
-  },
-  {
     "id": "unnamed-3146157827",
     "category": "architect",
     "name": null,
@@ -251,6 +258,30 @@
     ],
     "first_seen": "2026-04-06",
     "last_seen": "2026-04-06",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3198687355",
+    "category": "architect",
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/reel/CyekIeOv5kV/?igsh=NTc4MTIwNjQ2YQ=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We love his work",
+        "by": "Vinija",
+        "date": "2026-07-14",
+        "msg_id": "3ADEC1986B8735B5533C",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
     "mention_count": 1
   },
   {
@@ -3696,6 +3727,30 @@
     "mention_count": 1
   },
   {
+    "id": "javier-sf",
+    "category": "fabricator",
+    "name": "Javier SF",
+    "contact": {
+      "phones": [
+        "(415) 748-1175"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Javier SF - 415-748-1175",
+        "by": "Neha",
+        "date": "2026-07-14",
+        "msg_id": "3ABED4DD0A25C3C7424E",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "mention_count": 1
+  },
+  {
     "id": "sakshi",
     "category": "facial",
     "name": "Sakshi",
@@ -4392,6 +4447,34 @@
     "first_seen": "2026-01-28",
     "last_seen": "2026-01-28",
     "mention_count": 2
+  },
+  {
+    "id": "jon",
+    "category": "home networking",
+    "name": "Jon",
+    "contact": {
+      "phones": [
+        "(415) 308-9720"
+      ],
+      "emails": [
+        "jon@techvalet.org"
+      ],
+      "websites": [
+        "techvalet.org"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "He helped us with all of inbuilt wired network for music streaming, WiFi etc",
+        "by": "Neha",
+        "date": "2026-07-14",
+        "msg_id": "3ABE405A0A370E6D0D24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "mention_count": 1
   },
   {
     "id": "bamboo-insurance",
