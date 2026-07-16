@@ -48,13 +48,20 @@ function truncate(s, n) {
   return s.length <= n ? s : s.slice(0, n - 1).trimEnd() + "…";
 }
 
+// all categories an entry belongs to (v1.1 `categories`, primary first)
+function entryCats(e) {
+  return (e.categories && e.categories.length) ? e.categories : [e.category];
+}
+
 function description(e) {
   const count = e.mention_count || (e.mentions ? e.mentions.length : 0);
   const lead = count > 1
     ? `★ Recommended by ${count} neighbors in a Los Altos group.`
     : "Recommended by a neighbor in a Los Altos group.";
+  const extras = entryCats(e).slice(1).map(titleCase);
+  const also = extras.length ? ` Also listed under ${extras.join(", ")}.` : "";
   const first = (e.mentions && e.mentions[0] && e.mentions[0].quote) || "";
-  return truncate(first ? `${lead} “${first}”` : lead, 200);
+  return truncate(first ? `${lead}${also} “${first}”` : lead + also, 200);
 }
 
 export function stubHtml(entry, catName) {

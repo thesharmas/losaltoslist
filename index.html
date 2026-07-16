@@ -311,6 +311,17 @@
   }
   .card-eyebrow .emoji { font-size: 1rem; letter-spacing: 0; }
 
+  /* secondary categories: a provider recommended as both landscaper and
+     contractor shows small clickable "+Contractor" tags after the primary */
+  .cat-tag {
+    display: inline-flex; align-items: center; flex: none;
+    font-size: .62rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--ink-soft); cursor: pointer;
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 5px;
+    padding: 2px 6px; transition: color .12s ease, border-color .12s ease;
+  }
+  .cat-tag:hover { color: var(--moss); border-color: var(--moss); }
+
   .card h3 {
     font-size: 1.42rem; letter-spacing: -.02em; font-weight: 700; margin: -2px 0 0;
     line-height: 1.08; word-break: break-word;
@@ -711,6 +722,12 @@
   function titleCase(s) {
     return String(s).replace(/\w\S*/g, function (t) { return t.charAt(0).toUpperCase() + t.slice(1); });
   }
+  // all categories an entry belongs to (v1.1 `categories`, primary first);
+  // pre-1.1 data only has the single `category` string
+  function entryCats(e) {
+    return (e.categories && e.categories.length) ? e.categories : [e.category];
+  }
+
   // some entries come through without a name — fall back to their site, then their trade
   function displayName(e) {
     if (e.name) return { text: e.name, unnamed: false };
@@ -907,10 +924,11 @@
   function currentList() {
     var q = state.query.toLowerCase();
     var list = state.entries.filter(function (e) {
-      if (state.activeCat && slugify(e.category) !== state.activeCat) return false;
+      // a multi-category provider shows up under every category it belongs to
+      if (state.activeCat && entryCats(e).map(slugify).indexOf(state.activeCat) === -1) return false;
       if (!q) return true;
       if ((e.name || "").toLowerCase().indexOf(q) > -1) return true;
-      if (String(e.category || "").toLowerCase().indexOf(q) > -1) return true;
+      if (entryCats(e).some(function (c) { return String(c || "").toLowerCase().indexOf(q) > -1; })) return true;
       return (e.mentions || []).some(function (m) {
         return (m.quote && m.quote.toLowerCase().indexOf(q) > -1) ||
                (m.by && m.by.toLowerCase().indexOf(q) > -1);
@@ -1024,9 +1042,17 @@
         '<div class="extra-wrap" hidden>' + rest + "</div>";
     }
 
+    var tags = entryCats(e).slice(1).map(function (c) {
+      var slug = slugify(c);
+      var cm = state.catBySlug[slug];
+      var label = cm ? cm.name : titleCase(String(c || ""));
+      return '<button class="cat-tag" type="button" data-slug="' + esc(slug) +
+        '" title="Also recommended as ' + esc(label) + '">+' + esc(label) + "</button>";
+    }).join("");
+
     var title = displayName(e);
     div.innerHTML =
-      '<span class="card-eyebrow"><span class="emoji">' + esc(meta.emoji) + "</span>" + esc(meta.name) + "</span>" +
+      '<span class="card-eyebrow"><span class="emoji">' + esc(meta.emoji) + '</span><span class="cat-primary">' + esc(meta.name) + "</span>" + tags + "</span>" +
       '<h3' + (title.unnamed ? ' class="h3-unnamed"' : "") + ">" + esc(title.text) + "</h3>" +
       recs +
       (mentions.length ? mentionBlock(mentions[0]) : '<p class="no-contact">Listed by the group.</p>') +
@@ -1139,10 +1165,11 @@
     var c = node && node.closest ? node.closest(".card") : null;
     if (!c) return {};
     var h3 = c.querySelector("h3");
+    var prim = c.querySelector(".cat-primary");
     var eyebrow = c.querySelector(".card-eyebrow");
     return {
       business: h3 ? h3.textContent : null,
-      category: eyebrow ? eyebrow.textContent.trim() : null,
+      category: prim ? prim.textContent.trim() : (eyebrow ? eyebrow.textContent.trim() : null),
     };
   }
 
@@ -1161,6 +1188,14 @@
       // only send the URL for websites; keep phone/email values out of analytics
       url: method === "website" ? href : null,
     });
+  });
+
+  // secondary-category tag → jump to that category's view
+  el.grid.addEventListener("click", function (ev) {
+    var tag = ev.target.closest ? ev.target.closest(".cat-tag") : null;
+    if (!tag) return;
+    var slug = tag.getAttribute("data-slug");
+    if (slug && state.catBySlug[slug]) setCategory(slug);
   });
 
   // share a single card: native share sheet on mobile, copy-link elsewhere.
