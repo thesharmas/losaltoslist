@@ -923,20 +923,102 @@
     return SHARE_BASE + "/e/" + encodeURIComponent(id) + ".html";
   }
 
+  // ---- typo-tolerant matching ----
+  // Bounded edit distance (optimal string alignment: insert / delete /
+  // substitute plus adjacent transposition). Returns a value > max as soon as
+  // the distance provably exceeds max, so callers can bail early.
+  function editDistance(a, b, max) {
+    var al = a.length, bl = b.length, i, j;
+    if (Math.abs(al - bl) > max) return max + 1;
+    var prev2 = null, prev = [], cur;
+    for (j = 0; j <= bl; j++) prev[j] = j;
+    for (i = 1; i <= al; i++) {
+      cur = [i];
+      var rowMin = i;
+      for (j = 1; j <= bl; j++) {
+        var cost = a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1;
+        var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost);
+        if (prev2 && i > 1 && j > 1 &&
+            a.charAt(i - 1) === b.charAt(j - 2) && a.charAt(i - 2) === b.charAt(j - 1)) {
+          v = Math.min(v, prev2[j - 2] + 1);
+        }
+        cur[j] = v;
+        if (v < rowMin) rowMin = v;
+      }
+      if (rowMin > max) return max + 1; // every path already over budget
+      prev2 = prev; prev = cur;
+    }
+    return prev[bl];
+  }
+
+  // Typo budget per query token: short tokens must match exactly, otherwise
+  // 2-3 letter queries would fuzzy-match half the board.
+  function typoBudget(len) { return len < 4 ? 0 : len < 7 ? 1 : 2; }
+
+  // One query token vs one candidate word: check the whole word and its
+  // q-length prefix (people type incrementally), within the typo budget.
+  function fuzzyWord(q, w) {
+    if (w.indexOf(q) > -1) return true;
+    var max = typoBudget(q.length);
+    if (!max) return false;
+    if (editDistance(q, w, max) <= max) return true;
+    return w.length > q.length && editDistance(q, w.slice(0, q.length), max) <= max;
+  }
+
+  function words(s) {
+    return String(s || "").toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+  }
+
+  // Fields eligible for typo rescue: entry name + its category names (display
+  // names when known). Mention quotes are long free text — fuzzy-matching
+  // them produces noise, so quotes stay exact-only.
+  function fuzzyEntryWords(e) {
+    var out = words(e.name);
+    entryCats(e).forEach(function (c) {
+      var m = state.catBySlug[slugify(c)];
+      out = out.concat(words(m ? m.name : c));
+    });
+    return out;
+  }
+
+  // Every query token must fuzzy-match some word of the entry.
+  function fuzzyMatch(e, qTokens) {
+    var ws = fuzzyEntryWords(e);
+    return qTokens.every(function (qt) {
+      return ws.some(function (w) { return fuzzyWord(qt, w); });
+    });
+  }
+
   // ---- filtering + sorting ----
+  // True when the current results came from the fuzzy fallback (zero exact
+  // hits, close matches shown instead). Read by renderCount + trackSearch.
+  var fuzzyActive = false;
+
+  function exactMatch(e, q) {
+    if ((e.name || "").toLowerCase().indexOf(q) > -1) return true;
+    if (entryCats(e).some(function (c) { return String(c || "").toLowerCase().indexOf(q) > -1; })) return true;
+    return (e.mentions || []).some(function (m) {
+      return (m.quote && m.quote.toLowerCase().indexOf(q) > -1) ||
+             (m.by && m.by.toLowerCase().indexOf(q) > -1);
+    });
+  }
+
   function currentList() {
     var q = state.query.toLowerCase();
-    var list = state.entries.filter(function (e) {
-      // a multi-category provider shows up under every category it belongs to
-      if (state.activeCat && entryCats(e).map(slugify).indexOf(state.activeCat) === -1) return false;
-      if (!q) return true;
-      if ((e.name || "").toLowerCase().indexOf(q) > -1) return true;
-      if (entryCats(e).some(function (c) { return String(c || "").toLowerCase().indexOf(q) > -1; })) return true;
-      return (e.mentions || []).some(function (m) {
-        return (m.quote && m.quote.toLowerCase().indexOf(q) > -1) ||
-               (m.by && m.by.toLowerCase().indexOf(q) > -1);
-      });
+    // a multi-category provider shows up under every category it belongs to
+    var pool = state.entries.filter(function (e) {
+      return !state.activeCat || entryCats(e).map(slugify).indexOf(state.activeCat) > -1;
     });
+    fuzzyActive = false;
+    var list = q ? pool.filter(function (e) { return exactMatch(e, q); }) : pool;
+    if (q && !list.length) {
+      // typo rescue: no exact hits — retry with per-word edit-distance matching
+      var qTokens = words(q);
+      if (qTokens.length) {
+        list = pool.filter(function (e) { return fuzzyMatch(e, qTokens); });
+        fuzzyActive = list.length > 0;
+      }
+    }
     var sorters = {
       loved: function (a, b) {
         return (b.mention_count || 0) - (a.mention_count || 0) ||
@@ -966,7 +1048,9 @@
     var catLabel = state.activeCat && state.catBySlug[state.activeCat]
       ? '<span class="active-cat">' + esc(state.catBySlug[state.activeCat].name) + "</span>"
       : "the block";
-    var qLabel = state.query ? ' matching “' + esc(state.query) + "”" : "";
+    var qLabel = state.query
+      ? (fuzzyActive ? " closely" : "") + ' matching “' + esc(state.query) + "”"
+      : "";
     el.count.innerHTML = "<b>" + n + "</b> " + (n === 1 ? "name" : "names") +
       " from " + catLabel + qLabel;
   }
@@ -1134,7 +1218,7 @@
     if (!q || q.length < 2 || q === lastTrackedQuery) return;
     lastTrackedQuery = q;
     var n = currentList().length;
-    track("search", { query: q, results_count: n });
+    track("search", { query: q, results_count: n, fuzzy: fuzzyActive });
     if (n === 0) track("search_no_results", { query: q });
   }
 
