@@ -112,6 +112,7 @@ function pickFile(url, files) {
  *   hash                     - initial location hash, e.g. "#c=plumbing"
  *   fetchImpl                - fully custom fetch (for error-path tests)
  *   clipboard                - array to collect clipboard.writeText values
+ *   posthog                  - array to collect {name, props} capture calls
  * Resolves once the grid has rendered (cards, notice, or error).
  */
 export async function boot(options = {}) {
@@ -136,6 +137,16 @@ export async function boot(options = {}) {
     pretendToBeVisual: true,
     beforeParse(window) {
       window.fetch = fetchImpl;
+      if (options.posthog) {
+        // __SV: 1 makes the page's PostHog snippet treat this stub as the
+        // already-initialised SDK, so capture() calls land here untouched.
+        const captures = options.posthog;
+        window.posthog = {
+          __SV: 1,
+          init() {}, register() {},
+          capture: (name, props) => { captures.push({ name, props: props || {} }); },
+        };
+      }
       // jsdom implements neither of these; the page calls both.
       window.Element.prototype.scrollIntoView = function () {};
       Object.defineProperty(window.navigator, "clipboard", {
