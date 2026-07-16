@@ -743,11 +743,13 @@
       fetch(DATA + "entries.json").then(okJson),
       fetch(DATA + "categories.json").then(okJson),
       fetch(DATA + "meta.json").then(okJson).catch(function () { return null; }),
+      fetch(DATA + "synonyms.json").then(okJson).catch(function () { return null; }),
     ]).then(function (res) {
       state.entries = res[0] || [];
       (res[1] || []).forEach(function (c) { state.catBySlug[c.slug] = c; });
       buildChips(res[1] || []);
       renderMeta(res[2]);
+      buildSynonyms(res[3]);
       applyState(readHash(), false);
     }).catch(showError);
   }
@@ -923,6 +925,30 @@
     return SHARE_BASE + "/e/" + encodeURIComponent(id) + ".html";
   }
 
+  // ---- search synonyms (data/synonyms.json, optional) ----
+  // Curated map of category slug -> extra lowercase phrases the search should
+  // treat as that category's vocabulary ("irrigation" -> landscaper). The file
+  // is optional: a 404 leaves search behavior unchanged. Keys starting with
+  // "_" are comments/meta and ignored.
+  var synBySlug = {};
+  function buildSynonyms(raw) {
+    synBySlug = {};
+    if (!raw || typeof raw !== "object") return;
+    Object.keys(raw).forEach(function (k) {
+      if (k.charAt(0) === "_" || !Array.isArray(raw[k])) return;
+      var list = raw[k].map(function (s) { return String(s).toLowerCase().trim(); }).filter(Boolean);
+      if (list.length) synBySlug[k] = list;
+    });
+  }
+  function entrySynonyms(e) {
+    var out = [];
+    entryCats(e).forEach(function (c) {
+      var s = synBySlug[slugify(c)];
+      if (s) out = out.concat(s);
+    });
+    return out;
+  }
+
   // ---- typo-tolerant matching ----
   // Bounded edit distance (optimal string alignment: insert / delete /
   // substitute plus adjacent transposition). Returns a value > max as soon as
@@ -978,6 +1004,7 @@
       var m = state.catBySlug[slugify(c)];
       out = out.concat(words(m ? m.name : c));
     });
+    entrySynonyms(e).forEach(function (s) { out = out.concat(words(s)); });
     return out;
   }
 
@@ -997,6 +1024,7 @@
   function exactMatch(e, q) {
     if ((e.name || "").toLowerCase().indexOf(q) > -1) return true;
     if (entryCats(e).some(function (c) { return String(c || "").toLowerCase().indexOf(q) > -1; })) return true;
+    if (entrySynonyms(e).some(function (s) { return s.indexOf(q) > -1; })) return true;
     return (e.mentions || []).some(function (m) {
       return (m.quote && m.quote.toLowerCase().indexOf(q) > -1) ||
              (m.by && m.by.toLowerCase().indexOf(q) > -1);
@@ -1218,7 +1246,18 @@
     if (!q || q.length < 2 || q === lastTrackedQuery) return;
     lastTrackedQuery = q;
     var n = currentList().length;
-    track("search", { query: q, results_count: n, fuzzy: fuzzyActive });
+    var fz = fuzzyActive;
+    // Did the synonym map make the difference? Re-check without it. Cheap at
+    // this scale, and it only runs after the typing pause, never per keystroke.
+    var syn = false;
+    if (n > 0) {
+      var saved = synBySlug;
+      synBySlug = {};
+      syn = currentList().length === 0;
+      synBySlug = saved;
+      fuzzyActive = fz;
+    }
+    track("search", { query: q, results_count: n, fuzzy: fz, synonyms: syn });
     if (n === 0) track("search_no_results", { query: q });
   }
 

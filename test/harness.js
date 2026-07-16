@@ -102,6 +102,7 @@ function pickFile(url, files) {
   if (url.endsWith("entries.json")) return files.entries;
   if (url.endsWith("categories.json")) return files.categories;
   if (url.endsWith("meta.json")) return files.meta;
+  if (url.endsWith("synonyms.json")) return files.synonyms;
   return undefined;
 }
 
@@ -109,6 +110,7 @@ function pickFile(url, files) {
  * Boot the page.
  * options:
  *   entries/categories/meta  - override fixtures (null => that file 404s)
+ *   synonyms                 - synonyms.json payload (default: 404s, like prod without the file)
  *   hash                     - initial location hash, e.g. "#c=plumbing"
  *   fetchImpl                - fully custom fetch (for error-path tests)
  *   clipboard                - array to collect clipboard.writeText values
@@ -120,6 +122,7 @@ export async function boot(options = {}) {
     entries: options.entries === undefined ? ENTRIES : options.entries,
     categories: options.categories === undefined ? CATEGORIES : options.categories,
     meta: options.meta === undefined ? META : options.meta,
+    synonyms: options.synonyms === undefined ? null : options.synonyms,
   };
   const clipboardCalls = options.clipboard || [];
 
