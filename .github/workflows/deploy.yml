@@ -47,11 +47,16 @@ jobs:
             --exclude='.github' \
             --exclude='node_modules' \
             --exclude='test' \
+            --exclude='scripts' \
             --exclude='package.json' \
             --exclude='package-lock.json' \
             --exclude='.gitignore' \
             --exclude='_site' \
             ./ _site/
+      - name: Build per-entry share stub pages
+        # Emits _site/e/<id>.html with per-entry OpenGraph tags so shared card
+        # links preview with the provider's name in WhatsApp/iMessage/Slack.
+        run: node scripts/build-stubs.mjs _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
