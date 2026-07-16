@@ -2,6 +2,9 @@
   {
     "id": "annette",
     "category": "accountant",
+    "categories": [
+      "accountant"
+    ],
     "name": "Annette",
     "contact": {
       "phones": [],
@@ -26,6 +29,9 @@
   {
     "id": "city-master",
     "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
     "name": "City Master",
     "contact": {
       "phones": [
@@ -50,6 +56,9 @@
   {
     "id": "eric",
     "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
     "name": "Eric",
     "contact": {
       "phones": [],
@@ -72,6 +81,9 @@
   {
     "id": "irbis-or-fuse",
     "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
     "name": "IRBIS or FUSE",
     "contact": {
       "phones": [],
@@ -94,6 +106,9 @@
   {
     "id": "thermador",
     "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
     "name": "Thermador",
     "contact": {
       "phones": [],
@@ -114,8 +129,44 @@
     "mention_count": 1
   },
   {
+    "id": "simon",
+    "category": "arborist",
+    "categories": [
+      "arborist",
+      "tutoring"
+    ],
+    "name": "Simon",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We used Simon for both our kids & were very happy with him",
+        "by": "Namrata",
+        "date": "2026-02-14",
+        "msg_id": "3A0199828872AB268A76",
+        "type": "review"
+      },
+      {
+        "quote": "Highly recommend Simon and his team. They have done a great job with our oak trees over the years",
+        "by": "Shivanjali",
+        "date": "2026-06-25",
+        "msg_id": "3ABD92E413BF4943A1CF",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-02-14",
+    "last_seen": "2026-06-25",
+    "mention_count": 2
+  },
+  {
     "id": "salar-safaei",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": "Salar Safaei",
     "contact": {
       "phones": [
@@ -149,6 +200,9 @@
   {
     "id": "adu-collective",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": "ADU COLLECTIVE",
     "contact": {
       "phones": [],
@@ -171,6 +225,9 @@
   {
     "id": "decor-builders",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": "Decor builders",
     "contact": {
       "phones": [],
@@ -193,6 +250,9 @@
   {
     "id": "jessica-from-aduc",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": "Jessica from ADUC",
     "contact": {
       "phones": [],
@@ -215,6 +275,9 @@
   {
     "id": "salar",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": "Salar",
     "contact": {
       "phones": [],
@@ -239,6 +302,9 @@
   {
     "id": "unnamed-3146157827",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -263,6 +329,9 @@
   {
     "id": "unnamed-3198687355",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -287,6 +356,9 @@
   {
     "id": "unnamed-3532704946",
     "category": "architect",
+    "categories": [
+      "architect"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -311,6 +383,9 @@
   {
     "id": "stanford-health-pamf",
     "category": "audiologist",
+    "categories": [
+      "audiologist"
+    ],
     "name": "Stanford Health, PAMF",
     "contact": {
       "phones": [],
@@ -333,6 +408,9 @@
   {
     "id": "hello-bliss",
     "category": "bakery",
+    "categories": [
+      "bakery"
+    ],
     "name": "Hello Bliss",
     "contact": {
       "phones": [],
@@ -357,6 +435,9 @@
   {
     "id": "brainvyne",
     "category": "camp",
+    "categories": [
+      "camp"
+    ],
     "name": "brainvyne",
     "contact": {
       "phones": [],
@@ -381,6 +462,9 @@
   {
     "id": "rodolfo",
     "category": "car detailing",
+    "categories": [
+      "car detailing"
+    ],
     "name": "Rodolfo",
     "contact": {
       "phones": [
@@ -405,6 +489,9 @@
   {
     "id": "a1-foreign-auto",
     "category": "car mechanic",
+    "categories": [
+      "car mechanic"
+    ],
     "name": "A1 Foreign Auto",
     "contact": {
       "phones": [],
@@ -429,6 +516,9 @@
   {
     "id": "german-motors",
     "category": "car mechanic",
+    "categories": [
+      "car mechanic"
+    ],
     "name": "German Motors",
     "contact": {
       "phones": [],
@@ -451,6 +541,9 @@
   {
     "id": "le-s-auto-daniel-s-b-m",
     "category": "car mechanic",
+    "categories": [
+      "car mechanic"
+    ],
     "name": "Le's Auto / Daniel's B&M",
     "contact": {
       "phones": [],
@@ -473,6 +566,9 @@
   {
     "id": "uber",
     "category": "car service",
+    "categories": [
+      "car service"
+    ],
     "name": "Uber",
     "contact": {
       "phones": [],
@@ -502,6 +598,9 @@
   {
     "id": "shofr",
     "category": "car service",
+    "categories": [
+      "car service"
+    ],
     "name": "Shofr",
     "contact": {
       "phones": [],
@@ -524,6 +623,10 @@
   {
     "id": "zoltan",
     "category": "car shipping",
+    "categories": [
+      "car shipping",
+      "mover"
+    ],
     "name": "Zoltan",
     "contact": {
       "phones": [],
@@ -553,6 +656,9 @@
   {
     "id": "samarth",
     "category": "care services",
+    "categories": [
+      "care services"
+    ],
     "name": "Samarth",
     "contact": {
       "phones": [],
@@ -577,6 +683,9 @@
   {
     "id": "sakshi-bataju",
     "category": "caregiver",
+    "categories": [
+      "caregiver"
+    ],
     "name": "Sakshi Bataju",
     "contact": {
       "phones": [],
@@ -610,6 +719,9 @@
   {
     "id": "john-moala",
     "category": "caregiver",
+    "categories": [
+      "caregiver"
+    ],
     "name": "John Moala",
     "contact": {
       "phones": [
@@ -634,6 +746,9 @@
   {
     "id": "right-at-home",
     "category": "caregiver",
+    "categories": [
+      "caregiver"
+    ],
     "name": "Right at Home",
     "contact": {
       "phones": [],
@@ -656,6 +771,9 @@
   {
     "id": "magic-carpet-cleaning",
     "category": "carpet cleaning",
+    "categories": [
+      "carpet cleaning"
+    ],
     "name": "Magic Carpet Cleaning",
     "contact": {
       "phones": [
@@ -680,6 +798,9 @@
   {
     "id": "sal",
     "category": "carpet cleaning",
+    "categories": [
+      "carpet cleaning"
+    ],
     "name": "Sal",
     "contact": {
       "phones": [],
@@ -702,6 +823,9 @@
   {
     "id": "beetroot-catering-co",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Beetroot Catering Co",
     "contact": {
       "phones": [],
@@ -755,6 +879,9 @@
   {
     "id": "gochaatz",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "GoChaatz",
     "contact": {
       "phones": [],
@@ -791,6 +918,9 @@
   {
     "id": "komalsgourmetkitchen-com",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Komalsgourmetkitchen.com",
     "contact": {
       "phones": [],
@@ -829,6 +959,9 @@
   {
     "id": "weave-whisk",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Weave & Whisk",
     "contact": {
       "phones": [],
@@ -867,6 +1000,9 @@
   {
     "id": "chaat-bhavan",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Chaat bhavan",
     "contact": {
       "phones": [],
@@ -896,6 +1032,9 @@
   {
     "id": "idk-eatz",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "IDK Eatz",
     "contact": {
       "phones": [],
@@ -927,6 +1066,9 @@
   {
     "id": "kuldeep-kaur",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Kuldeep Kaur",
     "contact": {
       "phones": [
@@ -958,6 +1100,9 @@
   {
     "id": "annapurna",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Annapurna",
     "contact": {
       "phones": [],
@@ -980,6 +1125,9 @@
   {
     "id": "arun",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Arun",
     "contact": {
       "phones": [],
@@ -1002,6 +1150,9 @@
   {
     "id": "bundoo-khan",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Bundoo Khan",
     "contact": {
       "phones": [],
@@ -1024,6 +1175,9 @@
   {
     "id": "komal-s-gourmet-kitchen",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Komal's Gourmet Kitchen",
     "contact": {
       "phones": [],
@@ -1046,6 +1200,9 @@
   {
     "id": "kovai-cafe",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Kovai Cafe",
     "contact": {
       "phones": [],
@@ -1068,6 +1225,9 @@
   {
     "id": "manjeet",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Manjeet",
     "contact": {
       "phones": [
@@ -1092,6 +1252,9 @@
   {
     "id": "manoj",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Manoj",
     "contact": {
       "phones": [],
@@ -1114,6 +1277,9 @@
   {
     "id": "mexsal-taco-catering",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Mexsal taco catering",
     "contact": {
       "phones": [],
@@ -1136,6 +1302,9 @@
   {
     "id": "poonam",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Poonam",
     "contact": {
       "phones": [
@@ -1160,6 +1329,9 @@
   {
     "id": "puranpoli",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Puranpoli",
     "contact": {
       "phones": [],
@@ -1182,6 +1354,9 @@
   {
     "id": "reshu-goyal",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Reshu Goyal",
     "contact": {
       "phones": [
@@ -1210,6 +1385,9 @@
   {
     "id": "rivaaz-hospitality",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Rivaaz Hospitality",
     "contact": {
       "phones": [],
@@ -1234,6 +1412,9 @@
   {
     "id": "yoshi",
     "category": "catering",
+    "categories": [
+      "catering"
+    ],
     "name": "Yoshi",
     "contact": {
       "phones": [],
@@ -1256,6 +1437,9 @@
   {
     "id": "chefkart",
     "category": "chef",
+    "categories": [
+      "chef"
+    ],
     "name": "Chefkart",
     "contact": {
       "phones": [],
@@ -1278,6 +1462,9 @@
   {
     "id": "dr-dabb",
     "category": "chiropractor",
+    "categories": [
+      "chiropractor"
+    ],
     "name": "Dr.Dabb",
     "contact": {
       "phones": [],
@@ -1300,6 +1487,9 @@
   {
     "id": "dr-tom-mosca",
     "category": "chiropractor",
+    "categories": [
+      "chiropractor"
+    ],
     "name": "Dr Tom Mosca",
     "contact": {
       "phones": [],
@@ -1322,6 +1512,10 @@
   {
     "id": "sequoia-cleaning-inc",
     "category": "cleaner",
+    "categories": [
+      "cleaner",
+      "upholstery cleaning"
+    ],
     "name": "Sequoia Cleaning Inc.",
     "contact": {
       "phones": [],
@@ -1358,6 +1552,9 @@
   {
     "id": "lucy",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Lucy",
     "contact": {
       "phones": [],
@@ -1385,8 +1582,44 @@
     "mention_count": 2
   },
   {
+    "id": "washmix",
+    "category": "cleaner",
+    "categories": [
+      "cleaner",
+      "dry cleaning"
+    ],
+    "name": "Washmix",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Washmix in Mountain View is excellent. They do home pickups and drop offs.",
+        "by": null,
+        "date": "2026-02-18",
+        "msg_id": "AC45FEFF17715BE6948E3331701E2B40",
+        "type": "contact"
+      },
+      {
+        "quote": "Thank you! Just tried them and they were great.",
+        "by": "Mansi",
+        "date": "2026-02-23",
+        "msg_id": "3A2406A1EE60523C4BFE",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-02-18",
+    "last_seen": "2026-02-23",
+    "mention_count": 2
+  },
+  {
     "id": "brenda",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Brenda",
     "contact": {
       "phones": [
@@ -1411,6 +1644,9 @@
   {
     "id": "calvey",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Calvey",
     "contact": {
       "phones": [],
@@ -1433,6 +1669,9 @@
   {
     "id": "lucila-hernandez",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Lucila Hernandez",
     "contact": {
       "phones": [
@@ -1459,6 +1698,9 @@
   {
     "id": "lucy-s-pro-cleaning-services",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Lucy's Pro Cleaning Services",
     "contact": {
       "phones": [],
@@ -1483,6 +1725,9 @@
   {
     "id": "priscilla",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Priscilla",
     "contact": {
       "phones": [
@@ -1507,6 +1752,9 @@
   {
     "id": "rosario",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Rosario",
     "contact": {
       "phones": [
@@ -1531,6 +1779,9 @@
   {
     "id": "steam-pro-cleaners",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": "Steam Pro cleaners",
     "contact": {
       "phones": [],
@@ -1553,6 +1804,9 @@
   {
     "id": "unnamed-6507711096",
     "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
     "name": null,
     "contact": {
       "phones": [
@@ -1577,6 +1831,9 @@
   {
     "id": "my-college-counseling",
     "category": "college counseling",
+    "categories": [
+      "college counseling"
+    ],
     "name": "My College Counseling",
     "contact": {
       "phones": [
@@ -1603,6 +1860,11 @@
   {
     "id": "miguel",
     "category": "contractor",
+    "categories": [
+      "contractor",
+      "landscaper",
+      "pest control"
+    ],
     "name": "Miguel",
     "contact": {
       "phones": [
@@ -1641,6 +1903,9 @@
   {
     "id": "ashkan",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Ashkan",
     "contact": {
       "phones": [
@@ -1672,6 +1937,9 @@
   {
     "id": "brustor",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Brustor",
     "contact": {
       "phones": [],
@@ -1703,6 +1971,10 @@
   {
     "id": "garage-door-guys",
     "category": "contractor",
+    "categories": [
+      "contractor",
+      "garage door repair"
+    ],
     "name": "Garage door guys",
     "contact": {
       "phones": [],
@@ -1732,6 +2004,9 @@
   {
     "id": "george-ramos",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "George Ramos",
     "contact": {
       "phones": [],
@@ -1761,8 +2036,46 @@
     "mention_count": 2
   },
   {
+    "id": "richard-asphalt-paving",
+    "category": "contractor",
+    "categories": [
+      "contractor",
+      "paving"
+    ],
+    "name": "Richard Asphalt Paving",
+    "contact": {
+      "phones": [
+        "(408) 849-7616"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Richard Asphalt Paving - +1 (408) 849-7616",
+        "by": "Indu",
+        "date": "2026-01-07",
+        "msg_id": "3A92545A7B4D0D7F02C2",
+        "type": "contact"
+      },
+      {
+        "quote": "Richard Asphalt Paving - +1 (408) 849-7616",
+        "by": "Indu",
+        "date": "2026-05-17",
+        "msg_id": "3AFE6DF9AA0EE213ACD5",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-01-07",
+    "last_seen": "2026-05-17",
+    "mention_count": 2
+  },
+  {
     "id": "sunnyvale-fence-and-deck",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Sunnyvale Fence and Deck",
     "contact": {
       "phones": [],
@@ -1792,6 +2105,9 @@
   {
     "id": "atoz-quality-construction",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "AtoZ Quality Construction",
     "contact": {
       "phones": [],
@@ -1814,6 +2130,9 @@
   {
     "id": "baron",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Baron",
     "contact": {
       "phones": [],
@@ -1839,6 +2158,9 @@
   {
     "id": "dan",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Dan",
     "contact": {
       "phones": [
@@ -1863,6 +2185,9 @@
   {
     "id": "gk-builders-tobin-dougherty",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "GK Builders / Tobin Dougherty",
     "contact": {
       "phones": [],
@@ -1885,8 +2210,38 @@
     "mention_count": 1
   },
   {
+    "id": "j-perretti-decks",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "J Perretti Decks",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://jperrettidecks.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We used these folks ( over a decade ago now) - happy with the work.",
+        "by": "Chetna",
+        "date": "2026-07-16",
+        "msg_id": "3EB07B122CE1A489792407",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1
+  },
+  {
     "id": "joe-bettencourt",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Joe Bettencourt",
     "contact": {
       "phones": [
@@ -1911,6 +2266,9 @@
   {
     "id": "kevin-jones",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Kevin Jones",
     "contact": {
       "phones": [
@@ -1939,6 +2297,9 @@
   {
     "id": "kgc-remodeling",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "KGC Remodeling",
     "contact": {
       "phones": [],
@@ -1963,6 +2324,9 @@
   {
     "id": "northcurrent-builders",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Northcurrent Builders",
     "contact": {
       "phones": [],
@@ -1989,6 +2353,9 @@
   {
     "id": "premier-garage",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Premier Garage",
     "contact": {
       "phones": [],
@@ -2013,6 +2380,9 @@
   {
     "id": "proscaping-inc",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Proscaping Inc",
     "contact": {
       "phones": [
@@ -2042,6 +2412,9 @@
   {
     "id": "rano-perrizo-from-northcurrent-builders",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Rano Perrizo from Northcurrent Builders",
     "contact": {
       "phones": [],
@@ -2068,6 +2441,9 @@
   {
     "id": "right-way-garage-doors",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "right way garage doors",
     "contact": {
       "phones": [],
@@ -2090,6 +2466,9 @@
   {
     "id": "rightway-garage",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "rightway garage",
     "contact": {
       "phones": [],
@@ -2112,6 +2491,9 @@
   {
     "id": "unique-pavers",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": "Unique Pavers",
     "contact": {
       "phones": [
@@ -2136,6 +2518,9 @@
   {
     "id": "unnamed-3510154280",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -2160,6 +2545,9 @@
   {
     "id": "unnamed-3706624391",
     "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -2184,6 +2572,10 @@
   {
     "id": "jasveer-aunty",
     "category": "cook",
+    "categories": [
+      "cook",
+      "catering"
+    ],
     "name": "Jasveer aunty",
     "contact": {
       "phones": [
@@ -2222,6 +2614,9 @@
   {
     "id": "virupal-and-kamaljeet",
     "category": "cook",
+    "categories": [
+      "cook"
+    ],
     "name": "Virupal and Kamaljeet",
     "contact": {
       "phones": [],
@@ -2244,6 +2639,9 @@
   {
     "id": "stepping-stones",
     "category": "daycare",
+    "categories": [
+      "daycare"
+    ],
     "name": "Stepping stones",
     "contact": {
       "phones": [],
@@ -2266,6 +2664,9 @@
   {
     "id": "a-e-dental",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "A-E Dental",
     "contact": {
       "phones": [],
@@ -2290,6 +2691,9 @@
   {
     "id": "alan-lu",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Alan Lu",
     "contact": {
       "phones": [],
@@ -2312,6 +2716,9 @@
   {
     "id": "dr-saumya-ram",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Dr. Saumya Ram",
     "contact": {
       "phones": [],
@@ -2334,6 +2741,9 @@
   {
     "id": "dr-steven-lin",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Dr. Steven Lin",
     "contact": {
       "phones": [],
@@ -2356,6 +2766,9 @@
   {
     "id": "dr-tan",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Dr. Tan",
     "contact": {
       "phones": [],
@@ -2378,6 +2791,9 @@
   {
     "id": "el-camino-dental",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "El Camino Dental",
     "contact": {
       "phones": [],
@@ -2402,6 +2818,9 @@
   {
     "id": "los-altos-smiles",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Los Altos Smiles",
     "contact": {
       "phones": [],
@@ -2424,6 +2843,9 @@
   {
     "id": "miramonte-dental-dr-chandra",
     "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
     "name": "Miramonte Dental - Dr Chandra",
     "contact": {
       "phones": [],
@@ -2448,6 +2870,9 @@
   {
     "id": "dj-sunny-sfo",
     "category": "dj",
+    "categories": [
+      "dj"
+    ],
     "name": "DJ Sunny Sfo",
     "contact": {
       "phones": [
@@ -2486,6 +2911,9 @@
   {
     "id": "dj-rohan",
     "category": "dj",
+    "categories": [
+      "dj"
+    ],
     "name": "DJ Rohan",
     "contact": {
       "phones": [
@@ -2510,6 +2938,9 @@
   {
     "id": "happy-from-wicked",
     "category": "dj",
+    "categories": [
+      "dj"
+    ],
     "name": "Happy from Wicked",
     "contact": {
       "phones": [],
@@ -2532,6 +2963,9 @@
   {
     "id": "unnamed-6508926000",
     "category": "dj",
+    "categories": [
+      "dj"
+    ],
     "name": null,
     "contact": {
       "phones": [
@@ -2568,6 +3002,10 @@
   {
     "id": "dr-sane",
     "category": "doctor",
+    "categories": [
+      "doctor",
+      "eye doctor"
+    ],
     "name": "Dr. Sane",
     "contact": {
       "phones": [],
@@ -2604,6 +3042,9 @@
   {
     "id": "dr-ken-goransen",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Ken Goransen",
     "contact": {
       "phones": [],
@@ -2633,6 +3074,9 @@
   {
     "id": "dr-yu",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Yu",
     "contact": {
       "phones": [],
@@ -2662,6 +3106,9 @@
   {
     "id": "sameen-zaidi",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Sameen Zaidi",
     "contact": {
       "phones": [
@@ -2693,6 +3140,9 @@
   {
     "id": "byers-eye-institute",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Byers eye institute",
     "contact": {
       "phones": [],
@@ -2715,6 +3165,9 @@
   {
     "id": "christie-coleman-at-pamf-palo-alto",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Christie Coleman at PAMF Palo Alto",
     "contact": {
       "phones": [],
@@ -2737,6 +3190,9 @@
   {
     "id": "dr-frank-fazzolari",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr Frank Fazzolari",
     "contact": {
       "phones": [],
@@ -2761,6 +3217,9 @@
   {
     "id": "dr-jacqueline-denkabe",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Jacqueline Denkabe",
     "contact": {
       "phones": [],
@@ -2783,6 +3242,9 @@
   {
     "id": "dr-namineni",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Namineni",
     "contact": {
       "phones": [],
@@ -2805,6 +3267,9 @@
   {
     "id": "dr-nilufer-vesuna",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Nilufer Vesuna",
     "contact": {
       "phones": [],
@@ -2827,6 +3292,9 @@
   {
     "id": "dr-shoba-tandon",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr. Shoba Tandon",
     "contact": {
       "phones": [],
@@ -2849,6 +3317,9 @@
   {
     "id": "dr-zatarain",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Dr Zatarain",
     "contact": {
       "phones": [],
@@ -2871,6 +3342,9 @@
   {
     "id": "el-camino-womens-medical-group",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "El Camino women’s medical group",
     "contact": {
       "phones": [],
@@ -2893,6 +3367,9 @@
   {
     "id": "india-community-center",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "India Community Center",
     "contact": {
       "phones": [],
@@ -2917,6 +3394,9 @@
   {
     "id": "kristine-miller",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Kristine Miller",
     "contact": {
       "phones": [],
@@ -2941,6 +3421,9 @@
   {
     "id": "neesheet-parikh",
     "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
     "name": "Neesheet Parikh",
     "contact": {
       "phones": [],
@@ -2963,6 +3446,9 @@
   {
     "id": "paw-walkers",
     "category": "dog walking",
+    "categories": [
+      "dog walking"
+    ],
     "name": "Paw Walkers",
     "contact": {
       "phones": [],
@@ -2985,6 +3471,9 @@
   {
     "id": "salvation-army",
     "category": "donation",
+    "categories": [
+      "donation"
+    ],
     "name": "Salvation Army",
     "contact": {
       "phones": [],
@@ -3007,6 +3496,10 @@
   {
     "id": "discovery-shop",
     "category": "donation center",
+    "categories": [
+      "donation center",
+      "charity"
+    ],
     "name": "Discovery Shop",
     "contact": {
       "phones": [],
@@ -3060,6 +3553,9 @@
   {
     "id": "american-cancer-society-shop",
     "category": "donation center",
+    "categories": [
+      "donation center"
+    ],
     "name": "American Cancer Society Shop",
     "contact": {
       "phones": [],
@@ -3082,6 +3578,9 @@
   {
     "id": "coastline-academy",
     "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
     "name": "Coastline Academy",
     "contact": {
       "phones": [],
@@ -3104,6 +3603,9 @@
   {
     "id": "oxford-driving-school",
     "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
     "name": "Oxford driving school",
     "contact": {
       "phones": [],
@@ -3126,6 +3628,9 @@
   {
     "id": "premier-driving-school",
     "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
     "name": "Premier Driving School",
     "contact": {
       "phones": [],
@@ -3150,6 +3655,9 @@
   {
     "id": "paris-tailor",
     "category": "dry cleaner",
+    "categories": [
+      "dry cleaner"
+    ],
     "name": "Paris Tailor",
     "contact": {
       "phones": [],
@@ -3179,6 +3687,9 @@
   {
     "id": "rose-cleaners",
     "category": "dry cleaner",
+    "categories": [
+      "dry cleaner"
+    ],
     "name": "Rose Cleaners",
     "contact": {
       "phones": [
@@ -3201,37 +3712,11 @@
     "mention_count": 1
   },
   {
-    "id": "washmix",
-    "category": "dry cleaning",
-    "name": "Washmix",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Washmix in Mountain View is excellent. They do home pickups and drop offs.",
-        "by": null,
-        "date": "2026-02-18",
-        "msg_id": "AC45FEFF17715BE6948E3331701E2B40",
-        "type": "contact"
-      },
-      {
-        "quote": "Thank you! Just tried them and they were great.",
-        "by": "Mansi",
-        "date": "2026-02-23",
-        "msg_id": "3A2406A1EE60523C4BFE",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-02-18",
-    "last_seen": "2026-02-23",
-    "mention_count": 2
-  },
-  {
     "id": "purpletie",
     "category": "dry cleaning",
+    "categories": [
+      "dry cleaning"
+    ],
     "name": "PurpleTie",
     "contact": {
       "phones": [],
@@ -3256,6 +3741,9 @@
   {
     "id": "vogue-cleaners",
     "category": "dry cleaning",
+    "categories": [
+      "dry cleaning"
+    ],
     "name": "Vogue cleaners",
     "contact": {
       "phones": [],
@@ -3278,6 +3766,9 @@
   {
     "id": "fatty-zone",
     "category": "ear piercing",
+    "categories": [
+      "ear piercing"
+    ],
     "name": "Fatty Zone",
     "contact": {
       "phones": [],
@@ -3314,6 +3805,9 @@
   {
     "id": "claire-s",
     "category": "ear piercing",
+    "categories": [
+      "ear piercing"
+    ],
     "name": "Claire's",
     "contact": {
       "phones": [],
@@ -3336,6 +3830,9 @@
   {
     "id": "carenami",
     "category": "elder care",
+    "categories": [
+      "elder care"
+    ],
     "name": "Carenami",
     "contact": {
       "phones": [
@@ -3365,6 +3862,9 @@
   {
     "id": "carenami-by-bernan-das",
     "category": "elder care",
+    "categories": [
+      "elder care"
+    ],
     "name": "Carenami by Bernan Das",
     "contact": {
       "phones": [],
@@ -3391,6 +3891,9 @@
   {
     "id": "fabian",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Fabian",
     "contact": {
       "phones": [
@@ -3422,6 +3925,9 @@
   {
     "id": "ahmed-rasooli",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Ahmed Rasooli",
     "contact": {
       "phones": [],
@@ -3444,6 +3950,9 @@
   {
     "id": "edgar",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Edgar",
     "contact": {
       "phones": [],
@@ -3466,6 +3975,9 @@
   {
     "id": "edgar-siguantay",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Edgar Siguantay",
     "contact": {
       "phones": [
@@ -3490,6 +4002,9 @@
   {
     "id": "hourmouz-electrician",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Hourmouz Electrician",
     "contact": {
       "phones": [],
@@ -3512,6 +4027,9 @@
   {
     "id": "jake",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Jake",
     "contact": {
       "phones": [],
@@ -3534,6 +4052,9 @@
   {
     "id": "m-a-d-electric",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "M-A-D electric",
     "contact": {
       "phones": [],
@@ -3558,6 +4079,9 @@
   {
     "id": "mel-electrician",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Mel Electrician",
     "contact": {
       "phones": [
@@ -3582,6 +4106,9 @@
   {
     "id": "mr-quan",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Mr Quan",
     "contact": {
       "phones": [],
@@ -3604,6 +4131,9 @@
   {
     "id": "taylor-cunningham",
     "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
     "name": "Taylor Cunningham",
     "contact": {
       "phones": [
@@ -3628,6 +4158,9 @@
   {
     "id": "jay",
     "category": "entertainer",
+    "categories": [
+      "entertainer"
+    ],
     "name": "Jay",
     "contact": {
       "phones": [],
@@ -3650,6 +4183,9 @@
   {
     "id": "jay-magician",
     "category": "entertainer",
+    "categories": [
+      "entertainer"
+    ],
     "name": "Jay Magician",
     "contact": {
       "phones": [
@@ -3674,6 +4210,9 @@
   {
     "id": "pallavi",
     "category": "event planner",
+    "categories": [
+      "event planner"
+    ],
     "name": "Pallavi",
     "contact": {
       "phones": [],
@@ -3705,6 +4244,9 @@
   {
     "id": "charu",
     "category": "event planner",
+    "categories": [
+      "event planner"
+    ],
     "name": "Charu",
     "contact": {
       "phones": [],
@@ -3727,8 +4269,48 @@
     "mention_count": 1
   },
   {
+    "id": "bianca-javier",
+    "category": "event planning",
+    "categories": [
+      "event planning",
+      "party planner"
+    ],
+    "name": "Bianca Javier",
+    "contact": {
+      "phones": [
+        "(925) 331-7330"
+      ],
+      "emails": [],
+      "websites": [
+        "www.biancajavierevents.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "She is fantastic!",
+        "by": "Dhana",
+        "date": "2026-06-24",
+        "msg_id": "3EB0488ED739457B662E74",
+        "type": "contact"
+      },
+      {
+        "quote": "+1 we used Bianca for my 40th birthday party and she was great. Great aesthetics and very easy to work with!",
+        "by": "Aastha",
+        "date": "2026-06-29",
+        "msg_id": "3ACA5883ECF65CCF8D03",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-06-29",
+    "mention_count": 2
+  },
+  {
     "id": "javier-sf",
     "category": "fabricator",
+    "categories": [
+      "fabricator"
+    ],
     "name": "Javier SF",
     "contact": {
       "phones": [
@@ -3753,6 +4335,9 @@
   {
     "id": "sakshi",
     "category": "facial",
+    "categories": [
+      "facial"
+    ],
     "name": "Sakshi",
     "contact": {
       "phones": [],
@@ -3775,6 +4360,9 @@
   {
     "id": "all-fence",
     "category": "fence",
+    "categories": [
+      "fence"
+    ],
     "name": "All Fence",
     "contact": {
       "phones": [],
@@ -3797,6 +4385,9 @@
   {
     "id": "cal-wood",
     "category": "flooring",
+    "categories": [
+      "flooring"
+    ],
     "name": "Cal-Wood",
     "contact": {
       "phones": [
@@ -3821,6 +4412,9 @@
   {
     "id": "kd-woods-company",
     "category": "flooring",
+    "categories": [
+      "flooring"
+    ],
     "name": "KD Woods Company",
     "contact": {
       "phones": [],
@@ -3845,6 +4439,9 @@
   {
     "id": "vivek-flowers",
     "category": "florist",
+    "categories": [
+      "florist"
+    ],
     "name": "Vivek flowers",
     "contact": {
       "phones": [],
@@ -3867,6 +4464,9 @@
   {
     "id": "michael-s",
     "category": "framing",
+    "categories": [
+      "framing"
+    ],
     "name": "Michael's",
     "contact": {
       "phones": [],
@@ -3896,6 +4496,9 @@
   {
     "id": "framebridge",
     "category": "framing",
+    "categories": [
+      "framing"
+    ],
     "name": "Framebridge",
     "contact": {
       "phones": [],
@@ -3918,6 +4521,9 @@
   {
     "id": "sousa-garage",
     "category": "garage door repair",
+    "categories": [
+      "garage door repair"
+    ],
     "name": "Sousa garage",
     "contact": {
       "phones": [],
@@ -3940,6 +4546,9 @@
   {
     "id": "sousa-s-garage-doors-inc",
     "category": "garage door repair",
+    "categories": [
+      "garage door repair"
+    ],
     "name": "SOUSA'S GARAGE DOORS, INC",
     "contact": {
       "phones": [
@@ -3969,6 +4578,10 @@
   {
     "id": "santiago",
     "category": "gardener",
+    "categories": [
+      "gardener",
+      "landscaper"
+    ],
     "name": "Santiago",
     "contact": {
       "phones": [],
@@ -3996,8 +4609,44 @@
     "mention_count": 2
   },
   {
+    "id": "vincent",
+    "category": "gardener",
+    "categories": [
+      "gardener",
+      "painter"
+    ],
+    "name": "Vincent",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Vincent is good painter and reasonable price. Work quality/price is good.",
+        "by": "Anju",
+        "date": "2026-01-11",
+        "msg_id": "3AB903F057E537F304A0",
+        "type": "review"
+      },
+      {
+        "quote": "We have had Vincent’s team for almost 25 years. He does landscaping too.",
+        "by": "Priya",
+        "date": "2026-03-08",
+        "msg_id": "3A5E35A16F795244834F",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-01-11",
+    "last_seen": "2026-03-08",
+    "mention_count": 2
+  },
+  {
     "id": "antonio",
     "category": "gardener",
+    "categories": [
+      "gardener"
+    ],
     "name": "Antonio",
     "contact": {
       "phones": [
@@ -4022,6 +4671,9 @@
   {
     "id": "the-garden-club-of-los-altos",
     "category": "gardening",
+    "categories": [
+      "gardening"
+    ],
     "name": "The Garden Club of Los Altos",
     "contact": {
       "phones": [],
@@ -4044,6 +4696,9 @@
   {
     "id": "yamagami-s",
     "category": "gardening",
+    "categories": [
+      "gardening"
+    ],
     "name": "Yamagami's",
     "contact": {
       "phones": [],
@@ -4069,6 +4724,9 @@
   {
     "id": "madras-groceries",
     "category": "grocery",
+    "categories": [
+      "grocery"
+    ],
     "name": "Madras Groceries",
     "contact": {
       "phones": [],
@@ -4091,6 +4749,9 @@
   {
     "id": "namastecart-com",
     "category": "grocery service",
+    "categories": [
+      "grocery service"
+    ],
     "name": "namastecart.com",
     "contact": {
       "phones": [],
@@ -4115,6 +4776,9 @@
   {
     "id": "freddie",
     "category": "gutter cleaning",
+    "categories": [
+      "gutter cleaning"
+    ],
     "name": "Freddie",
     "contact": {
       "phones": [
@@ -4146,6 +4810,9 @@
   {
     "id": "elite-building-services",
     "category": "gutter cleaning",
+    "categories": [
+      "gutter cleaning"
+    ],
     "name": "Elite Building Services",
     "contact": {
       "phones": [],
@@ -4170,6 +4837,9 @@
   {
     "id": "maggies",
     "category": "hair stylist",
+    "categories": [
+      "hair stylist"
+    ],
     "name": "Maggie’s",
     "contact": {
       "phones": [],
@@ -4206,6 +4876,9 @@
   {
     "id": "jenny-on-bella",
     "category": "hair stylist",
+    "categories": [
+      "hair stylist"
+    ],
     "name": "Jenny on Bella",
     "contact": {
       "phones": [],
@@ -4228,6 +4901,9 @@
   {
     "id": "lana-or-rosie",
     "category": "hair stylist",
+    "categories": [
+      "hair stylist"
+    ],
     "name": "Lana or Rosie",
     "contact": {
       "phones": [],
@@ -4250,6 +4926,9 @@
   {
     "id": "passion-hair-and-nails",
     "category": "hair stylist",
+    "categories": [
+      "hair stylist"
+    ],
     "name": "Passion Hair and Nails",
     "contact": {
       "phones": [],
@@ -4272,6 +4951,9 @@
   {
     "id": "javier",
     "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
     "name": "Javier",
     "contact": {
       "phones": [],
@@ -4301,6 +4983,9 @@
   {
     "id": "rogelio",
     "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
     "name": "Rogelio",
     "contact": {
       "phones": [
@@ -4325,6 +5010,9 @@
   {
     "id": "hiral-henna",
     "category": "henna",
+    "categories": [
+      "henna"
+    ],
     "name": "Hiral Henna",
     "contact": {
       "phones": [],
@@ -4349,6 +5037,9 @@
   {
     "id": "indian-cash-and-carry",
     "category": "henna",
+    "categories": [
+      "henna"
+    ],
     "name": "Indian cash and carry",
     "contact": {
       "phones": [],
@@ -4371,6 +5062,9 @@
   {
     "id": "adt",
     "category": "home alarm system",
+    "categories": [
+      "home alarm system"
+    ],
     "name": "ADT",
     "contact": {
       "phones": [],
@@ -4400,6 +5094,9 @@
   {
     "id": "simplisafe",
     "category": "home alarm system",
+    "categories": [
+      "home alarm system"
+    ],
     "name": "Simplisafe",
     "contact": {
       "phones": [],
@@ -4422,6 +5119,9 @@
   {
     "id": "dish-n-fold",
     "category": "home help",
+    "categories": [
+      "home help"
+    ],
     "name": "Dish n Fold",
     "contact": {
       "phones": [],
@@ -4451,6 +5151,9 @@
   {
     "id": "jon",
     "category": "home networking",
+    "categories": [
+      "home networking"
+    ],
     "name": "Jon",
     "contact": {
       "phones": [
@@ -4479,6 +5182,9 @@
   {
     "id": "bamboo-insurance",
     "category": "homeowner insurance",
+    "categories": [
+      "homeowner insurance"
+    ],
     "name": "Bamboo Insurance",
     "contact": {
       "phones": [],
@@ -4501,6 +5207,9 @@
   {
     "id": "ludwig-and-fawcett",
     "category": "homeowner insurance",
+    "categories": [
+      "homeowner insurance"
+    ],
     "name": "Ludwig and Fawcett",
     "contact": {
       "phones": [],
@@ -4523,6 +5232,9 @@
   {
     "id": "safeco",
     "category": "homeowner insurance",
+    "categories": [
+      "homeowner insurance"
+    ],
     "name": "Safeco",
     "contact": {
       "phones": [],
@@ -4545,6 +5257,9 @@
   {
     "id": "irbis",
     "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
     "name": "IRBIS",
     "contact": {
       "phones": [],
@@ -4581,6 +5296,9 @@
   {
     "id": "irbis-hvac",
     "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
     "name": "Irbis HVAC",
     "contact": {
       "phones": [],
@@ -4621,6 +5339,9 @@
   {
     "id": "fuse-hvac",
     "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
     "name": "Fuse HVAC",
     "contact": {
       "phones": [],
@@ -4650,6 +5371,9 @@
   {
     "id": "tff-hvac",
     "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
     "name": "TFF HVAC",
     "contact": {
       "phones": [],
@@ -4672,6 +5396,9 @@
   {
     "id": "tff-hvac-tony",
     "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
     "name": "TFF HVAC, Tony",
     "contact": {
       "phones": [
@@ -4696,6 +5423,9 @@
   {
     "id": "inf-plans",
     "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
     "name": "INF plans",
     "contact": {
       "phones": [],
@@ -4718,6 +5448,9 @@
   {
     "id": "onshorekare",
     "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
     "name": "OnshoreKare",
     "contact": {
       "phones": [],
@@ -4742,6 +5475,9 @@
   {
     "id": "onshorekare-visitors-insurance",
     "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
     "name": "OnshoreKare Visitors Insurance",
     "contact": {
       "phones": [],
@@ -4766,6 +5502,9 @@
   {
     "id": "proper",
     "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
     "name": "Proper",
     "contact": {
       "phones": [],
@@ -4788,6 +5527,9 @@
   {
     "id": "an-affair-with-color",
     "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
     "name": "An Affair with Color",
     "contact": {
       "phones": [],
@@ -4834,6 +5576,9 @@
   {
     "id": "anu",
     "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
     "name": "Anu",
     "contact": {
       "phones": [],
@@ -4856,6 +5601,9 @@
   {
     "id": "sundry-atelier-design",
     "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
     "name": "Sundry Atelier Design",
     "contact": {
       "phones": [],
@@ -4880,6 +5628,9 @@
   {
     "id": "vidhya",
     "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
     "name": "Vidhya",
     "contact": {
       "phones": [
@@ -4904,6 +5655,9 @@
   {
     "id": "vinija",
     "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
     "name": "Vinija",
     "contact": {
       "phones": [],
@@ -4926,6 +5680,9 @@
   {
     "id": "jesus-landscape-contractor",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Jesus Landscape Contractor",
     "contact": {
       "phones": [
@@ -4964,6 +5721,9 @@
   {
     "id": "alex",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Alex",
     "contact": {
       "phones": [
@@ -4995,6 +5755,9 @@
   {
     "id": "antonio-gardener",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Antonio Gardener",
     "contact": {
       "phones": [
@@ -5026,6 +5789,9 @@
   {
     "id": "tilu",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Tilu",
     "contact": {
       "phones": [],
@@ -5055,6 +5821,9 @@
   {
     "id": "agustin",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Agustin",
     "contact": {
       "phones": [],
@@ -5077,6 +5846,9 @@
   {
     "id": "agustin-galvan",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Agustin Galvan",
     "contact": {
       "phones": [],
@@ -5099,6 +5871,9 @@
   {
     "id": "agustin-galvan-landscape-gc",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Agustin Galvan Landscape GC",
     "contact": {
       "phones": [
@@ -5123,6 +5898,9 @@
   {
     "id": "gcsf-landscaping",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "gcsf landscaping",
     "contact": {
       "phones": [
@@ -5149,6 +5927,9 @@
   {
     "id": "ingenious-general-construction",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Ingenious General Construction",
     "contact": {
       "phones": [],
@@ -5173,6 +5954,9 @@
   {
     "id": "rigo",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Rigo",
     "contact": {
       "phones": [],
@@ -5195,6 +5979,9 @@
   {
     "id": "santiago-lopez",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Santiago Lopez",
     "contact": {
       "phones": [
@@ -5219,6 +6006,9 @@
   {
     "id": "tilu-arora",
     "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
     "name": "Tilu Arora",
     "contact": {
       "phones": [],
@@ -5241,6 +6031,9 @@
   {
     "id": "cyrus-mehta",
     "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
     "name": "Cyrus Mehta",
     "contact": {
       "phones": [],
@@ -5263,6 +6056,9 @@
   {
     "id": "kramer-radin",
     "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
     "name": "Kramer Radin",
     "contact": {
       "phones": [],
@@ -5287,6 +6083,9 @@
   {
     "id": "thoits-law",
     "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
     "name": "Thoits Law",
     "contact": {
       "phones": [],
@@ -5309,6 +6108,9 @@
   {
     "id": "vidya-bhat",
     "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
     "name": "Vidya Bhat",
     "contact": {
       "phones": [
@@ -5333,6 +6135,9 @@
   {
     "id": "raul-mendoza",
     "category": "marble/quartz fabricator",
+    "categories": [
+      "marble/quartz fabricator"
+    ],
     "name": "Raul Mendoza",
     "contact": {
       "phones": [],
@@ -5357,6 +6162,10 @@
   {
     "id": "watercourse-way",
     "category": "massage",
+    "categories": [
+      "massage",
+      "sauna"
+    ],
     "name": "Watercourse Way",
     "contact": {
       "phones": [],
@@ -5386,6 +6195,9 @@
   {
     "id": "arisa-thai",
     "category": "massage",
+    "categories": [
+      "massage"
+    ],
     "name": "Arisa Thai",
     "contact": {
       "phones": [],
@@ -5408,6 +6220,9 @@
   {
     "id": "avocado",
     "category": "medical equipment",
+    "categories": [
+      "medical equipment"
+    ],
     "name": "Avocado",
     "contact": {
       "phones": [],
@@ -5430,6 +6245,9 @@
   {
     "id": "costco",
     "category": "medical equipment",
+    "categories": [
+      "medical equipment"
+    ],
     "name": "Costco",
     "contact": {
       "phones": [],
@@ -5452,6 +6270,9 @@
   {
     "id": "mancini-s",
     "category": "medical equipment",
+    "categories": [
+      "medical equipment"
+    ],
     "name": "Mancini's",
     "contact": {
       "phones": [],
@@ -5474,6 +6295,9 @@
   {
     "id": "a2b-movers",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "A2B Movers",
     "contact": {
       "phones": [],
@@ -5496,6 +6320,9 @@
   {
     "id": "brothers-movers",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "Brothers Movers",
     "contact": {
       "phones": [],
@@ -5518,6 +6345,9 @@
   {
     "id": "fairprice-movers",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "Fairprice Movers",
     "contact": {
       "phones": [],
@@ -5542,6 +6372,9 @@
   {
     "id": "hiro",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "Hiro",
     "contact": {
       "phones": [],
@@ -5564,6 +6397,9 @@
   {
     "id": "lunardi-moving",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "Lunardi Moving",
     "contact": {
       "phones": [],
@@ -5588,6 +6424,9 @@
   {
     "id": "maggie",
     "category": "mover",
+    "categories": [
+      "mover"
+    ],
     "name": "Maggie",
     "contact": {
       "phones": [],
@@ -5610,6 +6449,9 @@
   {
     "id": "csma",
     "category": "music teacher",
+    "categories": [
+      "music teacher"
+    ],
     "name": "CSMA",
     "contact": {
       "phones": [],
@@ -5641,6 +6483,9 @@
   {
     "id": "school-of-rock",
     "category": "music teacher",
+    "categories": [
+      "music teacher"
+    ],
     "name": "School of Rock",
     "contact": {
       "phones": [],
@@ -5670,6 +6515,9 @@
   {
     "id": "brad-kaiser",
     "category": "music teacher",
+    "categories": [
+      "music teacher"
+    ],
     "name": "Brad Kaiser",
     "contact": {
       "phones": [],
@@ -5692,6 +6540,9 @@
   {
     "id": "erin-mccomber-christine-abraham",
     "category": "music teacher",
+    "categories": [
+      "music teacher"
+    ],
     "name": "Erin McComber / Christine Abraham",
     "contact": {
       "phones": [],
@@ -5714,6 +6565,9 @@
   {
     "id": "hope-street-music-studios",
     "category": "music teacher",
+    "categories": [
+      "music teacher"
+    ],
     "name": "Hope Street Music Studios",
     "contact": {
       "phones": [],
@@ -5738,6 +6592,9 @@
   {
     "id": "kidskab",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "KidsKab",
     "contact": {
       "phones": [],
@@ -5767,6 +6624,9 @@
   {
     "id": "sunita-lamichhane",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Sunita Lamichhane",
     "contact": {
       "phones": [
@@ -5798,6 +6658,9 @@
   {
     "id": "alicia",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Alicia",
     "contact": {
       "phones": [
@@ -5822,6 +6685,9 @@
   {
     "id": "anju",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Anju",
     "contact": {
       "phones": [
@@ -5846,6 +6712,9 @@
   {
     "id": "kuldeep",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Kuldeep",
     "contact": {
       "phones": [],
@@ -5868,6 +6737,9 @@
   {
     "id": "leticia",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Leticia",
     "contact": {
       "phones": [
@@ -5892,6 +6764,9 @@
   {
     "id": "manjit-kaur",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Manjit Kaur",
     "contact": {
       "phones": [
@@ -5916,6 +6791,9 @@
   {
     "id": "minerva",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Minerva",
     "contact": {
       "phones": [],
@@ -5938,6 +6816,9 @@
   {
     "id": "prayojana",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Prayojana",
     "contact": {
       "phones": [],
@@ -5964,6 +6845,9 @@
   {
     "id": "shiwani-house-help",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Shiwani House Help",
     "contact": {
       "phones": [
@@ -5988,6 +6872,9 @@
   {
     "id": "siama",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Siama",
     "contact": {
       "phones": [
@@ -6012,6 +6899,9 @@
   {
     "id": "sunita",
     "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
     "name": "Sunita",
     "contact": {
       "phones": [],
@@ -6034,6 +6924,9 @@
   {
     "id": "dr-kirstin-woo",
     "category": "obgyn",
+    "categories": [
+      "obgyn"
+    ],
     "name": "Dr. Kirstin Woo",
     "contact": {
       "phones": [
@@ -6060,6 +6953,9 @@
   {
     "id": "shoreline-optometry",
     "category": "optician",
+    "categories": [
+      "optician"
+    ],
     "name": "shoreline optometry",
     "contact": {
       "phones": [],
@@ -6080,37 +6976,11 @@
     "mention_count": 1
   },
   {
-    "id": "vincent",
-    "category": "painter",
-    "name": "Vincent",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Vincent is good painter and reasonable price. Work quality/price is good.",
-        "by": "Anju",
-        "date": "2026-01-11",
-        "msg_id": "3AB903F057E537F304A0",
-        "type": "review"
-      },
-      {
-        "quote": "We have had Vincent’s team for almost 25 years. He does landscaping too.",
-        "by": "Priya",
-        "date": "2026-03-08",
-        "msg_id": "3A5E35A16F795244834F",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-01-11",
-    "last_seen": "2026-03-08",
-    "mention_count": 2
-  },
-  {
     "id": "rafael",
     "category": "painter",
+    "categories": [
+      "painter"
+    ],
     "name": "Rafael",
     "contact": {
       "phones": [],
@@ -6133,6 +7003,9 @@
   {
     "id": "archana-akrisha-events",
     "category": "party planner",
+    "categories": [
+      "party planner"
+    ],
     "name": "Archana Akrisha Events",
     "contact": {
       "phones": [
@@ -6162,66 +7035,12 @@
     "mention_count": 2
   },
   {
-    "id": "bianca-javier",
-    "category": "party planner",
-    "name": "Bianca Javier",
-    "contact": {
-      "phones": [
-        "(925) 331-7330"
-      ],
-      "emails": [],
-      "websites": [
-        "www.biancajavierevents.com"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "She is fantastic!",
-        "by": "Dhana",
-        "date": "2026-06-24",
-        "msg_id": "3EB0488ED739457B662E74",
-        "type": "contact"
-      },
-      {
-        "quote": "+1 we used Bianca for my 40th birthday party and she was great. Great aesthetics and very easy to work with!",
-        "by": "Aastha",
-        "date": "2026-06-29",
-        "msg_id": "3ACA5883ECF65CCF8D03",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-29",
-    "mention_count": 2
-  },
-  {
     "id": "pallavi-event-planner",
     "category": "party planner",
-    "name": "Pallavi Event Planner",
-    "contact": {
-      "phones": [
-        "(669) 342-9501"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Pallavi is an amazing party planner!",
-        "by": "Ipsita",
-        "date": "2026-06-24",
-        "msg_id": "3A6271E9DC3E8E315D32",
-        "type": "review"
-      }
+    "categories": [
+      "party planner"
     ],
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "mention_count": 1
-  },
-  {
-    "id": "raising-superheros",
-    "category": "party planner",
-    "name": "Raising Superheros",
+    "name": "Pallavi Event Planner",
     "contact": {
       "phones": [
         "(669) 342-9501"
@@ -6236,15 +7055,25 @@
         "date": "2026-06-24",
         "msg_id": "3A8999600B835E369023",
         "type": "contact"
+      },
+      {
+        "quote": "Pallavi is an amazing party planner!",
+        "by": "Ipsita",
+        "date": "2026-06-24",
+        "msg_id": "3A6271E9DC3E8E315D32",
+        "type": "review"
       }
     ],
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-24",
-    "mention_count": 1
+    "mention_count": 2
   },
   {
     "id": "sunny-moza",
     "category": "party planner",
+    "categories": [
+      "party planner"
+    ],
     "name": "Sunny Moza",
     "contact": {
       "phones": [],
@@ -6267,39 +7096,11 @@
     "mention_count": 1
   },
   {
-    "id": "richard-asphalt-paving",
-    "category": "paving",
-    "name": "Richard Asphalt Paving",
-    "contact": {
-      "phones": [
-        "(408) 849-7616"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Richard Asphalt Paving - +1 (408) 849-7616",
-        "by": "Indu",
-        "date": "2026-01-07",
-        "msg_id": "3A92545A7B4D0D7F02C2",
-        "type": "contact"
-      },
-      {
-        "quote": "Richard Asphalt Paving - +1 (408) 849-7616",
-        "by": "Indu",
-        "date": "2026-05-17",
-        "msg_id": "3AFE6DF9AA0EE213ACD5",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-01-07",
-    "last_seen": "2026-05-17",
-    "mention_count": 2
-  },
-  {
     "id": "dr-sarita-wang",
     "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
     "name": "Dr. Sarita Wang",
     "contact": {
       "phones": [],
@@ -6329,6 +7130,9 @@
   {
     "id": "cupertino-pediatric-dentistry",
     "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
     "name": "Cupertino Pediatric Dentistry",
     "contact": {
       "phones": [],
@@ -6353,6 +7157,9 @@
   {
     "id": "forever-smile-mountain-view",
     "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
     "name": "Forever Smile Mountain View",
     "contact": {
       "phones": [],
@@ -6375,6 +7182,9 @@
   {
     "id": "palo-alto-dentistry",
     "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
     "name": "Palo Alto Dentistry",
     "contact": {
       "phones": [],
@@ -6397,6 +7207,9 @@
   {
     "id": "palo-alto-pediatric-dentistry",
     "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
     "name": "Palo Alto Pediatric Dentistry",
     "contact": {
       "phones": [],
@@ -6419,6 +7232,9 @@
   {
     "id": "altos-pediatric",
     "category": "pediatrician",
+    "categories": [
+      "pediatrician"
+    ],
     "name": "Altos Pediatric",
     "contact": {
       "phones": [],
@@ -6441,6 +7257,9 @@
   {
     "id": "dr-chen-chen",
     "category": "pediatrician",
+    "categories": [
+      "pediatrician"
+    ],
     "name": "Dr. Chen Chen",
     "contact": {
       "phones": [],
@@ -6463,6 +7282,9 @@
   {
     "id": "dr-elizbeth-huffman",
     "category": "pediatrician",
+    "categories": [
+      "pediatrician"
+    ],
     "name": "Dr Elizbeth Huffman",
     "contact": {
       "phones": [],
@@ -6485,6 +7307,9 @@
   {
     "id": "got-gophers",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Got Gophers",
     "contact": {
       "phones": [],
@@ -6514,6 +7339,9 @@
   {
     "id": "attic-crew",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Attic crew",
     "contact": {
       "phones": [],
@@ -6536,6 +7364,9 @@
   {
     "id": "habitat-pest-control",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Habitat Pest control",
     "contact": {
       "phones": [],
@@ -6558,6 +7389,9 @@
   {
     "id": "orkin",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Orkin",
     "contact": {
       "phones": [],
@@ -6580,6 +7414,9 @@
   {
     "id": "rodent-removal-attic-crew",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Rodent Removal Attic Crew",
     "contact": {
       "phones": [
@@ -6604,6 +7441,9 @@
   {
     "id": "smiths",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Smiths",
     "contact": {
       "phones": [],
@@ -6626,6 +7466,9 @@
   {
     "id": "terminix",
     "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
     "name": "Terminix",
     "contact": {
       "phones": [],
@@ -6648,6 +7491,9 @@
   {
     "id": "manoj-and-his-wife",
     "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
     "name": "Manoj and his wife",
     "contact": {
       "phones": [],
@@ -6670,6 +7516,9 @@
   {
     "id": "morvarid",
     "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
     "name": "Morvarid",
     "contact": {
       "phones": [],
@@ -6692,6 +7541,9 @@
   {
     "id": "riya-sony",
     "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
     "name": "Riya Sony",
     "contact": {
       "phones": [
@@ -6716,6 +7568,9 @@
   {
     "id": "sillygoosepictures-com",
     "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
     "name": "Sillygoosepictures.com",
     "contact": {
       "phones": [],
@@ -6740,6 +7595,9 @@
   {
     "id": "healthy-hands-therapy",
     "category": "physical therapy",
+    "categories": [
+      "physical therapy"
+    ],
     "name": "Healthy Hands Therapy",
     "contact": {
       "phones": [],
@@ -6764,6 +7622,9 @@
   {
     "id": "peak-physical-therapy",
     "category": "physical therapy",
+    "categories": [
+      "physical therapy"
+    ],
     "name": "Peak Physical Therapy",
     "contact": {
       "phones": [],
@@ -6784,8 +7645,81 @@
     "mention_count": 1
   },
   {
+    "id": "castle-pumping-and-plumbing",
+    "category": "plumber",
+    "categories": [
+      "plumber",
+      "septic tank"
+    ],
+    "name": "Castle Pumping and Plumbing",
+    "contact": {
+      "phones": [
+        "(408) 417-3091"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Javier of Castle pumping and plumbing is good.",
+        "by": "Monal",
+        "date": "2026-01-09",
+        "msg_id": "3A259DAEE97C6FB650BC",
+        "type": "contact"
+      },
+      {
+        "quote": "Javier from Castle Plumbing +1 (408) 417-3091 - they have done very good work for us a couple of times.",
+        "by": "Monal",
+        "date": "2026-05-08",
+        "msg_id": "3AC2AA18CA9C94E22CF5",
+        "type": "contact"
+      },
+      {
+        "quote": "+1 for Castle pumping. Pretty knowledgeable on leach field repairs",
+        "by": "Venkatesh",
+        "date": "2026-05-08",
+        "msg_id": "3A7268B68B75B39C7DBC",
+        "type": "review"
+      },
+      {
+        "quote": "Javier from Castle Plumbing +1 (408) 417-3091 - they have done very good work for us a couple of times.",
+        "by": "Dhana",
+        "date": "2026-06-08",
+        "msg_id": "3ADE345BCD96C544FA93",
+        "type": "contact"
+      },
+      {
+        "quote": "Yes I recommend Javier from Castle Plumbing - they’re great",
+        "by": "Monal",
+        "date": "2026-06-08",
+        "msg_id": "3A73F4CBB485B431D3C1",
+        "type": "review"
+      },
+      {
+        "quote": "Javier was quick to respond and came really fast too.",
+        "by": "Geet",
+        "date": "2026-06-08",
+        "msg_id": "3A7B0E5BC3C224B67746",
+        "type": "review"
+      },
+      {
+        "quote": "Just used Javier from castle plumbing for a blocked sewage line.",
+        "by": "Geet",
+        "date": "2026-06-14",
+        "msg_id": "3A4B80C826567DF4D56B",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-01-09",
+    "last_seen": "2026-06-14",
+    "mention_count": 7
+  },
+  {
     "id": "24-hour-drain-pro-plumbing",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "24 Hour Drain Pro Plumbing",
     "contact": {
       "phones": [],
@@ -6820,46 +7754,11 @@
     "mention_count": 3
   },
   {
-    "id": "javier-from-castle-plumbing",
-    "category": "plumber",
-    "name": "Javier from Castle Plumbing",
-    "contact": {
-      "phones": [
-        "(408) 417-3091"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Javier from Castle Plumbing +1 (408) 417-3091 - they have done very good work for us a couple of times.",
-        "by": "Dhana",
-        "date": "2026-06-08",
-        "msg_id": "3ADE345BCD96C544FA93",
-        "type": "contact"
-      },
-      {
-        "quote": "Yes I recommend Javier from Castle Plumbing - they’re great",
-        "by": "Monal",
-        "date": "2026-06-08",
-        "msg_id": "3A73F4CBB485B431D3C1",
-        "type": "review"
-      },
-      {
-        "quote": "Just used Javier from castle plumbing for a blocked sewage line.",
-        "by": "Geet",
-        "date": "2026-06-14",
-        "msg_id": "3A4B80C826567DF4D56B",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-14",
-    "mention_count": 3
-  },
-  {
     "id": "loi",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Loi",
     "contact": {
       "phones": [
@@ -6898,6 +7797,9 @@
   {
     "id": "brad-shue",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Brad Shue",
     "contact": {
       "phones": [
@@ -6929,6 +7831,9 @@
   {
     "id": "castle-plumber",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Castle Plumber",
     "contact": {
       "phones": [],
@@ -6949,32 +7854,11 @@
     "mention_count": 1
   },
   {
-    "id": "castle-pumping-and-plumbing",
-    "category": "plumber",
-    "name": "Castle Pumping and Plumbing",
-    "contact": {
-      "phones": [
-        "(408) 417-3091"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Javier of Castle pumping and plumbing is good.",
-        "by": "Monal",
-        "date": "2026-01-09",
-        "msg_id": "3A259DAEE97C6FB650BC",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-01-09",
-    "last_seen": "2026-01-09",
-    "mention_count": 1
-  },
-  {
     "id": "discount-plumbing",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Discount plumbing",
     "contact": {
       "phones": [],
@@ -6997,6 +7881,9 @@
   {
     "id": "ej-plumbing",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "EJ plumbing",
     "contact": {
       "phones": [],
@@ -7019,6 +7906,9 @@
   {
     "id": "ismael",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Ismael",
     "contact": {
       "phones": [
@@ -7043,6 +7933,9 @@
   {
     "id": "plumber-jerry-krupzynski",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Plumber Jerry Krupzynski",
     "contact": {
       "phones": [],
@@ -7065,6 +7958,9 @@
   {
     "id": "roto-rooter",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Roto Rooter",
     "contact": {
       "phones": [],
@@ -7087,6 +7983,9 @@
   {
     "id": "signa-mechanical",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Signa mechanical",
     "contact": {
       "phones": [],
@@ -7109,6 +8008,9 @@
   {
     "id": "trenchless",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": "Trenchless",
     "contact": {
       "phones": [],
@@ -7131,6 +8033,9 @@
   {
     "id": "unnamed-3388709186",
     "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -7155,6 +8060,9 @@
   {
     "id": "american-leak-detection",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "American Leak Detection",
     "contact": {
       "phones": [],
@@ -7177,6 +8085,9 @@
   {
     "id": "corby-pools",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "Corby Pools",
     "contact": {
       "phones": [
@@ -7201,6 +8112,9 @@
   {
     "id": "doug",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "Doug",
     "contact": {
       "phones": [],
@@ -7223,6 +8137,9 @@
   {
     "id": "excel-pool-services",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "excel pool services",
     "contact": {
       "phones": [],
@@ -7245,6 +8162,9 @@
   {
     "id": "pinnacle-pool-care-inc",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "Pinnacle Pool Care, Inc.",
     "contact": {
       "phones": [
@@ -7269,6 +8189,9 @@
   {
     "id": "pool-pros",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "Pool Pros",
     "contact": {
       "phones": [],
@@ -7291,6 +8214,9 @@
   {
     "id": "royal-pool",
     "category": "pool service",
+    "categories": [
+      "pool service"
+    ],
     "name": "Royal pool",
     "contact": {
       "phones": [],
@@ -7313,6 +8239,9 @@
   {
     "id": "chef-mei",
     "category": "private chef",
+    "categories": [
+      "private chef"
+    ],
     "name": "Chef Mei",
     "contact": {
       "phones": [],
@@ -7338,6 +8267,9 @@
   {
     "id": "nimhans",
     "category": "psychiatrist",
+    "categories": [
+      "psychiatrist"
+    ],
     "name": "NIMHANS",
     "contact": {
       "phones": [],
@@ -7367,6 +8299,9 @@
   {
     "id": "dr-ashlesha-bagadia",
     "category": "psychiatrist",
+    "categories": [
+      "psychiatrist"
+    ],
     "name": "Dr Ashlesha Bagadia",
     "contact": {
       "phones": [],
@@ -7393,6 +8328,9 @@
   {
     "id": "dr-apurva-marfatia",
     "category": "pulmonologist",
+    "categories": [
+      "pulmonologist"
+    ],
     "name": "Dr. Apurva Marfatia",
     "contact": {
       "phones": [],
@@ -7422,6 +8360,9 @@
   {
     "id": "david-cornfield",
     "category": "pulmonologist",
+    "categories": [
+      "pulmonologist"
+    ],
     "name": "David Cornfield",
     "contact": {
       "phones": [],
@@ -7444,6 +8385,9 @@
   {
     "id": "dr-mansour-alkhunaizi",
     "category": "pulmonologist",
+    "categories": [
+      "pulmonologist"
+    ],
     "name": "Dr. Mansour Alkhunaizi",
     "contact": {
       "phones": [],
@@ -7466,6 +8410,9 @@
   {
     "id": "vvgc-temple",
     "category": "religious service",
+    "categories": [
+      "religious service"
+    ],
     "name": "vvgc temple",
     "contact": {
       "phones": [],
@@ -7488,6 +8435,9 @@
   {
     "id": "kathmandu-cuisine",
     "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
     "name": "Kathmandu Cuisine",
     "contact": {
       "phones": [],
@@ -7526,6 +8476,9 @@
   {
     "id": "dumpling-city",
     "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
     "name": "Dumpling City",
     "contact": {
       "phones": [],
@@ -7548,6 +8501,9 @@
   {
     "id": "mian-sichuan",
     "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
     "name": "Mian Sichuan",
     "contact": {
       "phones": [],
@@ -7570,6 +8526,9 @@
   {
     "id": "evodyne-robotics",
     "category": "robotics",
+    "categories": [
+      "robotics"
+    ],
     "name": "Evodyne Robotics",
     "contact": {
       "phones": [],
@@ -7592,6 +8551,9 @@
   {
     "id": "done-right-roofing",
     "category": "roofer",
+    "categories": [
+      "roofer"
+    ],
     "name": "Done Right Roofing",
     "contact": {
       "phones": [],
@@ -7616,6 +8578,9 @@
   {
     "id": "los-gatos-roofing",
     "category": "roofer",
+    "categories": [
+      "roofer"
+    ],
     "name": "Los Gatos Roofing",
     "contact": {
       "phones": [],
@@ -7638,6 +8603,9 @@
   {
     "id": "perspire",
     "category": "sauna",
+    "categories": [
+      "sauna"
+    ],
     "name": "Perspire",
     "contact": {
       "phones": [],
@@ -7658,46 +8626,11 @@
     "mention_count": 1
   },
   {
-    "id": "castle-plumbing",
-    "category": "septic tank",
-    "name": "Castle Plumbing",
-    "contact": {
-      "phones": [
-        "(408) 417-3091"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Javier from Castle Plumbing +1 (408) 417-3091 - they have done very good work for us a couple of times.",
-        "by": "Monal",
-        "date": "2026-05-08",
-        "msg_id": "3AC2AA18CA9C94E22CF5",
-        "type": "contact"
-      },
-      {
-        "quote": "+1 for Castle pumping. Pretty knowledgeable on leach field repairs",
-        "by": "Venkatesh",
-        "date": "2026-05-08",
-        "msg_id": "3A7268B68B75B39C7DBC",
-        "type": "review"
-      },
-      {
-        "quote": "Javier was quick to respond and came really fast too.",
-        "by": "Geet",
-        "date": "2026-06-08",
-        "msg_id": "3A7B0E5BC3C224B67746",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-05-08",
-    "last_seen": "2026-06-08",
-    "mention_count": 3
-  },
-  {
     "id": "bank-of-america",
     "category": "storage rental",
+    "categories": [
+      "storage rental"
+    ],
     "name": "Bank of America",
     "contact": {
       "phones": [],
@@ -7720,6 +8653,9 @@
   {
     "id": "los-altos-vault",
     "category": "storage rental",
+    "categories": [
+      "storage rental"
+    ],
     "name": "Los Altos Vault",
     "contact": {
       "phones": [],
@@ -7742,6 +8678,9 @@
   {
     "id": "us-bank",
     "category": "storage rental",
+    "categories": [
+      "storage rental"
+    ],
     "name": "US Bank",
     "contact": {
       "phones": [],
@@ -7764,6 +8703,9 @@
   {
     "id": "fremont-hills-country-club",
     "category": "summer camp",
+    "categories": [
+      "summer camp"
+    ],
     "name": "Fremont Hills country club",
     "contact": {
       "phones": [],
@@ -7786,6 +8728,9 @@
   {
     "id": "daca",
     "category": "swim classes",
+    "categories": [
+      "swim classes"
+    ],
     "name": "DACA",
     "contact": {
       "phones": [],
@@ -7815,6 +8760,9 @@
   {
     "id": "fremont-hills",
     "category": "swim classes",
+    "categories": [
+      "swim classes"
+    ],
     "name": "Fremont Hills",
     "contact": {
       "phones": [],
@@ -7841,6 +8789,9 @@
   {
     "id": "ymca-swim-club",
     "category": "swim club",
+    "categories": [
+      "swim club"
+    ],
     "name": "YMCA swim club",
     "contact": {
       "phones": [],
@@ -7863,6 +8814,9 @@
   {
     "id": "pasa-palo-alto-stanford-aquatics",
     "category": "swim lessons",
+    "categories": [
+      "swim lessons"
+    ],
     "name": "PASA (Palo Alto Stanford Aquatics)",
     "contact": {
       "phones": [],
@@ -7885,6 +8839,9 @@
   {
     "id": "divya",
     "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
     "name": "Divya",
     "contact": {
       "phones": [],
@@ -7914,6 +8871,9 @@
   {
     "id": "maneesha-sari-palace",
     "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
     "name": "Maneesha Sari Palace",
     "contact": {
       "phones": [],
@@ -7936,6 +8896,9 @@
   {
     "id": "rashmi-bhargava",
     "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
     "name": "Rashmi Bhargava",
     "contact": {
       "phones": [],
@@ -7958,6 +8921,9 @@
   {
     "id": "kim-grant-tennis-academy",
     "category": "tennis coach",
+    "categories": [
+      "tennis coach"
+    ],
     "name": "Kim Grant Tennis Academy",
     "contact": {
       "phones": [],
@@ -7980,6 +8946,9 @@
   {
     "id": "eagle-fustar-tennis-academy",
     "category": "tennis coaching",
+    "categories": [
+      "tennis coaching"
+    ],
     "name": "Eagle Fustar Tennis Academy",
     "contact": {
       "phones": [],
@@ -8002,6 +8971,9 @@
   {
     "id": "children-s-health-council",
     "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
     "name": "Children's Health Council",
     "contact": {
       "phones": [],
@@ -8027,6 +8999,9 @@
   {
     "id": "dr-sarah-kate-rosenbaum",
     "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
     "name": "Dr. Sarah Kate Rosenbaum",
     "contact": {
       "phones": [],
@@ -8051,6 +9026,9 @@
   {
     "id": "jyoti-mehta",
     "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
     "name": "Jyoti Mehta",
     "contact": {
       "phones": [],
@@ -8075,6 +9053,9 @@
   {
     "id": "ms-maullika-sharma",
     "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
     "name": "Ms Maullika Sharma",
     "contact": {
       "phones": [],
@@ -8099,6 +9080,9 @@
   {
     "id": "gurpreet-singh",
     "category": "transportation",
+    "categories": [
+      "transportation"
+    ],
     "name": "Gurpreet Singh",
     "contact": {
       "phones": [
@@ -8123,6 +9107,9 @@
   {
     "id": "yellow-checker-cab",
     "category": "transportation",
+    "categories": [
+      "transportation"
+    ],
     "name": "Yellow Checker Cab",
     "contact": {
       "phones": [],
@@ -8148,6 +9135,9 @@
   {
     "id": "nikki",
     "category": "travel agent",
+    "categories": [
+      "travel agent"
+    ],
     "name": "Nikki",
     "contact": {
       "phones": [],
@@ -8170,6 +9160,9 @@
   {
     "id": "bartlett-trees",
     "category": "tree service",
+    "categories": [
+      "tree service"
+    ],
     "name": "Bartlett trees",
     "contact": {
       "phones": [],
@@ -8201,6 +9194,9 @@
   {
     "id": "new-vista-tree-service",
     "category": "tree service",
+    "categories": [
+      "tree service"
+    ],
     "name": "New Vista Tree Service",
     "contact": {
       "phones": [
@@ -8236,6 +9232,9 @@
   {
     "id": "ulises-trees",
     "category": "tree service",
+    "categories": [
+      "tree service"
+    ],
     "name": "Ulises Trees",
     "contact": {
       "phones": [
@@ -8267,6 +9266,9 @@
   {
     "id": "ec-tree-trimming",
     "category": "tree service",
+    "categories": [
+      "tree service"
+    ],
     "name": "EC Tree trimming",
     "contact": {
       "phones": [],
@@ -8289,6 +9291,9 @@
   {
     "id": "west-valley-arborists",
     "category": "tree service",
+    "categories": [
+      "tree service"
+    ],
     "name": "West Valley Arborists",
     "contact": {
       "phones": [],
@@ -8311,6 +9316,9 @@
   {
     "id": "manjari-asawa",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Manjari Asawa",
     "contact": {
       "phones": [
@@ -8349,6 +9357,10 @@
   {
     "id": "privateers",
     "category": "tutoring",
+    "categories": [
+      "tutoring",
+      "lifeguard"
+    ],
     "name": "Privateers",
     "contact": {
       "phones": [],
@@ -8385,6 +9397,9 @@
   {
     "id": "antara-asthaayi",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Antara Asthaayi",
     "contact": {
       "phones": [],
@@ -8416,6 +9431,9 @@
   {
     "id": "dr-smriti-koodsnjeri",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Dr.Smriti Koodsnjeri",
     "contact": {
       "phones": [],
@@ -8445,6 +9463,9 @@
   {
     "id": "shivika",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Shivika",
     "contact": {
       "phones": [
@@ -8474,37 +9495,11 @@
     "mention_count": 2
   },
   {
-    "id": "simon",
-    "category": "tutoring",
-    "name": "Simon",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "We used Simon for both our kids & were very happy with him",
-        "by": "Namrata",
-        "date": "2026-02-14",
-        "msg_id": "3A0199828872AB268A76",
-        "type": "review"
-      },
-      {
-        "quote": "Highly recommend Simon and his team. They have done a great job with our oak trees over the years",
-        "by": "Shivanjali",
-        "date": "2026-06-25",
-        "msg_id": "3ABD92E413BF4943A1CF",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-14",
-    "last_seen": "2026-06-25",
-    "mention_count": 2
-  },
-  {
     "id": "aarthi-rajiv",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Aarthi Rajiv",
     "contact": {
       "phones": [
@@ -8529,6 +9524,9 @@
   {
     "id": "artseth",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Artseth",
     "contact": {
       "phones": [],
@@ -8553,6 +9551,9 @@
   {
     "id": "blue-stamp-engineering",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Blue Stamp Engineering",
     "contact": {
       "phones": [],
@@ -8577,6 +9578,9 @@
   {
     "id": "club-pilates",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Club Pilates",
     "contact": {
       "phones": [],
@@ -8599,6 +9603,9 @@
   {
     "id": "drawn2art",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Drawn2art",
     "contact": {
       "phones": [],
@@ -8621,6 +9628,9 @@
   {
     "id": "khusboo",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Khusboo",
     "contact": {
       "phones": [],
@@ -8643,6 +9653,9 @@
   {
     "id": "kidizens",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Kidizens",
     "contact": {
       "phones": [],
@@ -8667,6 +9680,9 @@
   {
     "id": "krista",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Krista",
     "contact": {
       "phones": [],
@@ -8689,6 +9705,9 @@
   {
     "id": "lopa",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Lopa",
     "contact": {
       "phones": [],
@@ -8711,6 +9730,9 @@
   {
     "id": "mixx-pilates",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Mixx Pilates",
     "contact": {
       "phones": [],
@@ -8733,6 +9755,9 @@
   {
     "id": "power-4-pilates",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Power 4 Pilates",
     "contact": {
       "phones": [],
@@ -8755,6 +9780,9 @@
   {
     "id": "rachna",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Rachna",
     "contact": {
       "phones": [
@@ -8779,6 +9807,9 @@
   {
     "id": "rohan-panchal",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Rohan Panchal",
     "contact": {
       "phones": [],
@@ -8801,6 +9832,9 @@
   {
     "id": "skyhawks",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Skyhawks",
     "contact": {
       "phones": [],
@@ -8823,6 +9857,9 @@
   {
     "id": "smriti",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Smriti",
     "contact": {
       "phones": [
@@ -8847,6 +9884,9 @@
   {
     "id": "solid-core",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "solid core",
     "contact": {
       "phones": [],
@@ -8869,6 +9909,9 @@
   {
     "id": "sy-act-tutor",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "SY ACT Tutor",
     "contact": {
       "phones": [
@@ -8893,6 +9936,9 @@
   {
     "id": "teresa",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": "Teresa",
     "contact": {
       "phones": [],
@@ -8917,6 +9963,9 @@
   {
     "id": "unnamed-5643599254",
     "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -8939,8 +9988,61 @@
     "mention_count": 1
   },
   {
+    "id": "chunilal-mulchand",
+    "category": "upholstery",
+    "categories": [
+      "upholstery"
+    ],
+    "name": "Chunilal Mulchand",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Chunilal Mulchand at Fort in India. Get my curtains, outdoor furniture covers and a lot more…",
+        "by": "Sonal",
+        "date": "2026-07-15",
+        "msg_id": "3AD25AB835663F12CB2D",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1
+  },
+  {
+    "id": "sterling-custom-upholstery",
+    "category": "upholstery",
+    "categories": [
+      "upholstery"
+    ],
+    "name": "Sterling Custom Upholstery",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I considered my dining chairs but at almost 150$ per chair it did not seem to be the most cost effective.",
+        "by": "Sonal",
+        "date": "2026-07-15",
+        "msg_id": "3A92D1306AA7286F345B",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1
+  },
+  {
     "id": "el-camino-hospital-urgent-care",
     "category": "urgent care",
+    "categories": [
+      "urgent care"
+    ],
     "name": "El Camino Hospital Urgent Care",
     "contact": {
       "phones": [],
@@ -8963,6 +10065,9 @@
   {
     "id": "allaboutparking-com",
     "category": "valet service",
+    "categories": [
+      "valet service"
+    ],
     "name": "AllAboutParking.com",
     "contact": {
       "phones": [
@@ -8989,6 +10094,9 @@
   {
     "id": "dr-kureshi-cupertino-animal-hospital",
     "category": "vet",
+    "categories": [
+      "vet"
+    ],
     "name": "Dr Kureshi, Cupertino Animal hospital",
     "contact": {
       "phones": [],
@@ -9018,6 +10126,9 @@
   {
     "id": "los-altos-veterinary-clinic",
     "category": "vet",
+    "categories": [
+      "vet"
+    ],
     "name": "Los Altos Veterinary clinic",
     "contact": {
       "phones": [],
@@ -9047,6 +10158,9 @@
   {
     "id": "aqua-tru",
     "category": "water filter",
+    "categories": [
+      "water filter"
+    ],
     "name": "Aqua tru",
     "contact": {
       "phones": [],
@@ -9069,6 +10183,9 @@
   {
     "id": "puronics",
     "category": "water softener",
+    "categories": [
+      "water softener"
+    ],
     "name": "Puronics",
     "contact": {
       "phones": [],
@@ -9105,6 +10222,9 @@
   {
     "id": "de-anza-water",
     "category": "water softener",
+    "categories": [
+      "water softener"
+    ],
     "name": "De Anza Water",
     "contact": {
       "phones": [],
@@ -9136,6 +10256,9 @@
   {
     "id": "america-s-solar-cleaners",
     "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
     "name": "America's solar cleaners",
     "contact": {
       "phones": [
@@ -9160,6 +10283,9 @@
   {
     "id": "jorge",
     "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
     "name": "Jorge",
     "contact": {
       "phones": [
@@ -9184,6 +10310,9 @@
   {
     "id": "mateo",
     "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
     "name": "Mateo",
     "contact": {
       "phones": [
@@ -9208,6 +10337,9 @@
   {
     "id": "patty-jose",
     "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
     "name": "Patty & Jose",
     "contact": {
       "phones": [
@@ -9232,6 +10364,9 @@
   {
     "id": "marek-jaworski",
     "category": "window replacement",
+    "categories": [
+      "window replacement"
+    ],
     "name": "Marek Jaworski",
     "contact": {
       "phones": [],
@@ -9256,6 +10391,9 @@
   {
     "id": "california-yoga-studio",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "California Yoga Studio",
     "contact": {
       "phones": [],
@@ -9285,6 +10423,9 @@
   {
     "id": "california-yoga-center",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "California Yoga Center",
     "contact": {
       "phones": [],
@@ -9307,6 +10448,9 @@
   {
     "id": "corepower-yoga",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "CorePower yoga",
     "contact": {
       "phones": [],
@@ -9329,6 +10473,9 @@
   {
     "id": "unnamed-4934206711",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": null,
     "contact": {
       "phones": [],
@@ -9353,6 +10500,9 @@
   {
     "id": "yoga-of-los-altos",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "Yoga of Los Altos",
     "contact": {
       "phones": [],
@@ -9375,6 +10525,9 @@
   {
     "id": "yoga-six-mountain-view",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "Yoga Six Mountain View",
     "contact": {
       "phones": [],
@@ -9397,6 +10550,9 @@
   {
     "id": "yogasix",
     "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
     "name": "YogaSix",
     "contact": {
       "phones": [],

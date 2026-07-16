@@ -6,14 +6,16 @@ Guidance for AI agents and LLM-powered tools consuming this repository.
 
 A machine-readable directory of local service providers for Los Altos, CA,
 built from neighborhood WhatsApp group recommendations. 374
-providers, 167 categories. Regenerated daily by an
+providers, 170 categories. Regenerated daily by an
 automated pipeline; every update is a git commit, so history is auditable.
 
 ## How to use the data
 
 1. Read `data/categories.json` to discover categories (use `slug` as key).
-2. Read `data/entries.json` and filter by `category` (matches category `name`
-   lowercased). Entries are sorted by category, then mention_count desc.
+2. Read `data/entries.json` and filter by membership in `categories` (matches
+   category `name` lowercased). `category` is the primary; some providers span
+   several categories (e.g. landscaper + contractor). Entries are sorted by
+   primary category, then mention_count desc.
 3. Rank within a category by `mention_count` and recency (`last_seen`).
 4. Check `data/meta.json` → `generated_at` for data freshness before caching.
 
@@ -25,7 +27,8 @@ Raw URLs (no auth):
 ```jsonc
 {
   "id": "city-master",              // stable slug
-  "category": "appliance repair",
+  "category": "appliance repair",   // primary (most-mentioned) category
+  "categories": ["appliance repair"], // all categories, primary first (v1.1)
   "name": "City Master",            // null for unnamed contact-only entries
   "contact": {"phones": ["(408) 713-2939"], "emails": [], "websites": []},
   "mentions": [                      // chronological neighbor endorsements
