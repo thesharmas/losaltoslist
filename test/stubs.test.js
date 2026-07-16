@@ -32,9 +32,10 @@ describe("buildStubs", () => {
     expect(html).toContain("★ Recommended by 3 neighbors");
     expect(html).toContain("Fast and fair."); // first quote in the description
     expect(html).toContain('property="og:url" content="https://losaltos.space/e/bay-plumbers.html"');
-    // both redirect paths (crawlers keep the meta, humans take the script)
-    expect(html).toContain('http-equiv="refresh" content="0;url=/#c=plumbing&amp;e=bay-plumbers"');
-    expect(html).toContain('location.replace("/#c=plumbing&e=bay-plumbers");');
+    // both redirect paths (crawlers keep the meta, humans take the script);
+    // via=share attributes the visit to a shared link in analytics
+    expect(html).toContain('http-equiv="refresh" content="0;url=/#c=plumbing&amp;e=bay-plumbers&amp;via=share"');
+    expect(html).toContain('location.replace("/#c=plumbing&e=bay-plumbers&via=share");');
     // doorway pages must not compete with the real site in search
     expect(html).toContain('name="robots" content="noindex"');
   });

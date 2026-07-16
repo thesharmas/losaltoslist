@@ -119,7 +119,7 @@ describe("share stubs for multi-category entries", () => {
     expect(html).toContain("<title>Miguel — Landscaper · Los Altos List</title>");
     expect(html).toContain("Also listed under Contractor.");
     // redirect keeps the primary category
-    expect(html).toContain('location.replace("/#c=landscaper&e=miguel");');
+    expect(html).toContain('location.replace("/#c=landscaper&e=miguel&via=share");');
   });
 
   it("omits the 'also listed' note for single-category entries", () => {

@@ -68,7 +68,8 @@ export function stubHtml(entry, catName) {
   const name = displayName(entry);
   const title = `${name} — ${titleCase(catName)} · Los Altos List`;
   const desc = description(entry);
-  const target = `/#${new URLSearchParams({ c: slugify(entry.category), e: entry.id })}`;
+  // via=share lets the front-end attribute the visit to a shared link
+  const target = `/#${new URLSearchParams({ c: slugify(entry.category), e: entry.id, via: "share" })}`;
   const stubUrl = `${SITE}/e/${encodeURIComponent(entry.id)}.html`;
 
   return `<!DOCTYPE html>

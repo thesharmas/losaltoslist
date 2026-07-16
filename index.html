@@ -847,7 +847,10 @@
     if (["loved", "recent", "az"].indexOf(sort) === -1) sort = "loved";
     var e = p.get("e");
     if (e && !entryById(e)) e = null; // ignore unknown entry ids
-    return { c: c || null, q: p.get("q") || "", sort: sort, e: e || null };
+    // "via=share" marks arrivals from a shared stub link (analytics only;
+    // writeHash never persists it, so it disappears on first interaction)
+    return { c: c || null, q: p.get("q") || "", sort: sort, e: e || null,
+             via: p.get("via") === "share" ? "share" : "direct" };
   }
 
   function writeHash() {
@@ -872,7 +875,7 @@
     syncChips();
     render();
     if (state.entry) {
-      revealEntry(state.entry);
+      revealEntry(state.entry, s.via || "direct");
     } else if (scroll && (state.activeCat || state.query)) {
       document.querySelector(".toolbar").scrollIntoView({ block: "start" });
     }
@@ -894,7 +897,7 @@
 
   // scroll to + highlight the linked card; if current filters hide it, swap
   // the view to the entry's own category so the link always lands somewhere.
-  function revealEntry(id) {
+  function revealEntry(id, via) {
     var cardEl = findCard(id);
     if (!cardEl) {
       var e = entryById(id);
@@ -913,7 +916,7 @@
     var toggle = cardEl.querySelector('.more-mentions[aria-expanded="false"]');
     if (toggle) toggle.click();
     if (cardEl.scrollIntoView) cardEl.scrollIntoView({ block: "center" });
-    track("card_link_opened", { entry_id: id });
+    track("card_link_opened", { entry_id: id, via: via || "direct" });
   }
 
   function shareUrl(id) {
@@ -1195,7 +1198,15 @@
     var tag = ev.target.closest ? ev.target.closest(".cat-tag") : null;
     if (!tag) return;
     var slug = tag.getAttribute("data-slug");
-    if (slug && state.catBySlug[slug]) setCategory(slug);
+    if (slug && state.catBySlug[slug]) {
+      var tctx = cardContext(tag);
+      track("cat_tag_clicked", {
+        to_category: state.catBySlug[slug].name,
+        business: tctx.business,
+        from_category: tctx.category,
+      });
+      setCategory(slug);
+    }
   });
 
   // share a single card: native share sheet on mobile, copy-link elsewhere.
@@ -1209,15 +1220,21 @@
     if (!id) return;
     var url = shareUrl(id);
     var ctx = cardContext(btn);
-    track("card_shared", { entry_id: id, business: ctx.business, category: ctx.category });
+    // track on OUTCOME, not attempt: native share only counts once the user
+    // actually completes the sheet (dismissals reject with AbortError)
+    function shared(method) {
+      track("card_shared", { entry_id: id, business: ctx.business, category: ctx.category, method: method });
+    }
     if (navigator.share) {
       navigator.share({ title: (ctx.business || "Los Altos List") + " · Los Altos List", url: url })
+        .then(function () { shared("native"); })
         .catch(function () { /* user closed the share sheet */ });
       return;
     }
     copyText(url).then(function () {
       btn.classList.add("copied");
       setTimeout(function () { btn.classList.remove("copied"); }, 1400);
+      shared("copy");
     }).catch(function () { /* clipboard unavailable: leave button as-is */ });
   });
 
