@@ -1,1 +1,4 @@
 node_modules/
+# local output of scripts/build-stubs.mjs (generated at deploy time)
+/e/
+_site/
