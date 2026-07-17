@@ -57,6 +57,11 @@ jobs:
         # Emits _site/e/<id>.html with per-entry OpenGraph tags so shared card
         # links preview with the provider's name in WhatsApp/iMessage/Slack.
         run: node scripts/build-stubs.mjs _site
+      - name: Build SEO surface (category pages, sitemap, robots)
+        # Emits _site/c/<slug>.html indexable category pages plus sitemap.xml
+        # and robots.txt — the SPA is hash-routed, so without these search
+        # engines only ever see one page.
+        run: node scripts/build-seo.mjs _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
