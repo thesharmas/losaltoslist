@@ -12,6 +12,11 @@
 //   robots.txt    — points crawlers at the sitemap. /e/ share stubs stay
 //                   crawlable on purpose so their noindex tag is seen.
 //
+// data/seo-overrides.json (optional) supplies per-category <title> /
+// meta-description overrides. It is maintained by the weekly SEO learner
+// (Search Console CTR experiments) and, like synonyms.json, is NOT written
+// by the daily data export. Keys starting with _ are ignored.
+//
 // Usage: node scripts/build-seo.mjs [outDir]
 //   outDir defaults to the repo root (c/, sitemap.xml, robots.txt are
 //   gitignored). The deploy workflow runs it against the staged _site/.
@@ -82,6 +87,22 @@ function catUrl(slug) {
   return `${SITE}/c/${encodeURIComponent(slug)}.html`;
 }
 
+// Per-category title/description overrides (seo-overrides.json). Shape is
+// validated by the learner before commit; here we just guard the basics so a
+// bad file can never break the build.
+export function loadOverrides(raw) {
+  const out = {};
+  if (!raw || typeof raw !== "object") return out;
+  for (const [slug, v] of Object.entries(raw)) {
+    if (slug.startsWith("_") || !v || typeof v !== "object") continue;
+    const o = {};
+    if (typeof v.title === "string" && v.title.trim()) o.title = v.title.trim();
+    if (typeof v.description === "string" && v.description.trim()) o.description = v.description.trim();
+    if (Object.keys(o).length) out[slug] = o;
+  }
+  return out;
+}
+
 function metaDescription(cat, list) {
   const names = list.slice(0, 3).map(displayName).join(", ");
   return truncate(
@@ -146,12 +167,13 @@ function providerHtml(e, catSlug) {
     </article>`;
 }
 
-export function categoryHtml(cat, entries, categories) {
+export function categoryHtml(cat, entries, categories, overrides) {
   const list = entriesForCat(entries, cat.slug);
   const url = catUrl(cat.slug);
   const catName = titleCase(cat.name);
-  const title = `${list.length} Neighbor-Recommended ${catName} Providers in Los Altos, CA`;
-  const desc = metaDescription(cat, list);
+  const o = (overrides && overrides[cat.slug]) || {};
+  const title = o.title || `${list.length} Neighbor-Recommended ${catName} Providers in Los Altos, CA`;
+  const desc = o.description || metaDescription(cat, list);
   const others = pageCats(categories).filter((c) => c.slug !== cat.slug);
 
   return `<!DOCTYPE html>
@@ -229,10 +251,11 @@ export function robotsTxt() {
   return `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`;
 }
 
-export function buildSeo(entries, categories, meta, outDir) {
+export function buildSeo(entries, categories, meta, outDir, rawOverrides) {
   const cats = pageCats(categories);
   const dir = join(outDir, "c");
   mkdirSync(dir, { recursive: true });
+  const overrides = loadOverrides(rawOverrides);
 
   let written = 0;
   const skipped = [];
@@ -243,7 +266,7 @@ export function buildSeo(entries, categories, meta, outDir) {
       skipped.push(cat.slug || "(missing slug)");
       continue;
     }
-    writeFileSync(join(dir, `${cat.slug}.html`), categoryHtml(cat, entries, categories));
+    writeFileSync(join(dir, `${cat.slug}.html`), categoryHtml(cat, entries, categories, overrides));
     written++;
   }
   writeFileSync(join(outDir, "sitemap.xml"), sitemapXml(categories, meta));
@@ -257,7 +280,10 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
   const entries = JSON.parse(readFileSync(join(ROOT, "data", "entries.json"), "utf8"));
   const categories = JSON.parse(readFileSync(join(ROOT, "data", "categories.json"), "utf8"));
   const meta = JSON.parse(readFileSync(join(ROOT, "data", "meta.json"), "utf8"));
-  const { written, skipped } = buildSeo(entries, categories, meta, outDir);
+  let rawOverrides = null;
+  try { rawOverrides = JSON.parse(readFileSync(join(ROOT, "data", "seo-overrides.json"), "utf8")); }
+  catch { /* optional file */ }
+  const { written, skipped } = buildSeo(entries, categories, meta, outDir, rawOverrides);
   console.log(`seo surface: wrote ${written} category pages + sitemap.xml + robots.txt to ${outDir}`);
   if (skipped.length) console.warn(`skipped ${skipped.length} categories with unusable slugs: ${skipped.join(", ")}`);
 }
