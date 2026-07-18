@@ -12,17 +12,18 @@ neighborhood WhatsApp group's recommendations. Live at
 | `data/entries.json` | Provider-level entries: name, contact info, category memberships, and quoted recommendations |
 | `data/meta.json` | Generation timestamp, watermark, counts |
 | `data/synonyms.json` | Curated search synonyms: category slug → extra words/phrases the search matches for that category |
+| `data/seo-overrides.json` | Per-category `<title>`/meta-description overrides for the generated category pages |
+| `data/seo-experiments.json` | Audit ledger of SEO title/description experiments (baseline metrics + outcomes) |
 
 `categories.json` / `entries.json` / `meta.json` are regenerated daily by an
 automated pipeline that classifies new group messages (LLM-based) and merges
 them into the directory. Every change is a commit, so the full history is
 auditable.
 
-`data/synonyms.json` is deliberately **not** written by the daily export: it's
-hand-curated and appended to (merge-only) by a weekly automation that mines
-zero-result searches from analytics, replays them against the live matcher,
-and proposes vetted new synonyms. Keys starting with `_` are ignored by the
-site, and the file is optional — the site loads fine without it.
+The other three files are deliberately **not** written by the daily export —
+they belong to the self-tuning loops described under
+[Automation](#automation). All are optional (the site and build work without
+them) and keys starting with `_` are ignored.
 
 Consuming this data with an LLM or agent? See [`AGENTS.md`](AGENTS.md) for a
 machine-oriented guide and raw data URLs.
@@ -82,12 +83,40 @@ hits), `search_no_results`, `category_filter`, `cat_tag_clicked`,
 `contact_copied`, `card_shared`, and `card_link_opened`. The zero-result
 search stream is what drives the weekly synonym updates.
 
+## Automation
+
+Beyond the daily data pipeline, two weekly closed loops tune the site from
+real usage data. In both, an LLM only *proposes*; a validating script owns
+every guardrail, applies accepted changes as commits to `main`, and the
+test-gated deploy ships them.
+
+1. **Synonym miner** (weekly) — mines the week's zero-result searches from
+   PostHog, replays each against the live matcher (only still-dead queries
+   survive), asks an LLM to map them to existing categories, then validates
+   (live slug, generic-word blocklist, cross-category collision guard,
+   already-covered replay, cap per run) and appends merge-only to
+   `data/synonyms.json`. Internal search vocabulary teaches itself.
+
+2. **SEO learner** (weekly) — pulls 28 days of Google Search Console data
+   and buckets it: category pages underperforming the expected CTR for their
+   position, striking-distance pages (position 5–15), and queries with
+   impressions that no category page serves (fed back as synonym/category
+   candidates). An LLM proposes at most 3 title/description rewrites; the
+   validator enforces length windows, a "must mention Los Altos + the
+   category" relevance check, and anti-keyword-stuffing rules, then records
+   each accepted change in `data/seo-experiments.json` with its 28-day
+   baseline. Two weeks later the loop judges each experiment against Search
+   Console again — changes that dropped CTR >20% are **auto-reverted**,
+   survivors are kept. Google's own feedback teaches the pages how to be
+   found.
+
 ## Tests
 
 The front-end logic is covered by a [Vitest](https://vitest.dev) + jsdom suite
-under `test/` (12 files, 107 tests: loading, state, filtering, search
+under `test/` (13 files, 119 tests: loading, state, filtering, search
 fuzziness, synonyms, rendering, multi-category, share flows, analytics,
-security, helpers, and the share stubs). The tests load the real `index.html`
+security, helpers, the share stubs, and the SEO surface — sitemap, robots,
+category pages, overrides). The tests load the real `index.html`
 into jsdom with a stubbed `fetch` and drive it through the DOM —
 `index.html` ships unmodified, with no extracted modules. Regression cases
 come from real dead queries observed in analytics.
@@ -102,9 +131,15 @@ npm run test:watch
 
 Deploys are automated by `.github/workflows/deploy.yml`. On every push to
 `main` (including the daily data-pipeline commits) it runs `npm test`, and
-**only if the tests pass** builds the per-entry share stubs and publishes the
-static site to GitHub Pages at [losaltos.space](https://losaltos.space). A red
-test run blocks the deploy, so the live site never ships on a failing build.
+**only if the tests pass** builds the per-entry share stubs
+(`scripts/build-stubs.mjs`) and the SEO surface — category pages, sitemap,
+robots (`scripts/build-seo.mjs`) — then publishes the static site to GitHub
+Pages at [losaltos.space](https://losaltos.space). A red test run blocks the
+deploy, so the live site never ships on a failing build.
+
+The site is registered in Google Search Console (domain property, verified
+via DNS TXT) with the sitemap submitted; Search Console data feeds the weekly
+SEO learner.
 
 ## Privacy
 
@@ -138,5 +173,21 @@ To request removal of an entry, open an issue.
 {
   "_about": "ignored by the site",
   "landscaper": ["irrigation", "sprinkler", "drip system"]
+}
+```
+
+```jsonc
+// seo-overrides.json — optional, keys are category slugs
+{
+  "_about": "ignored by the build",
+  "landscaper": {"title": "...", "description": "..."}
+}
+
+// seo-experiments.json — audit ledger for the SEO learner
+{
+  "experiments": [{"id": "landscaper-title-2026-07-20", "slug": "landscaper",
+                   "field": "title", "old": "", "new": "...",
+                   "applied_at": "...", "baseline": {"ctr": 0.04, "position": 8.2},
+                   "status": "open"}]  // open -> kept | reverted
 }
 ```
