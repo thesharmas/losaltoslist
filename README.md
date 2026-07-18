@@ -47,6 +47,12 @@ Features:
   generates a static OpenGraph stub page per entry (`e/<id>.html`) at deploy
   time so shared links get proper previews in WhatsApp/iMessage/Slack (chat
   crawlers don't execute JS), then redirect humans to the real card.
+- **SEO surface** — the SPA is hash-routed, so `scripts/build-seo.mjs`
+  generates the crawlable side at deploy time: indexable category pages
+  (`c/<slug>.html`, only for categories with 3+ providers) with real quotes
+  and `ItemList`/`BreadcrumbList` JSON-LD, plus `sitemap.xml` (lastmod from
+  category activity) and `robots.txt`. Share stubs stay `noindex`; category
+  pages are the pages search engines rank.
 
 ### Search
 

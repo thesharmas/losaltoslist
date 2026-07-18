@@ -1,4 +1,8 @@
 node_modules/
 # local output of scripts/build-stubs.mjs (generated at deploy time)
 /e/
+# local output of scripts/build-seo.mjs (generated at deploy time)
+/c/
+/sitemap.xml
+/robots.txt
 _site/
