@@ -4,7 +4,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { afterEach, describe, expect, it } from "vitest";
 import {
-  MIN_ENTRIES, buildSeo, categoryHtml, robotsTxt, sitemapXml,
+  MIN_ENTRIES, buildSeo, categoryHtml, loadOverrides, robotsTxt, sitemapXml,
 } from "../scripts/build-seo.mjs";
 import { CATEGORIES, ENTRIES, META } from "./harness.js";
 
@@ -81,6 +81,33 @@ describe("categoryHtml", () => {
       CATEGORIES.find((c) => c.slug === "tutoring"), ENTRIES, CATEGORIES);
     expect(html).not.toContain("<script>alert(1)</script>");
     expect(html).toContain("&lt;script&gt;");
+  });
+});
+
+describe("seo overrides", () => {
+  it("applies title/description overrides for a slug", () => {
+    const html = categoryHtml(plumbing, ENTRIES, CATEGORIES, loadOverrides({
+      plumbing: { title: "Trusted Plumbers in Los Altos, CA (Neighbor Picks)",
+                  description: "Hand-picked plumbers Los Altos neighbors actually use." },
+    }));
+    expect(html).toContain("<title>Trusted Plumbers in Los Altos, CA (Neighbor Picks) · Los Altos List</title>");
+    expect(html).toContain('name="description" content="Hand-picked plumbers Los Altos neighbors actually use."');
+    // untouched pieces keep their defaults
+    expect(html).toContain("<h1>Plumbing in Los Altos, recommended by neighbors</h1>");
+  });
+
+  it("ignores _keys, non-objects, and empty strings; falls back to defaults", () => {
+    expect(loadOverrides({ _about: "x", plumbing: "nope", tutoring: { title: "  " } })).toEqual({});
+    const html = categoryHtml(plumbing, ENTRIES, CATEGORIES, loadOverrides(null));
+    expect(html).toContain("<title>2 Neighbor-Recommended Plumbing Providers in Los Altos, CA · Los Altos List</title>");
+  });
+
+  it("HTML-escapes override values", () => {
+    const html = categoryHtml(plumbing, ENTRIES, CATEGORIES, loadOverrides({
+      plumbing: { title: 'Plumbers <script>"x"</script>' },
+    }));
+    expect(html).not.toContain("<script>\"x\"");
+    expect(html).toContain("Plumbers &lt;script&gt;");
   });
 });
 

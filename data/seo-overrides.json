@@ -1,0 +1,3 @@
+{
+  "_about": "Per-category <title>/meta-description overrides for the generated c/<slug>.html pages. Written by the weekly SEO learner (Search Console CTR experiments) — merge-only, capped, every change tracked in seo-experiments.json and auto-reverted if CTR degrades. NOT rewritten by the daily data export. Keys starting with _ are ignored."
+}
