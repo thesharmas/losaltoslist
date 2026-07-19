@@ -5,7 +5,7 @@
 > Auto-generated from a neighborhood WhatsApp group's recommendations and
 > updated daily. 377 providers across
 > 170 categories; 170 entries include direct
-> contact info. Last updated 2026-07-18.
+> contact info. Last updated 2026-07-19.
 
 All data is plain JSON, no auth required. Fetch the raw files directly:
 
