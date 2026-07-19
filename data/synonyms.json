@@ -1,19 +1,111 @@
 {
   "_about": "Search synonyms: category slug -> extra words/phrases the search matches for that category's entries. Curated by hand + appended (merge-only) by the weekly synonyms cron, which mines zero-result searches. NOT rewritten by the daily data export. Keys starting with _ are ignored by the site.",
-  "landscaper": ["irrigation", "sprinkler", "sprinklers", "drip system", "lawn", "yard", "turf", "mulch", "sod"],
-  "upholstery": ["furniture", "sofa", "couch", "cushion", "reupholster"],
-  "plumber": ["pipe", "leak", "faucet", "toilet", "drain", "water heater", "sewer"],
-  "electrician": ["wiring", "outlet", "electrical panel", "ev charger", "lighting"],
-  "hvac": ["furnace", "air conditioning", "heat pump", "thermostat", "heating", "cooling"],
-  "contractor": ["remodel", "renovation", "addition", "adu", "general contractor"],
-  "pest-control": ["exterminator", "termite", "rodent", "mice", "ants", "wasp", "gopher"],
-  "tree-service": ["arborist", "tree trimming", "tree removal", "stump"],
-  "cleaner": ["house cleaning", "housekeeping", "maid", "deep clean"],
-  "appliance-repair": ["washer", "dryer", "dishwasher", "refrigerator", "fridge", "oven", "stove"],
-  "mover": ["moving", "movers", "relocation"],
-  "nanny": ["babysitter", "childcare", "au pair"],
-  "tutoring": ["tutor", "test prep", "sat prep", "math help"],
-  "catering": ["caterer", "party food"],
-  "pool-service": ["pool cleaning", "pool maintenance"],
-  "window-cleaning": ["window washing", "window washer"]
+  "landscaper": [
+    "irrigation",
+    "sprinkler",
+    "sprinklers",
+    "drip system",
+    "lawn",
+    "yard",
+    "turf",
+    "mulch",
+    "sod",
+    "backyard design"
+  ],
+  "upholstery": [
+    "furniture",
+    "sofa",
+    "couch",
+    "cushion",
+    "reupholster"
+  ],
+  "plumber": [
+    "pipe",
+    "leak",
+    "faucet",
+    "toilet",
+    "drain",
+    "water heater",
+    "sewer"
+  ],
+  "electrician": [
+    "wiring",
+    "outlet",
+    "electrical panel",
+    "ev charger",
+    "lighting"
+  ],
+  "hvac": [
+    "furnace",
+    "air conditioning",
+    "heat pump",
+    "thermostat",
+    "heating",
+    "cooling"
+  ],
+  "contractor": [
+    "remodel",
+    "renovation",
+    "addition",
+    "adu",
+    "general contractor"
+  ],
+  "pest-control": [
+    "exterminator",
+    "termite",
+    "rodent",
+    "mice",
+    "ants",
+    "wasp",
+    "gopher"
+  ],
+  "tree-service": [
+    "arborist",
+    "tree trimming",
+    "tree removal",
+    "stump"
+  ],
+  "cleaner": [
+    "house cleaning",
+    "housekeeping",
+    "maid",
+    "deep clean"
+  ],
+  "appliance-repair": [
+    "washer",
+    "dryer",
+    "dishwasher",
+    "refrigerator",
+    "fridge",
+    "oven",
+    "stove"
+  ],
+  "mover": [
+    "moving",
+    "movers",
+    "relocation"
+  ],
+  "nanny": [
+    "babysitter",
+    "childcare",
+    "au pair"
+  ],
+  "tutoring": [
+    "tutor",
+    "test prep",
+    "sat prep",
+    "math help"
+  ],
+  "catering": [
+    "caterer",
+    "party food"
+  ],
+  "pool-service": [
+    "pool cleaning",
+    "pool maintenance"
+  ],
+  "window-cleaning": [
+    "window washing",
+    "window washer"
+  ]
 }
