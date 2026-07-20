@@ -406,6 +406,33 @@
     "mention_count": 1
   },
   {
+    "id": "brandy",
+    "category": "babysitter",
+    "categories": [
+      "babysitter"
+    ],
+    "name": "Brandy",
+    "contact": {
+      "phones": [
+        "(408) 628-8713"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Hi all,\n\nI’d like to recommend our current dog and babysitter, Brandy. She has been wonderful and is very experienced in caring for both puppies and senior dogs.\n\nIf you’re looking for a reliable pet sitter, feel free to reach out to her at +1 (408) 628-8713.",
+        "by": "Kavitha",
+        "date": "2026-07-19",
+        "msg_id": "3AA822454D7B8459EE92",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1
+  },
+  {
     "id": "hello-bliss",
     "category": "bakery",
     "categories": [

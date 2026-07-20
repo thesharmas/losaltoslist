@@ -568,6 +568,14 @@
     "last_activity": "2026-05-13"
   },
   {
+    "slug": "babysitter",
+    "name": "Babysitter",
+    "emoji": "👶",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-07-19"
+  },
+  {
     "slug": "donation-center",
     "name": "Donation Center",
     "emoji": "📌",
@@ -982,14 +990,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-02-24"
-  },
-  {
-    "slug": "babysitter",
-    "name": "Babysitter",
-    "emoji": "👶",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-04-21"
   },
   {
     "slug": "basketball-court",
