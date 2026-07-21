@@ -1393,7 +1393,7 @@
     [25, 50, 75, 100].forEach(function (mark) {
       if (!scrollMarks[mark] && pct >= mark) {
         scrollMarks[mark] = true;
-        track("scroll_depth", { depth_pct: mark });
+        track("scroll_depth", { depth_pct: mark, depth: mark });
       }
     });
   }, { passive: true });
