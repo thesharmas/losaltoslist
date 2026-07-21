@@ -76,8 +76,8 @@
     "name": "Pest Control",
     "emoji": "🐜",
     "entry_count": 8,
-    "query_count": 10,
-    "last_activity": "2026-07-16"
+    "query_count": 11,
+    "last_activity": "2026-07-20"
   },
   {
     "slug": "architect",
@@ -116,8 +116,8 @@
     "name": "Appliance Repair",
     "emoji": "🔌",
     "entry_count": 4,
-    "query_count": 11,
-    "last_activity": "2026-06-29"
+    "query_count": 12,
+    "last_activity": "2026-07-21"
   },
   {
     "slug": "handyman",
@@ -336,6 +336,14 @@
     "last_activity": "2026-01-04"
   },
   {
+    "slug": "party-service",
+    "name": "Party Service",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-07-21"
+  },
+  {
     "slug": "pediatrician",
     "name": "Pediatrician",
     "emoji": "👶",
@@ -440,6 +448,14 @@
     "last_activity": "2026-06-13"
   },
   {
+    "slug": "roofer",
+    "name": "Roofer",
+    "emoji": "🏠",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-07-20"
+  },
+  {
     "slug": "swim-classes",
     "name": "Swim Classes",
     "emoji": "📌",
@@ -534,14 +550,6 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-05-25"
-  },
-  {
-    "slug": "roofer",
-    "name": "Roofer",
-    "emoji": "🏠",
-    "entry_count": 2,
-    "query_count": 1,
-    "last_activity": "2026-02-17"
   },
   {
     "slug": "sauna",
@@ -1190,6 +1198,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-05-29"
+  },
+  {
+    "slug": "masseuse",
+    "name": "Masseuse",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-21"
   },
   {
     "slug": "meditation",

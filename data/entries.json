@@ -1678,7 +1678,7 @@
     "mentions": [
       {
         "quote": "Washmix in Mountain View is excellent. They do home pickups and drop offs.",
-        "by": null,
+        "by": "Nidhi",
         "date": "2026-02-18",
         "msg_id": "AC45FEFF17715BE6948E3331701E2B40",
         "type": "contact"
@@ -7204,6 +7204,107 @@
     "mention_count": 1
   },
   {
+    "id": "g2u",
+    "category": "party service",
+    "categories": [
+      "party service"
+    ],
+    "name": "G2U",
+    "contact": {
+      "phones": [
+        "(925) 262-4222",
+        "(925) 348-4250",
+        "(925) 566-7887"
+      ],
+      "emails": [
+        "bayareagames2u@gmail.com"
+      ],
+      "websites": [
+        "https://www.g2u.com/",
+        "G2U.com",
+        "gmail.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We used https://www.g2u.com/ and they were amazing !",
+        "by": "Dhana",
+        "date": "2026-07-20",
+        "msg_id": "3A9A8CC6CAEC239D81A1",
+        "type": "review"
+      },
+      {
+        "quote": "Super stress-free and the kids had an absolute blast. We even added laser tag in our backyard, which they set up and organized.",
+        "by": "Dhana",
+        "date": "2026-07-20",
+        "msg_id": "3A0BA9A8AB457DAFE182",
+        "type": "review"
+      },
+      {
+        "quote": "p:\t(925) 262-4222  m: (925) 348-4250\nf:\t(925) 566-7887\na:\t1818 Arnold Industrial Pl, Suite E. Concord, CA 94523\nw:\tG2U.com  e: bayareagames2u@gmail.com",
+        "by": "Dhana",
+        "date": "2026-07-20",
+        "msg_id": "3A09116254D084E51D58",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "mention_count": 3
+  },
+  {
+    "id": "game-truck",
+    "category": "party service",
+    "categories": [
+      "party service"
+    ],
+    "name": "Game Truck",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "www.gametruck.com/san-jose"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We worked with Game Truck\n\n\nVic Antipow\nGameTruck San Jose\n(408)691-9144\nwww.gametruck.com/san-jose",
+        "by": "Aarthi",
+        "date": "2026-07-21",
+        "msg_id": "ACF6564FE16DC54D5ACCE9F1A88670CE",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1
+  },
+  {
+    "id": "kids-kool-game-truck",
+    "category": "party service",
+    "categories": [
+      "party service"
+    ],
+    "name": "kids kool game truck",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We have used kids kool game truck and have had a good experience",
+        "by": "Sugandh",
+        "date": "2026-07-21",
+        "msg_id": "3A1AC6EB4512ADB44299",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1
+  },
+  {
     "id": "dr-sarita-wang",
     "category": "pediatric dentist",
     "categories": [
@@ -8571,7 +8672,7 @@
       },
       {
         "quote": "Excellent food and very good and friendly owners. Their service is still a little slow. They are figuring out how to scale, but the food is excellent",
-        "by": null,
+        "by": "Abhita",
         "date": "2026-03-09",
         "msg_id": "AC5EBD9D8D9B6409A8131C35D5B4D540",
         "type": "review"
@@ -8884,7 +8985,7 @@
     "mentions": [
       {
         "quote": "Email aquatics@fremonthills.com. they probably have contact info on their website as well.",
-        "by": null,
+        "by": "Abhita",
         "date": "2026-01-20",
         "msg_id": "AC838B16A4AC775EC4777DA3F890090E",
         "type": "contact"
