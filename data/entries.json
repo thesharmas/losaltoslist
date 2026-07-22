@@ -8733,6 +8733,33 @@
     "mention_count": 1
   },
   {
+    "id": "spice-valley",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Spice Valley",
+    "contact": {
+      "phones": [
+        "(510) 996-2615"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sandeepbhai from Spice Valley makes thin Gujarati rotis.",
+        "by": "Surbhi",
+        "date": "2026-07-22",
+        "msg_id": "3ADDA5C13B7397BFA1DD",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1
+  },
+  {
     "id": "evodyne-robotics",
     "category": "robotics",
     "categories": [
@@ -9523,6 +9550,57 @@
     "mention_count": 1
   },
   {
+    "id": "antara-asthaayi",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Antara Asthaayi",
+    "contact": {
+      "phones": [],
+      "emails": [
+        "info@antara-asthaayi.org"
+      ],
+      "websites": [
+        "https://www.antara-asthaayi.org/",
+        "antara-asthaayi.org"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.antara-asthaayi.org/\n\nMy daughter started learning kathak when she was around 6-7.",
+        "by": "Jui",
+        "date": "2026-04-19",
+        "msg_id": "AC1D9294DDB5834AB6B3ADF804AD9115",
+        "type": "contact"
+      },
+      {
+        "quote": "my daughter’s in same batch; now completing 5 years. It’s a close knit community too!",
+        "by": "Garima",
+        "date": "2026-04-20",
+        "msg_id": "3AFF16B3374AE8AE3C5E",
+        "type": "review"
+      },
+      {
+        "quote": "Hi everyone, our dance school is starting a new beginners class for children’s kathak (ages 6+). Please email info@antara-asthaayi.org for more info!",
+        "by": "Swati",
+        "date": "2026-07-22",
+        "msg_id": "3A31C31C3E09F2D8F952",
+        "type": "contact"
+      },
+      {
+        "quote": "Highly recommend as an intimate Kathak learning/performance experience as well as the close knit community!",
+        "by": "Garima",
+        "date": "2026-07-22",
+        "msg_id": "3AFD8F043923A8992D9A",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-04-19",
+    "last_seen": "2026-07-22",
+    "mention_count": 4
+  },
+  {
     "id": "manjari-asawa",
     "category": "tutoring",
     "categories": [
@@ -9602,40 +9680,6 @@
     "first_seen": "2026-03-02",
     "last_seen": "2026-03-28",
     "mention_count": 3
-  },
-  {
-    "id": "antara-asthaayi",
-    "category": "tutoring",
-    "categories": [
-      "tutoring"
-    ],
-    "name": "Antara Asthaayi",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.antara-asthaayi.org/"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "https://www.antara-asthaayi.org/\n\nMy daughter started learning kathak when she was around 6-7.",
-        "by": "Jui",
-        "date": "2026-04-19",
-        "msg_id": "AC1D9294DDB5834AB6B3ADF804AD9115",
-        "type": "contact"
-      },
-      {
-        "quote": "my daughter’s in same batch; now completing 5 years. It’s a close knit community too!",
-        "by": "Garima",
-        "date": "2026-04-20",
-        "msg_id": "3AFF16B3374AE8AE3C5E",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-04-19",
-    "last_seen": "2026-04-20",
-    "mention_count": 2
   },
   {
     "id": "dr-smriti-koodsnjeri",
@@ -9782,6 +9826,31 @@
     ],
     "first_seen": "2026-01-27",
     "last_seen": "2026-01-27",
+    "mention_count": 1
+  },
+  {
+    "id": "chitresh-das-institute",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Chitresh Das Institute",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Chitresh Das Institute also has classes on weekdays in Cupertino and Sundays in San Mateo..",
+        "by": "Archana",
+        "date": "2026-07-22",
+        "msg_id": "3A74E49EA341B2540819",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
     "mention_count": 1
   },
   {
@@ -9962,6 +10031,31 @@
     "mention_count": 1
   },
   {
+    "id": "noorani-dance-by-farah-shaikh",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Noorani dance by Farah Shaikh",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Noorani dance by Farah Shaikh",
+        "by": "Neelima",
+        "date": "2026-07-22",
+        "msg_id": "3A21E8CD2833A605401A",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1
+  },
+  {
     "id": "power-4-pilates",
     "category": "tutoring",
     "categories": [
@@ -10036,6 +10130,33 @@
     ],
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
+    "mention_count": 1
+  },
+  {
+    "id": "shambhavi-dandekar",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Shambhavi Dandekar",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://siskdance.com/enrollment"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Shambhavi Dandekar (SISK - https://siskdance.com/enrollment) also takes adult kathak classes",
+        "by": "Deepali",
+        "date": "2026-07-22",
+        "msg_id": "3A52F4F365C72747C5F6",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
     "mention_count": 1
   },
   {
@@ -10140,6 +10261,31 @@
     ],
     "first_seen": "2026-07-09",
     "last_seen": "2026-07-09",
+    "mention_count": 1
+  },
+  {
+    "id": "tarangini-kathak",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Tarangini Kathak",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Yes. I attend tarangini Kathak class in Cupertino. Happy to share more details.",
+        "by": "Juuhi",
+        "date": "2026-07-22",
+        "msg_id": "3A6941766E4A201FA1B0",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
     "mention_count": 1
   },
   {

@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 25,
-    "query_count": 34,
-    "last_activity": "2026-07-09"
+    "entry_count": 29,
+    "query_count": 36,
+    "last_activity": "2026-07-22"
   },
   {
     "slug": "contractor",
@@ -200,6 +200,14 @@
     "last_activity": "2026-06-20"
   },
   {
+    "slug": "restaurant",
+    "name": "Restaurant",
+    "emoji": "🍽️",
+    "entry_count": 4,
+    "query_count": 5,
+    "last_activity": "2026-07-22"
+  },
+  {
     "slug": "pediatric-dentist",
     "name": "Pediatric Dentist",
     "emoji": "📌",
@@ -262,14 +270,6 @@
     "entry_count": 3,
     "query_count": 4,
     "last_activity": "2026-06-19"
-  },
-  {
-    "slug": "restaurant",
-    "name": "Restaurant",
-    "emoji": "🍽️",
-    "entry_count": 3,
-    "query_count": 4,
-    "last_activity": "2026-06-15"
   },
   {
     "slug": "caregiver",
