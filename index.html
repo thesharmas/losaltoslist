@@ -163,6 +163,7 @@
     border-bottom: 1px solid transparent; transition: border-color .12s ease;
   }
   .mast-credit a:hover { border-bottom-color: var(--oak); }
+  .mast-credit-sep { padding: 0 3px; color: var(--line); }
   .masthead .stamp {
     font-size: .7rem; letter-spacing: .14em; text-transform: uppercase;
     color: var(--ink-soft); font-weight: 600; white-space: nowrap;
@@ -543,7 +544,9 @@
         The&nbsp;Block&nbsp;List<span class="dot">.</span>
         <span class="sub" id="brand-group">DOLAH Nagar</span>
       </a>
-      <span class="mast-credit">Built by <a href="https://www.thesharmas.org" target="_blank" rel="author noopener">Rohit Sharma</a></span>
+      <span class="mast-credit">Built by <a href="https://www.thesharmas.org" target="_blank" rel="author noopener">Rohit Sharma</a>
+        <span class="mast-credit-sep">·</span>
+        a <a class="helicon-ref" data-surface="header" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build</span>
     </div>
     <div class="masthead-right">
       <span class="live-dot" aria-hidden="true" title="Machine-readable · updated daily"></span>
@@ -633,7 +636,7 @@
     <p>A neighbor project by <a href="https://www.thesharmas.org" target="_blank" rel="author noopener">Rohit&nbsp;Sharma</a>
        — I build small tools that make local knowledge easier to find.
        The machines have <a href="./llms.txt">llms.txt</a>; the people have <a href="./humans.txt">humans.txt</a>.</p>
-    <p class="foot-build">A <a id="helicon-credit" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build.</p>
+    <p class="foot-build">A <a class="helicon-ref" data-surface="footer" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build.</p>
   </div>
 </footer>
 
@@ -1240,9 +1243,10 @@
   }
 
   // ---- events ----
-  var heliconCredit = document.getElementById("helicon-credit");
-  if (heliconCredit) heliconCredit.addEventListener("click", function () {
-    track("helicon_referral_clicked", { surface: "footer" });
+  document.querySelectorAll(".helicon-ref").forEach(function (a) {
+    a.addEventListener("click", function () {
+      track("helicon_referral_clicked", { surface: a.dataset.surface });
+    });
   });
 
   // Search analytics: fire once the user pauses typing (not per keystroke),
