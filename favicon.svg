@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Los Altos List favicon: the site's quote mark on oak green, with the clay dot. -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#2F4739"/>
+  <g fill="#FBF8F1">
+    <path d="M27 15 C17.5 19.5, 11 28, 11 38.5 A 9.75 9.75 0 1 0 20.75 28.75 C21.5 24.5, 23.75 20.75, 27 18.25 Z"/>
+    <path d="M49 15 C39.5 19.5, 33 28, 33 38.5 A 9.75 9.75 0 1 0 42.75 28.75 C43.5 24.5, 45.75 20.75, 49 18.25 Z"/>
+  </g>
+  <circle cx="52.5" cy="45.5" r="4.5" fill="#C96F44"/>
+</svg>
