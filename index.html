@@ -489,6 +489,7 @@
     border-bottom: 1px solid var(--line);
   }
   .foot-colophon a:hover { border-bottom-color: var(--oak); }
+  .foot-build { margin-top: 10px; font-size: .8rem; color: var(--ink-soft); }
 
   :focus-visible { outline: 2.5px solid var(--clay); outline-offset: 2px; border-radius: 4px; }
 
@@ -632,6 +633,7 @@
     <p>A neighbor project by <a href="https://www.thesharmas.org" target="_blank" rel="author noopener">Rohit&nbsp;Sharma</a>
        — I build small tools that make local knowledge easier to find.
        The machines have <a href="./llms.txt">llms.txt</a>; the people have <a href="./humans.txt">humans.txt</a>.</p>
+    <p class="foot-build">A <a id="helicon-credit" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build.</p>
   </div>
 </footer>
 
@@ -1238,6 +1240,11 @@
   }
 
   // ---- events ----
+  var heliconCredit = document.getElementById("helicon-credit");
+  if (heliconCredit) heliconCredit.addEventListener("click", function () {
+    track("helicon_referral_clicked", { surface: "footer" });
+  });
+
   // Search analytics: fire once the user pauses typing (not per keystroke),
   // skip trivial 1-char queries, and never re-send the same query twice in a row.
   var searchT, lastTrackedQuery = "";
