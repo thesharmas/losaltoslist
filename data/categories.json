@@ -880,6 +880,14 @@
     "last_activity": "2026-06-13"
   },
   {
+    "slug": "dance-school",
+    "name": "Dance School",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-07-22"
+  },
+  {
     "slug": "driver",
     "name": "Driver",
     "emoji": "📌",
@@ -894,6 +902,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-12"
+  },
+  {
+    "slug": "home-garden-consultant",
+    "name": "Home Garden Consultant",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-07-22"
   },
   {
     "slug": "home-networking",
@@ -982,6 +998,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "after-school-program",
+    "name": "After School Program",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-22"
   },
   {
     "slug": "asbestos-and-mold-mitigation",
@@ -1238,6 +1262,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-06-11"
+  },
+  {
+    "slug": "organic-products",
+    "name": "Organic Products",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-22"
   },
   {
     "slug": "party-decor",
