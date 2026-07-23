@@ -15,7 +15,7 @@ import { dirname, join, resolve } from "node:path";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const SITE = "https://losaltos.space";
-const OG_IMAGE = SITE + "/og-image.png";
+const OG_IMAGE = SITE + "/og-image.png?v=2";
 
 // keep these in sync with the helpers in index.html
 export function slugify(s) {
