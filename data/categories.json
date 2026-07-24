@@ -48,20 +48,20 @@
     "last_activity": "2026-07-13"
   },
   {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 12,
+    "query_count": 18,
+    "last_activity": "2026-07-23"
+  },
+  {
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
     "entry_count": 12,
     "query_count": 16,
     "last_activity": "2026-07-10"
-  },
-  {
-    "slug": "cleaner",
-    "name": "Cleaner",
-    "emoji": "🧹",
-    "entry_count": 11,
-    "query_count": 17,
-    "last_activity": "2026-07-15"
   },
   {
     "slug": "electrician",
@@ -84,8 +84,8 @@
     "name": "Architect",
     "emoji": "📐",
     "entry_count": 8,
-    "query_count": 5,
-    "last_activity": "2026-07-14"
+    "query_count": 6,
+    "last_activity": "2026-07-23"
   },
   {
     "slug": "dentist",
@@ -208,6 +208,14 @@
     "last_activity": "2026-07-22"
   },
   {
+    "slug": "caregiver",
+    "name": "Caregiver",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 4,
+    "last_activity": "2026-07-23"
+  },
+  {
     "slug": "pediatric-dentist",
     "name": "Pediatric Dentist",
     "emoji": "📌",
@@ -270,14 +278,6 @@
     "entry_count": 3,
     "query_count": 4,
     "last_activity": "2026-06-19"
-  },
-  {
-    "slug": "caregiver",
-    "name": "Caregiver",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 3,
-    "last_activity": "2026-07-08"
   },
   {
     "slug": "dry-cleaning",

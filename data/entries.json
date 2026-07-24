@@ -796,6 +796,33 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-4084690541",
+    "category": "caregiver",
+    "categories": [
+      "caregiver"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [
+        "(408) 469-0541"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ashok, my former baby sitter is an affectionate elderly woman. She took care of my mother after her surgery, does cooking, light cleaning and talks in Hindi-Punjabi. I don’t know her availability with this schedule but happy to share her number - 408.469.0541",
+        "by": "Rashmi",
+        "date": "2026-07-23",
+        "msg_id": "3AB26F1B03C74235F108",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "mention_count": 1
+  },
+  {
     "id": "magic-carpet-cleaning",
     "category": "carpet cleaning",
     "categories": [
@@ -1660,6 +1687,40 @@
     ],
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
+    "mention_count": 2
+  },
+  {
+    "id": "silvia-cleaning-service",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Silvia Cleaning Service",
+    "contact": {
+      "phones": [
+        "(510) 674-8406"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Silvia Cleaning Service (+1 (510) 674-8406)",
+        "by": "Neerja",
+        "date": "2026-07-23",
+        "msg_id": "3A2BC0122E261163615A",
+        "type": "contact"
+      },
+      {
+        "quote": "I highly recommend her!",
+        "by": "Neerja",
+        "date": "2026-07-23",
+        "msg_id": "3AC86E24F3874B2CE117",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
     "mention_count": 2
   },
   {
