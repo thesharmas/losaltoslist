@@ -1227,6 +1227,31 @@
     "mention_count": 1
   },
   {
+    "id": "harminder-di",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Harminder Di",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Our amazing, homely cook is looking for additional hours in Los Altos area. She is a pro, cooks all specialized/ healthy items like Biryani, Quinoa, Parathas or whatever recipes you may need. She could help with party and dishes are really authentic. She is extremely reliable, reasonably priced a...",
+        "by": "Megha",
+        "date": "2026-07-24",
+        "msg_id": "AC56D217B01192C856C7C047E7CB2AE2",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1
+  },
+  {
     "id": "healthytiffin-com",
     "category": "catering",
     "categories": [
