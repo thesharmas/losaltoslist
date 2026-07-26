@@ -4,8 +4,8 @@
 > doctors, caterers, contractors, and more) for Los Altos, CA and nearby.
 > Auto-generated from a neighborhood WhatsApp group's recommendations and
 > updated daily. 391 providers across
-> 176 categories; 178 entries include direct
-> contact info. Last updated 2026-07-25.
+> 176 categories; 179 entries include direct
+> contact info. Last updated 2026-07-26.
 
 All data is plain JSON, no auth required. Fetch the raw files directly:
 
@@ -25,7 +25,7 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 - 🏗️ Contractor: 25 providers, 31 requests
 - 🍳 Catering: 24 providers, 23 requests
 - 🏥 Doctor: 16 providers, 20 requests
-- 🌿 Landscaper: 14 providers, 19 requests
+- 🌿 Landscaper: 15 providers, 20 requests
 - 🔧 Plumber: 13 providers, 18 requests
 - 🧹 Cleaner: 12 providers, 18 requests
 - 👶 Nanny: 12 providers, 16 requests

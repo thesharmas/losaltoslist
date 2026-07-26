@@ -54,31 +54,6 @@
     "mention_count": 1
   },
   {
-    "id": "eric",
-    "category": "appliance repair",
-    "categories": [
-      "appliance repair"
-    ],
-    "name": "Eric",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "I used Eric for dishwasher repair but for dome reason the repair job was not successful.",
-        "by": "Shilpa",
-        "date": "2026-03-20",
-        "msg_id": "3A1248F17F805B99D8C6",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-03-20",
-    "last_seen": "2026-03-20",
-    "mention_count": 1
-  },
-  {
     "id": "irbis-or-fuse",
     "category": "appliance repair",
     "categories": [
@@ -5929,6 +5904,48 @@
     "first_seen": "2026-05-04",
     "last_seen": "2026-05-04",
     "mention_count": 1
+  },
+  {
+    "id": "eric",
+    "category": "landscaper",
+    "categories": [
+      "landscaper",
+      "appliance repair"
+    ],
+    "name": "Eric",
+    "contact": {
+      "phones": [
+        "(408) 903-5617"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I used Eric for dishwasher repair but for dome reason the repair job was not successful.",
+        "by": "Shilpa",
+        "date": "2026-03-20",
+        "msg_id": "3A1248F17F805B99D8C6",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Eric (+1 (408) 903-5617)",
+        "by": "Sonam",
+        "date": "2026-07-25",
+        "msg_id": "3A1D15D5D06D769D2F50",
+        "type": "contact"
+      },
+      {
+        "quote": "Eric is really person to work with. He has installed sprinklers and pavers artificial turf and fence work for us.",
+        "by": "Sonam",
+        "date": "2026-07-25",
+        "msg_id": "3A9F31C4C82F40BD410C",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-03-20",
+    "last_seen": "2026-07-25",
+    "mention_count": 3
   },
   {
     "id": "jesus-landscape-contractor",
