@@ -48,7 +48,8 @@
     "renovation",
     "addition",
     "adu",
-    "general contractor"
+    "general contractor",
+    "bathroom"
   ],
   "pest-control": [
     "exterminator",
@@ -107,5 +108,11 @@
   "window-cleaning": [
     "window washing",
     "window washer"
+  ],
+  "eye-doctor": [
+    "optometrist"
+  ],
+  "lawyer": [
+    "real estate attorney"
   ]
 }
