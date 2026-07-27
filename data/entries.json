@@ -1177,6 +1177,31 @@
     "mention_count": 1
   },
   {
+    "id": "beetroot",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Beetroot",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Beetroot was really amazing. The food was delicious, super healthy and the presentation was so stunning as well.",
+        "by": "Swapna",
+        "date": "2026-07-26",
+        "msg_id": "3A500740D3B4497B8A47",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1
+  },
+  {
     "id": "bundoo-khan",
     "category": "catering",
     "categories": [
