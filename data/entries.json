@@ -656,6 +656,31 @@
     "mention_count": 2
   },
   {
+    "id": "100-hand-car-wash",
+    "category": "car wash",
+    "categories": [
+      "car wash"
+    ],
+    "name": "100% Hand Car Wash",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I have used 100% Hand Car Wash and they did a decent job.",
+        "by": "Shveta",
+        "date": "2026-07-28",
+        "msg_id": "3AFAA911F0841274B482",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "mention_count": 1
+  },
+  {
     "id": "samarth",
     "category": "care services",
     "categories": [
@@ -2347,6 +2372,33 @@
     ],
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-25",
+    "mention_count": 1
+  },
+  {
+    "id": "gary-taylor",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Gary Taylor",
+    "contact": {
+      "phones": [
+        "(408) 390-5670"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Gary Taylor (+1 (408) 390-5670)",
+        "by": "Komal",
+        "date": "2026-07-27",
+        "msg_id": "4A3E9B59E410EC98F530",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
     "mention_count": 1
   },
   {
@@ -6324,6 +6376,33 @@
     "mention_count": 1
   },
   {
+    "id": "barry-sabahad",
+    "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
+    "name": "Barry Sabahad",
+    "contact": {
+      "phones": [
+        "(310) 995-7400"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Barry Sabahad (+1 (310) 995-7400)",
+        "by": "Rashmi",
+        "date": "2026-07-27",
+        "msg_id": "4A6E5869ECECA41DECB8",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "mention_count": 1
+  },
+  {
     "id": "cyrus-mehta",
     "category": "lawyer",
     "categories": [
@@ -8801,6 +8880,33 @@
     ],
     "first_seen": "2026-04-21",
     "last_seen": "2026-04-21",
+    "mention_count": 1
+  },
+  {
+    "id": "team-abigail",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Team Abigail",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://teamabigail.com/RealtorWebPage"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Sorry should have sent her link https://teamabigail.com/RealtorWebPage",
+        "by": "Sonal",
+        "date": "2026-07-27",
+        "msg_id": "3A255774DE5373D765B2",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
     "mention_count": 1
   },
   {
