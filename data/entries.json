@@ -1304,6 +1304,58 @@
     "mention_count": 1
   },
   {
+    "id": "jude",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Jude",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Highly recommend Jude !!!",
+        "by": "Daizy",
+        "date": "2026-07-28",
+        "msg_id": "AC220FC5FD2791917F0566263CCF0CD6",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "mention_count": 1
+  },
+  {
+    "id": "jude-s-desi-khana",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Jude's Desi Khana",
+    "contact": {
+      "phones": [
+        "(925) 895-9886"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Culinary graduate well versed in Indian cuisine available to cook in the comfort of your home.Good knowledge of other cuisine as well.Healthy and great tasting food.Call Jude @ 925-895-9886 to chat\nYelp Reviews-Jude’s Desi Khana.",
+        "by": "Daizy",
+        "date": "2026-07-28",
+        "msg_id": "AC5B81BA78CB97E31D8CD4AE135DDEE1",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "mention_count": 1
+  },
+  {
     "id": "komal-s-gourmet-kitchen",
     "category": "catering",
     "categories": [
@@ -6589,6 +6641,33 @@
     ],
     "first_seen": "2026-01-10",
     "last_seen": "2026-01-10",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3343979246",
+    "category": "massage",
+    "categories": [
+      "massage"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://ayurvedamrut.us/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "A friend runs this Ayurvedic center. Have not personally tried it but you can check it out https://ayurvedamrut.us/",
+        "by": "Shweta",
+        "date": "2026-07-28",
+        "msg_id": "3AA34D3A979246C7D426",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
     "mention_count": 1
   },
   {

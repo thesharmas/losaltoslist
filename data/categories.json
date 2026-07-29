@@ -19,9 +19,9 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 25,
+    "entry_count": 27,
     "query_count": 23,
-    "last_activity": "2026-07-26"
+    "last_activity": "2026-07-28"
   },
   {
     "slug": "doctor",
@@ -296,6 +296,14 @@
     "last_activity": "2026-01-23"
   },
   {
+    "slug": "massage",
+    "name": "Massage",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-07-28"
+  },
+  {
     "slug": "real-estate-agent",
     "name": "Real Estate Agent",
     "emoji": "🏡",
@@ -430,14 +438,6 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-06-03"
-  },
-  {
-    "slug": "massage",
-    "name": "Massage",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 2,
-    "last_activity": "2026-07-04"
   },
   {
     "slug": "painter",
@@ -1046,6 +1046,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-06-14"
+  },
+  {
+    "slug": "bike-repair",
+    "name": "Bike Repair",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-07-29"
   },
   {
     "slug": "business-broker",
