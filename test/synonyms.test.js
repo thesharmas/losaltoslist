@@ -118,3 +118,24 @@ describe("synonym analytics", () => {
     expect(ev[0].props).toMatchObject({ query: "landscap", results_count: 2, synonyms: false });
   });
 });
+
+// The shipped data file, not a fixture: every key must be slugify(category)
+// of a category that actually appears in entries.json, or the site silently
+// ignores it (the weekly cron once appended "eye-doctor" when the real
+// category was "optician", and the synonym was dead on arrival).
+describe("data/synonyms.json integrity", () => {
+  test("every synonym key maps to a category present in entries.json", async () => {
+    const { readFileSync } = await import("node:fs");
+    const synonyms = JSON.parse(readFileSync(new URL("../data/synonyms.json", import.meta.url), "utf8"));
+    const entries = JSON.parse(readFileSync(new URL("../data/entries.json", import.meta.url), "utf8"));
+
+    const slugify = (s) => String(s).toLowerCase().trim().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    const slugs = new Set();
+    for (const e of entries) {
+      for (const c of e.categories || (e.category ? [e.category] : [])) slugs.add(slugify(c));
+    }
+
+    const dead = Object.keys(synonyms).filter((k) => !k.startsWith("_") && !slugs.has(k));
+    expect(dead).toEqual([]);
+  });
+});

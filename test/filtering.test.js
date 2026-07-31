@@ -118,6 +118,39 @@ describe("empty state", () => {
     expect(ctx.$("#search").value).toBe("");
     expect(ctx.$$(".card:not(.skeleton)").length).toBe(5);
   });
+
+  test("category-scoped search with matches elsewhere offers to widen, keeping the query", async () => {
+    const ctx = await boot();
+    ctx.$$("#chips .chip").find((c) => c.dataset.slug === "tutoring").click();
+    await search(ctx, "plumbers");
+
+    // no tutors match, but Bay Plumbers exists outside the filter
+    expect(ctx.$(".notice h3").textContent).toContain("in Tutoring");
+    expect(ctx.$(".notice p").textContent).toContain("1 name matches");
+
+    ctx.$("#widen").click();
+    expect(ctx.$("#search").value).toBe("plumbers"); // query survives
+    expect(titles(ctx.$$)).toEqual(["Bay Plumbers"]);
+  });
+
+  test("category-scoped search with no matches anywhere falls back to the plain notice", async () => {
+    const ctx = await boot();
+    ctx.$$("#chips .chip").find((c) => c.dataset.slug === "tutoring").click();
+    await search(ctx, "zzzznomatch");
+    expect(ctx.$(".notice h3").textContent).toContain("Nobody on the list — yet");
+    expect(ctx.$("#widen")).toBeFalsy();
+  });
+
+  test("search_no_results carries the active category_slug so dead-search mining can skip it", async () => {
+    const calls = [];
+    const ctx = await boot({ posthog: calls });
+    ctx.$$("#chips .chip").find((c) => c.dataset.slug === "tutoring").click();
+    await search(ctx, "plumbers");
+    await delay(1200); // trackSearch fires 1100ms after the typing pause
+    const ev = calls.filter((c) => c.name === "search_no_results");
+    expect(ev.length).toBe(1);
+    expect(ev[0].props).toEqual({ query: "plumbers", category_slug: "tutoring" });
+  });
 });
 
 describe("result count", () => {

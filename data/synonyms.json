@@ -1,5 +1,6 @@
 {
   "_about": "Search synonyms: category slug -> extra words/phrases the search matches for that category's entries. Curated by hand + appended (merge-only) by the weekly synonyms cron, which mines zero-result searches. NOT rewritten by the daily data export. Keys starting with _ are ignored by the site.",
+  "_rule": "Every key must be slugify(category) of a category that actually appears in entries.json (lowercase, non-alphanumerics -> hyphens), or the site silently ignores it. Cron: validate keys against entries.json before appending, and skip zero-result searches that fired while a category filter was active (search/search_no_results events carry a category_slug property).",
   "landscaper": [
     "irrigation",
     "sprinkler",
@@ -49,7 +50,9 @@
     "addition",
     "adu",
     "general contractor",
-    "bathroom"
+    "bathroom",
+    "fireplace",
+    "skylight"
   ],
   "pest-control": [
     "exterminator",
@@ -70,7 +73,10 @@
     "house cleaning",
     "housekeeping",
     "maid",
-    "deep clean"
+    "deep clean",
+    "pressure wash",
+    "pressure washing",
+    "power wash"
   ],
   "appliance-repair": [
     "washer",
@@ -109,10 +115,35 @@
     "window washing",
     "window washer"
   ],
-  "eye-doctor": [
-    "optometrist"
+  "optician": [
+    "optometrist",
+    "eye doctor",
+    "eye exam",
+    "glasses"
   ],
   "lawyer": [
     "real estate attorney"
+  ],
+  "insurance": [
+    "broker",
+    "insurance broker"
+  ],
+  "party-service": [
+    "party helper",
+    "helper"
+  ],
+  "hair-stylist": [
+    "haircut",
+    "barber",
+    "salon"
+  ],
+  "handyman": [
+    "carpenter",
+    "carpentry"
+  ],
+  "tailor": [
+    "blouse",
+    "alterations",
+    "seamstress"
   ]
 }

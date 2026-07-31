@@ -1222,7 +1222,33 @@
     el.grid.innerHTML = s;
   }
 
+  // How many entries match the query board-wide, ignoring the category filter.
+  // Lets the empty state offer "search everywhere" instead of a dead end when
+  // the search is scoped to a chip (e.g. typing "plumber" with Contractor on).
+  function matchesIgnoringCategory(q) {
+    var list = state.entries.filter(function (e) { return exactMatch(e, q); });
+    if (!list.length) {
+      var qTokens = words(q);
+      if (qTokens.length) list = state.entries.filter(function (e) { return fuzzyMatch(e, qTokens); });
+    }
+    return list.length;
+  }
+
   function renderEmpty() {
+    var q = state.query.toLowerCase();
+    var elsewhere = q && state.activeCat ? matchesIgnoringCategory(q) : 0;
+    if (elsewhere) {
+      var cat = state.catBySlug[state.activeCat];
+      el.grid.innerHTML =
+        '<div class="notice"><h3>Nobody on the list — in ' + esc(cat ? cat.name : "this category") + ".</h3>" +
+        "<p><b>" + elsewhere + "</b> " + (elsewhere === 1 ? "name matches" : "names match") +
+        " “" + esc(state.query) + "” elsewhere on the board.</p>" +
+        '<button type="button" id="widen">Search the whole board</button></div>';
+      document.getElementById("widen").addEventListener("click", function () {
+        setCategory(null); // drop the filter, keep the query
+      });
+      return;
+    }
     el.grid.innerHTML =
       '<div class="notice"><h3>Nobody on the list — yet.</h3>' +
       "<p>No listing matches that search. Try a broader term, or clear the filters to see the whole board.</p>" +
@@ -1271,8 +1297,10 @@
       synBySlug = saved;
       fuzzyActive = fz;
     }
-    track("search", { query: q, results_count: n, fuzzy: fz, synonyms: syn });
-    if (n === 0) track("search_no_results", { query: q });
+    // category_slug lets the synonyms cron tell a vocabulary gap apart from a
+    // search that came up empty only because a category chip was narrowing it.
+    track("search", { query: q, results_count: n, fuzzy: fz, synonyms: syn, category_slug: state.activeCat || null });
+    if (n === 0) track("search_no_results", { query: q, category_slug: state.activeCat || null });
   }
 
   var t;
