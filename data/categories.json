@@ -4,8 +4,8 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 29,
-    "query_count": 36,
-    "last_activity": "2026-07-22"
+    "query_count": 37,
+    "last_activity": "2026-07-31"
   },
   {
     "slug": "contractor",
@@ -40,20 +40,20 @@
     "last_activity": "2026-07-25"
   },
   {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 13,
+    "query_count": 19,
+    "last_activity": "2026-07-31"
+  },
+  {
     "slug": "plumber",
     "name": "Plumber",
     "emoji": "🔧",
     "entry_count": 13,
     "query_count": 18,
     "last_activity": "2026-07-13"
-  },
-  {
-    "slug": "cleaner",
-    "name": "Cleaner",
-    "emoji": "🧹",
-    "entry_count": 12,
-    "query_count": 18,
-    "last_activity": "2026-07-23"
   },
   {
     "slug": "nanny",
@@ -136,6 +136,14 @@
     "last_activity": "2026-07-27"
   },
   {
+    "slug": "insurance",
+    "name": "Insurance",
+    "emoji": "🛡️",
+    "entry_count": 5,
+    "query_count": 7,
+    "last_activity": "2026-07-31"
+  },
+  {
     "slug": "tree-service",
     "name": "Tree Service",
     "emoji": "🌳",
@@ -182,14 +190,6 @@
     "entry_count": 4,
     "query_count": 7,
     "last_activity": "2026-07-02"
-  },
-  {
-    "slug": "insurance",
-    "name": "Insurance",
-    "emoji": "🛡️",
-    "entry_count": 5,
-    "query_count": 6,
-    "last_activity": "2026-07-31"
   },
   {
     "slug": "photographer",

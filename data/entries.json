@@ -1760,6 +1760,42 @@
     "mention_count": 3
   },
   {
+    "id": "lucila-hernandez",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Lucila Hernandez",
+    "contact": {
+      "phones": [
+        "(650) 771-1056"
+      ],
+      "emails": [],
+      "websites": [
+        "https://serbiz.me/lucyscleaning"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Lucila and crew have been doing a great job for us for the past 3 years",
+        "by": "Kalpana",
+        "date": "2026-06-15",
+        "msg_id": "3A4E6E5A7FA760DFF27E",
+        "type": "contact"
+      },
+      {
+        "quote": "+1 (650) 771-1056 Lucy is good",
+        "by": "Priya",
+        "date": "2026-07-31",
+        "msg_id": "3A1396C7A052A83A6F58",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-07-31",
+    "mention_count": 2
+  },
+  {
     "id": "lucy",
     "category": "cleaner",
     "categories": [
@@ -1911,32 +1947,30 @@
     "mention_count": 1
   },
   {
-    "id": "lucila-hernandez",
+    "id": "gloria",
     "category": "cleaner",
     "categories": [
       "cleaner"
     ],
-    "name": "Lucila Hernandez",
+    "name": "Gloria",
     "contact": {
       "phones": [
-        "(650) 771-1056"
+        "(650) 814-5288"
       ],
       "emails": [],
-      "websites": [
-        "https://serbiz.me/lucyscleaning"
-      ]
+      "websites": []
     },
     "mentions": [
       {
-        "quote": "Lucila and crew have been doing a great job for us for the past 3 years",
-        "by": "Kalpana",
-        "date": "2026-06-15",
-        "msg_id": "3A4E6E5A7FA760DFF27E",
+        "quote": "Gloria (650) 814-5288 has been coming to us for 25+ years and is superb - cleans the inside and outside (windows, etc) of our single story home. She is very trustworthy, reliable and cleans with an eye to detail. Gloria does a great job but is not cheap - she needs to live in this area and is wor...",
+        "by": "Anita",
+        "date": "2026-07-31",
+        "msg_id": "3AC920D14C1AD7650AA2",
         "type": "contact"
       }
     ],
-    "first_seen": "2026-06-15",
-    "last_seen": "2026-06-15",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
     "mention_count": 1
   },
   {
