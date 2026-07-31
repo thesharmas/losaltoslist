@@ -5778,6 +5778,38 @@
     "mention_count": 1
   },
   {
+    "id": "brian-butler-nfp",
+    "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
+    "name": "Brian Butler (NFP, an Aon Company)",
+    "contact": {
+      "phones": [
+        "(415) 527-0372",
+        "(510) 708-9474"
+      ],
+      "emails": [
+        "Brian.Butler@nfp.com"
+      ],
+      "websites": [
+        "https://www.nfp.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Brian helped me with my insurance needs - highly recommended",
+        "by": "Rohit",
+        "date": "2026-07-31",
+        "msg_id": "manual-2026-07-31-brian-butler",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "mention_count": 1
+  },
+  {
     "id": "inf-plans",
     "category": "insurance",
     "categories": [
