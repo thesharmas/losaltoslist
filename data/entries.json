@@ -5812,6 +5812,33 @@
     "mention_count": 1
   },
   {
+    "id": "brian-butler",
+    "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
+    "name": "Brian Butler",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://losaltos.space/e/brian-butler-nfp.html"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://losaltos.space/e/brian-butler-nfp.html",
+        "by": "Rohit",
+        "date": "2026-08-01",
+        "msg_id": "3AA68D35AECD9631DCD6",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
     "id": "brian-butler-nfp",
     "category": "insurance",
     "categories": [
@@ -5841,6 +5868,31 @@
     ],
     "first_seen": "2026-07-31",
     "last_seen": "2026-07-31",
+    "mention_count": 1
+  },
+  {
+    "id": "chubbs",
+    "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
+    "name": "Chubbs",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Brian was great - we got signed up with chubbs",
+        "by": "Rohit",
+        "date": "2026-08-01",
+        "msg_id": "3A5D21648BEB41D99589",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
     "mention_count": 1
   },
   {
