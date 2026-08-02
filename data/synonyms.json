@@ -145,5 +145,13 @@
     "blouse",
     "alterations",
     "seamstress"
+  ],
+  "dog-walking": [
+    "dog sitter",
+    "dog sitting"
+  ],
+  "college-counseling": [
+    "college counselors",
+    "college advisor"
   ]
 }
