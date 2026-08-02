@@ -381,6 +381,31 @@
     "mention_count": 1
   },
   {
+    "id": "ayurhitam",
+    "category": "ayurvedic massage",
+    "categories": [
+      "ayurvedic massage"
+    ],
+    "name": "Ayurhitam",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ayurhitam. They now offer services in Sunnyvale too.",
+        "by": "Purnima",
+        "date": "2026-08-01",
+        "msg_id": "3AE75E26B9B9A215D045",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
     "id": "brandy",
     "category": "babysitter",
     "categories": [

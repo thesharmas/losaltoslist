@@ -856,6 +856,14 @@
     "last_activity": "2026-02-07"
   },
   {
+    "slug": "ayurvedic-massage",
+    "name": "Ayurvedic Massage",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-08-01"
+  },
+  {
     "slug": "bakery",
     "name": "Bakery",
     "emoji": "📌",
@@ -1262,6 +1270,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-04-13"
+  },
+  {
+    "slug": "notary-service",
+    "name": "Notary Service",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-01"
   },
   {
     "slug": "ophthalmologist",
