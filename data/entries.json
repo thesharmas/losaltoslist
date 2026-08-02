@@ -115,7 +115,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/GyyFSNZg-E"
+        "https://www.yelp.com/biz/west-valley-arborists-campbell-6"
       ]
     },
     "mentions": [
@@ -437,17 +437,17 @@
     "mention_count": 1
   },
   {
-    "id": "unnamed-3332557197",
+    "id": "we-set-the-bar-oakland",
     "category": "bartender",
     "categories": [
       "bartender"
     ],
-    "name": null,
+    "name": "We Set The Bar Oakland",
     "contact": {
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/O-Os-dV3Lw"
+        "https://www.yelp.com/biz/we-set-the-bar-oakland"
       ]
     },
     "mentions": [
@@ -556,7 +556,7 @@
       "emails": [],
       "websites": [
         "https://yelp.to/RAbj-s5gZD(previously",
-        "https://yelp.to/qfSaOG3u_Z"
+        "https://www.yelp.com/biz/caliber-collision-mountain-view-2"
       ]
     },
     "mentions": [
@@ -894,7 +894,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/4Jc1v17s54"
+        "https://www.yelp.com/biz/biosteam-carpet-care-half-moon-bay-2"
       ]
     },
     "mentions": [
@@ -1479,7 +1479,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/tV2MxEPvY9"
+        "https://www.yelp.com/biz/chatori-chaat-santa-clara"
       ]
     },
     "mentions": [
@@ -3465,7 +3465,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/GrAlBvGEjM"
+        "https://www.yelp.com/biz/isight-care-inc-los-altos-2"
       ]
     },
     "mentions": [
@@ -3848,6 +3848,33 @@
     "mention_count": 1
   },
   {
+    "id": "isight-care-inc-los-altos",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Isight Care Inc Los Altos",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/isight-care-inc-los-altos-2"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Highly recommend https://yelp.to/FQD9b-BsdT",
+        "by": "Swati",
+        "date": "2026-06-13",
+        "msg_id": "3A515CC248E202025E27",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "mention_count": 1
+  },
+  {
     "id": "kristine-miller",
     "category": "doctor",
     "categories": [
@@ -3897,33 +3924,6 @@
     ],
     "first_seen": "2026-06-29",
     "last_seen": "2026-06-29",
-    "mention_count": 1
-  },
-  {
-    "id": "unnamed-3515248202",
-    "category": "doctor",
-    "categories": [
-      "doctor"
-    ],
-    "name": null,
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://yelp.to/FQD9b-BsdT"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "Highly recommend https://yelp.to/FQD9b-BsdT",
-        "by": "Swati",
-        "date": "2026-06-13",
-        "msg_id": "3A515CC248E202025E27",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
     "mention_count": 1
   },
   {
@@ -4460,6 +4460,33 @@
     "mention_count": 1
   },
   {
+    "id": "christmas-light-pros-chris-george-los-altos",
+    "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
+    "name": "Christmas Light Pros Chris George Los Altos",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/christmas-light-pros-chris-george-los-altos"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We hired them a few years ago to hang up half a dozen string lights. They were very precise, neat, and knowledgeable. We use our lights many times a year and everyone comments on how it has enhanced our backyard.",
+        "by": "Priyanka",
+        "date": "2026-03-31",
+        "msg_id": "3AF26C4AC45ECC4AD839",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
+    "mention_count": 1
+  },
+  {
     "id": "edgar",
     "category": "electrician",
     "categories": [
@@ -4667,33 +4694,6 @@
     ],
     "first_seen": "2026-06-01",
     "last_seen": "2026-06-01",
-    "mention_count": 1
-  },
-  {
-    "id": "unnamed-3264454839",
-    "category": "electrician",
-    "categories": [
-      "electrician"
-    ],
-    "name": null,
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://yelp.to/d3kpbRDE3s"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "We hired them a few years ago to hang up half a dozen string lights. They were very precise, neat, and knowledgeable. We use our lights many times a year and everyone comments on how it has enhanced our backyard.",
-        "by": "Priyanka",
-        "date": "2026-03-31",
-        "msg_id": "3AF26C4AC45ECC4AD839",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-03-31",
     "mention_count": 1
   },
   {
@@ -5452,7 +5452,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/PXMKchJkgt"
+        "https://www.yelp.com/biz/krsto-salon-los-altos"
       ]
     },
     "mentions": [
@@ -7216,7 +7216,7 @@
       "phones": [],
       "emails": [],
       "websites": [
-        "https://yelp.to/s0a_KRIuR_"
+        "https://www.yelp.com/biz/madalena-personal-organizer-pleasanton-2"
       ]
     },
     "mentions": [
@@ -7708,6 +7708,40 @@
     "mention_count": 1
   },
   {
+    "id": "all-service-center-sunnyvale",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": "All Service Center Sunnyvale",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/all-service-center-sunnyvale-2"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "These guys used to do $4 notary, not sure now \nhttps://yelp.to/e6eRr0TJhw",
+        "by": "Shrenik",
+        "date": "2026-08-01",
+        "msg_id": "3AA2D08F50C1DA7ABD55",
+        "type": "contact"
+      },
+      {
+        "quote": "These guys are super fast. $5 with credit card. $4 or $4.5 with cash and telo checkin is what it used to be.",
+        "by": "Panduranga",
+        "date": "2026-08-02",
+        "msg_id": "ACDAF35870F7626E8D402A5C3309C352",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-02",
+    "mention_count": 2
+  },
+  {
     "id": "bank-of-america",
     "category": "notary",
     "categories": [
@@ -7813,60 +7847,6 @@
     ],
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
-    "mention_count": 1
-  },
-  {
-    "id": "unnamed-3208501755",
-    "category": "notary",
-    "categories": [
-      "notary"
-    ],
-    "name": null,
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://yelp.to/e6eRr0TJhw"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "These guys used to do $4 notary, not sure now \nhttps://yelp.to/e6eRr0TJhw",
-        "by": "Shrenik",
-        "date": "2026-08-01",
-        "msg_id": "3AA2D08F50C1DA7ABD55",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "mention_count": 1
-  },
-  {
-    "id": "unnamed-3587076268",
-    "category": "notary",
-    "categories": [
-      "notary"
-    ],
-    "name": null,
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://yelp.to/e6eRr0TJhw"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "These guys are super fast. $5 with credit card. $4 or $4.5 with cash and telo checkin is what it used to be.",
-        "by": "Panduranga",
-        "date": "2026-08-02",
-        "msg_id": "ACDAF35870F7626E8D402A5C3309C352",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-02",
     "mention_count": 1
   },
   {

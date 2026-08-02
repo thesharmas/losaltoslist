@@ -176,14 +176,6 @@
     "last_activity": "2026-06-30"
   },
   {
-    "slug": "notary",
-    "name": "Notary",
-    "emoji": "📌",
-    "entry_count": 7,
-    "query_count": 1,
-    "last_activity": "2026-08-02"
-  },
-  {
     "slug": "tailor",
     "name": "Tailor",
     "emoji": "🪡",
@@ -198,6 +190,14 @@
     "entry_count": 4,
     "query_count": 7,
     "last_activity": "2026-07-02"
+  },
+  {
+    "slug": "notary",
+    "name": "Notary",
+    "emoji": "📌",
+    "entry_count": 6,
+    "query_count": 1,
+    "last_activity": "2026-08-02"
   },
   {
     "slug": "photographer",
