@@ -114,7 +114,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/GyyFSNZg-E"
+      ]
     },
     "mentions": [
       {
@@ -381,31 +383,6 @@
     "mention_count": 1
   },
   {
-    "id": "ayurhitam",
-    "category": "ayurvedic massage",
-    "categories": [
-      "ayurvedic massage"
-    ],
-    "name": "Ayurhitam",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Ayurhitam. They now offer services in Sunnyvale too.",
-        "by": "Purnima",
-        "date": "2026-08-01",
-        "msg_id": "3AE75E26B9B9A215D045",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "mention_count": 1
-  },
-  {
     "id": "brandy",
     "category": "babysitter",
     "categories": [
@@ -457,6 +434,33 @@
     ],
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3332557197",
+    "category": "bartender",
+    "categories": [
+      "bartender"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://yelp.to/O-Os-dV3Lw"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://yelp.to/O-Os-dV3Lw - we recently had them bartend a backyard party.",
+        "by": "Kedar",
+        "date": "2026-06-17",
+        "msg_id": "3ACB3325C5719D7CB69F",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
     "mention_count": 1
   },
   {
@@ -550,7 +554,10 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/RAbj-s5gZD(previously",
+        "https://yelp.to/qfSaOG3u_Z"
+      ]
     },
     "mentions": [
       {
@@ -690,7 +697,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/maps?q=100%25+Hand+Car+Wash,+21855+Homestead+Rd,+Sunnyvale,+CA+94087&ftid=0x808fb422eecd73d1:0x7ef20d42fe079c37&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247&g_ep=CAISEjI2LjI5LjEuOTQ2NjczNjQzMBgAIIgnKlMsOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0N0ICVVM%3D&skid=ff45b0a1-49fb-4fe7-af59-67757d7099fe&g_st=ic"
+      ]
     },
     "mentions": [
       {
@@ -884,7 +893,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/4Jc1v17s54"
+      ]
     },
     "mentions": [
       {
@@ -1467,7 +1478,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/tV2MxEPvY9"
+      ]
     },
     "mentions": [
       {
@@ -1755,7 +1768,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/search?kgmid=/g/1td7tf04&hl=en-US&q=Sequoia+Cleaning+Inc.&shem=epsd1,ltae,rimspwouoe&shndl=30&source=sh/x/loc/osrp/m1/3&kgs=910914b6ba3f126f&utm_source=epsd1,ltae,rimspwouoe,sh/x/loc/osrp/m1/3"
+      ]
     },
     "mentions": [
       {
@@ -1956,7 +1971,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/maps?q=Calvey+Heating+and+Air,+247+E+St+John+St,+San+Jose,+CA+95112&ftid=0x808fb127dc956d4b:0xeaddd70dd1c36392&entry=gps&shh=CAE&lucs=,94297699,94275415,94284505,94231188,94280568,47071704,94218641,94282134,94286869,100796593&g_ep=CAISEjI1LjQ3LjAuODMzNTQyOTMwMBgAIIgnKlssOTQyOTc2OTksOTQyNzU0MTUsOTQyODQ1MDUsOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjksMTAwNzk2NTkzQgJVUw%3D%3D&skid=5b88575a-9172-4390-854c-32b776670536&g_st=ic"
+      ]
     },
     "mentions": [
       {
@@ -2927,6 +2944,33 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-4272687458",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/search?sca_esv=1cbbef248ef25653&rlz=1CDGOYI_enUS1157US1157&hl=en-US&sxsrf=ANbL-n4_0HQsigraalHhR_xGzC_2XbJDbQ:1774466403056&kgmid=/g/11yhqxzscd&q=BMS+Garage+Doors+And+Gates&shem=epsdc&shndl=30&source=sh/x/loc/act/m1/3&kgs=1e6db29453c39655&utm_source=epsdc,sh/x/loc/act/m1/3"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We have used them for garage motor and springs and appreciated their service and pricing.",
+        "by": "Garima",
+        "date": "2026-03-25",
+        "msg_id": "4A2D72687A4D5BB8186E",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-03-25",
+    "last_seen": "2026-03-25",
+    "mention_count": 1
+  },
+  {
     "id": "jasveer-aunty",
     "category": "cook",
     "categories": [
@@ -3250,6 +3294,34 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-48138292",
+    "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Affinity+Dental,+1350+Grant+Rd+Suite+15,+Mountain+View,+CA+94040&ftid=0x808fb6d6f54e2215:0x7c1fde2a9360c186&entry=gps&lucs=,94297699,94275415,94284493,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAINeCAypRLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDkzLDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVUw%3D%3D&skid=445ff68c-0c29-43f0-a126-d59a21d4b253",
+        "https://www.google.com/maps?q=Affinity+Dental,+1350+Grant+Rd+Suite+15,+Mountain+View,+CA+94040&ftid=0x808fb6d6f54e2215:0x7c1fde2a9360c186&entry=gps&lucs=,94297699,94275415,94284493,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjAyLjQuODUyMzYyMzU0MRgAINeCAypRLDk0Mjk3Njk5LDk0Mjc1NDE1LDk0Mjg0NDkzLDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVUw%3D%3D&skid=445ff68c-0c29-43f0-a126-d59a21d4b253&g_st=iw"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://maps.app.goo.gl/sYKrnZmwiPyMxWtC9?g_st=iw",
+        "by": "Shilpa",
+        "date": "2026-01-20",
+        "msg_id": "4A8BE138BDEEF2D9BA2D",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "mention_count": 1
+  },
+  {
     "id": "dj-sunny-sfo",
     "category": "dj",
     "categories": [
@@ -3392,7 +3464,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/GrAlBvGEjM"
+      ]
     },
     "mentions": [
       {
@@ -3826,6 +3900,33 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-3515248202",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://yelp.to/FQD9b-BsdT"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Highly recommend https://yelp.to/FQD9b-BsdT",
+        "by": "Swati",
+        "date": "2026-06-13",
+        "msg_id": "3A515CC248E202025E27",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "mention_count": 1
+  },
+  {
     "id": "paw-walkers",
     "category": "dog walking",
     "categories": [
@@ -4121,6 +4222,33 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-3337153606",
+    "category": "dry cleaning",
+    "categories": [
+      "dry cleaning"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Sands+Cleaners,+375+Saratoga+Ave+F,+San+Jose,+CA+95129&ftid=0x808fca931c986e87:0xf10df2c2b91cd2ca&entry=gps&shh=CAE&lucs=,94297699,94284463,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjE3LjIuOTAyNzg4MTI0MBgAINeCAypILDk0Mjk3Njk5LDk0Mjg0NDYzLDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5QgJVUw%3D%3D&skid=a34880c0-7678-42a2-b128-0e32118e90c0&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://maps.app.goo.gl/gC5K9d3h1AS4vvgX8?g_st=ic",
+        "by": "Suresh",
+        "date": "2026-04-30",
+        "msg_id": "3A3DE37B1536F060720D",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "mention_count": 1
+  },
+  {
     "id": "vogue-cleaners",
     "category": "dry cleaning",
     "categories": [
@@ -4130,7 +4258,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/maps?q=Vogue+Cleaners,+595+Escuela+Ave,+Mountain+View,+CA+94040&ftid=0x808fb0b826ed57a3:0x7d9b88c4b759f9dc&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjE3LjIuOTAyNzg4MTI0MBgAIIgnKj8sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjlCAlVT&skid=877e498c-72e4-4dfb-9e8b-f6a73507fa13&g_st=ic"
+      ]
     },
     "mentions": [
       {
@@ -4416,7 +4546,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/search?client=safari&hs=rf19&sa=X&sca_esv=ebc9003c0e8ff0d8&hl=en-us&biw=440&bih=742&sxsrf=ANbL-n5Hsjv09aUU0vU4Gh_zBQxDGtnouQ:1771201862394&kgmid=/g/11s0q0cfqg&q=Barker+Tech&shndl=30&source=sh/x/loc/act/m1/3&kgs=a2f469d0d0a733f7&shem=shrtsdl&utm_source=shrtsdl,sh/x/loc/act/m1/3"
+      ]
     },
     "mentions": [
       {
@@ -4535,6 +4667,33 @@
     ],
     "first_seen": "2026-06-01",
     "last_seen": "2026-06-01",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3264454839",
+    "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://yelp.to/d3kpbRDE3s"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We hired them a few years ago to hang up half a dozen string lights. They were very precise, neat, and knowledgeable. We use our lights many times a year and everyone comments on how it has enhanced our backyard.",
+        "by": "Priyanka",
+        "date": "2026-03-31",
+        "msg_id": "3AF26C4AC45ECC4AD839",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-03-31",
     "mention_count": 1
   },
   {
@@ -5060,7 +5219,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://thegardencluboflosaltos.org/"
+      ]
     },
     "mentions": [
       {
@@ -5290,7 +5451,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/PXMKchJkgt"
+      ]
     },
     "mentions": [
       {
@@ -6787,6 +6950,31 @@
     "mention_count": 1
   },
   {
+    "id": "ayurhitam",
+    "category": "massage",
+    "categories": [
+      "massage"
+    ],
+    "name": "Ayurhitam",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ayurhitam. They now offer services in Sunnyvale too.",
+        "by": "Purnima",
+        "date": "2026-08-01",
+        "msg_id": "3AE75E26B9B9A215D045",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
     "id": "unnamed-3343979246",
     "category": "massage",
     "categories": [
@@ -7027,7 +7215,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://yelp.to/s0a_KRIuR_"
+      ]
     },
     "mentions": [
       {
@@ -7518,6 +7708,193 @@
     "mention_count": 1
   },
   {
+    "id": "bank-of-america",
+    "category": "notary",
+    "categories": [
+      "notary",
+      "storage rental"
+    ],
+    "name": "Bank of America",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Bank of America on Castro.",
+        "by": "Sonal",
+        "date": "2026-03-31",
+        "msg_id": "3BF912E2E874C7129228",
+        "type": "contact"
+      },
+      {
+        "quote": "Bank of America provides free notary service for their clients.",
+        "by": "Indu",
+        "date": "2026-08-01",
+        "msg_id": "3ADB79EAFF32D96AB6DD",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-08-01",
+    "mention_count": 2
+  },
+  {
+    "id": "aaa-office",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": "AAA office",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Else AAA office and UPS provide the service as well",
+        "by": "Indu",
+        "date": "2026-08-01",
+        "msg_id": "3ADB79EAFF32D96AB6DD",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
+    "id": "star-one-credit-union",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": "Star One Credit Union",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Some credit unions (like Star One) if you’re a member offer free notary services too.",
+        "by": "Vivek",
+        "date": "2026-08-02",
+        "msg_id": "3A67C84391F753221444",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "mention_count": 1
+  },
+  {
+    "id": "town-of-lah",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": "Town of LAH",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Town of LAH provides free notary services to residents but it’s a pain to schedule.",
+        "by": "Daisy",
+        "date": "2026-08-01",
+        "msg_id": "3A5B16866352D8A17612",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3208501755",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://yelp.to/e6eRr0TJhw"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "These guys used to do $4 notary, not sure now \nhttps://yelp.to/e6eRr0TJhw",
+        "by": "Shrenik",
+        "date": "2026-08-01",
+        "msg_id": "3AA2D08F50C1DA7ABD55",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3587076268",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://yelp.to/e6eRr0TJhw"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "These guys are super fast. $5 with credit card. $4 or $4.5 with cash and telo checkin is what it used to be.",
+        "by": "Panduranga",
+        "date": "2026-08-02",
+        "msg_id": "ACDAF35870F7626E8D402A5C3309C352",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "mention_count": 1
+  },
+  {
+    "id": "ups",
+    "category": "notary",
+    "categories": [
+      "notary"
+    ],
+    "name": "UPS",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Else AAA office and UPS provide the service as well",
+        "by": "Indu",
+        "date": "2026-08-01",
+        "msg_id": "3ADB79EAFF32D96AB6DD",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
     "id": "dr-kirstin-woo",
     "category": "obgyn",
     "categories": [
@@ -7530,6 +7907,7 @@
       ],
       "emails": [],
       "websites": [
+        "https://www.google.com/search?sca_esv=23368486d762886d&biw=390&bih=699&sxsrf=ANbL-n6ofNNHkRo_hhZoyasRzRXzNeO49g:1776715405699&kgmid=/g/1v_ncrch&q=El+Camino+Women's+Medical+Group&shndl=30&source=sh/x/loc/act/m1/3&kgs=9ee9fdb85e77f0fc&utm_source=sh/x/loc/act/m1/3",
         "https://stanfordhealthcare.org/doctors/m/kristine-miller.html"
       ]
     },
@@ -9374,31 +9752,6 @@
     ],
     "first_seen": "2026-05-31",
     "last_seen": "2026-05-31",
-    "mention_count": 1
-  },
-  {
-    "id": "bank-of-america",
-    "category": "storage rental",
-    "categories": [
-      "storage rental"
-    ],
-    "name": "Bank of America",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Bank of America on Castro.",
-        "by": "Sonal",
-        "date": "2026-03-31",
-        "msg_id": "3BF912E2E874C7129228",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-03-31",
     "mention_count": 1
   },
   {
@@ -11268,7 +11621,9 @@
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": []
+      "websites": [
+        "https://www.google.com/maps?q=California+Yoga+Center,+1776+Miramonte+Ave,+Mountain+View,+CA+94040&ftid=0x808fb12b9b04a927:0x8a394f4d31dcc5f0&entry=gps&shh=CAE&lucs=,94297699,100808504,94231188,94280568,47071704,94218641,94282134,94286869&g_ep=CAISEjI2LjEzLjYuODg4MzU5NjE4MBgAINeCAypJLDk0Mjk3Njk5LDEwMDgwODUwNCw5NDIzMTE4OCw5NDI4MDU2OCw0NzA3MTcwNCw5NDIxODY0MSw5NDI4MjEzNCw5NDI4Njg2OUICVVM%3D&skid=fc81fb04-aa27-4b5a-bcd6-1800304734b3&g_st=ic"
+      ]
     },
     "mentions": [
       {

@@ -11,7 +11,7 @@
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
-    "entry_count": 26,
+    "entry_count": 27,
     "query_count": 34,
     "last_activity": "2026-07-27"
   },
@@ -27,7 +27,7 @@
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
-    "entry_count": 16,
+    "entry_count": 17,
     "query_count": 20,
     "last_activity": "2026-07-12"
   },
@@ -67,7 +67,7 @@
     "slug": "electrician",
     "name": "Electrician",
     "emoji": "⚡",
-    "entry_count": 10,
+    "entry_count": 11,
     "query_count": 15,
     "last_activity": "2026-07-12"
   },
@@ -80,20 +80,20 @@
     "last_activity": "2026-07-20"
   },
   {
+    "slug": "dentist",
+    "name": "Dentist",
+    "emoji": "🦷",
+    "entry_count": 9,
+    "query_count": 5,
+    "last_activity": "2026-06-17"
+  },
+  {
     "slug": "architect",
     "name": "Architect",
     "emoji": "📐",
     "entry_count": 8,
     "query_count": 6,
     "last_activity": "2026-07-23"
-  },
-  {
-    "slug": "dentist",
-    "name": "Dentist",
-    "emoji": "🦷",
-    "entry_count": 8,
-    "query_count": 5,
-    "last_activity": "2026-06-17"
   },
   {
     "slug": "insurance",
@@ -176,6 +176,14 @@
     "last_activity": "2026-06-30"
   },
   {
+    "slug": "notary",
+    "name": "Notary",
+    "emoji": "📌",
+    "entry_count": 7,
+    "query_count": 1,
+    "last_activity": "2026-08-02"
+  },
+  {
     "slug": "tailor",
     "name": "Tailor",
     "emoji": "🪡",
@@ -248,12 +256,28 @@
     "last_activity": "2026-07-14"
   },
   {
+    "slug": "dry-cleaning",
+    "name": "Dry Cleaning",
+    "emoji": "👔",
+    "entry_count": 4,
+    "query_count": 3,
+    "last_activity": "2026-05-05"
+  },
+  {
     "slug": "hair-stylist",
     "name": "Hair Stylist",
     "emoji": "📌",
     "entry_count": 4,
     "query_count": 3,
     "last_activity": "2026-06-24"
+  },
+  {
+    "slug": "massage",
+    "name": "Massage",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 3,
+    "last_activity": "2026-08-01"
   },
   {
     "slug": "music-teacher",
@@ -280,28 +304,12 @@
     "last_activity": "2026-06-19"
   },
   {
-    "slug": "dry-cleaning",
-    "name": "Dry Cleaning",
-    "emoji": "👔",
-    "entry_count": 3,
-    "query_count": 3,
-    "last_activity": "2026-05-05"
-  },
-  {
     "slug": "homeowner-insurance",
     "name": "Homeowner Insurance",
     "emoji": "📌",
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-01-23"
-  },
-  {
-    "slug": "massage",
-    "name": "Massage",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 3,
-    "last_activity": "2026-07-28"
   },
   {
     "slug": "real-estate-agent",
@@ -389,7 +397,7 @@
     "emoji": "📌",
     "entry_count": 3,
     "query_count": 1,
-    "last_activity": "2026-03-31"
+    "last_activity": "2026-08-01"
   },
   {
     "slug": "water-softener",
@@ -582,6 +590,14 @@
     "entry_count": 1,
     "query_count": 2,
     "last_activity": "2026-07-19"
+  },
+  {
+    "slug": "bartender",
+    "name": "Bartender",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-06-17"
   },
   {
     "slug": "car-wash",
@@ -856,28 +872,12 @@
     "last_activity": "2026-02-07"
   },
   {
-    "slug": "ayurvedic-massage",
-    "name": "Ayurvedic Massage",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 0,
-    "last_activity": "2026-08-01"
-  },
-  {
     "slug": "bakery",
     "name": "Bakery",
     "emoji": "📌",
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-04-03"
-  },
-  {
-    "slug": "bartender",
-    "name": "Bartender",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 2,
-    "last_activity": "2026-06-17"
   },
   {
     "slug": "care-services",
@@ -1270,14 +1270,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-04-13"
-  },
-  {
-    "slug": "notary-service",
-    "name": "Notary Service",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-08-01"
   },
   {
     "slug": "ophthalmologist",
