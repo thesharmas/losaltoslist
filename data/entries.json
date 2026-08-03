@@ -6237,6 +6237,40 @@
     "mention_count": 4
   },
   {
+    "id": "juarez-design",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Juarez Design",
+    "contact": {
+      "phones": [
+        "(415) 308-4756"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Epifanio Juarez\nJuarez Design\n590 Hassett Lane\nHealdsburg, CA 95448\n415.308.4756",
+        "by": "Hetal",
+        "date": "2026-08-02",
+        "msg_id": "3A833360D8233E4E26DA",
+        "type": "contact"
+      },
+      {
+        "quote": "He has many projects in Los Altos, LAH and Palo Alto / Menlo Park including some temples. He can handle small and large projects",
+        "by": "Hetal",
+        "date": "2026-08-02",
+        "msg_id": "3AAE15F679E96394B881",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "mention_count": 2
+  },
+  {
     "id": "anu",
     "category": "interior design",
     "categories": [
@@ -7466,6 +7500,33 @@
     ],
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
+    "mention_count": 1
+  },
+  {
+    "id": "amandeep",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Amandeep",
+    "contact": {
+      "phones": [
+        "(408) 312-9962"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My cook, Amandeep, is looking for more hours during the day time, 9am-3pm wiindow. Looking for regular work all/most days a week than something here or there.\n\nShe is a very good cook, can cook chicken too. She also does laundry folding.\n\nShe is also open to nanny job (which she has done in the p...",
+        "by": "Shveta",
+        "date": "2026-08-02",
+        "msg_id": "3AE979432CCBD62CC2D7",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
     "mention_count": 1
   },
   {
@@ -10904,6 +10965,33 @@
     "mention_count": 1
   },
   {
+    "id": "parna-basu",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Parna Basu",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "nritta-katha.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.youtube.com/watch?v=AklB_GswTtw\nMy wife, Parna Basu, is starting classes this fall and I’d would encourage parents to consider a classical pursuit for their children (or yourself).\nThe principles Parna believes in:\n\nPassion over obligation - \nchildren dance because they grow to love i...",
+        "by": "Arnab",
+        "date": "2026-08-02",
+        "msg_id": "3BAF9B4C4DCAD92BE260",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "mention_count": 1
+  },
+  {
     "id": "power-4-pilates",
     "category": "tutoring",
     "categories": [
@@ -11457,6 +11545,47 @@
     "mention_count": 2
   },
   {
+    "id": "mateo",
+    "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
+    "name": "Mateo",
+    "contact": {
+      "phones": [
+        "(650) 318-1305"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Mateo (650) 318-1305",
+        "by": "Monal",
+        "date": "2026-06-07",
+        "msg_id": "3AA3E26AB7FC33CAB3B2",
+        "type": "contact"
+      },
+      {
+        "quote": "I got the recommendation from Monal here for a Mateo who was very professional and good.",
+        "by": "Priya",
+        "date": "2026-08-03",
+        "msg_id": "3A4B1091C2FFB3BC80FE",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Mateo ((650) 318-1305)",
+        "by": "Priya",
+        "date": "2026-08-03",
+        "msg_id": "4AEBF278701104B78540",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-08-03",
+    "mention_count": 3
+  },
+  {
     "id": "america-s-solar-cleaners",
     "category": "window cleaning",
     "categories": [
@@ -11481,6 +11610,33 @@
     ],
     "first_seen": "2026-04-17",
     "last_seen": "2026-04-17",
+    "mention_count": 1
+  },
+  {
+    "id": "hector",
+    "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
+    "name": "Hector",
+    "contact": {
+      "phones": [
+        "(669) 207-9037"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Hector (+1 (669) 207-9037)",
+        "by": "Siddharth",
+        "date": "2026-08-03",
+        "msg_id": "4A03228F33297742BB5F",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
     "mention_count": 1
   },
   {
@@ -11511,33 +11667,6 @@
     "mention_count": 1
   },
   {
-    "id": "mateo",
-    "category": "window cleaning",
-    "categories": [
-      "window cleaning"
-    ],
-    "name": "Mateo",
-    "contact": {
-      "phones": [
-        "(650) 318-1305"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Mateo (650) 318-1305",
-        "by": "Monal",
-        "date": "2026-06-07",
-        "msg_id": "3AA3E26AB7FC33CAB3B2",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "mention_count": 1
-  },
-  {
     "id": "patty-jose",
     "category": "window cleaning",
     "categories": [
@@ -11562,6 +11691,33 @@
     ],
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
+    "mention_count": 1
+  },
+  {
+    "id": "shiny-home-cleaning-services",
+    "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
+    "name": "Shiny home cleaning services",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/shiny-home-cleaning-services-sunnyvale"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I have used Hector from Shiny home cleaning services. For windows they charge around $17 for interior, exterior and screen wash.",
+        "by": "Siddharth",
+        "date": "2026-08-03",
+        "msg_id": "3AF6702456D2FBA3F04A",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
     "mention_count": 1
   },
   {

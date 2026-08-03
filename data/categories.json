@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 29,
-    "query_count": 37,
-    "last_activity": "2026-07-31"
+    "entry_count": 30,
+    "query_count": 38,
+    "last_activity": "2026-08-02"
   },
   {
     "slug": "contractor",
@@ -59,9 +59,9 @@
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
-    "entry_count": 12,
+    "entry_count": 13,
     "query_count": 16,
-    "last_activity": "2026-07-10"
+    "last_activity": "2026-08-02"
   },
   {
     "slug": "electrician",
@@ -128,6 +128,14 @@
     "last_activity": "2026-07-25"
   },
   {
+    "slug": "window-cleaning",
+    "name": "Window Cleaning",
+    "emoji": "🪟",
+    "entry_count": 6,
+    "query_count": 8,
+    "last_activity": "2026-08-03"
+  },
+  {
     "slug": "handyman",
     "name": "Handyman",
     "emoji": "🔨",
@@ -142,6 +150,14 @@
     "entry_count": 5,
     "query_count": 9,
     "last_activity": "2026-07-27"
+  },
+  {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 6,
+    "query_count": 6,
+    "last_activity": "2026-08-02"
   },
   {
     "slug": "tree-service",
@@ -168,28 +184,12 @@
     "last_activity": "2026-06-10"
   },
   {
-    "slug": "interior-design",
-    "name": "Interior Design",
-    "emoji": "🛋️",
-    "entry_count": 5,
-    "query_count": 5,
-    "last_activity": "2026-06-30"
-  },
-  {
     "slug": "tailor",
     "name": "Tailor",
     "emoji": "🪡",
     "entry_count": 3,
     "query_count": 9,
     "last_activity": "2026-07-06"
-  },
-  {
-    "slug": "window-cleaning",
-    "name": "Window Cleaning",
-    "emoji": "🪟",
-    "entry_count": 4,
-    "query_count": 7,
-    "last_activity": "2026-07-02"
   },
   {
     "slug": "notary",
