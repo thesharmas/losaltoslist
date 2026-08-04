@@ -1758,6 +1758,43 @@
     "mention_count": 1
   },
   {
+    "id": "milene-la-torre-mlt-engineering-architectural-design-services",
+    "category": "civil engineer",
+    "categories": [
+      "civil engineer",
+      "structural engineer"
+    ],
+    "name": "Milene La Torre (MLT Engineering & Architectural Design Services)",
+    "contact": {
+      "phones": [
+        "(415) 316-7992"
+      ],
+      "emails": [
+        "mltstructural@gmail.com"
+      ],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Recommended for structural engineering work",
+        "by": "Rohit",
+        "date": "2026-08-04",
+        "msg_id": "manual-2026-08-04-milene-la-torre-mlt-engineering-architectural-design-services",
+        "type": "review"
+      },
+      {
+        "quote": "Recommended for civil engineering work",
+        "by": "Rohit",
+        "date": "2026-08-04",
+        "msg_id": "manual-2026-08-04-mlt-engineering-architectural-design-services",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 2
+  },
+  {
     "id": "sequoia-cleaning-inc",
     "category": "cleaner",
     "categories": [
@@ -3412,6 +3449,33 @@
     ],
     "first_seen": "2026-03-24",
     "last_seen": "2026-03-24",
+    "mention_count": 1
+  },
+  {
+    "id": "parvez-mulla",
+    "category": "dj",
+    "categories": [
+      "dj"
+    ],
+    "name": "Parvez Mulla",
+    "contact": {
+      "phones": [
+        "(360) 421-7362"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Parvez Mulla (+1 (360) 421-7362)",
+        "by": "Alka",
+        "date": "2026-08-03",
+        "msg_id": "3AA9A3EC3635C54E42FF",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
     "mention_count": 1
   },
   {
@@ -10681,6 +10745,31 @@
     ],
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
+    "mention_count": 1
+  },
+  {
+    "id": "aj",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "AJ",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We did have a good experience with AJ.",
+        "by": "Deepali",
+        "date": "2026-08-03",
+        "msg_id": "3AA8F8FE6B7CD1D01DC8",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
     "mention_count": 1
   },
   {

@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 30,
+    "entry_count": 31,
     "query_count": 38,
-    "last_activity": "2026-08-02"
+    "last_activity": "2026-08-03"
   },
   {
     "slug": "contractor",
@@ -192,6 +192,14 @@
     "last_activity": "2026-07-06"
   },
   {
+    "slug": "dj",
+    "name": "Dj",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 4,
+    "last_activity": "2026-08-03"
+  },
+  {
     "slug": "notary",
     "name": "Notary",
     "emoji": "📌",
@@ -246,14 +254,6 @@
     "entry_count": 2,
     "query_count": 7,
     "last_activity": "2026-06-21"
-  },
-  {
-    "slug": "dj",
-    "name": "Dj",
-    "emoji": "📌",
-    "entry_count": 4,
-    "query_count": 3,
-    "last_activity": "2026-07-14"
   },
   {
     "slug": "dry-cleaning",
@@ -832,6 +832,14 @@
     "last_activity": "2026-06-14"
   },
   {
+    "slug": "structural-engineer",
+    "name": "Structural Engineer",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-08-04"
+  },
+  {
     "slug": "swim-lessons",
     "name": "Swim Lessons",
     "emoji": "📌",
@@ -894,6 +902,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-06-13"
+  },
+  {
+    "slug": "civil-engineer",
+    "name": "Civil Engineer",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-08-04"
   },
   {
     "slug": "dance-school",
@@ -1086,6 +1102,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-01-22"
+  },
+  {
+    "slug": "civil-engineering",
+    "name": "Civil Engineering",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-03"
   },
   {
     "slug": "closet-design",
@@ -1350,14 +1374,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-03-17"
-  },
-  {
-    "slug": "structural-engineer",
-    "name": "Structural Engineer",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-04-06"
   },
   {
     "slug": "tennis-lessons",
