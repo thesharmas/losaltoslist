@@ -857,6 +857,33 @@
     "mention_count": 1
   },
   {
+    "id": "vi-custom-furniture",
+    "category": "carpenter",
+    "categories": [
+      "carpenter"
+    ],
+    "name": "VI Custom Furniture",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.vicustomfurniture.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "we had a great experience",
+        "by": "Rudolph",
+        "date": "2026-08-05",
+        "msg_id": "ACF36E7FCBF65BA8C85BC48D80529DF9",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1
+  },
+  {
     "id": "magic-carpet-cleaning",
     "category": "carpet cleaning",
     "categories": [
@@ -2189,7 +2216,8 @@
     "id": "my-college-counseling",
     "category": "college counseling",
     "categories": [
-      "college counseling"
+      "college counseling",
+      "college counselor"
     ],
     "name": "My College Counseling",
     "contact": {
@@ -2208,10 +2236,133 @@
         "date": "2026-01-26",
         "msg_id": "3ADC8B9062AA5FF62CBF",
         "type": "contact"
+      },
+      {
+        "quote": "Contact: Surbhi Counselor (+1 (408) 230-6799)",
+        "by": "Deepali",
+        "date": "2026-08-05",
+        "msg_id": "3A8EDFAEE780098EA172",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-26",
-    "last_seen": "2026-01-26",
+    "last_seen": "2026-08-05",
+    "mention_count": 2
+  },
+  {
+    "id": "goal-admit",
+    "category": "college counselor",
+    "categories": [
+      "college counselor"
+    ],
+    "name": "Goal Admit",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "www.goaladmit.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "My cousin does college admission counselling having sent 2 boys to colleges.  \n\nwww.goaladmit.com\n\nReach out to me and I can make a personal intro.",
+        "by": "Vandana",
+        "date": "2026-08-04",
+        "msg_id": "3EB0192DB68A733C50992C",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 1
+  },
+  {
+    "id": "harriet-e-katz",
+    "category": "college counselor",
+    "categories": [
+      "college counselor"
+    ],
+    "name": "Harriet E. Katz",
+    "contact": {
+      "phones": [
+        "(650) 302-8053"
+      ],
+      "emails": [
+        "hekatz@creativekcc.com"
+      ],
+      "websites": [
+        "www.creativekcc.com",
+        "creativekcc.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Harriet E. Katz (highly recommend college counselor for design, creative students)\nwww.creativekcc.com\nhekatz@creativekcc.com\n(650) 302-8053",
+        "by": "Nehal",
+        "date": "2026-08-04",
+        "msg_id": "3EB0648AE060BE9DE8522F",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 1
+  },
+  {
+    "id": "nancy-wigley",
+    "category": "college counselor",
+    "categories": [
+      "college counselor"
+    ],
+    "name": "Nancy Wigley",
+    "contact": {
+      "phones": [
+        "(650) 207-0305"
+      ],
+      "emails": [
+        "njwigley@gmail.com"
+      ],
+      "websites": [
+        "gmail.com",
+        "http://collegesearchstrategies.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Nancy Wigley, M.A. \nIndependent College Counselor\nnjwigley@gmail.com\n\nCollege Search Strategies\n151 Crescent Avenue\nPortola Valley, CA 94028\n(650) 207-0305\nhttp://collegesearchstrategies.com\n\nUCLA Certificate in College Counseling\nMA Psychology/MS Audiology\nMember: HECA, NACAC, WACAC, PNACAC, SACAC",
+        "by": "Nehal",
+        "date": "2026-08-04",
+        "msg_id": "3EB090E9E8044CB851372A",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 1
+  },
+  {
+    "id": "surbhi-shah",
+    "category": "college counselor",
+    "categories": [
+      "college counselor"
+    ],
+    "name": "Surbhi Shah",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "She is very patient, knowledgeable & resourceful.",
+        "by": "Deepali",
+        "date": "2026-08-05",
+        "msg_id": "3A23E24FA8C5D5A54C07",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
     "mention_count": 1
   },
   {
@@ -10103,6 +10254,31 @@
     "mention_count": 1
   },
   {
+    "id": "nalini-desai",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Nalini Desai",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Quality work, reasonable prices, and timely service",
+        "by": "Nehal",
+        "date": "2026-08-04",
+        "msg_id": "3EB0AF75FF3A6B357F6EE3",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 1
+  },
+  {
     "id": "rashmi-bhargava",
     "category": "tailor",
     "categories": [
@@ -11536,6 +11712,31 @@
     "mention_count": 2
   },
   {
+    "id": "sherman-williams",
+    "category": "waste disposal",
+    "categories": [
+      "waste disposal"
+    ],
+    "name": "Sherman Williams",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We disposed old paint with them recently for free.",
+        "by": "Siddharth",
+        "date": "2026-08-04",
+        "msg_id": "3A1FC7D800092C632445",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04",
+    "mention_count": 1
+  },
+  {
     "id": "aqua-tru",
     "category": "water filter",
     "categories": [
@@ -11871,6 +12072,70 @@
     "mention_count": 2
   },
   {
+    "id": "yoga-of-los-altos",
+    "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
+    "name": "Yoga of Los Altos",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Yoga of Los Altos has some great classes.",
+        "by": "Sowmya",
+        "date": "2026-04-30",
+        "msg_id": "3A07DC30D9E5FB32360B",
+        "type": "contact"
+      },
+      {
+        "quote": "it’s totally fine to take them to the beginner appropriate yoga class at Yoga Six or Yoga of Los Altos.",
+        "by": "Ruchira",
+        "date": "2026-08-04",
+        "msg_id": "3A11F5D2B5F385B50ACA",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-08-04",
+    "mention_count": 2
+  },
+  {
+    "id": "yoga-six",
+    "category": "yoga",
+    "categories": [
+      "yoga"
+    ],
+    "name": "Yoga Six",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I go to YogaSix as well and love it",
+        "by": "Alka",
+        "date": "2026-05-21",
+        "msg_id": "3A76E5E75FDB75679553",
+        "type": "review"
+      },
+      {
+        "quote": "it’s totally fine to take them to the beginner appropriate yoga class at Yoga Six or Yoga of Los Altos.",
+        "by": "Ruchira",
+        "date": "2026-08-04",
+        "msg_id": "3A11F5D2B5F385B50ACA",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-08-04",
+    "mention_count": 2
+  },
+  {
     "id": "california-yoga-center",
     "category": "yoga",
     "categories": [
@@ -11948,31 +12213,6 @@
     "mention_count": 1
   },
   {
-    "id": "yoga-of-los-altos",
-    "category": "yoga",
-    "categories": [
-      "yoga"
-    ],
-    "name": "Yoga of Los Altos",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Yoga of Los Altos has some great classes.",
-        "by": "Sowmya",
-        "date": "2026-04-30",
-        "msg_id": "3A07DC30D9E5FB32360B",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-04-30",
-    "last_seen": "2026-04-30",
-    "mention_count": 1
-  },
-  {
     "id": "yoga-six-mountain-view",
     "category": "yoga",
     "categories": [
@@ -11990,31 +12230,6 @@
         "by": "Megha",
         "date": "2026-05-21",
         "msg_id": "AC8C14845023A5650A470710604739E8",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "mention_count": 1
-  },
-  {
-    "id": "yogasix",
-    "category": "yoga",
-    "categories": [
-      "yoga"
-    ],
-    "name": "YogaSix",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "I go to YogaSix as well and love it",
-        "by": "Alka",
-        "date": "2026-05-21",
-        "msg_id": "3A76E5E75FDB75679553",
         "type": "review"
       }
     ],
