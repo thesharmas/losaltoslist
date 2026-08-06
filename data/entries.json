@@ -6486,6 +6486,31 @@
     "mention_count": 2
   },
   {
+    "id": "andys-cabinet",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Andy’s Cabinet",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We have used Andy’s Cabinet to make custom cabinets for our home. Since we did the cabinets, he also made our book cases.",
+        "by": "Surbhi",
+        "date": "2026-08-05",
+        "msg_id": "3A3CB8341B0BA4727807",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1
+  },
+  {
     "id": "anu",
     "category": "interior design",
     "categories": [
@@ -6508,6 +6533,33 @@
     ],
     "first_seen": "2026-04-27",
     "last_seen": "2026-04-27",
+    "mention_count": 1
+  },
+  {
+    "id": "durabella-custom-cabinetry-san-jose-ca",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Durabella Custom Cabinetry San Jose Ca",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/durabella-custom-cabinetry-san-jose-ca"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://yelp.to/AmKfUh9eG4",
+        "by": "Payal",
+        "date": "2026-08-05",
+        "msg_id": "3A9630D6CBBC0722B948",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
     "mention_count": 1
   },
   {
@@ -7625,6 +7677,40 @@
     "mention_count": 1
   },
   {
+    "id": "amandeep",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Amandeep",
+    "contact": {
+      "phones": [
+        "(408) 312-9962"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My cook, Amandeep, is looking for more hours during the day time, 9am-3pm wiindow. Looking for regular work all/most days a week than something here or there.\n\nShe is a very good cook, can cook chicken too. She also does laundry folding.\n\nShe is also open to nanny job (which she has done in the p...",
+        "by": "Shveta",
+        "date": "2026-08-02",
+        "msg_id": "3AE979432CCBD62CC2D7",
+        "type": "contact"
+      },
+      {
+        "quote": "Amandeep",
+        "by": "Shveta",
+        "date": "2026-08-05",
+        "msg_id": "3A3A02B6A34DBCD46168",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-05",
+    "mention_count": 2
+  },
+  {
     "id": "kidskab",
     "category": "nanny",
     "categories": [
@@ -7715,33 +7801,6 @@
     ],
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "mention_count": 1
-  },
-  {
-    "id": "amandeep",
-    "category": "nanny",
-    "categories": [
-      "nanny"
-    ],
-    "name": "Amandeep",
-    "contact": {
-      "phones": [
-        "(408) 312-9962"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "My cook, Amandeep, is looking for more hours during the day time, 9am-3pm wiindow. Looking for regular work all/most days a week than something here or there.\n\nShe is a very good cook, can cook chicken too. She also does laundry folding.\n\nShe is also open to nanny job (which she has done in the p...",
-        "by": "Shveta",
-        "date": "2026-08-02",
-        "msg_id": "3AE979432CCBD62CC2D7",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-02",
     "mention_count": 1
   },
   {
@@ -7873,6 +7932,31 @@
     ],
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-08",
+    "mention_count": 1
+  },
+  {
+    "id": "parneet",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Parneet",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Parneet - 6505268375",
+        "by": "Kjo",
+        "date": "2026-08-05",
+        "msg_id": "3B36C89E90251B1122FB",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
     "mention_count": 1
   },
   {
@@ -8203,6 +8287,66 @@
     ],
     "first_seen": "2026-03-07",
     "last_seen": "2026-03-07",
+    "mention_count": 1
+  },
+  {
+    "id": "sherman-williams",
+    "category": "painter",
+    "categories": [
+      "painter",
+      "waste disposal"
+    ],
+    "name": "Sherman Williams",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We disposed old paint with them recently for free.",
+        "by": "Siddharth",
+        "date": "2026-08-04",
+        "msg_id": "3A1FC7D800092C632445",
+        "type": "contact"
+      },
+      {
+        "quote": "Sherman Williams has a free dispose off day every Wednesday I think. You can call the local store to confirm.",
+        "by": "Aneesha",
+        "date": "2026-08-05",
+        "msg_id": "3AAE1C2BB5617D7E3D25",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-05",
+    "mention_count": 2
+  },
+  {
+    "id": "paintcare",
+    "category": "painter",
+    "categories": [
+      "painter"
+    ],
+    "name": "PaintCare",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.paintcare.org/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.paintcare.org/",
+        "by": "Vivek",
+        "date": "2026-08-05",
+        "msg_id": "3B4DA1DC14556B109A46",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
     "mention_count": 1
   },
   {
@@ -11710,31 +11854,6 @@
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-13",
     "mention_count": 2
-  },
-  {
-    "id": "sherman-williams",
-    "category": "waste disposal",
-    "categories": [
-      "waste disposal"
-    ],
-    "name": "Sherman Williams",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "We disposed old paint with them recently for free.",
-        "by": "Siddharth",
-        "date": "2026-08-04",
-        "msg_id": "3A1FC7D800092C632445",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-04",
-    "mention_count": 1
   },
   {
     "id": "aqua-tru",
