@@ -11,9 +11,9 @@
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
-    "entry_count": 27,
+    "entry_count": 29,
     "query_count": 34,
-    "last_activity": "2026-07-27"
+    "last_activity": "2026-08-06"
   },
   {
     "slug": "catering",
@@ -27,9 +27,9 @@
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
-    "entry_count": 17,
-    "query_count": 20,
-    "last_activity": "2026-07-12"
+    "entry_count": 22,
+    "query_count": 22,
+    "last_activity": "2026-08-06"
   },
   {
     "slug": "landscaper",
@@ -83,9 +83,9 @@
     "slug": "dentist",
     "name": "Dentist",
     "emoji": "🦷",
-    "entry_count": 9,
-    "query_count": 5,
-    "last_activity": "2026-06-17"
+    "entry_count": 10,
+    "query_count": 6,
+    "last_activity": "2026-08-06"
   },
   {
     "slug": "interior-design",
@@ -136,6 +136,14 @@
     "last_activity": "2026-07-25"
   },
   {
+    "slug": "lawyer",
+    "name": "Lawyer",
+    "emoji": "⚖️",
+    "entry_count": 5,
+    "query_count": 10,
+    "last_activity": "2026-08-06"
+  },
+  {
     "slug": "window-cleaning",
     "name": "Window Cleaning",
     "emoji": "🪟",
@@ -150,14 +158,6 @@
     "entry_count": 2,
     "query_count": 15,
     "last_activity": "2026-07-10"
-  },
-  {
-    "slug": "lawyer",
-    "name": "Lawyer",
-    "emoji": "⚖️",
-    "entry_count": 5,
-    "query_count": 9,
-    "last_activity": "2026-07-27"
   },
   {
     "slug": "tailor",
@@ -1118,6 +1118,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-01-20"
+  },
+  {
+    "slug": "car-insurance",
+    "name": "Car Insurance",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-06"
   },
   {
     "slug": "caterer",

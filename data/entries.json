@@ -2544,6 +2544,40 @@
     "mention_count": 2
   },
   {
+    "id": "medalco-construction",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Medalco Construction",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/medal_co?igsh=NTc4MTIwNjQ2YQ=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "@74367459438847 - I would highlight recommend Nikta from Medalco Construction:",
+        "by": "Aman",
+        "date": "2026-08-06",
+        "msg_id": "3AD233EDBC2231B28886",
+        "type": "contact"
+      },
+      {
+        "quote": "Here’s a preview of her work:\n\nhttps://www.instagram.com/medal_co?igsh=NTc4MTIwNjQ2YQ==",
+        "by": "Aman",
+        "date": "2026-08-06",
+        "msg_id": "3A934B5688D2F20114A6",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 2
+  },
+  {
     "id": "richard-asphalt-paving",
     "category": "contractor",
     "categories": [
@@ -2881,6 +2915,33 @@
     ],
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
+    "mention_count": 1
+  },
+  {
+    "id": "nikta-aghasi",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Nikta Aghasi",
+    "contact": {
+      "phones": [
+        "(650) 520-9326"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Nikta Aghasi (+1 (650) 520-9326)",
+        "by": "Aman",
+        "date": "2026-08-06",
+        "msg_id": "3A17ED0C8D467F6BF5EE",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
     "mention_count": 1
   },
   {
@@ -3350,6 +3411,31 @@
     ],
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-steven-henry",
+    "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
+    "name": "Dr. Steven Henry",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We’ve been going to Dr. Steven Henry in Foster City for years. Don’t know about wisdom teeth but he is a superb dentist if you want to try calling.",
+        "by": "Neerja",
+        "date": "2026-08-06",
+        "msg_id": "3A7DCE9BBCA97A75AAED",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
     "mention_count": 1
   },
   {
@@ -3859,6 +3945,60 @@
     "mention_count": 1
   },
   {
+    "id": "dr-brian-lee",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr. Brian Lee",
+    "contact": {
+      "phones": [
+        "(408) 873-8484"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Consider Dr. Brian Lee at Cupertino Oral & Facial Surgery, 408-873-8484\n\nThe practice makes a great effort to quickly see/treat patients who are in pain, and the doctor is skilled and kind.",
+        "by": "Vara",
+        "date": "2026-08-06",
+        "msg_id": "3A788B208FCADE7D3483",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-follmar",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr Follmar",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.follmaroms.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We have used Dr Follmar for my son’s teeth removal. He is awesome.",
+        "by": "Renu",
+        "date": "2026-08-06",
+        "msg_id": "3A06A2994DBA8C58F68E",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1
+  },
+  {
     "id": "dr-frank-fazzolari",
     "category": "doctor",
     "categories": [
@@ -3936,6 +4076,31 @@
     "mention_count": 1
   },
   {
+    "id": "dr-nijhawan",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr Nijhawan",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I recommend dr Nijhawan.",
+        "by": "Dolly",
+        "date": "2026-08-06",
+        "msg_id": "3A2C88E455B42853094C",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1
+  },
+  {
     "id": "dr-nilufer-vesuna",
     "category": "doctor",
     "categories": [
@@ -3983,6 +4148,33 @@
     ],
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-sodeifi",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr Sodeifi",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Sodeifi+A.+Michael+DMD,+MD,+MPH,+18805+Cox+Ave+%23130,+Saratoga,+CA+95070&ftid=0x808fb5a832a00a7d:0xc37f94b0c6908e53&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813469,94286869,100820247,100813009,100822499&g_ep=CAISEjI2LjMxLjUuOTU0MzA2MDQzMBgAIIgnKmcsOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY5LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MTMwMDksMTAwODIyNDk5QgJVUw%3D%3D&skid=9d674420-1d23-49d9-be65-b03b87f5f70a&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Can’t recommend Dr Sodeifi enough. Multiple extractions for my daughter and he is an exceptional doctor",
+        "by": "Shivanjali",
+        "date": "2026-08-06",
+        "msg_id": "3AF85AD7441EBB5E5A83",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
     "mention_count": 1
   },
   {
@@ -4114,6 +4306,33 @@
     ],
     "first_seen": "2026-04-21",
     "last_seen": "2026-04-21",
+    "mention_count": 1
+  },
+  {
+    "id": "mountain-view-oral-surgery-dr-nijhawan",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Mountain View Oral Surgery Dr Nijhawan",
+    "contact": {
+      "phones": [
+        "(650) 938-7703"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Mountain View Oral Surgery Dr Nijhawan (+1 (650) 938-7703)",
+        "by": "Dolly",
+        "date": "2026-08-06",
+        "msg_id": "3A7CCC9E64C5D1E3156A",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
     "mention_count": 1
   },
   {
