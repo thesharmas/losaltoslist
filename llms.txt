@@ -5,7 +5,7 @@
 > Auto-generated from a neighborhood WhatsApp group's recommendations and
 > updated daily. 442 providers across
 > 184 categories; 227 entries include direct
-> contact info. Last updated 2026-08-07.
+> contact info. Last updated 2026-08-08.
 
 All data is plain JSON, no auth required. Fetch the raw files directly:
 
@@ -34,8 +34,8 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 - 🦷 Dentist: 10 providers, 6 requests
 - 🛋️ Interior Design: 8 providers, 7 requests
 - 📐 Architect: 8 providers, 6 requests
+- 🪡 Tailor: 6 providers, 10 requests
 - 🛡️ Insurance: 7 providers, 7 requests
-- 📦 Mover: 7 providers, 7 requests
 
 ## Notes
 

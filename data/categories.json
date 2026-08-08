@@ -104,6 +104,14 @@
     "last_activity": "2026-07-23"
   },
   {
+    "slug": "tailor",
+    "name": "Tailor",
+    "emoji": "🪡",
+    "entry_count": 6,
+    "query_count": 10,
+    "last_activity": "2026-08-07"
+  },
+  {
     "slug": "insurance",
     "name": "Insurance",
     "emoji": "🛡️",
@@ -158,14 +166,6 @@
     "entry_count": 2,
     "query_count": 15,
     "last_activity": "2026-07-10"
-  },
-  {
-    "slug": "tailor",
-    "name": "Tailor",
-    "emoji": "🪡",
-    "entry_count": 4,
-    "query_count": 9,
-    "last_activity": "2026-08-04"
   },
   {
     "slug": "tree-service",
@@ -445,7 +445,7 @@
     "emoji": "📌",
     "entry_count": 2,
     "query_count": 2,
-    "last_activity": "2026-01-08"
+    "last_activity": "2026-08-07"
   },
   {
     "slug": "event-planner",
@@ -656,6 +656,14 @@
     "last_activity": "2026-01-28"
   },
   {
+    "slug": "musician",
+    "name": "Musician",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 4,
+    "last_activity": "2026-08-07"
+  },
+  {
     "slug": "tennis-coach",
     "name": "Tennis Coach",
     "emoji": "📌",
@@ -806,14 +814,6 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-03-28"
-  },
-  {
-    "slug": "musician",
-    "name": "Musician",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 3,
-    "last_activity": "2026-08-05"
   },
   {
     "slug": "optician",

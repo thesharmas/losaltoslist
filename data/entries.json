@@ -4573,7 +4573,8 @@
     "id": "paris-tailor",
     "category": "dry cleaner",
     "categories": [
-      "dry cleaner"
+      "dry cleaner",
+      "tailor"
     ],
     "name": "Paris Tailor",
     "contact": {
@@ -4595,17 +4596,25 @@
         "date": "2026-01-08",
         "msg_id": "3ADE357BE9EAA8B45410",
         "type": "review"
+      },
+      {
+        "quote": "Paris Tailor in Los Altos",
+        "by": "Chetna",
+        "date": "2026-08-07",
+        "msg_id": "ACEC2A5C5D61FA500882D92225B0A0CF",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-08",
-    "last_seen": "2026-01-08",
-    "mention_count": 2
+    "last_seen": "2026-08-07",
+    "mention_count": 3
   },
   {
     "id": "rose-cleaners",
     "category": "dry cleaner",
     "categories": [
-      "dry cleaner"
+      "dry cleaner",
+      "tailor"
     ],
     "name": "Rose Cleaners",
     "contact": {
@@ -4622,11 +4631,18 @@
         "date": "2026-01-08",
         "msg_id": "3EB000AFF5A196ED889071",
         "type": "contact"
+      },
+      {
+        "quote": "Rose Cleaner in Sunnyvale- 1 (408) 736-8434",
+        "by": "Nehal",
+        "date": "2026-08-07",
+        "msg_id": "3A278EF28BFBB27B1A52",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-08",
-    "last_seen": "2026-01-08",
-    "mention_count": 1
+    "last_seen": "2026-08-07",
+    "mention_count": 2
   },
   {
     "id": "purpletie",
