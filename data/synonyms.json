@@ -1,0 +1,162 @@
+{
+  "_about": "Search synonyms: category slug -> extra words/phrases the search matches for that category's entries. Curated by hand + appended (merge-only) by the weekly synonyms cron, which mines zero-result searches. NOT rewritten by the daily data export. Keys starting with _ are ignored by the site.",
+  "_rule": "Every key must be slugify(category) of a category that actually appears in entries.json (lowercase, non-alphanumerics -> hyphens), or the site silently ignores it. Cron: validate keys against entries.json before appending, and skip zero-result searches that fired while a category filter was active (search/search_no_results events carry a category_slug property).",
+  "landscaper": [
+    "irrigation",
+    "sprinkler",
+    "sprinklers",
+    "drip system",
+    "lawn",
+    "yard",
+    "turf",
+    "mulch",
+    "sod",
+    "backyard design"
+  ],
+  "upholstery": [
+    "furniture",
+    "sofa",
+    "couch",
+    "cushion",
+    "reupholster"
+  ],
+  "plumber": [
+    "pipe",
+    "leak",
+    "faucet",
+    "toilet",
+    "drain",
+    "water heater",
+    "sewer"
+  ],
+  "electrician": [
+    "wiring",
+    "outlet",
+    "electrical panel",
+    "ev charger",
+    "lighting"
+  ],
+  "hvac": [
+    "furnace",
+    "air conditioning",
+    "heat pump",
+    "thermostat",
+    "heating",
+    "cooling"
+  ],
+  "contractor": [
+    "remodel",
+    "renovation",
+    "addition",
+    "adu",
+    "general contractor",
+    "bathroom",
+    "fireplace",
+    "skylight"
+  ],
+  "pest-control": [
+    "exterminator",
+    "termite",
+    "rodent",
+    "mice",
+    "ants",
+    "wasp",
+    "gopher"
+  ],
+  "tree-service": [
+    "arborist",
+    "tree trimming",
+    "tree removal",
+    "stump"
+  ],
+  "cleaner": [
+    "house cleaning",
+    "housekeeping",
+    "maid",
+    "deep clean",
+    "pressure wash",
+    "pressure washing",
+    "power wash"
+  ],
+  "appliance-repair": [
+    "washer",
+    "dryer",
+    "dishwasher",
+    "refrigerator",
+    "fridge",
+    "oven",
+    "stove"
+  ],
+  "mover": [
+    "moving",
+    "movers",
+    "relocation"
+  ],
+  "nanny": [
+    "babysitter",
+    "childcare",
+    "au pair"
+  ],
+  "tutoring": [
+    "tutor",
+    "test prep",
+    "sat prep",
+    "math help"
+  ],
+  "catering": [
+    "caterer",
+    "party food"
+  ],
+  "pool-service": [
+    "pool cleaning",
+    "pool maintenance"
+  ],
+  "window-cleaning": [
+    "window washing",
+    "window washer"
+  ],
+  "optician": [
+    "optometrist",
+    "eye doctor",
+    "eye exam",
+    "glasses",
+    "ophthalmologist",
+    "eye surgeon"
+  ],
+  "lawyer": [
+    "real estate attorney"
+  ],
+  "insurance": [
+    "broker",
+    "insurance broker",
+    "car insurance",
+    "auto insurance",
+    "vehicle insurance"
+  ],
+  "party-service": [
+    "party helper",
+    "helper"
+  ],
+  "hair-stylist": [
+    "haircut",
+    "barber",
+    "salon"
+  ],
+  "handyman": [
+    "carpenter",
+    "carpentry"
+  ],
+  "tailor": [
+    "blouse",
+    "alterations",
+    "seamstress"
+  ],
+  "dog-walking": [
+    "dog sitter",
+    "dog sitting"
+  ],
+  "college-counseling": [
+    "college counselors",
+    "college advisor"
+  ]
+}

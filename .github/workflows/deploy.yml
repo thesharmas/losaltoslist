@@ -1,0 +1,69 @@
+name: Test & Deploy
+
+# Runs on every push/merge to main. Deploy only happens if tests pass.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let an in-flight one finish (the daily data
+# pipeline also pushes to main, so overlaps are expected).
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
+  deploy:
+    needs: test # gates deploy on a green test run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stage static site
+        # Copy the site into _site, leaving out dev-only files. CNAME is copied
+        # so the losaltos.space custom domain keeps working.
+        run: |
+          mkdir -p _site
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='node_modules' \
+            --exclude='test' \
+            --exclude='scripts' \
+            --exclude='package.json' \
+            --exclude='package-lock.json' \
+            --exclude='.gitignore' \
+            --exclude='_site' \
+            ./ _site/
+      - name: Build per-entry share stub pages
+        # Emits _site/e/<id>.html with per-entry OpenGraph tags so shared card
+        # links preview with the provider's name in WhatsApp/iMessage/Slack.
+        run: node scripts/build-stubs.mjs _site
+      - name: Build SEO surface (category pages, sitemap, robots)
+        # Emits _site/c/<slug>.html indexable category pages plus sitemap.xml
+        # and robots.txt — the SPA is hash-routed, so without these search
+        # engines only ever see one page.
+        run: node scripts/build-seo.mjs _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

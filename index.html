@@ -1,0 +1,1901 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Los Altos List — Neighbor-Recommended Local Services</title>
+<meta name="description" content="Trusted service recommendations shared by neighbors in a Los Altos neighborhood group — plumbers, tutors, doctors and more, in their own words." />
+<link rel="canonical" href="https://losaltos.space/" />
+
+<!-- Icons -->
+<link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="./favicon.ico" sizes="32x32" />
+<link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+<meta name="theme-color" content="#E8E1D0" />
+
+<!-- Authorship -->
+<meta name="author" content="Rohit Sharma" />
+<link rel="author" href="https://www.thesharmas.org" />
+<link rel="author" type="text/plain" href="./humans.txt" title="humans.txt — who built this" />
+
+<!-- Share previews (what shows when the link is pasted in WhatsApp, iMessage, Slack, X) -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Los Altos List" />
+<meta property="og:title" content="Los Altos List — built by Rohit Sharma" />
+<meta property="og:description" content="Trusted local service recommendations from a Los Altos neighborhood group — plumbers, tutors, doctors and more, in neighbors' own words. Updated daily." />
+<meta property="og:url" content="https://losaltos.space/" />
+<meta property="og:image" content="https://losaltos.space/og-image.png?v=2" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Los Altos List — a community service directory built by Rohit Sharma" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Los Altos List — built by Rohit Sharma" />
+<meta name="twitter:description" content="Trusted local recommendations from a Los Altos neighborhood group, in neighbors' own words. Updated daily." />
+<meta name="twitter:image" content="https://losaltos.space/og-image.png?v=2" />
+
+<!-- Machine-readable pointers for LLMs and agent crawlers. Relative hrefs so they
+     resolve under the GitHub Pages project subpath, not the domain root. -->
+<link rel="alternate" type="text/plain" href="./llms.txt" title="llms.txt — site summary for LLMs" />
+<link rel="alternate" type="text/markdown" href="./AGENTS.md" title="AGENTS.md — guide for AI agents" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Los Altos List",
+  "alternateName": "The Block List",
+  "description": "Community-sourced directory of local service providers (plumbers, tutors, doctors, contractors and more) for Los Altos, CA, built from a neighborhood WhatsApp group's recommendations and updated daily.",
+  "url": "https://losaltos.space/",
+  "sameAs": "https://github.com/thesharmas/losaltoslist",
+  "isAccessibleForFree": true,
+  "creativeWorkStatus": "Updated daily",
+  "keywords": ["Los Altos", "local services", "directory", "recommendations", "neighborhood"],
+  "author": {
+    "@type": "Person",
+    "name": "Rohit Sharma",
+    "url": "https://www.thesharmas.org",
+    "sameAs": ["https://www.thesharmas.org", "https://github.com/thesharmas"]
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Rohit Sharma",
+    "url": "https://www.thesharmas.org"
+  },
+  "sourceOrganization": { "@type": "Organization", "name": "Los Altos neighborhood group" },
+  "distribution": [
+    { "@type": "DataDownload", "name": "entries.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/entries.json" },
+    { "@type": "DataDownload", "name": "categories.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/categories.json" },
+    { "@type": "DataDownload", "name": "meta.json", "encodingFormat": "application/json", "contentUrl": "https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/meta.json" }
+  ]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@1,6..72,400;1,6..72,500;0,6..72,500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink:      #2A2620;
+    --ink-soft: #6A6252;
+    --paper:    #E8E1D0;
+    --paper-2:  #EFE9DA;
+    --card:     #FBF8F1;
+    --oak:      #2F4739;
+    --oak-deep: #223428;
+    --moss:     #6E7F5E;
+    --clay:     #C96F44;
+    --clay-dim: #E4C7A8;
+    --line:     #D8CFBB;
+    --line-2:   #C9BFA8;
+
+    --shadow: 0 1px 0 rgba(42,38,32,.04), 0 8px 24px -14px rgba(42,38,32,.35);
+    --shadow-hover: 0 2px 0 rgba(42,38,32,.05), 0 18px 40px -18px rgba(42,38,32,.45);
+
+    --sans: "Bricolage Grotesque", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    --serif: "Newsreader", Georgia, "Times New Roman", serif;
+
+    --wrap: 1120px;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    font-family: var(--sans);
+    color: var(--ink);
+    background: var(--paper);
+    /* faint bulletin-board texture: a whisper of grain, nothing loud */
+    background-image:
+      radial-gradient(circle at 18% 12%, rgba(110,127,94,.06), transparent 42%),
+      radial-gradient(circle at 88% 8%, rgba(201,111,68,.05), transparent 40%);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    line-height: 1.5;
+  }
+
+  a { color: inherit; }
+
+  .wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
+
+  /* live-dot: "agent-ready / updated daily" cue, reused in the masthead */
+  .live-dot {
+    width: 7px; height: 7px; border-radius: 50%; background: var(--clay); flex: none;
+    box-shadow: 0 0 0 0 rgba(201,111,68,.55); animation: livepulse 2.6s ease-out infinite;
+  }
+  @keyframes livepulse {
+    0%   { box-shadow: 0 0 0 0 rgba(201,111,68,.55); }
+    70%  { box-shadow: 0 0 0 7px rgba(201,111,68,0); }
+    100% { box-shadow: 0 0 0 0 rgba(201,111,68,0); }
+  }
+
+  /* ---------- Masthead ---------- */
+  .masthead {
+    border-bottom: 1px solid var(--line);
+    background: color-mix(in srgb, var(--paper) 70%, transparent);
+    position: sticky; top: 0; z-index: 20;
+    backdrop-filter: saturate(1.2) blur(8px);
+  }
+  .masthead-row {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 10px 18px; padding: 13px 0; flex-wrap: wrap;
+  }
+  .brand-wrap { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .brand {
+    display: flex; align-items: baseline; gap: 10px;
+    font-weight: 800; letter-spacing: -.02em; font-size: 1.05rem;
+    text-decoration: none;
+  }
+  .brand .dot { color: var(--clay); }
+  .brand .sub {
+    font-weight: 500; color: var(--ink-soft); font-size: .82rem;
+    letter-spacing: .01em;
+  }
+  .masthead-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .mast-links { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .mast-links a {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .74rem;
+    color: var(--oak); text-decoration: none;
+    background: var(--card); border: 1px solid var(--line); border-radius: 7px;
+    padding: 4px 9px; transition: border-color .12s ease, background .12s ease;
+  }
+  .mast-links a:hover { border-color: var(--moss); background: #fff; }
+  .mast-credit {
+    font-size: .78rem; color: var(--ink-soft); white-space: nowrap;
+    padding-left: 12px; border-left: 1px solid var(--line);
+  }
+  .mast-credit a {
+    color: var(--oak); font-weight: 600; text-decoration: none;
+    border-bottom: 1px solid transparent; transition: border-color .12s ease;
+  }
+  .mast-credit a:hover { border-bottom-color: var(--oak); }
+  .masthead .stamp {
+    font-size: .7rem; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--ink-soft); font-weight: 600; white-space: nowrap;
+  }
+  .stamp b { color: var(--oak); }
+
+  /* ---------- Hero ---------- */
+  .hero { padding: 58px 0 30px; }
+  .hero-kicker {
+    font-size: .72rem; letter-spacing: .2em; text-transform: uppercase;
+    color: var(--moss); font-weight: 700; margin: 0 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .hero-kicker::before {
+    content: ""; width: 26px; height: 1px; background: var(--moss); display: inline-block;
+  }
+  .hero h1 {
+    font-size: clamp(2.3rem, 6.2vw, 4.1rem);
+    line-height: .98; letter-spacing: -.035em; font-weight: 800;
+    margin: 0 0 18px; max-width: 15ch;
+  }
+  .hero h1 em {
+    font-family: var(--serif); font-style: italic; font-weight: 500;
+    color: var(--oak); letter-spacing: -.01em;
+  }
+  .hero p.lede {
+    font-size: 1.06rem; color: var(--ink-soft); max-width: 46ch; margin: 0 0 26px;
+  }
+
+  /* ---------- Search ---------- */
+  .searchbar {
+    display: flex; align-items: center; gap: 12px;
+    background: var(--card);
+    border: 1.5px solid var(--line-2);
+    border-radius: 14px;
+    padding: 6px 6px 6px 18px;
+    box-shadow: var(--shadow);
+    max-width: 620px;
+    transition: border-color .18s ease, box-shadow .18s ease;
+  }
+  .searchbar:focus-within {
+    border-color: var(--oak);
+    box-shadow: var(--shadow-hover), 0 0 0 4px rgba(47,71,57,.1);
+  }
+  .searchbar svg { flex: none; color: var(--moss); }
+  .searchbar input {
+    flex: 1; border: none; background: none; outline: none;
+    font-family: var(--sans); font-size: 1.05rem; color: var(--ink);
+    padding: 10px 0; min-width: 0;
+  }
+  .searchbar input::placeholder { color: var(--ink-soft); opacity: .8; }
+  .search-clear {
+    border: none; background: none; cursor: pointer; color: var(--ink-soft);
+    font-size: 1.1rem; padding: 8px 10px; border-radius: 8px; line-height: 1;
+    display: none;
+  }
+  .search-clear:hover { background: var(--paper-2); color: var(--ink); }
+  .search-clear.show { display: block; }
+
+  /* ---------- Category chips ---------- */
+  .chips {
+    display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 4px;
+  }
+  .chip {
+    font-family: var(--sans); font-size: .86rem; font-weight: 600;
+    border: 1.5px solid var(--line-2); background: var(--card);
+    color: var(--ink); border-radius: 999px;
+    padding: 7px 14px 7px 12px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 7px;
+    transition: transform .12s ease, border-color .12s ease, background .12s ease, color .12s ease;
+    white-space: nowrap;
+  }
+  .chip .emoji { font-size: .95em; }
+  .chip .n { color: var(--ink-soft); font-weight: 700; font-variant-numeric: tabular-nums; }
+  .chip:hover { border-color: var(--moss); transform: translateY(-1px); }
+  .chip[aria-pressed="true"] {
+    background: var(--oak); border-color: var(--oak); color: #F4EFE2;
+  }
+  .chip[aria-pressed="true"] .n { color: var(--clay-dim); }
+  .chip.more { border-style: dashed; color: var(--ink-soft); }
+
+  select.cat-all {
+    font-family: var(--sans); font-size: .86rem; font-weight: 600;
+    border: 1.5px solid var(--line-2); background: var(--card);
+    color: var(--ink); border-radius: 999px; padding: 7px 30px 7px 14px; cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%236A6252' stroke-width='2'%3E%3Cpath d='M2 4l4 4 4-4'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 12px center;
+  }
+
+  /* ---------- Toolbar ---------- */
+  .toolbar {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 16px; flex-wrap: wrap;
+    padding: 22px 0 20px; border-top: 1px solid var(--line); margin-top: 26px;
+    scroll-margin-top: 66px;
+  }
+  .result-count { font-size: .95rem; color: var(--ink-soft); font-weight: 500; }
+  .result-count b { color: var(--ink); font-weight: 700; }
+  .result-count .active-cat { color: var(--oak); font-weight: 700; }
+  .sort {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: .82rem; color: var(--ink-soft); font-weight: 600;
+  }
+  .sort select {
+    font-family: var(--sans); font-size: .84rem; font-weight: 700; color: var(--ink);
+    border: none; background: none; cursor: pointer; padding: 4px 22px 4px 4px;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%232F4739' stroke-width='2'%3E%3Cpath d='M2 4l4 4 4-4'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 4px center;
+    border-bottom: 1.5px solid var(--oak); border-radius: 0;
+  }
+
+  /* ---------- Grid + cards ---------- */
+  .grid {
+    display: grid; gap: 18px; padding-bottom: 80px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+
+  .card {
+    position: relative;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 20px 20px 18px;
+    box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 12px;
+    min-width: 0; /* let the card shrink inside the grid track instead of overflowing */
+    transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+  }
+  .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--line-2); }
+
+  /* pin dot — the community-board signature detail */
+  .card::before {
+    content: ""; position: absolute; top: 14px; right: 16px;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--clay-dim);
+    box-shadow: inset 0 0 0 2px var(--card), 0 1px 2px rgba(42,38,32,.3);
+  }
+  .card.loved::before { background: var(--clay); }
+
+  .card-eyebrow {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-size: .72rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--moss); padding-right: 22px;
+  }
+  .card-eyebrow .emoji { font-size: 1rem; letter-spacing: 0; }
+
+  /* secondary categories: a provider recommended as both landscaper and
+     contractor shows small clickable "+Contractor" tags after the primary */
+  .cat-tag {
+    display: inline-flex; align-items: center; flex: none;
+    font-size: .62rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--ink-soft); cursor: pointer;
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 5px;
+    padding: 2px 6px; transition: color .12s ease, border-color .12s ease;
+  }
+  .cat-tag:hover { color: var(--moss); border-color: var(--moss); }
+
+  .card h3 {
+    font-size: 1.42rem; letter-spacing: -.02em; font-weight: 700; margin: -2px 0 0;
+    line-height: 1.08; word-break: break-word;
+  }
+  .card h3.h3-unnamed {
+    font-size: 1.12rem; font-weight: 600; color: var(--ink-soft); font-style: italic;
+    font-family: var(--serif); letter-spacing: 0;
+  }
+
+  .recs {
+    display: inline-flex; align-items: center; gap: 5px; align-self: flex-start;
+    font-size: .74rem; font-weight: 700; letter-spacing: .04em;
+    color: var(--clay); background: rgba(201,111,68,.1);
+    border-radius: 999px; padding: 3px 9px 3px 7px;
+  }
+  .recs.solo { color: var(--ink-soft); background: rgba(106,98,82,.08); }
+
+  /* the quote — Newsreader italic, the emotional core */
+  .quote {
+    position: relative;
+    font-family: var(--serif); font-style: italic; font-weight: 400;
+    font-size: 1.12rem; line-height: 1.42; color: var(--ink);
+    padding: 4px 0 0 30px; margin: 2px 0 0;
+    overflow-wrap: anywhere; /* long URLs in quotes must wrap, not push the card wide */
+  }
+  .quote::before {
+    content: "\201C";
+    position: absolute; left: -4px; top: -6px;
+    font-family: var(--serif); font-style: normal;
+    font-size: 3.4rem; line-height: 1; color: var(--oak); opacity: .55;
+  }
+  .attribution {
+    font-family: var(--sans); font-style: normal;
+    font-size: .78rem; font-weight: 600; letter-spacing: .02em;
+    color: var(--ink-soft); margin-top: 9px;
+  }
+  .attribution b { color: var(--oak); font-weight: 700; }
+
+  .more-mentions {
+    font-family: var(--sans); font-size: .78rem; font-weight: 700; color: var(--moss);
+    background: none; border: none; cursor: pointer; padding: 6px 0 0 30px; text-align: left;
+  }
+  .more-mentions:hover { color: var(--oak); text-decoration: underline; }
+  .extra-quote { margin-top: 6px; }
+  .extra-quote .quote { font-size: 1.02rem; }
+
+  .card-foot {
+    margin-top: auto; padding-top: 14px; border-top: 1px dashed var(--line);
+    display: flex; flex-wrap: wrap; gap: 8px;
+  }
+  .contact {
+    display: inline-flex; align-items: stretch; max-width: 100%; overflow: hidden;
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 9px;
+    transition: border-color .12s ease;
+  }
+  .contact:hover { border-color: var(--moss); }
+  .contact-main {
+    display: inline-flex; align-items: center; gap: 6px; min-width: 0;
+    font-size: .82rem; font-weight: 600; text-decoration: none; color: var(--oak);
+    padding: 7px 11px; transition: background .12s ease;
+  }
+  .contact-main:hover { background: #fff; }
+  .contact-main svg { flex: none; color: var(--moss); }
+  .contact-main span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .contact-copy {
+    display: inline-flex; align-items: center; justify-content: center; flex: none;
+    border: none; border-left: 1px solid var(--line); background: transparent;
+    color: var(--moss); cursor: pointer; padding: 0 10px;
+    transition: background .12s ease, color .12s ease;
+  }
+  .contact-copy:hover { background: #fff; color: var(--oak); }
+  .contact-copy .i-check { display: none; }
+  .contact-copy.copied { background: var(--oak); color: #F4EFE2; border-left-color: var(--oak); }
+  .contact-copy.copied .i-copy { display: none; }
+  .contact-copy.copied .i-check { display: inline; }
+  .no-contact {
+    font-size: .78rem; color: var(--ink-soft); font-style: italic; padding: 4px 0;
+    font-family: var(--serif);
+  }
+
+  /* share button: same pill language as the contact chips */
+  .share-btn {
+    display: inline-flex; align-items: center; gap: 6px; flex: none;
+    margin-left: auto; /* park it at the right edge of the card foot */
+    font-size: .82rem; font-weight: 600; color: var(--moss); cursor: pointer;
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 9px;
+    padding: 7px 11px; transition: border-color .12s ease, background .12s ease, color .12s ease;
+  }
+  .share-btn:hover { border-color: var(--moss); background: #fff; color: var(--oak); }
+  .share-btn .i-check { display: none; }
+  .share-btn.copied { background: var(--oak); color: #F4EFE2; border-color: var(--oak); }
+  .share-btn.copied .i-share { display: none; }
+  .share-btn.copied .i-check { display: inline; }
+
+  /* card opened from a shared link */
+  .card.linked { border-color: var(--moss); box-shadow: 0 0 0 3px rgba(122,132,86,.25), var(--shadow-hover); }
+
+  /* ---------- Empty / loading / error ---------- */
+  .notice {
+    text-align: center; padding: 80px 20px; color: var(--ink-soft);
+    grid-column: 1 / -1;
+  }
+  .notice h3 { font-size: 1.5rem; color: var(--ink); margin: 0 0 8px; letter-spacing: -.02em; }
+  .notice p { margin: 0 auto; max-width: 46ch; }
+  .notice code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .85em;
+    background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px;
+  }
+  .notice button {
+    margin-top: 18px; font-family: var(--sans); font-weight: 700; font-size: .9rem;
+    color: #F4EFE2; background: var(--oak); border: none; border-radius: 10px;
+    padding: 11px 20px; cursor: pointer;
+  }
+  .notice button:hover { background: var(--oak-deep); }
+
+  .skeleton { pointer-events: none; }
+  .skeleton .sk {
+    background: linear-gradient(90deg, var(--paper-2) 0%, #F4EFE2 50%, var(--paper-2) 100%);
+    background-size: 200% 100%; animation: shimmer 1.3s infinite; border-radius: 6px;
+  }
+  @keyframes shimmer { to { background-position: -200% 0; } }
+
+  /* ---------- Footer ---------- */
+  footer {
+    border-top: 1px solid var(--line); background: var(--paper-2);
+    padding: 40px 0 56px; font-size: .86rem; color: var(--ink-soft);
+  }
+  footer .foot-grid { display: grid; gap: 26px; grid-template-columns: 1.4fr 1fr 1fr; }
+  footer h4 {
+    font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--oak);
+    margin: 0 0 10px; font-weight: 700;
+  }
+  footer p { margin: 0 0 8px; max-width: 40ch; }
+  footer a { color: var(--oak); }
+
+  /* machine-readable strip — quiet, monospace, sits under the human footer */
+  .foot-dev {
+    margin-top: 34px; padding-top: 22px; border-top: 1px solid var(--line);
+    display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px;
+  }
+  .foot-dev-label {
+    font-size: .68rem; letter-spacing: .16em; text-transform: uppercase;
+    font-weight: 700; color: var(--moss);
+  }
+  .foot-dev-links { display: flex; flex-wrap: wrap; gap: 8px; }
+  .foot-dev-links a {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .8rem;
+    color: var(--oak); text-decoration: none;
+    background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+    padding: 5px 10px; transition: border-color .12s ease, background .12s ease;
+  }
+  .foot-dev-links a:hover { border-color: var(--moss); background: #fff; }
+  .foot-dev-note { flex-basis: 100%; max-width: 62ch; margin: 4px 0 0; font-size: .82rem; }
+  .foot-dev-note code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .9em;
+    background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px;
+  }
+  .foot-colophon {
+    margin-top: 26px; padding-top: 20px; border-top: 1px solid var(--line);
+    font-size: .9rem; color: var(--ink-soft);
+  }
+  .foot-colophon p { max-width: 68ch; margin: 0; }
+  .foot-colophon a {
+    color: var(--oak); font-weight: 600; text-decoration: none;
+    border-bottom: 1px solid var(--line);
+  }
+  .foot-colophon a:hover { border-bottom-color: var(--oak); }
+  .foot-build { margin-top: 10px; font-size: .8rem; color: var(--ink-soft); }
+
+  :focus-visible { outline: 2.5px solid var(--clay); outline-offset: 2px; border-radius: 4px; }
+
+  @media (max-width: 720px) {
+    .wrap { padding: 0 18px; }
+    .hero { padding: 40px 0 20px; }
+    .masthead .stamp { display: none; }
+    footer .foot-grid { grid-template-columns: 1fr; }
+    .grid { grid-template-columns: 1fr; gap: 14px; }
+    .card h3 { font-size: 1.3rem; }
+    .searchbar input { font-size: 16px; } /* 16px avoids iOS zoom-on-focus */
+    .toolbar { padding: 18px 0 16px; }
+  }
+
+  @media (max-width: 480px) {
+    .wrap { padding: 0 14px; }
+    .hero { padding: 30px 0 14px; }
+    .hero-kicker { margin-bottom: 12px; }
+    .hero p.lede { font-size: 1rem; }
+    .chips { gap: 7px; margin-top: 20px; }
+    .chip { padding: 9px 13px; }            /* taller tap targets */
+    .card { padding: 17px 16px 15px; }
+    .card-foot { gap: 7px; }
+    .contact-main { padding: 10px 12px; }   /* ~44px tap height */
+    .contact-copy { padding: 0 14px; }
+    .result-count { font-size: .9rem; }
+    .quote { font-size: 1.06rem; padding-left: 26px; }
+    .quote::before { font-size: 3rem; }
+  }
+
+  /* ---------- Section tabs: the list / what's on ---------- */
+  .ev-tabs { display: flex; gap: 6px; padding: 20px 0 0; }
+  .ev-tab {
+    font-family: var(--sans); font-size: .95rem; font-weight: 700;
+    border: 1.5px solid var(--line-2); background: var(--card); color: var(--ink-soft);
+    border-radius: 999px; padding: 10px 20px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 8px;
+    transition: background .12s ease, color .12s ease, border-color .12s ease;
+  }
+  .ev-tab:hover { border-color: var(--moss); }
+  .ev-tab[aria-selected="true"] { background: var(--oak); border-color: var(--oak); color: #F4EFE2; }
+  .ev-tab .n { font-variant-numeric: tabular-nums; opacity: .75; }
+
+  /* ---------- "Next up" ticker: live events inside the directory hero ------
+     The events pane is a click away, so the hero carries the two soonest by
+     name — a tab label alone doesn't tell anyone there's anything worth a
+     click. Hidden entirely when there are no upcoming events. */
+  .ev-ticker {
+    display: flex; align-items: center; gap: 11px; flex-wrap: wrap;
+    margin-top: 18px; padding: 11px 16px;
+    background: var(--card); border: 1px solid var(--line);
+    border-left: 3px solid var(--clay); border-radius: 10px;
+    font-size: .9rem; box-shadow: var(--shadow);
+  }
+  .ev-ticker .tk-label {
+    font-size: .68rem; font-weight: 800; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--clay);
+  }
+  .ev-ticker .tk-item { color: var(--ink-soft); }
+  .ev-ticker .tk-item b { color: var(--ink); font-weight: 700; }
+  .ev-ticker .tk-sep { color: var(--line-2); }
+  .ev-ticker .tk-all {
+    margin-left: auto; font-family: var(--sans); font-size: .86rem; font-weight: 700;
+    color: var(--oak); background: none; border: none; cursor: pointer; padding: 0;
+    white-space: nowrap;
+  }
+  .ev-ticker .tk-all:hover { text-decoration: underline; }
+
+  /* ---------- Event + promo cards ---------- */
+  .ev-card {
+    position: relative; background: var(--card);
+    border: 1px solid var(--line); border-radius: 14px;
+    padding: 16px 18px 15px; box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 9px; min-width: 0;
+    transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+  }
+  .ev-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--line-2); }
+  /* group-hosted events get the clay spine, the same "ours" signal the
+     multi-mention provider cards use */
+  .ev-card.ev-ours { border-left: 3px solid var(--clay); }
+
+  .ev-when { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .ev-date {
+    font-size: .74rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--oak);
+  }
+  .ev-soon {
+    font-size: .68rem; font-weight: 800; letter-spacing: .05em; text-transform: uppercase;
+    color: var(--clay); background: rgba(201,111,68,.12);
+    border-radius: 999px; padding: 2px 8px;
+  }
+  .ev-title {
+    font-size: 1.16rem; font-weight: 700; letter-spacing: -.015em;
+    line-height: 1.18; margin: 0; word-break: break-word;
+  }
+  .ev-bits { margin: 0; font-size: .84rem; font-weight: 600; color: var(--ink); }
+  .ev-where { margin: 0; font-size: .84rem; color: var(--ink-soft); }
+  .ev-desc {
+    margin: 2px 0 0; font-family: var(--serif); font-size: .98rem; line-height: 1.4;
+    color: var(--ink-soft); overflow-wrap: anywhere;
+  }
+  .ev-foot {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin-top: auto; padding-top: 10px; border-top: 1px dashed var(--line);
+    font-size: .74rem; color: var(--ink-soft);
+  }
+  .ev-kind { font-weight: 700; }
+  .ev-org { font-style: italic; }
+  .ev-link { margin-left: auto; font-weight: 700; color: var(--oak); text-decoration: none; white-space: nowrap; }
+  .ev-link:hover { text-decoration: underline; }
+
+  .ev-card.promo { gap: 7px; }
+  .promo-what {
+    font-size: .72rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--moss); margin: 0;
+  }
+  .promo-contact { margin: 0; font-size: .84rem; color: var(--ink); overflow-wrap: anywhere; }
+  .promo-contact a { color: var(--oak); }
+
+  /* ---------- Events pane ---------- */
+  #pane-events { padding-bottom: 80px; }
+  .ev-pane-hero { padding: 30px 0 4px; }
+  .ev-pane-hero h1 { font-size: clamp(1.9rem, 4vw, 2.7rem); letter-spacing: -.03em; margin: 0 0 8px; }
+  .ev-pane-hero p { margin: 0; color: var(--ink-soft); max-width: 62ch; }
+  .ev-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
+  .ev-month {
+    font-family: var(--serif); font-size: 1.25rem; font-weight: 600;
+    color: var(--ink-soft); margin: 30px 0 14px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .ev-month::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .ev-month:first-child { margin-top: 0; }
+  .ev-section { padding-top: 26px; border-top: 1px solid var(--line); margin-top: 34px; }
+  .ev-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+  .ev-head h2 {
+    font-family: var(--serif); font-size: 1.62rem; font-weight: 600;
+    letter-spacing: -.01em; margin: 0;
+  }
+  .ev-head .ev-sub { font-size: .9rem; color: var(--ink-soft); }
+
+  @media (max-width: 560px) {
+    .ev-ticker { font-size: .84rem; }
+    .ev-ticker .tk-all { margin-left: 0; }
+    .ev-grid { grid-template-columns: 1fr; }
+    .ev-tab { padding: 9px 16px; font-size: .9rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  }
+</style>
+  <script>
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty createPersonProfile opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init('phc_qk3Ja3MuPuWTua2wjxgfeBxvRTxP3DRdrimTueAFQcgs', {
+      api_host: 'https://us.i.posthog.com',
+      person_profiles: 'always',
+      capture_exceptions: true
+    });
+    posthog.register({ site: 'losaltos.space' });
+  </script>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <div class="brand-wrap">
+      <a class="brand" href="#top">
+        The&nbsp;Block&nbsp;List<span class="dot">.</span>
+        <span class="sub" id="brand-group">Los Altos neighbors</span>
+      </a>
+      <span class="mast-credit">A <a class="helicon-ref" data-surface="header" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build</span>
+    </div>
+    <div class="masthead-right">
+      <span class="live-dot" aria-hidden="true" title="Machine-readable · updated daily"></span>
+      <nav class="mast-links" aria-label="Machine-readable resources">
+        <a href="./llms.txt">llms.txt</a>
+        <a href="./AGENTS.md">AGENTS.md</a>
+        <a href="./humans.txt">humans.txt</a>
+        <a href="./data/entries.json">JSON API</a>
+      </nav>
+      <div class="stamp" id="stamp">—</div>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+  <div class="wrap">
+    <div class="ev-tabs" role="tablist" aria-label="Sections">
+      <button class="ev-tab" id="tab-directory" type="button" role="tab"
+              aria-selected="true" aria-controls="pane-directory">
+        🗂️ The list <span class="n" id="tab-dir-n"></span>
+      </button>
+      <button class="ev-tab" id="tab-events" type="button" role="tab"
+              aria-selected="false" aria-controls="pane-events">
+        📅 What's on <span class="n" id="tab-ev-n"></span>
+      </button>
+    </div>
+  </div>
+
+  <div id="pane-directory" role="tabpanel" aria-labelledby="tab-directory">
+  <section class="hero wrap">
+    <p class="hero-kicker">Neighbor to neighbor</p>
+    <h1>Names you can <em>trust</em>, straight from the group.</h1>
+    <p class="lede">
+      Every listing here is someone a neighbor actually vouched for — in their own
+      words. Search a trade or a name to see who the block recommends.
+    </p>
+
+    <div class="searchbar" role="search">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/>
+      </svg>
+      <input id="search" type="text" autocomplete="off" spellcheck="false"
+             aria-label="Search recommendations" placeholder="Try “plumber”…" />
+      <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
+    </div>
+
+    <div class="ev-ticker" id="ev-ticker" hidden></div>
+
+    <div class="chips" id="chips" aria-label="Filter by category"></div>
+  </section>
+
+  <div class="wrap">
+    <div class="toolbar">
+      <div class="result-count" id="result-count" aria-live="polite">Loading the board…</div>
+      <label class="sort">
+        Sort by
+        <select id="sort">
+          <option value="loved">Most recommended</option>
+          <option value="recent">Recently mentioned</option>
+          <option value="az">Name A–Z</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="grid" id="grid"></div>
+  </div>
+  </div>
+
+  <div id="pane-events" class="wrap" role="tabpanel" aria-labelledby="tab-events" hidden>
+    <section class="ev-pane-hero">
+      <h1>What's on around the block</h1>
+      <p>Events and local businesses neighbors posted in the group. Past events
+         drop off on their own; nothing here is curated by hand.</p>
+    </section>
+    <div id="ev-agenda"></div>
+    <section class="ev-section" id="ev-promos" hidden>
+      <div class="ev-head">
+        <h2>Neighbors' own shops</h2>
+        <span class="ev-sub" id="ev-promo-sub"></span>
+      </div>
+      <div class="ev-grid" id="ev-promo-grid"></div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap foot-grid">
+    <div>
+      <h4>What this is</h4>
+      <p>A running list of trusted local services, gathered from the
+         <b id="foot-group">Los Altos neighbors</b> group and refreshed every day.</p>
+      <p id="foot-meta"></p>
+    </div>
+    <div>
+      <h4>How to read it</h4>
+      <p>Recommenders show as <b>first name only</b>. The quote is what they said in
+         the group. A filled dot means more than one neighbor chimed in.</p>
+    </div>
+    <div>
+      <h4>Privacy</h4>
+      <p>Only <b>service providers’</b> contact details appear here — never a
+         neighbor’s. To remove a listing, open an issue on the repo.</p>
+    </div>
+  </div>
+
+  <div class="wrap foot-dev">
+    <span class="foot-dev-label">Built for machines too</span>
+    <nav class="foot-dev-links" aria-label="Machine-readable resources">
+      <a href="./llms.txt">llms.txt</a>
+      <a href="./AGENTS.md">AGENTS.md</a>
+      <a href="./humans.txt">humans.txt</a>
+      <a href="./data/entries.json">Raw JSON</a>
+      <a href="https://github.com/thesharmas/losaltoslist">Source on GitHub</a>
+    </nav>
+    <p class="foot-dev-note">The whole directory is plain JSON, no key needed — point an agent at
+       <code>AGENTS.md</code> and it can read the schema and rules for itself.</p>
+  </div>
+
+  <div class="wrap foot-colophon">
+    <p>A neighbor project by <a href="https://www.thesharmas.org" target="_blank" rel="author noopener">Rohit&nbsp;Sharma</a>
+       — I build small tools that make local knowledge easier to find.
+       The machines have <a href="./llms.txt">llms.txt</a>; the people have <a href="./humans.txt">humans.txt</a>.</p>
+    <p class="foot-build">A <a class="helicon-ref" data-surface="footer" href="https://helicon.works/" target="_blank" rel="noopener noreferrer">Helicon</a> build.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  var DATA = "./data/";
+  // Canonical origin for share links: stub pages (e/<id>.html) are generated at
+  // deploy time so shared links get per-entry OpenGraph previews in chat apps.
+  var SHARE_BASE = "https://losaltos.space";
+  var state = { entries: [], catBySlug: {}, activeCat: null, query: "", sort: "loved",
+                entry: null, view: "directory" };
+
+  var el = {
+    grid: document.getElementById("grid"),
+    chips: document.getElementById("chips"),
+    search: document.getElementById("search"),
+    clear: document.getElementById("search-clear"),
+    sort: document.getElementById("sort"),
+    count: document.getElementById("result-count"),
+    stamp: document.getElementById("stamp"),
+    footMeta: document.getElementById("foot-meta"),
+  };
+
+  // ---- analytics: custom PostHog events. Must never break the page, and
+  // must be a silent no-op when posthog is blocked or absent (tests, adblock).
+  function track(name, props) {
+    try {
+      if (window.posthog && typeof window.posthog.capture === "function") {
+        window.posthog.capture(name, props || {});
+      }
+    } catch (e) { /* analytics never throws into the app */ }
+  }
+
+  function slugify(s) {
+    return String(s).toLowerCase().trim().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function fmtDate(iso) {
+    if (!iso) return "";
+    var p = iso.split("-");
+    if (p.length !== 3) return iso;
+    var mi = +p[1] - 1;
+    if (!(mi >= 0 && mi < 12)) return iso; // out-of-range month: leave as-is
+    var m = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return m[mi] + " " + (+p[2]) + ", " + p[0];
+  }
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text);
+    }
+    return new Promise(function (resolve, reject) {
+      var ta = document.createElement("textarea");
+      ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+      document.body.appendChild(ta); ta.focus(); ta.select();
+      try { document.execCommand("copy"); resolve(); }
+      catch (e) { reject(e); }
+      finally { document.body.removeChild(ta); }
+    });
+  }
+  function hostname(url) {
+    try { return new URL(url).hostname.replace(/^www\./, ""); }
+    catch (e) { return url.replace(/^https?:\/\//, "").replace(/^www\./, "").split("/")[0]; }
+  }
+  // provider websites are untrusted: only allow http(s), and upgrade bare
+  // domains ("example.com") to https. anything else (javascript:, data:, …) is
+  // rejected so it can never become a live link.
+  function safeUrl(url) {
+    var s = String(url).trim();
+    if (/^https?:\/\//i.test(s)) return s;
+    if (/^[a-z][a-z0-9+.\-]*:/i.test(s)) return null; // some other scheme
+    if (!s) return null;
+    return "https://" + s;
+  }
+  function catMeta(entry) {
+    var slug = slugify(entry.category);
+    var c = state.catBySlug[slug];
+    return {
+      slug: slug,
+      name: c ? c.name : titleCase(entry.category),
+      emoji: c && c.emoji ? c.emoji : "•",
+    };
+  }
+  function titleCase(s) {
+    return String(s).replace(/\w\S*/g, function (t) { return t.charAt(0).toUpperCase() + t.slice(1); });
+  }
+  // all categories an entry belongs to (v1.1 `categories`, primary first);
+  // pre-1.1 data only has the single `category` string
+  function entryCats(e) {
+    return (e.categories && e.categories.length) ? e.categories : [e.category];
+  }
+
+  // some entries come through without a name — fall back to their site, then their trade
+  function displayName(e) {
+    if (e.name) return { text: e.name, unnamed: false };
+    var sites = (e.contact && e.contact.websites) || [];
+    if (sites.length) return { text: hostname(sites[0]), unnamed: true };
+    return { text: "A recommended " + catMeta(e).name.toLowerCase(), unnamed: true };
+  }
+
+  // ---- data load ----
+  function load() {
+    showSkeleton();
+    Promise.all([
+      fetch(DATA + "entries.json").then(okJson),
+      fetch(DATA + "categories.json").then(okJson),
+      fetch(DATA + "meta.json").then(okJson).catch(function () { return null; }),
+      fetch(DATA + "synonyms.json").then(okJson).catch(function () { return null; }),
+      // events.json ships from a second pipeline: optional, and a missing or
+      // malformed file must never take the directory down with it
+      fetch(DATA + "events.json").then(okJson).catch(function () { return null; }),
+    ]).then(function (res) {
+      state.entries = res[0] || [];
+      (res[1] || []).forEach(function (c) { state.catBySlug[c.slug] = c; });
+      buildChips(res[1] || []);
+      renderMeta(res[2]);
+      buildSynonyms(res[3]);
+      initEvents(res[4]);
+      renderEventsUI();
+      var initial = readHash();
+      applyState(initial, false);
+      trackArrival(initial);
+    }).catch(showError);
+  }
+  function okJson(r) { if (!r.ok) throw new Error(r.status); return r.json(); }
+
+  // The crawlable pages (category pages, events.html, share stubs) are the
+  // only thing search engines rank, but they hand off to this SPA — without
+  // this event those landings look identical to direct traffic, so the pages
+  // that do the ranking appear to convert nobody.
+  function trackArrival(s) {
+    if (!s || s.via === "direct") return;
+    track("arrived_from", {
+      via: s.via,
+      category_slug: s.c || null,
+      entry_id: s.e || null,
+      view: s.view,
+    });
+  }
+
+  function renderMeta(meta) {
+    if (!meta) return;
+    if (meta.group) {
+      document.getElementById("brand-group").textContent = meta.group;
+      document.getElementById("foot-group").textContent = meta.group;
+    }
+    var when = meta.generated_at ? fmtDate(meta.generated_at.slice(0, 10)) : "";
+    el.stamp.innerHTML = "<b>" + (meta.entry_count || state.entries.length) + "</b> listings · updated " + esc(when);
+    el.footMeta.innerHTML = "Last built " + esc(when) + " from " +
+      "<b>" + (meta.message_count || "—") + "</b> group messages across " +
+      "<b>" + (meta.category_count || "—") + "</b> kinds of help.";
+  }
+
+  // ---- category chips: show the busiest handful, rest in a dropdown ----
+  function buildChips(cats) {
+    var withEntries = cats.filter(function (c) { return c.entry_count > 0; });
+    withEntries.sort(function (a, b) {
+      return b.entry_count - a.entry_count || (a.name < b.name ? -1 : 1);
+    });
+    var TOP = 9;
+    var top = withEntries.slice(0, TOP);
+    var rest = withEntries.slice(TOP);
+    var frag = document.createDocumentFragment();
+
+    frag.appendChild(makeChip(null, "All", "🗂", state.entries.length));
+    top.forEach(function (c) { frag.appendChild(makeChip(c.slug, c.name, c.emoji, c.entry_count)); });
+
+    if (rest.length) {
+      var sel = document.createElement("select");
+      sel.className = "cat-all";
+      sel.setAttribute("aria-label", "More categories");
+      var def = document.createElement("option");
+      def.value = ""; def.textContent = "More categories…";
+      sel.appendChild(def);
+      rest.forEach(function (c) {
+        var o = document.createElement("option");
+        o.value = c.slug;
+        o.textContent = (c.emoji ? c.emoji + " " : "") + c.name + " (" + c.entry_count + ")";
+        sel.appendChild(o);
+      });
+      sel.addEventListener("change", function () {
+        if (sel.value) { setCategory(sel.value); }
+        sel.selectedIndex = 0;
+      });
+      frag.appendChild(sel);
+    }
+    el.chips.appendChild(frag);
+  }
+
+  function makeChip(slug, name, emoji, n) {
+    var b = document.createElement("button");
+    b.className = "chip";
+    b.type = "button";
+    b.dataset.slug = slug || "";
+    b.setAttribute("aria-pressed", "false");
+    b.innerHTML = '<span class="emoji">' + esc(emoji || "•") + "</span>" +
+      esc(name) + ' <span class="n">' + n + "</span>";
+    b.addEventListener("click", function () {
+      setCategory(state.activeCat === slug ? null : slug);
+    });
+    return b;
+  }
+
+  function setCategory(slug) {
+    state.activeCat = slug || null;
+    state.entry = null; // user is navigating away from a deep-linked card
+    syncChips();
+    render();
+    writeHash();
+    var c = slug ? state.catBySlug[slug] : null;
+    track("category_filter", {
+      category: c ? c.name : null,
+      category_slug: slug || null,
+      cleared: !slug,
+      results_count: currentList().length,
+    });
+    document.querySelector(".toolbar").scrollIntoView({ block: "start" });
+  }
+
+  function syncChips() {
+    Array.prototype.forEach.call(el.chips.querySelectorAll(".chip"), function (c) {
+      c.setAttribute("aria-pressed", (c.dataset.slug || null) === state.activeCat ? "true" : "false");
+    });
+  }
+
+  // ---- shareable URL state: #c=<slug>&q=<text>&sort=<key>&e=<entry-id> ----
+  function readHash() {
+    var p = new URLSearchParams(location.hash.replace(/^#/, ""));
+    var c = p.get("c");
+    if (c && !state.catBySlug[c]) c = null; // ignore unknown categories
+    var sort = p.get("sort");
+    if (["loved", "recent", "az"].indexOf(sort) === -1) sort = "loved";
+    var e = p.get("e");
+    if (e && !entryById(e)) e = null; // ignore unknown entry ids
+    // "via" marks arrivals from the static pages we generate at deploy time —
+    // share stubs (e/<id>.html), category pages (c/<slug>.html) and
+    // events.html. Analytics only: writeHash never persists it, so it
+    // disappears on the first interaction. Unknown values collapse to direct
+    // so a hand-typed ?via= can't invent a traffic source.
+    var via = p.get("via");
+    if (["share", "cat", "events"].indexOf(via) === -1) via = "direct";
+    return { c: c || null, q: p.get("q") || "", sort: sort, e: e || null,
+             view: p.get("view") === "events" ? "events" : "directory",
+             via: via };
+  }
+
+  function writeHash() {
+    var p = new URLSearchParams();
+    if (state.view === "events") p.set("view", "events");
+    if (state.activeCat) p.set("c", state.activeCat);
+    if (state.query) p.set("q", state.query);
+    if (state.sort && state.sort !== "loved") p.set("sort", state.sort);
+    if (state.entry) p.set("e", state.entry);
+    var s = p.toString();
+    history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
+  }
+
+  // apply a state object to UI + data (used on load and on back/forward)
+  function applyState(s, scroll) {
+    state.activeCat = s.c;
+    state.query = s.q;
+    state.sort = s.sort;
+    state.entry = s.e || null;
+    // a deep-linked card always wins over the events pane — otherwise a shared
+    // provider link opened while #view=events lingers would render nothing
+    state.view = (s.view === "events" && !state.entry) ? "events" : "directory";
+    setPaneUI(state.view === "events");
+    el.search.value = state.query;
+    el.clear.classList.toggle("show", !!state.query);
+    el.sort.value = state.sort;
+    syncChips();
+    render();
+    if (state.entry) {
+      revealEntry(state.entry, s.via || "direct");
+    } else if (scroll && (state.activeCat || state.query)) {
+      document.querySelector(".toolbar").scrollIntoView({ block: "start" });
+    }
+  }
+
+  // ---- deep links to a single card (#e=<id>) ----
+  function entryById(id) {
+    for (var i = 0; i < state.entries.length; i++) {
+      if (state.entries[i].id === id) return state.entries[i];
+    }
+    return null;
+  }
+
+  function findCard(id) {
+    // entry ids are slugs; refuse anything else so it can't break the selector
+    if (!/^[a-zA-Z0-9_-]+$/.test(id)) return null;
+    return el.grid.querySelector('.card[data-id="' + id + '"]');
+  }
+
+  // scroll to + highlight the linked card; if current filters hide it, swap
+  // the view to the entry's own category so the link always lands somewhere.
+  function revealEntry(id, via) {
+    var cardEl = findCard(id);
+    if (!cardEl) {
+      var e = entryById(id);
+      if (!e) { state.entry = null; return; }
+      state.activeCat = state.catBySlug[slugify(e.category)] ? slugify(e.category) : null;
+      state.query = "";
+      el.search.value = "";
+      el.clear.classList.remove("show");
+      syncChips();
+      render();
+      cardEl = findCard(id);
+      if (!cardEl) { state.entry = null; return; }
+    }
+    cardEl.classList.add("linked");
+    // a shared link should show everything, including collapsed extra notes
+    var toggle = cardEl.querySelector('.more-mentions[aria-expanded="false"]');
+    if (toggle) toggle.click();
+    if (cardEl.scrollIntoView) cardEl.scrollIntoView({ block: "center" });
+    track("card_link_opened", { entry_id: id, via: via || "direct" });
+  }
+
+  function shareUrl(id) {
+    return SHARE_BASE + "/e/" + encodeURIComponent(id) + ".html";
+  }
+
+  // ---- search synonyms (data/synonyms.json, optional) ----
+  // Curated map of category slug -> extra lowercase phrases the search should
+  // treat as that category's vocabulary ("irrigation" -> landscaper). The file
+  // is optional: a 404 leaves search behavior unchanged. Keys starting with
+  // "_" are comments/meta and ignored.
+  var synBySlug = {};
+  function buildSynonyms(raw) {
+    synBySlug = {};
+    if (!raw || typeof raw !== "object") return;
+    Object.keys(raw).forEach(function (k) {
+      if (k.charAt(0) === "_" || !Array.isArray(raw[k])) return;
+      var list = raw[k].map(function (s) { return String(s).toLowerCase().trim(); }).filter(Boolean);
+      if (list.length) synBySlug[k] = list;
+    });
+  }
+  function entrySynonyms(e) {
+    var out = [];
+    entryCats(e).forEach(function (c) {
+      var s = synBySlug[slugify(c)];
+      if (s) out = out.concat(s);
+    });
+    return out;
+  }
+
+  // ---- typo-tolerant matching ----
+  // Bounded edit distance (optimal string alignment: insert / delete /
+  // substitute plus adjacent transposition). Returns a value > max as soon as
+  // the distance provably exceeds max, so callers can bail early.
+  function editDistance(a, b, max) {
+    var al = a.length, bl = b.length, i, j;
+    if (Math.abs(al - bl) > max) return max + 1;
+    var prev2 = null, prev = [], cur;
+    for (j = 0; j <= bl; j++) prev[j] = j;
+    for (i = 1; i <= al; i++) {
+      cur = [i];
+      var rowMin = i;
+      for (j = 1; j <= bl; j++) {
+        var cost = a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1;
+        var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost);
+        if (prev2 && i > 1 && j > 1 &&
+            a.charAt(i - 1) === b.charAt(j - 2) && a.charAt(i - 2) === b.charAt(j - 1)) {
+          v = Math.min(v, prev2[j - 2] + 1);
+        }
+        cur[j] = v;
+        if (v < rowMin) rowMin = v;
+      }
+      if (rowMin > max) return max + 1; // every path already over budget
+      prev2 = prev; prev = cur;
+    }
+    return prev[bl];
+  }
+
+  // Typo budget per query token: short tokens must match exactly, otherwise
+  // 2-3 letter queries would fuzzy-match half the board.
+  function typoBudget(len) { return len < 4 ? 0 : len < 7 ? 1 : 2; }
+
+  // One query token vs one candidate word: check the whole word and its
+  // q-length prefix (people type incrementally), within the typo budget.
+  function fuzzyWord(q, w) {
+    if (w.indexOf(q) > -1) return true;
+    var max = typoBudget(q.length);
+    if (!max) return false;
+    if (editDistance(q, w, max) <= max) return true;
+    return w.length > q.length && editDistance(q, w.slice(0, q.length), max) <= max;
+  }
+
+  function words(s) {
+    return String(s || "").toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+  }
+
+  // Fields eligible for typo rescue: entry name + its category names (display
+  // names when known). Mention quotes are long free text — fuzzy-matching
+  // them produces noise, so quotes stay exact-only.
+  function fuzzyEntryWords(e) {
+    var out = words(e.name);
+    entryCats(e).forEach(function (c) {
+      var m = state.catBySlug[slugify(c)];
+      out = out.concat(words(m ? m.name : c));
+    });
+    entrySynonyms(e).forEach(function (s) { out = out.concat(words(s)); });
+    return out;
+  }
+
+  // Every query token must fuzzy-match some word of the entry.
+  function fuzzyMatch(e, qTokens) {
+    var ws = fuzzyEntryWords(e);
+    return qTokens.every(function (qt) {
+      return ws.some(function (w) { return fuzzyWord(qt, w); });
+    });
+  }
+
+  // ---- filtering + sorting ----
+  // True when the current results came from the fuzzy fallback (zero exact
+  // hits, close matches shown instead). Read by renderCount + trackSearch.
+  var fuzzyActive = false;
+
+  function exactMatch(e, q) {
+    if ((e.name || "").toLowerCase().indexOf(q) > -1) return true;
+    if (entryCats(e).some(function (c) { return String(c || "").toLowerCase().indexOf(q) > -1; })) return true;
+    if (entrySynonyms(e).some(function (s) { return s.indexOf(q) > -1; })) return true;
+    return (e.mentions || []).some(function (m) {
+      return (m.quote && m.quote.toLowerCase().indexOf(q) > -1);
+    });
+  }
+
+  function currentList() {
+    var q = state.query.toLowerCase();
+    // a multi-category provider shows up under every category it belongs to
+    var pool = state.entries.filter(function (e) {
+      return !state.activeCat || entryCats(e).map(slugify).indexOf(state.activeCat) > -1;
+    });
+    fuzzyActive = false;
+    var list = q ? pool.filter(function (e) { return exactMatch(e, q); }) : pool;
+    if (q && !list.length) {
+      // typo rescue: no exact hits — retry with per-word edit-distance matching
+      var qTokens = words(q);
+      if (qTokens.length) {
+        list = pool.filter(function (e) { return fuzzyMatch(e, qTokens); });
+        fuzzyActive = list.length > 0;
+      }
+    }
+    var sorters = {
+      loved: function (a, b) {
+        return (b.mention_count || 0) - (a.mention_count || 0) ||
+               (b.last_seen || "").localeCompare(a.last_seen || "");
+      },
+      recent: function (a, b) { return (b.last_seen || "").localeCompare(a.last_seen || ""); },
+      az: function (a, b) {
+        var an = a.name || "", bn = b.name || "";
+        if (an && bn) return an.localeCompare(bn);
+        return an ? -1 : bn ? 1 : 0; // unnamed entries sink to the bottom
+      },
+    };
+    return list.sort(sorters[state.sort] || sorters.loved);
+  }
+
+  function render() {
+    var list = currentList();
+    renderCount(list.length);
+    if (!list.length) { renderEmpty(); return; }
+    var frag = document.createDocumentFragment();
+    list.forEach(function (e) { frag.appendChild(card(e)); });
+    el.grid.innerHTML = "";
+    el.grid.appendChild(frag);
+  }
+
+  function renderCount(n) {
+    var catLabel = state.activeCat && state.catBySlug[state.activeCat]
+      ? '<span class="active-cat">' + esc(state.catBySlug[state.activeCat].name) + "</span>"
+      : "the block";
+    var qLabel = state.query
+      ? (fuzzyActive ? " closely" : "") + ' matching “' + esc(state.query) + "”"
+      : "";
+    el.count.innerHTML = "<b>" + n + "</b> " + (n === 1 ? "name" : "names") +
+      " from " + catLabel + qLabel;
+  }
+
+  function contactPill(href, external, iconKind, display, copyValue, label) {
+    var main = '<a class="contact-main" href="' + esc(href) + '"' +
+      (external ? ' target="_blank" rel="noopener"' : "") + ">" +
+      icon(iconKind) + "<span>" + esc(display) + "</span></a>";
+    var copy = '<button class="contact-copy" type="button" data-copy="' + esc(copyValue) +
+      '" data-label="' + esc(label) + '" aria-label="' + esc(label) + '" title="' + esc(label) + '">' +
+      icon("copy") + icon("check") + "</button>";
+    return '<span class="contact">' + main + copy + "</span>";
+  }
+
+  function contactLinks(c) {
+    if (!c) return "";
+    var out = [];
+    (c.phones || []).forEach(function (p) {
+      out.push(contactPill("tel:" + p.replace(/[^\d+]/g, ""), false, "phone", p, p, "Copy number"));
+    });
+    (c.emails || []).forEach(function (m) {
+      out.push(contactPill("mailto:" + m, false, "mail", m, m, "Copy email"));
+    });
+    (c.websites || []).forEach(function (w) {
+      var href = safeUrl(w);
+      if (!href) return; // drop unsafe/malformed URLs rather than link to them
+      out.push(contactPill(href, true, "web", hostname(href), href, "Copy link"));
+    });
+    return out.length ? out.join("") :
+      '<span class="no-contact">No contact shared — ask in the group.</span>';
+  }
+
+  function icon(kind) {
+    var paths = {
+      share: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/>',
+      phone: '<path d="M4 4h4l2 5-2.5 1.5a11 11 0 006 6L15 14l5 2v4a2 2 0 01-2 2A16 16 0 012 6a2 2 0 012-2z"/>',
+      mail: '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/>',
+      web: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/>',
+      copy: '<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 012-2h10"/>',
+      check: '<path d="M20 6L9 17l-5-5"/>',
+    };
+    return '<svg class="i-' + kind + '" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+      paths[kind] + "</svg>";
+  }
+
+  function mentionBlock(m) {
+    var q = m.quote ? esc(m.quote) : "Recommended in the group.";
+    var date = m.date ? " · " + esc(fmtDate(m.date)) : "";
+    return '<p class="quote">' + q + '</p>' +
+      '<p class="attribution">— A neighbor' + date + "</p>";
+  }
+
+  function card(e) {
+    var meta = catMeta(e);
+    var count = e.mention_count || (e.mentions ? e.mentions.length : 0);
+    var loved = count > 1;
+    var mentions = e.mentions || [];
+    var div = document.createElement("article");
+    div.className = "card" + (loved ? " loved" : "");
+    if (e.id) div.setAttribute("data-id", e.id);
+
+    var recs = loved
+      ? '<span class="recs">★ ' + count + " neighbors</span>"
+      : '<span class="recs solo">1 mention</span>';
+
+    var extra = "";
+    if (mentions.length > 1) {
+      var rest = mentions.slice(1).map(function (m) {
+        return '<div class="extra-quote">' + mentionBlock(m) + "</div>";
+      }).join("");
+      extra =
+        '<button class="more-mentions" type="button" aria-expanded="false">' +
+          "+ " + (mentions.length - 1) + " more " + (mentions.length - 1 === 1 ? "note" : "notes") +
+        "</button>" +
+        '<div class="extra-wrap" hidden>' + rest + "</div>";
+    }
+
+    var tags = entryCats(e).slice(1).map(function (c) {
+      var slug = slugify(c);
+      var cm = state.catBySlug[slug];
+      var label = cm ? cm.name : titleCase(String(c || ""));
+      return '<button class="cat-tag" type="button" data-slug="' + esc(slug) +
+        '" title="Also recommended as ' + esc(label) + '">+' + esc(label) + "</button>";
+    }).join("");
+
+    var title = displayName(e);
+    div.innerHTML =
+      '<span class="card-eyebrow"><span class="emoji">' + esc(meta.emoji) + '</span><span class="cat-primary">' + esc(meta.name) + "</span>" + tags + "</span>" +
+      '<h3' + (title.unnamed ? ' class="h3-unnamed"' : "") + ">" + esc(title.text) + "</h3>" +
+      recs +
+      (mentions.length ? mentionBlock(mentions[0]) : '<p class="no-contact">Listed by the group.</p>') +
+      extra +
+      '<div class="card-foot">' + contactLinks(e.contact) +
+        (e.id
+          ? '<button class="share-btn" type="button" aria-label="Share this listing" title="Share a link to this listing">' +
+            icon("share") + icon("check") + "<span>Share</span></button>"
+          : "") +
+      "</div>";
+
+    var toggle = div.querySelector(".more-mentions");
+    if (toggle) {
+      toggle.addEventListener("click", function () {
+        var wrap = div.querySelector(".extra-wrap");
+        var open = !wrap.hidden;
+        if (!open) {
+          track("recommendation_expanded", {
+            business: title.text,
+            category: meta.name,
+            extra_notes: mentions.length - 1,
+          });
+        }
+        wrap.hidden = open;
+        toggle.setAttribute("aria-expanded", String(!open));
+        toggle.textContent = open
+          ? "+ " + (mentions.length - 1) + " more " + (mentions.length - 1 === 1 ? "note" : "notes")
+          : "Show less";
+      });
+    }
+    return div;
+  }
+
+  // ---- states ----
+  function showSkeleton() {
+    var s = "";
+    for (var i = 0; i < 6; i++) {
+      s += '<article class="card skeleton">' +
+        '<div class="sk" style="height:12px;width:40%"></div>' +
+        '<div class="sk" style="height:26px;width:65%"></div>' +
+        '<div class="sk" style="height:60px;width:100%"></div>' +
+        '<div class="sk" style="height:30px;width:50%"></div></article>';
+    }
+    el.grid.innerHTML = s;
+  }
+
+  // How many entries match the query board-wide, ignoring the category filter.
+  // Lets the empty state offer "search everywhere" instead of a dead end when
+  // the search is scoped to a chip (e.g. typing "plumber" with Contractor on).
+  function matchesIgnoringCategory(q) {
+    var list = state.entries.filter(function (e) { return exactMatch(e, q); });
+    if (!list.length) {
+      var qTokens = words(q);
+      if (qTokens.length) list = state.entries.filter(function (e) { return fuzzyMatch(e, qTokens); });
+    }
+    return list.length;
+  }
+
+  function renderEmpty() {
+    var q = state.query.toLowerCase();
+    var elsewhere = q && state.activeCat ? matchesIgnoringCategory(q) : 0;
+    if (elsewhere) {
+      var cat = state.catBySlug[state.activeCat];
+      el.grid.innerHTML =
+        '<div class="notice"><h3>Nobody on the list — in ' + esc(cat ? cat.name : "this category") + ".</h3>" +
+        "<p><b>" + elsewhere + "</b> " + (elsewhere === 1 ? "name matches" : "names match") +
+        " “" + esc(state.query) + "” elsewhere on the board.</p>" +
+        '<button type="button" id="widen">Search the whole board</button></div>';
+      document.getElementById("widen").addEventListener("click", function () {
+        setCategory(null); // drop the filter, keep the query
+      });
+      return;
+    }
+    el.grid.innerHTML =
+      '<div class="notice"><h3>Nobody on the list — yet.</h3>' +
+      "<p>No listing matches that search. Try a broader term, or clear the filters to see the whole board.</p>" +
+      '<button type="button" id="reset">Clear filters</button></div>';
+    document.getElementById("reset").addEventListener("click", function () {
+      state.query = ""; el.search.value = ""; el.clear.classList.remove("show");
+      setCategory(null);
+    });
+  }
+
+  function showError() {
+    el.count.textContent = "";
+    el.grid.innerHTML =
+      '<div class="notice"><h3>Couldn’t load the list.</h3>' +
+      "<p>The data files need to be served over http, not opened from disk. " +
+      "From the project folder run <code>python3 -m http.server</code>, then visit " +
+      "<code>http://localhost:8000</code>.</p>" +
+      '<button type="button" id="retry">Try again</button></div>';
+    var r = document.getElementById("retry");
+    if (r) r.addEventListener("click", load);
+  }
+
+  // ---- events ----
+  document.querySelectorAll(".helicon-ref").forEach(function (a) {
+    a.addEventListener("click", function () {
+      track("helicon_referral_clicked", { surface: a.dataset.surface });
+    });
+  });
+
+  // Search analytics: fire once the user pauses typing (not per keystroke),
+  // skip trivial 1-char queries, and never re-send the same query twice in a row.
+  var searchT, lastTrackedQuery = "";
+  function trackSearch() {
+    var q = state.query;
+    if (!q || q.length < 2 || q === lastTrackedQuery) return;
+    lastTrackedQuery = q;
+    var n = currentList().length;
+    var fz = fuzzyActive;
+    // Did the synonym map make the difference? Re-check without it. Cheap at
+    // this scale, and it only runs after the typing pause, never per keystroke.
+    var syn = false;
+    if (n > 0) {
+      var saved = synBySlug;
+      synBySlug = {};
+      syn = currentList().length === 0;
+      synBySlug = saved;
+      fuzzyActive = fz;
+    }
+    // category_slug lets the synonyms cron tell a vocabulary gap apart from a
+    // search that came up empty only because a category chip was narrowing it.
+    track("search", { query: q, results_count: n, fuzzy: fz, synonyms: syn, category_slug: state.activeCat || null });
+    if (n === 0) track("search_no_results", { query: q, category_slug: state.activeCat || null });
+  }
+
+  var t;
+  el.search.addEventListener("input", function () {
+    el.clear.classList.toggle("show", !!el.search.value);
+    clearTimeout(t);
+    t = setTimeout(function () {
+      state.query = el.search.value.trim(); state.entry = null; render(); writeHash();
+      clearTimeout(searchT);
+      searchT = setTimeout(trackSearch, 1100);
+    }, 140);
+  });
+  el.clear.addEventListener("click", function () {
+    el.search.value = ""; state.query = ""; state.entry = null; el.clear.classList.remove("show");
+    render(); writeHash(); el.search.focus();
+  });
+  el.sort.addEventListener("change", function () {
+    state.sort = el.sort.value; render(); writeHash();
+    track("sort_changed", { sort_by: state.sort });
+  });
+
+  // back/forward and pasted links
+  window.addEventListener("hashchange", function () {
+    if (!state.entries.length) return;
+    applyState(readHash(), true);
+  });
+
+  // helper: pull business + category context off the enclosing card
+  function cardContext(node) {
+    var c = node && node.closest ? node.closest(".card") : null;
+    if (!c) return {};
+    var h3 = c.querySelector("h3");
+    var prim = c.querySelector(".cat-primary");
+    var eyebrow = c.querySelector(".card-eyebrow");
+    return {
+      business: h3 ? h3.textContent : null,
+      category: prim ? prim.textContent.trim() : (eyebrow ? eyebrow.textContent.trim() : null),
+    };
+  }
+
+  // conversion signal: a visitor reached out (tel/mailto) or opened a provider site
+  el.grid.addEventListener("click", function (ev) {
+    var a = ev.target.closest ? ev.target.closest(".contact-main") : null;
+    if (!a) return;
+    var href = a.getAttribute("href") || "";
+    var method = href.indexOf("tel:") === 0 ? "phone"
+      : href.indexOf("mailto:") === 0 ? "email" : "website";
+    var ctx = cardContext(a);
+    track("contact_clicked", {
+      method: method,
+      business: ctx.business,
+      category: ctx.category,
+      // only send the URL for websites; keep phone/email values out of analytics
+      url: method === "website" ? href : null,
+    });
+  });
+
+  // secondary-category tag → jump to that category's view
+  el.grid.addEventListener("click", function (ev) {
+    var tag = ev.target.closest ? ev.target.closest(".cat-tag") : null;
+    if (!tag) return;
+    var slug = tag.getAttribute("data-slug");
+    if (slug && state.catBySlug[slug]) {
+      var tctx = cardContext(tag);
+      track("cat_tag_clicked", {
+        to_category: state.catBySlug[slug].name,
+        business: tctx.business,
+        from_category: tctx.category,
+      });
+      setCategory(slug);
+    }
+  });
+
+  // share a single card: native share sheet on mobile, copy-link elsewhere.
+  // The link points at the entry's static stub page (e/<id>.html) so chat
+  // apps render a per-provider preview instead of the generic site card.
+  el.grid.addEventListener("click", function (ev) {
+    var btn = ev.target.closest ? ev.target.closest(".share-btn") : null;
+    if (!btn) return;
+    var cardEl = btn.closest(".card");
+    var id = cardEl ? cardEl.getAttribute("data-id") : null;
+    if (!id) return;
+    var url = shareUrl(id);
+    var ctx = cardContext(btn);
+    // track on OUTCOME, not attempt: native share only counts once the user
+    // actually completes the sheet (dismissals reject with AbortError)
+    function shared(method) {
+      track("card_shared", { entry_id: id, business: ctx.business, category: ctx.category, method: method });
+    }
+    if (navigator.share) {
+      navigator.share({ title: (ctx.business || "Los Altos List") + " · Los Altos List", url: url })
+        .then(function () { shared("native"); })
+        .catch(function () { /* user closed the share sheet */ });
+      return;
+    }
+    copyText(url).then(function () {
+      btn.classList.add("copied");
+      setTimeout(function () { btn.classList.remove("copied"); }, 1400);
+      shared("copy");
+    }).catch(function () { /* clipboard unavailable: leave button as-is */ });
+  });
+
+  // copy phone / email / site from any card
+  el.grid.addEventListener("click", function (ev) {
+    var btn = ev.target.closest ? ev.target.closest(".contact-copy") : null;
+    if (!btn) return;
+    var ctx = cardContext(btn);
+    track("contact_copied", {
+      label: btn.getAttribute("data-label"),
+      business: ctx.business,
+      category: ctx.category,
+    });
+    copyText(btn.getAttribute("data-copy")).then(function () {
+      btn.classList.add("copied");
+      btn.setAttribute("aria-label", "Copied");
+      clearTimeout(btn._t);
+      btn._t = setTimeout(function () {
+        btn.classList.remove("copied");
+        btn.setAttribute("aria-label", btn.getAttribute("data-label"));
+      }, 1400);
+    });
+  });
+
+  // scroll depth: one event per threshold per pageview (single-page site,
+  // so this is the only read on how far down the board people get)
+  var scrollMarks = {};
+  window.addEventListener("scroll", function () {
+    var doc = document.documentElement;
+    var max = doc.scrollHeight - window.innerHeight;
+    if (max <= 0) return;
+    var pct = ((window.scrollY || doc.scrollTop || 0) / max) * 100;
+    [25, 50, 75, 100].forEach(function (mark) {
+      if (!scrollMarks[mark] && pct >= mark) {
+        scrollMarks[mark] = true;
+        // pane: the two views have wildly different page heights, so depth is
+        // only comparable within one of them
+        track("scroll_depth", { depth_pct: mark, depth: mark, pane: state.view });
+      }
+    });
+  }, { passive: true });
+
+  // rotating placeholder — the group's real questions
+  var prompts = ["“plumber”", "a good tutor", "“electrician”", "“Neha”", "a nanny", "someone for the pool", "“handyman”"];
+  var pi = 0;
+  setInterval(function () {
+    if (document.activeElement === el.search || el.search.value) return;
+    pi = (pi + 1) % prompts.length;
+    el.search.setAttribute("placeholder", "Try " + prompts[pi] + "…");
+  }, 2600);
+
+  // ================= events + promos =================
+  // data/events.json is an object ({meta, events, promos}), not a bare array
+  // like entries.json. Everything below tolerates missing fields: the upstream
+  // extractor leaves nulls wherever the group post didn't say.
+  var evState = { events: [], promos: [] };
+
+  function evParseDate(iso) {
+    if (!iso) return null;
+    var p = String(iso).split("-");
+    if (p.length !== 3) return null;
+    var d = new Date(+p[0], +p[1] - 1, +p[2]); // local, not UTC: no date drift
+    return isNaN(d.getTime()) ? null : d;
+  }
+  function evToday() {
+    var n = new Date();
+    return new Date(n.getFullYear(), n.getMonth(), n.getDate());
+  }
+  var EV_MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var EV_MON_FULL = ["January","February","March","April","May","June","July",
+                     "August","September","October","November","December"];
+  var EV_DAY = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+
+  // "Sat, Aug 15" · "Sat, Aug 15–16" · "Fri, Sep 11 – Sep 15"
+  function evDateLabel(e) {
+    var s = evParseDate(e.start_date), en = evParseDate(e.end_date);
+    if (!s) return "Date TBD";
+    var base = EV_DAY[s.getDay()] + ", " + EV_MON[s.getMonth()] + " " + s.getDate();
+    if (en && en.getTime() > s.getTime()) {
+      return en.getMonth() === s.getMonth() && en.getFullYear() === s.getFullYear()
+        ? base + "–" + en.getDate()
+        : base + " – " + EV_MON[en.getMonth()] + " " + en.getDate();
+    }
+    return base;
+  }
+  // only for the near horizon — a countdown on a March event is noise
+  function evCountdown(e) {
+    var s = evParseDate(e.start_date);
+    if (!s) return null;
+    var en = evParseDate(e.end_date);
+    var today = evToday();
+    var days = Math.round((s.getTime() - today.getTime()) / 86400000);
+    if (days < 0) return (en && en.getTime() >= today.getTime()) ? "On now" : null;
+    if (days === 0) return "Today";
+    if (days === 1) return "Tomorrow";
+    if (days <= 10) return "In " + days + " days";
+    return null;
+  }
+  var EV_KINDS = {
+    community: { emoji: "🏘️", label: "Our group" },
+    local:     { emoji: "📍", label: "Los Altos" },
+    regional:  { emoji: "🌉", label: "Bay Area" },
+  };
+  function evKind(e) { return EV_KINDS[e.kind] || { emoji: "📅", label: "Event" }; }
+
+  function evCard(e) {
+    var k = evKind(e);
+    var soon = evCountdown(e);
+    var where = [e.venue, e.city].filter(Boolean).join(", ");
+    var bits = [];
+    if (e.time) bits.push(esc(e.time));
+    if (e.recurrence) bits.push(esc(e.recurrence));
+    if (e.cost) bits.push(esc(e.cost));
+    var href = e.url ? safeUrl(e.url) : null; // same untrusted-URL rule as providers
+
+    var art = document.createElement("article");
+    art.className = "ev-card" + (e.kind === "community" ? " ev-ours" : "");
+    if (e.id) art.setAttribute("data-id", e.id);
+    art.innerHTML =
+      '<div class="ev-when"><span class="ev-date">' + esc(evDateLabel(e)) + "</span>" +
+        (soon ? '<span class="ev-soon">' + esc(soon) + "</span>" : "") +
+      "</div>" +
+      '<h3 class="ev-title">' + esc(e.title || "Untitled event") + "</h3>" +
+      (bits.length ? '<p class="ev-bits">' + bits.join(" · ") + "</p>" : "") +
+      (where ? '<p class="ev-where">' + esc(where) + "</p>" : "") +
+      (e.description ? '<p class="ev-desc">' + esc(e.description) + "</p>" : "") +
+      '<div class="ev-foot">' +
+        '<span class="ev-kind">' + k.emoji + " " + esc(k.label) + "</span>" +
+        (e.organizer ? '<span class="ev-org">' + esc(e.organizer) + "</span>" : "") +
+        (href ? '<a class="ev-link" href="' + esc(href) + '" target="_blank" rel="noopener">Details ↗</a>' : "") +
+      "</div>";
+    if (href) {
+      art.querySelector(".ev-link").addEventListener("click", function () {
+        track("event_link_opened", {
+          event_id: e.id || null, title: e.title || null, kind: e.kind || null,
+          surface: "app", // events.html fires the same event with surface=events_page
+        });
+      });
+    }
+    return art;
+  }
+
+  // promo contact is free text from the group: an email, a phone, or both
+  function promoContactHtml(raw) {
+    return String(raw).split(",").map(function (part) {
+      var t = part.trim();
+      if (!t) return "";
+      if (t.indexOf("@") > -1 && t.indexOf(" ") === -1) {
+        return '<a href="mailto:' + esc(t) + '">' + esc(t) + "</a>";
+      }
+      if (t.replace(/[^0-9]/g, "").length >= 7) {
+        return '<a href="tel:' + esc(t.replace(/[^\d+]/g, "")) + '">' + esc(t) + "</a>";
+      }
+      return esc(t);
+    }).filter(Boolean).join(" · ");
+  }
+
+  function promoCard(p) {
+    var href = p.url ? safeUrl(p.url) : null;
+    var art = document.createElement("article");
+    art.className = "ev-card promo";
+    if (p.id) art.setAttribute("data-id", p.id);
+    art.innerHTML =
+      (p.what ? '<p class="promo-what">' + esc(p.what) + "</p>" : "") +
+      '<h3 class="ev-title">' + esc(p.name || "A neighbor's business") + "</h3>" +
+      (p.description ? '<p class="ev-desc">' + esc(p.description) + "</p>" : "") +
+      (p.contact ? '<p class="promo-contact">' + promoContactHtml(p.contact) + "</p>" : "") +
+      '<div class="ev-foot">' +
+        (href ? '<a class="ev-link" href="' + esc(href) + '" target="_blank" rel="noopener">' +
+                esc(hostname(href)) + " ↗</a>" : "") +
+      "</div>";
+    var base = { promo_id: p.id || null, business: p.name || null };
+    if (href) {
+      art.querySelector(".ev-link").addEventListener("click", function () {
+        track("promo_link_opened", base);
+      });
+    }
+    // reaching for the phone or email is the real intent signal for a promo —
+    // there is no card to open, so the contact click is the whole conversion
+    Array.prototype.forEach.call(art.querySelectorAll(".promo-contact a"), function (a) {
+      a.addEventListener("click", function () {
+        track("promo_contact_clicked", {
+          promo_id: base.promo_id, business: base.business,
+          method: a.getAttribute("href").indexOf("mailto:") === 0 ? "email" : "phone",
+        });
+      });
+    });
+    return art;
+  }
+
+  function initEvents(data) {
+    if (!data || typeof data !== "object") return;
+    evState.events = (Array.isArray(data.events) ? data.events : []).slice().sort(function (a, b) {
+      return String(a.start_date || "").localeCompare(String(b.start_date || ""));
+    });
+    evState.promos = Array.isArray(data.promos) ? data.promos.slice() : [];
+  }
+
+  function renderEventsUI() {
+    document.getElementById("tab-dir-n").textContent = state.entries.length;
+    document.getElementById("tab-ev-n").textContent = evState.events.length;
+    renderTicker();
+    renderAgenda();
+    renderPromos();
+    trackEventsAvailable();
+  }
+
+  // Fired once per pageview, including when there is nothing to show. This is
+  // the denominator every other events metric needs: without it a quiet week
+  // (nobody clicked) is indistinguishable from an empty one (nothing to click).
+  function trackEventsAvailable() {
+    var next = evState.events[0];
+    var days = null;
+    if (next) {
+      var s = evParseDate(next.start_date);
+      if (s) days = Math.round((s.getTime() - evToday().getTime()) / 86400000);
+    }
+    track("events_available", {
+      events_count: evState.events.length,
+      promos_count: evState.promos.length,
+      // "local" here means worth a Los Altos reader's attention: our group's
+      // own events plus Los Altos / Los Altos Hills ones, not Bay Area at large
+      local_count: evState.events.filter(function (e) {
+        return e.kind === "community" || e.kind === "local";
+      }).length,
+      ticker_shown: !document.getElementById("ev-ticker").hidden,
+      days_to_next: days,
+    });
+  }
+
+  function renderTicker() {
+    var next = evState.events.slice(0, 2);
+    if (!next.length) return; // stays hidden — no empty furniture
+    var tk = document.getElementById("ev-ticker");
+    tk.hidden = false;
+    tk.innerHTML =
+      '<span class="tk-label">Next up</span>' +
+      next.map(function (e) {
+        return '<span class="tk-item"><b>' + esc(e.title || "Untitled event") + "</b> · " +
+               esc(evDateLabel(e)) + "</span>";
+      }).join('<span class="tk-sep">/</span>') +
+      '<button class="tk-all" type="button">All ' + evState.events.length + " →</button>";
+    tk.querySelector(".tk-all").addEventListener("click", function () {
+      showPane("events", "ticker");
+    });
+  }
+
+  // agenda grouped by month — the shape a calendar wants to be read in
+  function renderAgenda() {
+    var agenda = document.getElementById("ev-agenda");
+    agenda.innerHTML = "";
+    if (!evState.events.length) {
+      agenda.innerHTML = '<div class="notice"><h3>Nothing on the calendar right now.</h3>' +
+        "<p>When someone posts an event in the group, it shows up here the next morning.</p></div>";
+      return;
+    }
+    var frag = document.createDocumentFragment();
+    var lastKey = null, grid = null;
+    evState.events.forEach(function (e) {
+      var d = evParseDate(e.start_date);
+      var key = d ? d.getFullYear() + "-" + d.getMonth() : "tbd";
+      if (key !== lastKey) {
+        var h = document.createElement("h2");
+        h.className = "ev-month";
+        h.textContent = d ? EV_MON_FULL[d.getMonth()] + " " + d.getFullYear() : "Date to be announced";
+        frag.appendChild(h);
+        grid = document.createElement("div");
+        grid.className = "ev-grid";
+        frag.appendChild(grid);
+        lastKey = key;
+      }
+      grid.appendChild(evCard(e));
+    });
+    agenda.appendChild(frag);
+  }
+
+  function renderPromos() {
+    if (!evState.promos.length) return;
+    var section = document.getElementById("ev-promos");
+    section.hidden = false;
+    document.getElementById("ev-promo-sub").textContent =
+      evState.promos.length + " businesses neighbors are running";
+    var pg = document.getElementById("ev-promo-grid");
+    pg.innerHTML = "";
+    var frag = document.createDocumentFragment();
+    evState.promos.forEach(function (p) { frag.appendChild(promoCard(p)); });
+    pg.appendChild(frag);
+  }
+
+  // ---- pane switching (#view=events survives a reload / a shared link) ----
+  // setPaneUI is the silent half: applyState uses it on load and on
+  // back/forward, where re-writing the hash or re-tracking would be wrong.
+  function setPaneUI(isEvents) {
+    document.getElementById("pane-directory").hidden = isEvents;
+    document.getElementById("pane-events").hidden = !isEvents;
+    document.getElementById("tab-directory").setAttribute("aria-selected", String(!isEvents));
+    document.getElementById("tab-events").setAttribute("aria-selected", String(isEvents));
+  }
+
+  function showPane(which, via) {
+    var isEvents = which === "events";
+    setPaneUI(isEvents);
+    state.view = isEvents ? "events" : "directory";
+    writeHash();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    // depth marks are per-pane: the panes have very different heights, and
+    // without a reset the second pane visited could never report any depth
+    scrollMarks = {};
+    track("pane_changed", { pane: which, via: via || "tab" });
+  }
+  document.getElementById("tab-directory").addEventListener("click", function () { showPane("directory"); });
+  document.getElementById("tab-events").addEventListener("click", function () { showPane("events"); });
+
+  load();
+})();
+</script>
+</body>
+</html>
