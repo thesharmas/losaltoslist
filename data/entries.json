@@ -144,6 +144,31 @@
     "mention_count": 1
   },
   {
+    "id": "salon-finesse",
+    "category": "aesthetician",
+    "categories": [
+      "aesthetician"
+    ],
+    "name": "Salon Finesse",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/search?client=ms-android-google&hs=r96&sca_esv=0ba405510de268d2&cs=0&output=search&kgmid=/g/11yf06c7_t&q=Eyebrow+Threading+%26+Makeup&shem=epsd1,ltae,rimspwouoe&shndl=30&source=sh/x/loc/act/m1/2&kgs=5bc17477f0221855&utm_source=epsd1,ltae,rimspwouoe,sh/x/loc/act/m1/2"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "A neighbor at Salon Finesse https://share.google/vtlgNxplEAmtpBaIp",
+        "date": "2026-08-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1
+  },
+  {
     "id": "shreeshas",
     "category": "aesthetician",
     "categories": [
@@ -166,6 +191,52 @@
     ],
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-14",
+    "mention_count": 1
+  },
+  {
+    "id": "spoil-me-salon",
+    "category": "aesthetician",
+    "categories": [
+      "aesthetician"
+    ],
+    "name": "Spoil Me salon",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Spoil Me salon on Miramonte Ave in Safeway Plaza offers threading and other services. So does Sumi Beauty Salon on El Camino at El Monte.",
+        "date": "2026-08-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1
+  },
+  {
+    "id": "sumi-beauty-salon",
+    "category": "aesthetician",
+    "categories": [
+      "aesthetician"
+    ],
+    "name": "Sumi Beauty Salon",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Spoil Me salon on Miramonte Ave in Safeway Plaza offers threading and other services. So does Sumi Beauty Salon on El Camino at El Monte.",
+        "date": "2026-08-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
     "mention_count": 1
   },
   {

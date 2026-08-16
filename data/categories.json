@@ -44,8 +44,8 @@
     "name": "Plumber",
     "emoji": "🔧",
     "entry_count": 13,
-    "query_count": 21,
-    "last_activity": "2026-08-14"
+    "query_count": 22,
+    "last_activity": "2026-08-15"
   },
   {
     "slug": "nanny",
@@ -168,6 +168,14 @@
     "last_activity": "2026-07-10"
   },
   {
+    "slug": "aesthetician",
+    "name": "Aesthetician",
+    "emoji": "📌",
+    "entry_count": 8,
+    "query_count": 1,
+    "last_activity": "2026-08-15"
+  },
+  {
     "slug": "tree-service",
     "name": "Tree Service",
     "emoji": "🌳",
@@ -254,14 +262,6 @@
     "entry_count": 5,
     "query_count": 2,
     "last_activity": "2026-08-10"
-  },
-  {
-    "slug": "aesthetician",
-    "name": "Aesthetician",
-    "emoji": "📌",
-    "entry_count": 5,
-    "query_count": 1,
-    "last_activity": "2026-08-14"
   },
   {
     "slug": "car-mechanic",
@@ -1398,6 +1398,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-08-04"
+  },
+  {
+    "slug": "nutritionist",
+    "name": "Nutritionist",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-15"
   },
   {
     "slug": "ophthalmologist",
