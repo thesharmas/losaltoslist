@@ -85,7 +85,9 @@
     "refrigerator",
     "fridge",
     "oven",
-    "stove"
+    "stove",
+    "garbage disposal",
+    "disposal unit"
   ],
   "mover": [
     "moving",
@@ -158,5 +160,10 @@
   "college-counseling": [
     "college counselors",
     "college advisor"
+  ],
+  "religious-service": [
+    "priest",
+    "clergy",
+    "minister"
   ]
 }
