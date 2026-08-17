@@ -9853,6 +9853,231 @@
     "mention_count": 1
   },
   {
+    "id": "abby-ahrens",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Abby Ahrens",
+    "contact": {
+      "phones": [
+        "(650) 303-6773"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Abby Ahrens +1 (650) 303-6773",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "alan-wang",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Alan Wang",
+    "contact": {
+      "phones": [
+        "(408) 313-4352"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Alan Wang (+1 (408) 313-4352)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "cindy-lunk",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Cindy Lunk",
+    "contact": {
+      "phones": [
+        "(650) 305-9490"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Cindy Lunk (+1 (650) 305-9490)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "jen-paulson",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Jen Paulson",
+    "contact": {
+      "phones": [
+        "(650) 996-7147"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Jen Paulson +1 (650) 996-7147",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "leslie-zhong",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Leslie Zhong",
+    "contact": {
+      "phones": [
+        "(408) 930-5628"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Leslie Zhong (+1 (408) 930-5628)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "lisa-dippel",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Lisa Dippel",
+    "contact": {
+      "phones": [
+        "(408) 482-7292",
+        "(650) 887-3772"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Lisa Dippel (+1 (408) 482-7292, +1 (650) 887-3772)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "lisa-leaverton",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Lisa Leaverton",
+    "contact": {
+      "phones": [
+        "(408) 250-7300",
+        "(650) 947-4693"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Lisa Leaverton (+1 (408) 250-7300, +1 (650) 947-4693)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "shilpa",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Shilpa",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Was off the charts good for us :)",
+        "date": "2026-08-17",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1
+  },
+  {
+    "id": "shilpa-real-estate-agent-los-altos",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Shilpa Real Estate Agent Los Altos",
+    "contact": {
+      "phones": [
+        "(650) 906-6869"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Shilpa Real Estate Agent Los Altos (+1 (650) 906-6869)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
     "id": "team-abigail",
     "category": "real estate agent",
     "categories": [
@@ -9875,6 +10100,31 @@
     ],
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-326897318",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.gopurehomes.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.gopurehomes.com/",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "mention_count": 1
   },
   {
@@ -11339,6 +11589,54 @@
     ],
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-02",
+    "mention_count": 1
+  },
+  {
+    "id": "parna-didi",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Parna Didi",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Parna Didi is a direct disciple of Pt Birju Maharaj. Slots are filling up quick.",
+        "date": "2026-08-16",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "mention_count": 1
+  },
+  {
+    "id": "parna-didi-kathak",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Parna Didi Kathak",
+    "contact": {
+      "phones": [
+        "(408) 823-9048"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Parna Didi Kathak (+1 (408) 823-9048)",
+        "date": "2026-08-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
     "mention_count": 1
   },
   {

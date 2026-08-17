@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 35,
+    "entry_count": 37,
     "query_count": 44,
-    "last_activity": "2026-08-13"
+    "last_activity": "2026-08-16"
   },
   {
     "slug": "contractor",
@@ -78,6 +78,14 @@
     "entry_count": 10,
     "query_count": 12,
     "last_activity": "2026-08-10"
+  },
+  {
+    "slug": "real-estate-agent",
+    "name": "Real Estate Agent",
+    "emoji": "🏡",
+    "entry_count": 11,
+    "query_count": 8,
+    "last_activity": "2026-08-17"
   },
   {
     "slug": "dentist",
@@ -350,14 +358,6 @@
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-01-23"
-  },
-  {
-    "slug": "real-estate-agent",
-    "name": "Real Estate Agent",
-    "emoji": "🏡",
-    "entry_count": 1,
-    "query_count": 7,
-    "last_activity": "2026-07-27"
   },
   {
     "slug": "therapist",
@@ -800,6 +800,14 @@
     "last_activity": "2026-04-21"
   },
   {
+    "slug": "driver",
+    "name": "Driver",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 3,
+    "last_activity": "2026-08-16"
+  },
+  {
     "slug": "drum-teacher",
     "name": "Drum Teacher",
     "emoji": "📌",
@@ -1006,14 +1014,6 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-22"
-  },
-  {
-    "slug": "driver",
-    "name": "Driver",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 2,
-    "last_activity": "2026-06-21"
   },
   {
     "slug": "eye-doctor",
