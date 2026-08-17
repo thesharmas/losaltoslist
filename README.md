@@ -45,7 +45,10 @@ groups) for **dated community events** and **local business promos**:
   America/Los_Angeles), `time`, `venue`, `city`, `organizer`, `cost`, `url`,
   `recurrence`, and a `kind` of `community` (group-hosted), `local`
   (Los Altos / Los Altos Hills), or `regional` (wider Bay Area). Promos have
-  `name`, `what`, `url`/`contact`, and an `expires` date.
+  `name`, `what`, `url`, and an `expires` date. Neither carries who posted it,
+  and promos carry no phone or email — those were neighbors' personal numbers,
+  not business lines, so a promo is reachable through its own site or not at
+  all. `index.html` refuses to render either field even if the data regresses.
 - **Expiry.** Past events (ended before yesterday) drop out of the file
   automatically; promos expire 60 days after their last sighting unless
   re-posted. Full history stays in the private source repo.
@@ -129,7 +132,7 @@ The events surface adds:
 | `events_available` | Fired once per pageview *including when there's nothing to show* — counts, `local_count`, `ticker_shown`, `days_to_next`. The denominator: without it, "nobody clicked" and "nothing to click" look identical. |
 | `pane_changed` | Did they open the calendar, and did the tab or the ticker get them there (`via`)? |
 | `event_link_opened` | Which events are worth a click. `surface` separates the app from `events.html`. |
-| `promo_link_opened` / `promo_contact_clicked` | A promo has no card to open, so reaching for the phone or email (`method`) is the whole conversion. |
+| `promo_link_opened` | A promo has no card to open, so a click through to its own site is the whole conversion. |
 
 **The static surface.** The generated pages are what search engines actually
 rank, so they carry PostHog too (`analyticsSnippet()`), with a `surface` super
@@ -186,7 +189,7 @@ test-gated deploy ships them.
 ## Tests
 
 The front-end logic is covered by a [Vitest](https://vitest.dev) + jsdom suite
-under `test/` (14 files, 167 tests: loading, state, filtering, search
+under `test/` (14 files, 170 tests: loading, state, filtering, search
 fuzziness, synonyms, rendering, multi-category, share flows, analytics,
 security, helpers, the share stubs, the events pane — date formatting,
 countdowns, pane routing, untrusted event input — and the SEO surface —

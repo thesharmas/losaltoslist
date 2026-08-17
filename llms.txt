@@ -18,6 +18,11 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
   display name, emoji, provider count, request count, last activity date.
 - [meta.json](https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/meta.json): Generation timestamp, source watermark,
   and counts. Check `generated_at` for freshness.
+- [events.json](https://raw.githubusercontent.com/thesharmas/losaltoslist/main/data/events.json): Upcoming community events
+  (`events`: title, start/end date, time, venue, city, organizer, cost, url,
+  recurrence, and a `kind` of community/local/regional) plus local-business
+  promos (`promos`: name, what, url, expires). An object, not an array. Past
+  events drop out automatically. Rendered at https://losaltos.space/events.html
 
 ## Top categories
 
@@ -40,8 +45,10 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 ## Notes
 
 - Recommendations are anonymized: recommender identities (names, numbers,
-  message ids) are never published. Provider contact details were shared
-  voluntarily in the group for referral purposes.
+  message ids) are never published. The same holds for events and promos —
+  who posted one is not published, and promos carry no phone or email.
+  Provider contact details were shared voluntarily in the group for referral
+  purposes.
 - Data quality: quotes are verbatim from chat; classification is LLM-assisted.
   Cross-check contact info before relying on it.
 - To request a correction or removal, open a GitHub issue on

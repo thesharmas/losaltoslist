@@ -105,14 +105,36 @@ describe("events are untrusted input", () => {
       .toBe("https://fogsv.com/event/");
   });
 
-  it("linkifies promo emails and phones, and upgrades a bare domain", async () => {
+  // The export no longer emits promo contacts (they were neighbours' personal
+  // mobiles and gmails). The renderer is the second line of defence: a
+  // pipeline regression must not be able to put them back on the page.
+  it("never renders a promo contact, even when the data still carries one", async () => {
+    const { $, $$ } = await boot({ events: EVENTS, now: NOW });
+    // EVENTS.promos[0].contact is "ranvinder910@gmail.com, +1 408-480-6164"
+    expect($("#ev-promo-grid").innerHTML).not.toContain("ranvinder910");
+    expect($("#ev-promo-grid").innerHTML).not.toContain("408-480-6164");
+    expect($$("#ev-promo-grid a[href^='mailto:']")).toHaveLength(0);
+    expect($$("#ev-promo-grid a[href^='tel:']")).toHaveLength(0);
+  });
+
+  it("never renders posted_by, even when the data still carries one", async () => {
+    const { $ } = await boot({ events: EVENTS, now: NOW });
+    expect($("#ev-promo-grid").textContent).not.toContain("Nehal");
+    expect($("#ev-agenda").textContent).not.toContain("Shalini");
+    expect($("#pane-events").textContent).not.toContain("Shared by");
+  });
+
+  it("still links a promo's own website, upgrading a bare domain", async () => {
     const { $$ } = await boot({ events: EVENTS, now: NOW });
-    const promos = $$("#ev-promo-grid .ev-card");
-    const links = promos[0].querySelectorAll(".promo-contact a");
-    expect(links[0].getAttribute("href")).toBe("mailto:ranvinder910@gmail.com");
-    expect(links[1].getAttribute("href")).toBe("tel:+14084806164");
-    expect(promos[1].querySelector(".ev-link").getAttribute("href"))
+    expect($$("#ev-promo-grid .ev-card")[1].querySelector(".ev-link").getAttribute("href"))
       .toBe("https://www.backyardnourish.com");
+  });
+
+  it("gives a promo with no website no dangling footer rule", async () => {
+    const { $$ } = await boot({ events: EVENTS, now: NOW });
+    // promos[0] has no url — it must not render an empty bordered .ev-foot
+    expect($$("#ev-promo-grid .ev-card")[0].querySelector(".ev-foot")).toBeNull();
+    expect($$("#ev-promo-grid .ev-card")[1].querySelector(".ev-foot")).not.toBeNull();
   });
 });
 
@@ -205,18 +227,14 @@ describe("events analytics", () => {
     });
   });
 
-  it("reports promo link and contact clicks separately", async () => {
+  it("reports a promo's website click", async () => {
     const posthog = [];
     const { $$ } = await boot({ events: EVENTS, now: NOW, posthog });
-    const promos = $$("#ev-promo-grid .ev-card");
-    promos[1].querySelector(".ev-link").click();
-    promos[0].querySelectorAll(".promo-contact a")[0].click(); // email
-    promos[0].querySelectorAll(".promo-contact a")[1].click(); // phone
-
+    $$("#ev-promo-grid .ev-card")[1].querySelector(".ev-link").click();
     expect(posthog.find((e) => e.name === "promo_link_opened").props)
       .toEqual({ promo_id: "prm_two", business: "Backyard Nourish" });
-    expect(posthog.filter((e) => e.name === "promo_contact_clicked").map((e) => e.props.method))
-      .toEqual(["email", "phone"]);
+    // there are no promo contacts to click any more
+    expect(posthog.filter((e) => e.name === "promo_contact_clicked")).toHaveLength(0);
   });
 
   it("attributes an arrival from events.html", async () => {

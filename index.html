@@ -612,8 +612,6 @@
     font-size: .72rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
     color: var(--moss); margin: 0;
   }
-  .promo-contact { margin: 0; font-size: .84rem; color: var(--ink); overflow-wrap: anywhere; }
-  .promo-contact a { color: var(--oak); }
 
   /* ---------- Events pane ---------- */
   #pane-events { padding-bottom: 80px; }
@@ -1723,21 +1721,11 @@
     return art;
   }
 
-  // promo contact is free text from the group: an email, a phone, or both
-  function promoContactHtml(raw) {
-    return String(raw).split(",").map(function (part) {
-      var t = part.trim();
-      if (!t) return "";
-      if (t.indexOf("@") > -1 && t.indexOf(" ") === -1) {
-        return '<a href="mailto:' + esc(t) + '">' + esc(t) + "</a>";
-      }
-      if (t.replace(/[^0-9]/g, "").length >= 7) {
-        return '<a href="tel:' + esc(t.replace(/[^\d+]/g, "")) + '">' + esc(t) + "</a>";
-      }
-      return esc(t);
-    }).filter(Boolean).join(" · ");
-  }
-
+  // Promos are neighbours advertising themselves, so their "contact" was a
+  // personal mobile or personal gmail. The export stopped emitting it, and the
+  // renderer refuses it too: a pipeline regression must not be able to put a
+  // neighbour's phone number back on an indexed page. Same for posted_by.
+  // A promo reaches its owner through its own website or not at all.
   function promoCard(p) {
     var href = p.url ? safeUrl(p.url) : null;
     var art = document.createElement("article");
@@ -1747,27 +1735,15 @@
       (p.what ? '<p class="promo-what">' + esc(p.what) + "</p>" : "") +
       '<h3 class="ev-title">' + esc(p.name || "A neighbor's business") + "</h3>" +
       (p.description ? '<p class="ev-desc">' + esc(p.description) + "</p>" : "") +
-      (p.contact ? '<p class="promo-contact">' + promoContactHtml(p.contact) + "</p>" : "") +
-      '<div class="ev-foot">' +
-        (href ? '<a class="ev-link" href="' + esc(href) + '" target="_blank" rel="noopener">' +
-                esc(hostname(href)) + " ↗</a>" : "") +
-      "</div>";
-    var base = { promo_id: p.id || null, business: p.name || null };
+      // an empty footer is just a dangling rule — most promos have no link now
+      (href ? '<div class="ev-foot">' +
+        '<a class="ev-link" href="' + esc(href) + '" target="_blank" rel="noopener">' +
+        esc(hostname(href)) + " ↗</a></div>" : "");
     if (href) {
       art.querySelector(".ev-link").addEventListener("click", function () {
-        track("promo_link_opened", base);
+        track("promo_link_opened", { promo_id: p.id || null, business: p.name || null });
       });
     }
-    // reaching for the phone or email is the real intent signal for a promo —
-    // there is no card to open, so the contact click is the whole conversion
-    Array.prototype.forEach.call(art.querySelectorAll(".promo-contact a"), function (a) {
-      a.addEventListener("click", function () {
-        track("promo_contact_clicked", {
-          promo_id: base.promo_id, business: base.business,
-          method: a.getAttribute("href").indexOf("mailto:") === 0 ? "email" : "phone",
-        });
-      });
-    });
     return art;
   }
 
