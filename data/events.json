@@ -1,32 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-15T18:49:26Z",
+  "generated_at": "2026-08-17T04:15:19Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 14,
-  "promo_count": 16,
+  "upcoming_count": 13,
+  "promo_count": 17,
   "schema_version": 2
  },
  "events": [
-  {
-   "id": "evt_e6a101d794c1",
-   "title": "Kids Kirtan & Family Get Together",
-   "kind": "local",
-   "start_date": "2026-08-14",
-   "end_date": null,
-   "time": "6 PM",
-   "venue": "Aditi's place",
-   "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Join for a night of music, joy, and prasadam.",
-   "first_seen": "2026-08-13T20:20:14Z",
-   "last_seen": "2026-08-13T20:20:14Z",
-   "from_image": false
-  },
   {
    "id": "evt_e8082b426945",
    "title": "Volunteer Kick-off Event",
@@ -263,6 +245,17 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_0bfd4c43e38a",
+   "name": "Mini Kalkat",
+   "what": "real estate services",
+   "url": "minikalkat.com",
+   "contact": "650.823.7835",
+   "description": "Mini Kalkat is a top-ranked Realtor® in Los Altos and California.",
+   "first_seen": "2026-08-16T14:08:35Z",
+   "last_seen": "2026-08-16T14:08:35Z",
+   "expires": "2026-10-15"
+  },
   {
    "id": "prm_7b187d83d9f0",
    "name": "Matic Robots",
