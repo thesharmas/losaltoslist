@@ -4,8 +4,8 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 37,
-    "query_count": 44,
-    "last_activity": "2026-08-16"
+    "query_count": 45,
+    "last_activity": "2026-08-17"
   },
   {
     "slug": "contractor",
@@ -75,9 +75,9 @@
     "slug": "pest-control",
     "name": "Pest Control",
     "emoji": "🐜",
-    "entry_count": 10,
+    "entry_count": 11,
     "query_count": 12,
-    "last_activity": "2026-08-10"
+    "last_activity": "2026-08-17"
   },
   {
     "slug": "real-estate-agent",
@@ -94,6 +94,14 @@
     "entry_count": 10,
     "query_count": 6,
     "last_activity": "2026-08-06"
+  },
+  {
+    "slug": "appliance-repair",
+    "name": "Appliance Repair",
+    "emoji": "🔌",
+    "entry_count": 5,
+    "query_count": 13,
+    "last_activity": "2026-08-17"
   },
   {
     "slug": "interior-design",
@@ -150,14 +158,6 @@
     "entry_count": 7,
     "query_count": 7,
     "last_activity": "2026-06-29"
-  },
-  {
-    "slug": "appliance-repair",
-    "name": "Appliance Repair",
-    "emoji": "🔌",
-    "entry_count": 4,
-    "query_count": 12,
-    "last_activity": "2026-07-25"
   },
   {
     "slug": "window-cleaning",

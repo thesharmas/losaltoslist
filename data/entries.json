@@ -240,6 +240,41 @@
     "mention_count": 1
   },
   {
+    "id": "lev-city-appliance-repair",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Lev City Appliance Repair",
+    "contact": {
+      "phones": [
+        "(650) 772-1479"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Lev City Appliance Repair (+1 (650) 772-1479)",
+        "date": "2026-08-17",
+        "type": "contact"
+      },
+      {
+        "quote": "I had Lev come over for washer. I believe he does all appliances & is quite good.",
+        "date": "2026-08-17",
+        "type": "review"
+      },
+      {
+        "quote": "We’ve hired them 2-3 times for Wolf and Bosch appliances.",
+        "date": "2026-08-17",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 3
+  },
+  {
     "id": "city-master",
     "category": "appliance repair",
     "categories": [
@@ -8633,6 +8668,36 @@
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
     "mention_count": 1
+  },
+  {
+    "id": "felipe-cassillas",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Felipe Cassillas",
+    "contact": {
+      "phones": [
+        "(669) 204-6532"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "He is excellent, punctual and does a good job.",
+        "date": "2026-08-17",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Felipe Cassillas (+1 (669) 204-6532)",
+        "date": "2026-08-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 2
   },
   {
     "id": "got-gophers",
