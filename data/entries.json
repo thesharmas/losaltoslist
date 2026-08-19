@@ -8226,6 +8226,56 @@
     "mention_count": 1
   },
   {
+    "id": "rouleau-orthodontics",
+    "category": "orthodontist",
+    "categories": [
+      "orthodontist"
+    ],
+    "name": "Rouleau Orthodontics",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/search?kgmid=/g/1tfgdgp9&hl=en-US&q=Rouleau+Orthodontics+-+Bert+Rouleau+%26+Aaron+Rouleau+DDS,+MS&shem=epsd1,ltae,rimspwouoe&shndl=30&source=sh/x/loc/osrp/m1/3&kgs=57d374e430fd4d14&utm_source=epsd1,ltae,rimspwouoe,sh/x/loc/osrp/m1/3"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Rouleau Orthodontics - Bert Rouleau & Aaron Rouleau DDS, MS\nhttps://share.google/RvYIOci82XNcNxTUf",
+        "date": "2026-08-18",
+        "type": "contact"
+      },
+      {
+        "quote": "We have used Rouleau Orthodontics for both our kids, and they are fantastic. Highly recommend",
+        "date": "2026-08-18",
+        "type": "review"
+      },
+      {
+        "quote": "Another vote for Rouleau. We have used them thrice and had a great experience each time.",
+        "date": "2026-08-18",
+        "type": "review"
+      },
+      {
+        "quote": "Yet another vote for Rouleau. We had the exact issue, snoring and mouth breathing. Met the dad and got treatment from the son, both are great.",
+        "date": "2026-08-18",
+        "type": "review"
+      },
+      {
+        "quote": "Another vote for Rouleau… had done an expander for our son + braces and Invisalign for me. Excellent job",
+        "date": "2026-08-18",
+        "type": "review"
+      },
+      {
+        "quote": "We have been using Rouleau too for both kids",
+        "date": "2026-08-18",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "mention_count": 6
+  },
+  {
     "id": "sherman-williams",
     "category": "painter",
     "categories": [
