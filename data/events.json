@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-08-18T04:15:20Z",
+  "generated_at": "2026-08-19T04:15:34Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -9,60 +9,6 @@
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_61bd984bdd48",
-   "title": "AskGita Booth at FOG India Day",
-   "kind": "regional",
-   "start_date": "2026-08-15",
-   "end_date": "2026-08-16",
-   "time": "10 AM to 6 PM",
-   "venue": "39439 Paseo Padre Pkwy",
-   "city": "Fremont",
-   "organizer": "Ask Gita",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Visit the AskGita booth at the 34th FOG India Day Parade and Fair.",
-   "first_seen": "2026-08-11T01:36:22Z",
-   "last_seen": "2026-08-14T14:06:06Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_8e5de52b9de0",
-   "title": "34th Festival of India",
-   "kind": "regional",
-   "start_date": "2026-08-15",
-   "end_date": "2026-08-16",
-   "time": "10:00 AM – 6:00 PM",
-   "venue": "Booth 211 | 39439 Paseo Padre Pkwy",
-   "city": "Fremont",
-   "organizer": null,
-   "cost": null,
-   "url": "https://fogsv.com/event/fog-india-day-parade/",
-   "recurrence": null,
-   "description": "Come meet us at the 34th Festival of India and experience AskGita live.",
-   "first_seen": "2026-08-11T01:36:23Z",
-   "last_seen": "2026-08-14T14:06:08Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_8780d7b54a75",
-   "title": "Pipe-cleaner Flower Making Workshop",
-   "kind": "regional",
-   "start_date": "2026-08-16",
-   "end_date": null,
-   "time": "4-6 PM",
-   "venue": "Washington Park Building",
-   "city": "Sunnyvale",
-   "organizer": "Taarika Foundation",
-   "cost": "Free",
-   "url": "https://taarika.foundation/upcoming-events/",
-   "recurrence": null,
-   "description": "A free workshop for adults and kids ages 8+ to make pipe-cleaner flowers.",
-   "first_seen": "2026-07-27T17:17:58Z",
-   "last_seen": "2026-07-27T17:17:58Z",
-   "from_image": true
-  },
   {
    "id": "evt_0c04bbfee4eb",
    "title": "Calm Stress & Anxiety Workshop",
@@ -80,6 +26,24 @@
    "first_seen": "2026-08-12T03:38:05Z",
    "last_seen": "2026-08-12T03:38:05Z",
    "from_image": true
+  },
+  {
+   "id": "evt_235a96d8cf6c",
+   "title": "Neev by Neha Art Gallery Exhibition",
+   "kind": "regional",
+   "start_date": "2026-08-21",
+   "end_date": "2026-08-23",
+   "time": "Friday 4–7 PM, Saturday 2–5 PM, Sunday 2–5 PM",
+   "venue": null,
+   "city": null,
+   "organizer": "Neev by Neha Art Gallery",
+   "cost": null,
+   "url": "https://storieswelivewith-neevneha.eventbrite.com",
+   "recurrence": null,
+   "description": "This weekend’s exhibition brings together contemporary paintings and sculptures by over 15 artists.",
+   "first_seen": "2026-08-18T23:52:08Z",
+   "last_seen": "2026-08-18T23:52:08Z",
+   "from_image": false
   },
   {
    "id": "evt_e443df8fb314",
@@ -223,6 +187,42 @@
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
    "last_seen": "2026-08-07T00:41:30Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_e67145febc8f",
+   "title": "Navratri Utsav",
+   "kind": "regional",
+   "start_date": "2026-10-10",
+   "end_date": null,
+   "time": "7:30 PM - 11:30 PM",
+   "venue": "Sunnyvale Community Center, Indoor Sports Center",
+   "city": "Sunnyvale, CA",
+   "organizer": "Hamara Foundation",
+   "cost": "Early Bird: $15, Regular: $20, At Door: $25",
+   "url": "https://sulekha.com/navratrihrfc26",
+   "recurrence": null,
+   "description": "Authentic Gujarati Garba event by Dr. Sharvari Dixit and Troupe.",
+   "first_seen": "2026-08-18T22:19:30Z",
+   "last_seen": "2026-08-18T22:19:30Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_f0742b257ddd",
+   "title": "Garba & Dandiya by RJ Events",
+   "kind": "regional",
+   "start_date": "2026-10-18",
+   "end_date": null,
+   "time": "6:00 PM onwards",
+   "venue": "IFES, Mountain View, CA",
+   "city": "Mountain View",
+   "organizer": "RJ Events",
+   "cost": null,
+   "url": "https://events.sulekha.com/rj-garba-x-sharda-music-aanal-achal-anjaria-and-group_event-in_mountain-view-ca_401404",
+   "recurrence": null,
+   "description": "Join Rashmi & Jinal for a night of dance and celebration with Sharda Music featuring Aanal & Achal Anjaria and Group.",
+   "first_seen": "2026-08-18T19:14:24Z",
+   "last_seen": "2026-08-19T03:17:31Z",
    "from_image": true
   },
   {
