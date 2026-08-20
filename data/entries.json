@@ -2078,6 +2078,36 @@
     "mention_count": 3
   },
   {
+    "id": "helper-genie",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Helper Genie",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.helpergenie.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Not a individual reco but I know some folks have had good experience with https://www.helpergenie.com/",
+        "date": "2026-08-19",
+        "type": "contact"
+      },
+      {
+        "quote": "highly recommend, my friend started it and they have vetted helpers",
+        "date": "2026-08-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "mention_count": 2
+  },
+  {
     "id": "lucila-hernandez",
     "category": "cleaner",
     "categories": [
@@ -3441,6 +3471,54 @@
     ],
     "first_seen": "2026-02-24",
     "last_seen": "2026-02-24",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-joseph-kim",
+    "category": "dental surgeon",
+    "categories": [
+      "dental surgeon"
+    ],
+    "name": "Dr Joseph Kim",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I had a good experience with Dr Joseph Kim in Mountain View. This was 6+ years ago but two different dentists had referred me to him. He was good about not jumping to surgery and exploring options thoroughly. I did need an implant eventually and he did a good job.",
+        "date": "2026-08-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3592123727",
+    "category": "dental surgeon",
+    "categories": [
+      "dental surgeon"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Sodeifi+A.+Michael+DMD,+MD,+MPH,+18805+Cox+Ave+%23130,+Saratoga,+CA+95070&ftid=0x808fb5a832a00a7d:0xc37f94b0c6908e53&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813469,94286869,100820247,100822499&g_ep=CAISEjI2LjMzLjEuOTYxODkxNDMyMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY5LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAlVT&skid=1070abc6-2e5d-4d94-899c-2eabaac5ae25&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://maps.app.goo.gl/5x7UUxmRcdeBS9ev6?g_st=ic",
+        "date": "2026-08-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
     "mention_count": 1
   },
   {
@@ -8274,6 +8352,98 @@
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
     "mention_count": 6
+  },
+  {
+    "id": "bloom-orthodontics",
+    "category": "orthodontist",
+    "categories": [
+      "orthodontist"
+    ],
+    "name": "Bloom Orthodontics",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My 12-yr old daughter recently got braces from Dr. Katherine Zhang. We’ve been impressed thus far! And Dr. Zhang has excellent bedside manner, plus has the latest technology, which sure helped easy the pain.",
+        "date": "2026-08-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-david-boschken",
+    "category": "orthodontist",
+    "categories": [
+      "orthodontist"
+    ],
+    "name": "Dr. David Boschken",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I don’t have personal experience but someone in fb moms group said they were extremely disappointed after working with him for their teeth",
+        "date": "2026-08-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-nehal-ashouri",
+    "category": "orthodontist",
+    "categories": [
+      "orthodontist"
+    ],
+    "name": "Dr. Nehal Ashouri",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We got our sons invisalign from Dr. Nehal Ashouri and have been very happy.",
+        "date": "2026-08-20",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1
+  },
+  {
+    "id": "forever-smiles",
+    "category": "orthodontist",
+    "categories": [
+      "orthodontist"
+    ],
+    "name": "Forever Smiles",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We got aligners for our 12yr old at Forever Smiles. Not as invasive as braces, and no hole in pocket like Invisalign.",
+        "date": "2026-08-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "mention_count": 1
   },
   {
     "id": "sherman-williams",

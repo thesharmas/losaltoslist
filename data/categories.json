@@ -12,8 +12,8 @@
     "name": "Contractor",
     "emoji": "🏗️",
     "entry_count": 30,
-    "query_count": 35,
-    "last_activity": "2026-08-14"
+    "query_count": 36,
+    "last_activity": "2026-08-19"
   },
   {
     "slug": "catering",
@@ -40,6 +40,14 @@
     "last_activity": "2026-08-08"
   },
   {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 14,
+    "query_count": 21,
+    "last_activity": "2026-08-19"
+  },
+  {
     "slug": "plumber",
     "name": "Plumber",
     "emoji": "🔧",
@@ -54,14 +62,6 @@
     "entry_count": 14,
     "query_count": 18,
     "last_activity": "2026-08-10"
-  },
-  {
-    "slug": "cleaner",
-    "name": "Cleaner",
-    "emoji": "🧹",
-    "entry_count": 13,
-    "query_count": 19,
-    "last_activity": "2026-07-31"
   },
   {
     "slug": "electrician",
@@ -254,6 +254,14 @@
     "entry_count": 4,
     "query_count": 4,
     "last_activity": "2026-07-23"
+  },
+  {
+    "slug": "orthodontist",
+    "name": "Orthodontist",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 2,
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "pediatric-dentist",
@@ -542,6 +550,14 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-02-19"
+  },
+  {
+    "slug": "dental-surgeon",
+    "name": "Dental Surgeon",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "ear-piercing",
@@ -878,14 +894,6 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-03-07"
-  },
-  {
-    "slug": "orthodontist",
-    "name": "Orthodontist",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 1,
-    "last_activity": "2026-08-18"
   },
   {
     "slug": "piano-teacher",
