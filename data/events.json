@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-08-19T04:15:34Z",
+  "generated_at": "2026-08-20T04:15:27Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -9,24 +9,6 @@
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_0c04bbfee4eb",
-   "title": "Calm Stress & Anxiety Workshop",
-   "kind": "regional",
-   "start_date": "2026-08-17",
-   "end_date": null,
-   "time": "12:30 – 1:30 pm",
-   "venue": "Brilliant Light Healing Wellness Center",
-   "city": "Saratoga, CA",
-   "organizer": "Shveta Aneja",
-   "cost": "$33",
-   "url": "https://ishkaflow.com/stress-and-anxiety",
-   "recurrence": null,
-   "description": "A workshop using Eden Energy Medicine tools to manage stress.",
-   "first_seen": "2026-08-12T03:38:05Z",
-   "last_seen": "2026-08-12T03:38:05Z",
-   "from_image": true
-  },
   {
    "id": "evt_235a96d8cf6c",
    "title": "Neev by Neha Art Gallery Exhibition",
@@ -172,6 +154,24 @@
    "from_image": true
   },
   {
+   "id": "evt_ee3324798a6b",
+   "title": "Chai Rave 2.0",
+   "kind": "local",
+   "start_date": "2026-09-23",
+   "end_date": null,
+   "time": "7:00 - 8:30 PM",
+   "venue": "Los Altos Community Center",
+   "city": "Los Altos",
+   "organizer": "Shez & Shai",
+   "cost": "$20",
+   "url": "https://tinyurl.com/2rmnwp49",
+   "recurrence": null,
+   "description": "Bollywood dance workout party with live DJ and chai.",
+   "first_seen": "2026-08-20T02:56:44Z",
+   "last_seen": "2026-08-20T02:56:44Z",
+   "from_image": true
+  },
+  {
    "id": "evt_8efd8f3d2317",
    "title": "DOLAH Dandiya Night",
    "kind": "community",
@@ -186,7 +186,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-08-07T00:41:30Z",
+   "last_seen": "2026-08-19T06:43:12Z",
    "from_image": true
   },
   {
