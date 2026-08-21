@@ -20,8 +20,8 @@
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 28,
-    "query_count": 23,
-    "last_activity": "2026-08-13"
+    "query_count": 24,
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "doctor",
@@ -200,6 +200,14 @@
     "last_activity": "2026-08-04"
   },
   {
+    "slug": "photographer",
+    "name": "Photographer",
+    "emoji": "📷",
+    "entry_count": 5,
+    "query_count": 6,
+    "last_activity": "2026-08-20"
+  },
+  {
     "slug": "gardener",
     "name": "Gardener",
     "emoji": "🌱",
@@ -224,6 +232,14 @@
     "last_activity": "2026-08-03"
   },
   {
+    "slug": "notary",
+    "name": "Notary",
+    "emoji": "📌",
+    "entry_count": 6,
+    "query_count": 2,
+    "last_activity": "2026-08-20"
+  },
+  {
     "slug": "restaurant",
     "name": "Restaurant",
     "emoji": "🍽️",
@@ -232,20 +248,12 @@
     "last_activity": "2026-08-13"
   },
   {
-    "slug": "notary",
-    "name": "Notary",
+    "slug": "eye-doctor",
+    "name": "Eye Doctor",
     "emoji": "📌",
     "entry_count": 6,
     "query_count": 1,
-    "last_activity": "2026-08-02"
-  },
-  {
-    "slug": "photographer",
-    "name": "Photographer",
-    "emoji": "📷",
-    "entry_count": 4,
-    "query_count": 5,
-    "last_activity": "2026-06-20"
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "caregiver",
@@ -893,7 +901,7 @@
     "emoji": "📌",
     "entry_count": 1,
     "query_count": 1,
-    "last_activity": "2026-03-07"
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "piano-teacher",
@@ -1030,14 +1038,6 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-22"
-  },
-  {
-    "slug": "eye-doctor",
-    "name": "Eye Doctor",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 0,
-    "last_activity": "2026-07-12"
   },
   {
     "slug": "home-garden-consultant",
@@ -1438,6 +1438,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-07-22"
+  },
+  {
+    "slug": "orthopedic",
+    "name": "Orthopedic",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-20"
   },
   {
     "slug": "party-decor",
