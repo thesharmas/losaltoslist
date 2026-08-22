@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-08-21T04:15:21Z",
+  "generated_at": "2026-08-22T04:15:21Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 13,
-  "promo_count": 17,
+  "upcoming_count": 16,
+  "promo_count": 18,
   "schema_version": 3
  },
  "events": [
@@ -28,6 +28,24 @@
    "from_image": false
   },
   {
+   "id": "evt_af7d4f34c9f2",
+   "title": "Public Wellness Fair",
+   "kind": "regional",
+   "start_date": "2026-08-22",
+   "end_date": null,
+   "time": "10:00 AM - 4:00 PM",
+   "venue": "Akiyama Wellness Center",
+   "city": "San Jose",
+   "organizer": null,
+   "cost": "Free",
+   "url": "https://sonicbloomfair.com/",
+   "recurrence": null,
+   "description": "A free public wellness fair with indoor and outdoor events.",
+   "first_seen": "2026-08-21T19:46:41Z",
+   "last_seen": "2026-08-21T19:46:41Z",
+   "from_image": false
+  },
+  {
    "id": "evt_e443df8fb314",
    "title": "Artisan Fair",
    "kind": "local",
@@ -44,6 +62,42 @@
    "first_seen": "2026-08-06T12:49:00Z",
    "last_seen": "2026-08-20T05:55:48Z",
    "from_image": true
+  },
+  {
+   "id": "evt_04c0e500525c",
+   "title": "SPIRITUAL SATURDAY",
+   "kind": "local",
+   "start_date": "2026-08-22",
+   "end_date": null,
+   "time": "5:00 PM",
+   "venue": "275 Verano Drive",
+   "city": "Los Altos",
+   "organizer": "Shipra Agarwalla",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "An evening of wisdom, connection, and joyful togetherness with chanting, a wisdom talk, and a Sāttvic vegetarian dinner.",
+   "first_seen": "2026-08-21T18:46:36Z",
+   "last_seen": "2026-08-21T18:46:36Z",
+   "from_image": false
+  },
+  {
+   "id": "evt_901395d147e0",
+   "title": "Sound Bath",
+   "kind": "regional",
+   "start_date": "2026-08-22",
+   "end_date": null,
+   "time": "5:30 PM",
+   "venue": null,
+   "city": null,
+   "organizer": null,
+   "cost": "$44",
+   "url": "https://sonicbloomfair.com/sound-bath",
+   "recurrence": null,
+   "description": "A Sound Bath session as part of the wellness fair.",
+   "first_seen": "2026-08-21T19:46:53Z",
+   "last_seen": "2026-08-21T19:46:53Z",
+   "from_image": false
   },
   {
    "id": "evt_5d2cbaf73b16",
@@ -245,6 +299,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_08dba9580f3c",
+   "name": "Creating Joy India",
+   "what": "hand-crafted polki and silver Rakhis",
+   "url": "https://creatingjoyindia.com/collections/rakhi",
+   "description": "Creating Joy India offers hand-crafted polki and silver Rakhis with gifts, goodies, and flowers, available for delivery across India and the US.",
+   "first_seen": "2026-08-21T05:52:48Z",
+   "last_seen": "2026-08-21T05:52:48Z",
+   "expires": "2026-10-20"
+  },
   {
    "id": "prm_0bfd4c43e38a",
    "name": "Mini Kalkat",
