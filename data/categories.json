@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 37,
+    "entry_count": 39,
     "query_count": 45,
-    "last_activity": "2026-08-17"
+    "last_activity": "2026-08-22"
   },
   {
     "slug": "contractor",
@@ -85,7 +85,7 @@
     "emoji": "🏡",
     "entry_count": 11,
     "query_count": 8,
-    "last_activity": "2026-08-17"
+    "last_activity": "2026-08-22"
   },
   {
     "slug": "dentist",
@@ -230,6 +230,14 @@
     "entry_count": 5,
     "query_count": 4,
     "last_activity": "2026-08-03"
+  },
+  {
+    "slug": "driving-school",
+    "name": "Driving School",
+    "emoji": "📌",
+    "entry_count": 6,
+    "query_count": 2,
+    "last_activity": "2026-08-23"
   },
   {
     "slug": "notary",
@@ -390,14 +398,6 @@
     "entry_count": 2,
     "query_count": 4,
     "last_activity": "2026-05-12"
-  },
-  {
-    "slug": "driving-school",
-    "name": "Driving School",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 1,
-    "last_activity": "2026-03-08"
   },
   {
     "slug": "garage-door-repair",

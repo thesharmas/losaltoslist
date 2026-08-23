@@ -4574,6 +4574,36 @@
     "mention_count": 1
   },
   {
+    "id": "premier",
+    "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
+    "name": "Premier",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.premierdrivingschoolonline.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Premier",
+        "date": "2026-08-22",
+        "type": "contact"
+      },
+      {
+        "quote": "+1 for Premier. We had a good experience.",
+        "date": "2026-08-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "mention_count": 2
+  },
+  {
     "id": "coastline-academy",
     "category": "driving school",
     "categories": [
@@ -4642,6 +4672,54 @@
     ],
     "first_seen": "2026-03-08",
     "last_seen": "2026-03-08",
+    "mention_count": 1
+  },
+  {
+    "id": "simon-ng",
+    "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
+    "name": "Simon Ng",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My daughter got her license last month & took the lessons from Simon. Would highly recommend him.",
+        "date": "2026-08-23",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "mention_count": 1
+  },
+  {
+    "id": "simon-ng-driving-lesson",
+    "category": "driving school",
+    "categories": [
+      "driving school"
+    ],
+    "name": "Simon Ng - Driving Lesson",
+    "contact": {
+      "phones": [
+        "(408) 618-6328"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Simon Ng - Driving Lesson (+1 (408) 618-6328)",
+        "date": "2026-08-23",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
     "mention_count": 1
   },
   {
@@ -10273,31 +10351,6 @@
     "mention_count": 1
   },
   {
-    "id": "abby-ahrens",
-    "category": "real estate agent",
-    "categories": [
-      "real estate agent"
-    ],
-    "name": "Abby Ahrens",
-    "contact": {
-      "phones": [
-        "(650) 303-6773"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Abby Ahrens +1 (650) 303-6773",
-        "date": "2026-08-16",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "mention_count": 1
-  },
-  {
     "id": "alan-wang",
     "category": "real estate agent",
     "categories": [
@@ -10314,6 +10367,36 @@
     "mentions": [
       {
         "quote": "Contact: Alan Wang (+1 (408) 313-4352)",
+        "date": "2026-08-16",
+        "type": "contact"
+      },
+      {
+        "quote": "Highly recommended Alan!! Best realtor in town 👌",
+        "date": "2026-08-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-22",
+    "mention_count": 2
+  },
+  {
+    "id": "abby-ahrens",
+    "category": "real estate agent",
+    "categories": [
+      "real estate agent"
+    ],
+    "name": "Abby Ahrens",
+    "contact": {
+      "phones": [
+        "(650) 303-6773"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Abby Ahrens +1 (650) 303-6773",
         "date": "2026-08-16",
         "type": "contact"
       }
@@ -12129,6 +12212,34 @@
     "mention_count": 1
   },
   {
+    "id": "samta-varia",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Samta Varia",
+    "contact": {
+      "phones": [],
+      "emails": [
+        "samta@virtualpreskool.com"
+      ],
+      "websites": [
+        "virtualpreskool.com",
+        "https://virtualpreskool.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "If interested in a fun virtual class for spoken Hindi, grammar, history, traditions etc, I highly recommend Samta Varia. She’s an amazing preschool teacher with a fun personality, based in SoCal. Our son adores her!",
+        "date": "2026-08-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "mention_count": 1
+  },
+  {
     "id": "shambhavi-dandekar",
     "category": "tutoring",
     "categories": [
@@ -12320,6 +12431,34 @@
     ],
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
+    "mention_count": 1
+  },
+  {
+    "id": "virtual-preskool",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Virtual Preskool",
+    "contact": {
+      "phones": [],
+      "emails": [
+        "samta@virtualpreskool.com"
+      ],
+      "websites": [
+        "https://virtualpreskool.com",
+        "virtualpreskool.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Good morning ☀️ Just catching up on this thread and the ask about Hindi classes. If interested in a fun virtual class for spoken Hindi, grammar, history, traditions etc, I highly recommend Samta Varia. She’s an amazing preschool teacher with a fun personality, based in SoCal. Our son adores her! ...",
+        "date": "2026-08-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
     "mention_count": 1
   },
   {
