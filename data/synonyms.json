@@ -52,7 +52,8 @@
     "general contractor",
     "bathroom",
     "fireplace",
-    "skylight"
+    "skylight",
+    "concrete"
   ],
   "pest-control": [
     "exterminator",
@@ -87,7 +88,8 @@
     "oven",
     "stove",
     "garbage disposal",
-    "disposal unit"
+    "disposal unit",
+    "subzero repair"
   ],
   "mover": [
     "moving",
@@ -165,5 +167,12 @@
     "priest",
     "clergy",
     "minister"
+  ],
+  "car-mechanic": [
+    "oil change",
+    "lube"
+  ],
+  "dance-school": [
+    "odissi"
   ]
 }
