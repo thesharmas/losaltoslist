@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-08-22T04:15:21Z",
+  "generated_at": "2026-08-23T04:15:23Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 16,
-  "promo_count": 18,
+  "promo_count": 19,
   "schema_version": 3
  },
  "events": [
@@ -258,7 +258,7 @@
    "recurrence": null,
    "description": "Authentic Gujarati Garba event by Dr. Sharvari Dixit and Troupe.",
    "first_seen": "2026-08-18T22:19:30Z",
-   "last_seen": "2026-08-18T22:19:30Z",
+   "last_seen": "2026-08-22T16:07:39Z",
    "from_image": true
   },
   {
@@ -300,14 +300,24 @@
  ],
  "promos": [
   {
+   "id": "prm_31b7d8fce7d9",
+   "name": "Reena's Booth",
+   "what": "custom orders of macrame and crochet work",
+   "url": "https://www.instagram.com/reel/DcWlOsTvjjo/?igsi=NjFhOGMzYTE3ZQ==",
+   "description": "Reena's daughter Sanjana is showcasing her macrame and crochet work at the Artisan Fair.",
+   "first_seen": "2026-08-22T19:28:56Z",
+   "last_seen": "2026-08-22T19:28:56Z",
+   "expires": "2026-10-21"
+  },
+  {
    "id": "prm_08dba9580f3c",
    "name": "Creating Joy India",
    "what": "hand-crafted polki and silver Rakhis",
    "url": "https://creatingjoyindia.com/collections/rakhi",
    "description": "Creating Joy India offers hand-crafted polki and silver Rakhis with gifts, goodies, and flowers, available for delivery across India and the US.",
    "first_seen": "2026-08-21T05:52:48Z",
-   "last_seen": "2026-08-21T05:52:48Z",
-   "expires": "2026-10-20"
+   "last_seen": "2026-08-22T16:29:30Z",
+   "expires": "2026-10-21"
   },
   {
    "id": "prm_0bfd4c43e38a",
