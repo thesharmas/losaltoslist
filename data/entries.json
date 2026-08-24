@@ -9078,6 +9078,105 @@
     "mention_count": 1
   },
   {
+    "id": "shobha-behel",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Shobha Behel",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I recommend Shobha Behel for Pilates / Zumba / core strength classes. She is in Delhi and has been a great teacher the last 2 years.",
+        "date": "2026-08-24",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Shobha Behal (+91 78369 54572)",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 2
+  },
+  {
+    "id": "pooja",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Pooja",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Pooja is an incredible Bangalore based Pilates instructor that my sister (who’d been going to her in person classes) introduced me to during the pandemic. Both my husband and I have benefited a ton from her training.",
+        "date": "2026-08-24",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
+    "id": "pooja-official",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Pooja Official",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Pooja Official",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
+    "id": "uday-trainer",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Uday Trainer",
+    "contact": {
+      "phones": [
+        "(806) 283-7694"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Uday Trainer (+1 (806) 283-7694)",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
     "id": "felipe-cassillas",
     "category": "pest control",
     "categories": [
