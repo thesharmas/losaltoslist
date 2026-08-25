@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-08-23T04:15:23Z",
+  "generated_at": "2026-08-25T04:15:21Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 16,
-  "promo_count": 19,
+  "upcoming_count": 12,
+  "promo_count": 22,
   "schema_version": 3
  },
  "events": [
@@ -25,78 +25,6 @@
    "description": "This weekend’s exhibition brings together contemporary paintings and sculptures by over 15 artists.",
    "first_seen": "2026-08-18T23:52:08Z",
    "last_seen": "2026-08-18T23:52:08Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_af7d4f34c9f2",
-   "title": "Public Wellness Fair",
-   "kind": "regional",
-   "start_date": "2026-08-22",
-   "end_date": null,
-   "time": "10:00 AM - 4:00 PM",
-   "venue": "Akiyama Wellness Center",
-   "city": "San Jose",
-   "organizer": null,
-   "cost": "Free",
-   "url": "https://sonicbloomfair.com/",
-   "recurrence": null,
-   "description": "A free public wellness fair with indoor and outdoor events.",
-   "first_seen": "2026-08-21T19:46:41Z",
-   "last_seen": "2026-08-21T19:46:41Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_e443df8fb314",
-   "title": "Artisan Fair",
-   "kind": "local",
-   "start_date": "2026-08-22",
-   "end_date": null,
-   "time": "11 AM to 5 PM",
-   "venue": "The Garden House at Shoup Park",
-   "city": "Los Altos",
-   "organizer": "India Community Center",
-   "cost": null,
-   "url": "thestrandz.com",
-   "recurrence": null,
-   "description": "A showcase of Indian arts, crafts, and delights.",
-   "first_seen": "2026-08-06T12:49:00Z",
-   "last_seen": "2026-08-20T05:55:48Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_04c0e500525c",
-   "title": "SPIRITUAL SATURDAY",
-   "kind": "local",
-   "start_date": "2026-08-22",
-   "end_date": null,
-   "time": "5:00 PM",
-   "venue": "275 Verano Drive",
-   "city": "Los Altos",
-   "organizer": "Shipra Agarwalla",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "An evening of wisdom, connection, and joyful togetherness with chanting, a wisdom talk, and a Sāttvic vegetarian dinner.",
-   "first_seen": "2026-08-21T18:46:36Z",
-   "last_seen": "2026-08-21T18:46:36Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_901395d147e0",
-   "title": "Sound Bath",
-   "kind": "regional",
-   "start_date": "2026-08-22",
-   "end_date": null,
-   "time": "5:30 PM",
-   "venue": null,
-   "city": null,
-   "organizer": null,
-   "cost": "$44",
-   "url": "https://sonicbloomfair.com/sound-bath",
-   "recurrence": null,
-   "description": "A Sound Bath session as part of the wellness fair.",
-   "first_seen": "2026-08-21T19:46:53Z",
-   "last_seen": "2026-08-21T19:46:53Z",
    "from_image": false
   },
   {
@@ -299,6 +227,36 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_c8a16cd14c09",
+   "name": "Calligraphy Wines",
+   "what": "boutique wine bar and tasting room",
+   "url": "https://www.calligraphy.wine/",
+   "description": "Calligraphy Wines is a women-owned boutique wine bar and tasting room located at 264 State Street, Los Altos.",
+   "first_seen": "2026-08-24T15:27:58Z",
+   "last_seen": "2026-08-24T15:27:58Z",
+   "expires": "2026-10-23"
+  },
+  {
+   "id": "prm_0e5e1a56cb90",
+   "name": "The Grotto",
+   "what": "speakeasy bar",
+   "url": "https://www.cetrella.com/cetrella-los-altos/the-grotto-speakeasy/",
+   "description": "The Grotto is a speakeasy bar at Cetrella in Los Altos.",
+   "first_seen": "2026-08-24T15:27:58Z",
+   "last_seen": "2026-08-24T15:27:58Z",
+   "expires": "2026-10-23"
+  },
+  {
+   "id": "prm_b256b41b1dc1",
+   "name": "Kathmandu",
+   "what": "restaurant",
+   "url": "https://ktmcuisinelosaltos.com/",
+   "description": "Kathmandu is a new restaurant in Los Altos known for its Veg Momos and hearty soup.",
+   "first_seen": "2026-08-24T15:27:58Z",
+   "last_seen": "2026-08-24T15:27:58Z",
+   "expires": "2026-10-23"
+  },
   {
    "id": "prm_31b7d8fce7d9",
    "name": "Reena's Booth",
