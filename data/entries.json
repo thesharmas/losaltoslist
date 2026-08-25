@@ -9106,6 +9106,54 @@
     "mention_count": 2
   },
   {
+    "id": "aishwarya-krishnan",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Aishwarya Krishnan",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/coachaishwarya.krish/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I’ve been strength training with Aishwarya Krishnan (based in India) for over 4 years now. A former national rowing champion, she’s great to work with.",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
+    "id": "fit-life-with-vatsa",
+    "category": "personal trainer",
+    "categories": [
+      "personal trainer"
+    ],
+    "name": "Fit Life With Vatsa",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Fit Life With Vatsa (+91 73385 82336)",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
     "id": "pooja",
     "category": "personal trainer",
     "categories": [
@@ -10808,6 +10856,33 @@
     ],
     "first_seen": "2026-03-18",
     "last_seen": "2026-03-18",
+    "mention_count": 1
+  },
+  {
+    "id": "kathmandu",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Kathmandu",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://ktmcuisinelosaltos.com/",
+        "https://www.calligraphy.wine/",
+        "https://www.cetrella.com/cetrella-los-altos/the-grotto-speakeasy/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "New restaurant - Kathmandu - food is very good, especially the Veg Momos and hearty soup",
+        "date": "2026-08-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
     "mention_count": 1
   },
   {
