@@ -268,11 +268,21 @@
         "quote": "We’ve hired them 2-3 times for Wolf and Bosch appliances.",
         "date": "2026-08-17",
         "type": "review"
+      },
+      {
+        "quote": "Contact: Lev City Appliance Repair (+1 (650) 772-1479)",
+        "date": "2026-08-25",
+        "type": "contact"
+      },
+      {
+        "quote": "Both are good however I have found Lev to be more expensive than Eric.",
+        "date": "2026-08-25",
+        "type": "review"
       }
     ],
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-17",
-    "mention_count": 3
+    "last_seen": "2026-08-25",
+    "mention_count": 5
   },
   {
     "id": "city-master",
@@ -297,6 +307,31 @@
     ],
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
+    "mention_count": 1
+  },
+  {
+    "id": "eric-appliance-repair",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Eric Appliance Repair",
+    "contact": {
+      "phones": [
+        "(408) 905-4103"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Eric Appliance Repair (+1 (408) 905-4103)",
+        "date": "2026-08-25",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
     "mention_count": 1
   },
   {
@@ -1914,6 +1949,29 @@
     ],
     "first_seen": "2026-02-20",
     "last_seen": "2026-02-20",
+    "mention_count": 1
+  },
+  {
+    "id": "satura",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Satura",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Have you checked with Satura?",
+        "date": "2026-08-25",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
     "mention_count": 1
   },
   {
