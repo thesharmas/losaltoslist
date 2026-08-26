@@ -1,32 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-25T04:15:21Z",
+  "generated_at": "2026-08-26T04:15:13Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
+  "upcoming_count": 11,
   "promo_count": 22,
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_235a96d8cf6c",
-   "title": "Neev by Neha Art Gallery Exhibition",
-   "kind": "regional",
-   "start_date": "2026-08-21",
-   "end_date": "2026-08-23",
-   "time": "Friday 4–7 PM, Saturday 2–5 PM, Sunday 2–5 PM",
-   "venue": null,
-   "city": null,
-   "organizer": "Neev by Neha Art Gallery",
-   "cost": null,
-   "url": "https://storieswelivewith-neevneha.eventbrite.com",
-   "recurrence": null,
-   "description": "This weekend’s exhibition brings together contemporary paintings and sculptures by over 15 artists.",
-   "first_seen": "2026-08-18T23:52:08Z",
-   "last_seen": "2026-08-18T23:52:08Z",
-   "from_image": false
-  },
   {
    "id": "evt_5d2cbaf73b16",
    "title": "Benefit Sale for Artist C Subramanyam's Family",
