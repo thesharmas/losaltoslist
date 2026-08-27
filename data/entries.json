@@ -1174,6 +1174,56 @@
     "mention_count": 1
   },
   {
+    "id": "jairoj-silva",
+    "category": "carpenter",
+    "categories": [
+      "carpenter"
+    ],
+    "name": "Jairoj Silva",
+    "contact": {
+      "phones": [
+        "(240) 469-0580"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Worked with Jairoj Silva - he made our TV wall cabinets and vanity and some other small furniture he is good and honest.",
+        "date": "2026-08-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-4088498761",
+    "category": "carpenter",
+    "categories": [
+      "carpenter"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [
+        "(408) 849-8761"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Jesus (forgot his last name) did a wonderful job on our wood pergola. He did show us other woodwork he has done. Not sure if he can do detailed woodwork for a mandir, but worth a try.",
+        "date": "2026-08-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1
+  },
+  {
     "id": "vi-custom-furniture",
     "category": "carpenter",
     "categories": [
@@ -4230,6 +4280,29 @@
     "mention_count": 1
   },
   {
+    "id": "dr-khankari",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr. Khankari",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Dr. Khankari just opened his own practice right off of El Camino on the Mountain View side. Highly impressed. And he’s on Epic so all your records will transfer over.",
+        "date": "2026-08-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1
+  },
+  {
     "id": "dr-namineni",
     "category": "doctor",
     "categories": [
@@ -7017,6 +7090,29 @@
     ],
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-05",
+    "mention_count": 1
+  },
+  {
+    "id": "nina-takesh",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Nina Takesh",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Nina Takesh is the BEST!",
+        "date": "2026-08-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
     "mention_count": 1
   },
   {

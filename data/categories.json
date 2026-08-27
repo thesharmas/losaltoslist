@@ -27,9 +27,9 @@
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
-    "entry_count": 22,
-    "query_count": 22,
-    "last_activity": "2026-08-06"
+    "entry_count": 23,
+    "query_count": 23,
+    "last_activity": "2026-08-26"
   },
   {
     "slug": "landscaper",
@@ -107,9 +107,9 @@
     "slug": "interior-design",
     "name": "Interior Design",
     "emoji": "🛋️",
-    "entry_count": 8,
-    "query_count": 7,
-    "last_activity": "2026-08-05"
+    "entry_count": 9,
+    "query_count": 8,
+    "last_activity": "2026-08-26"
   },
   {
     "slug": "architect",
@@ -382,6 +382,14 @@
     "entry_count": 4,
     "query_count": 1,
     "last_activity": "2026-08-12"
+  },
+  {
+    "slug": "carpenter",
+    "name": "Carpenter",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-08-26"
   },
   {
     "slug": "homeowner-insurance",
@@ -678,14 +686,6 @@
     "entry_count": 1,
     "query_count": 2,
     "last_activity": "2026-07-28"
-  },
-  {
-    "slug": "carpenter",
-    "name": "Carpenter",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 2,
-    "last_activity": "2026-08-05"
   },
   {
     "slug": "donation-center",
@@ -1576,6 +1576,14 @@
     "last_activity": "2026-04-26"
   },
   {
+    "slug": "vent-cleaning",
+    "name": "Vent Cleaning",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-26"
+  },
+  {
     "slug": "water-delivery",
     "name": "Water Delivery",
     "emoji": "📌",
@@ -1590,6 +1598,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-03-19"
+  },
+  {
+    "slug": "web-design",
+    "name": "Web Design",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-27"
   },
   {
     "slug": "window-repair",
