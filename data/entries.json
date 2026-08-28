@@ -686,6 +686,34 @@
     "mention_count": 1
   },
   {
+    "id": "sundrop-events",
+    "category": "bartender",
+    "categories": [
+      "bartender"
+    ],
+    "name": "Sundrop events",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sundrop events.  They are on thumbtack. If you can't find them msg me and I can send you the contact",
+        "date": "2026-08-27",
+        "type": "contact"
+      },
+      {
+        "quote": "They make excellent drinks and great setup",
+        "date": "2026-08-27",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 2
+  },
+  {
     "id": "we-set-the-bar-oakland",
     "category": "bartender",
     "categories": [
@@ -9768,6 +9796,39 @@
     "mention_count": 1
   },
   {
+    "id": "freestyle-academy",
+    "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
+    "name": "Freestyle Academy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://freestyleacademy.rocks",
+        "https://freestyleacademy.rocks/galleries",
+        "https://freestyleacademy.rocks/community_projects",
+        "https://www.techmediacamp.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Freestyle Academy students can help you/your organization with any media project - websites, presentations, photography, short videos, animations, illustrations, books, magazines, stickers, engravings, etc.",
+        "date": "2026-08-27",
+        "type": "contact"
+      },
+      {
+        "quote": "I recently commissioned two students from Freestyle to design and put together 5 photo books for me (of my daughters wedding)",
+        "date": "2026-08-27",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 2
+  },
+  {
     "id": "madhusudan-manna-photographer",
     "category": "photographer",
     "categories": [
@@ -13104,6 +13165,29 @@
     "first_seen": "2026-02-15",
     "last_seen": "2026-05-28",
     "mention_count": 2
+  },
+  {
+    "id": "ashail",
+    "category": "web site designer",
+    "categories": [
+      "web site designer"
+    ],
+    "name": "Ashail",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ashail is really REALLY good and fast and very economical !",
+        "date": "2026-08-27",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1
   },
   {
     "id": "mateo",

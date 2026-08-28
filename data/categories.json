@@ -60,8 +60,8 @@
     "name": "Nanny",
     "emoji": "👶",
     "entry_count": 14,
-    "query_count": 18,
-    "last_activity": "2026-08-10"
+    "query_count": 19,
+    "last_activity": "2026-08-27"
   },
   {
     "slug": "electrician",
@@ -176,20 +176,20 @@
     "last_activity": "2026-07-10"
   },
   {
+    "slug": "photographer",
+    "name": "Photographer",
+    "emoji": "📷",
+    "entry_count": 6,
+    "query_count": 7,
+    "last_activity": "2026-08-27"
+  },
+  {
     "slug": "aesthetician",
     "name": "Aesthetician",
     "emoji": "📌",
     "entry_count": 8,
     "query_count": 1,
     "last_activity": "2026-08-15"
-  },
-  {
-    "slug": "photographer",
-    "name": "Photographer",
-    "emoji": "📷",
-    "entry_count": 5,
-    "query_count": 7,
-    "last_activity": "2026-08-24"
   },
   {
     "slug": "tree-service",
@@ -414,6 +414,14 @@
     "entry_count": 2,
     "query_count": 4,
     "last_activity": "2026-05-12"
+  },
+  {
+    "slug": "bartender",
+    "name": "Bartender",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 3,
+    "last_activity": "2026-08-27"
   },
   {
     "slug": "garage-door-repair",
@@ -670,14 +678,6 @@
     "entry_count": 1,
     "query_count": 2,
     "last_activity": "2026-07-19"
-  },
-  {
-    "slug": "bartender",
-    "name": "Bartender",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 2,
-    "last_activity": "2026-06-17"
   },
   {
     "slug": "car-wash",
@@ -1142,6 +1142,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-02-24"
+  },
+  {
+    "slug": "web-site-designer",
+    "name": "Web Site Designer",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-08-27"
   },
   {
     "slug": "after-school-program",
