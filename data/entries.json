@@ -513,6 +513,29 @@
     "mention_count": 1
   },
   {
+    "id": "pnd-engineering",
+    "category": "architect",
+    "categories": [
+      "architect"
+    ],
+    "name": "PND Engineering",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Nasib from PND engineering. Happy to make connection over text.",
+        "date": "2026-08-29",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1
+  },
+  {
     "id": "salar",
     "category": "architect",
     "categories": [
@@ -9829,6 +9852,54 @@
     "mention_count": 2
   },
   {
+    "id": "farrukh-jilani",
+    "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
+    "name": "Farrukh Jilani",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Farrukh bhai is really sweet. And really good \u000f",
+        "date": "2026-08-28",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
+    "mention_count": 1
+  },
+  {
+    "id": "farrukh-jilani-photographer-sfo",
+    "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
+    "name": "Farrukh Jilani Photographer Sfo",
+    "contact": {
+      "phones": [
+        "(510) 491-4412"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Farrukh Jilani Photographer Sfo (+1 (510) 491-4412)",
+        "date": "2026-08-28",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
+    "mention_count": 1
+  },
+  {
     "id": "madhusudan-manna-photographer",
     "category": "photographer",
     "categories": [
@@ -9922,6 +9993,31 @@
     ],
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
+    "mention_count": 1
+  },
+  {
+    "id": "silly-goose-pictures",
+    "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
+    "name": "Silly Goose Pictures",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "sillygoosepictures.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Sillygoosepictures.com",
+        "date": "2026-08-28",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
     "mention_count": 1
   },
   {
@@ -11654,6 +11750,54 @@
     ],
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-25",
+    "mention_count": 1
+  },
+  {
+    "id": "wescott",
+    "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
+    "name": "Wescott",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sid at Wescott",
+        "date": "2026-08-28",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
+    "mention_count": 1
+  },
+  {
+    "id": "westcott-physical-therapy",
+    "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
+    "name": "Westcott Physical Therapy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://westcottpt.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I had a good experience with them.",
+        "date": "2026-08-28",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
     "mention_count": 1
   },
   {

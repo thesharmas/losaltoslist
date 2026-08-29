@@ -4,8 +4,8 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 39,
-    "query_count": 46,
-    "last_activity": "2026-08-25"
+    "query_count": 47,
+    "last_activity": "2026-08-28"
   },
   {
     "slug": "contractor",
@@ -28,8 +28,8 @@
     "name": "Doctor",
     "emoji": "🏥",
     "entry_count": 23,
-    "query_count": 23,
-    "last_activity": "2026-08-26"
+    "query_count": 24,
+    "last_activity": "2026-08-28"
   },
   {
     "slug": "landscaper",
@@ -112,12 +112,20 @@
     "last_activity": "2026-08-26"
   },
   {
+    "slug": "photographer",
+    "name": "Photographer",
+    "emoji": "📷",
+    "entry_count": 9,
+    "query_count": 8,
+    "last_activity": "2026-08-28"
+  },
+  {
     "slug": "architect",
     "name": "Architect",
     "emoji": "📐",
-    "entry_count": 8,
-    "query_count": 6,
-    "last_activity": "2026-07-23"
+    "entry_count": 9,
+    "query_count": 7,
+    "last_activity": "2026-08-29"
   },
   {
     "slug": "tailor",
@@ -174,14 +182,6 @@
     "entry_count": 2,
     "query_count": 15,
     "last_activity": "2026-07-10"
-  },
-  {
-    "slug": "photographer",
-    "name": "Photographer",
-    "emoji": "📷",
-    "entry_count": 6,
-    "query_count": 7,
-    "last_activity": "2026-08-27"
   },
   {
     "slug": "aesthetician",
@@ -262,6 +262,14 @@
     "entry_count": 6,
     "query_count": 2,
     "last_activity": "2026-08-24"
+  },
+  {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 6,
+    "query_count": 2,
+    "last_activity": "2026-08-28"
   },
   {
     "slug": "eye-doctor",
@@ -398,14 +406,6 @@
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-01-23"
-  },
-  {
-    "slug": "therapist",
-    "name": "Therapist",
-    "emoji": "📌",
-    "entry_count": 4,
-    "query_count": 1,
-    "last_activity": "2026-05-25"
   },
   {
     "slug": "elder-care",
