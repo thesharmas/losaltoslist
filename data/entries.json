@@ -4331,6 +4331,29 @@
     "mention_count": 1
   },
   {
+    "id": "dr-jessica-wong",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr Jessica Wong",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I like Dr Jessica Wong at pamf",
+        "date": "2026-08-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1
+  },
+  {
     "id": "dr-khankari",
     "category": "doctor",
     "categories": [
@@ -10046,6 +10069,35 @@
     "mention_count": 1
   },
   {
+    "id": "westcott",
+    "category": "physical therapist",
+    "categories": [
+      "physical therapist",
+      "therapist"
+    ],
+    "name": "Westcott",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sid at Wescott",
+        "date": "2026-08-28",
+        "type": "contact"
+      },
+      {
+        "quote": "Westcott is good. I had a good experience at with Kim at Physiofit as well.",
+        "date": "2026-08-30",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-30",
+    "mention_count": 2
+  },
+  {
     "id": "healthy-hands-therapy",
     "category": "physical therapy",
     "categories": [
@@ -11750,29 +11802,6 @@
     ],
     "first_seen": "2026-05-25",
     "last_seen": "2026-05-25",
-    "mention_count": 1
-  },
-  {
-    "id": "wescott",
-    "category": "therapist",
-    "categories": [
-      "therapist"
-    ],
-    "name": "Wescott",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Sid at Wescott",
-        "date": "2026-08-28",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-28",
-    "last_seen": "2026-08-28",
     "mention_count": 1
   },
   {

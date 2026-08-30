@@ -27,17 +27,17 @@
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
-    "entry_count": 23,
+    "entry_count": 24,
     "query_count": 24,
-    "last_activity": "2026-08-28"
+    "last_activity": "2026-08-30"
   },
   {
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
     "entry_count": 15,
-    "query_count": 21,
-    "last_activity": "2026-08-25"
+    "query_count": 23,
+    "last_activity": "2026-08-30"
   },
   {
     "slug": "cleaner",
@@ -48,20 +48,20 @@
     "last_activity": "2026-08-25"
   },
   {
+    "slug": "nanny",
+    "name": "Nanny",
+    "emoji": "👶",
+    "entry_count": 14,
+    "query_count": 20,
+    "last_activity": "2026-08-30"
+  },
+  {
     "slug": "plumber",
     "name": "Plumber",
     "emoji": "🔧",
     "entry_count": 13,
     "query_count": 22,
     "last_activity": "2026-08-15"
-  },
-  {
-    "slug": "nanny",
-    "name": "Nanny",
-    "emoji": "👶",
-    "entry_count": 14,
-    "query_count": 19,
-    "last_activity": "2026-08-27"
   },
   {
     "slug": "electrician",
@@ -269,7 +269,7 @@
     "emoji": "📌",
     "entry_count": 6,
     "query_count": 2,
-    "last_activity": "2026-08-28"
+    "last_activity": "2026-08-30"
   },
   {
     "slug": "eye-doctor",
@@ -1104,6 +1104,14 @@
     "last_activity": "2026-06-25"
   },
   {
+    "slug": "physical-therapist",
+    "name": "Physical Therapist",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-08-30"
+  },
+  {
     "slug": "summer-camp",
     "name": "Summer Camp",
     "emoji": "📌",
@@ -1294,6 +1302,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-05-06"
+  },
+  {
+    "slug": "event-decorator",
+    "name": "Event Decorator",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-08-30"
   },
   {
     "slug": "fiber-installer",
