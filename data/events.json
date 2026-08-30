@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-08-29T04:15:21Z",
+  "generated_at": "2026-08-30T04:15:18Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
+  "upcoming_count": 13,
   "promo_count": 22,
   "schema_version": 3
  },
@@ -43,6 +43,24 @@
    "description": "A special production with live music, English narration, and original film reimagining a Panjabi literary masterpiece.",
    "first_seen": "2026-08-04T01:11:25Z",
    "last_seen": "2026-08-04T01:11:25Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_916ec251e404",
+   "title": "Special Gita Class by H. G. Shankaranand Prabhu",
+   "kind": "local",
+   "start_date": "2026-08-29",
+   "end_date": null,
+   "time": "5:00 PM onwards",
+   "venue": "275 Verano Dr, Los Altos, CA 94022",
+   "city": "Los Altos",
+   "organizer": null,
+   "cost": null,
+   "url": "https://forms.gle/zkc3cpBzsUe3kzNi8",
+   "recurrence": null,
+   "description": "Join a special Gita class by H. G. Shankaranand Prabhu.",
+   "first_seen": "2026-08-29T18:21:58Z",
+   "last_seen": "2026-08-29T18:21:58Z",
    "from_image": true
   },
   {
