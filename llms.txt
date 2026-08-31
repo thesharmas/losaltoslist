@@ -5,7 +5,7 @@
 > Auto-generated from a neighborhood WhatsApp group's recommendations and
 > updated daily. 528 providers across
 > 207 categories; 273 entries include direct
-> contact info. Last updated 2026-08-30.
+> contact info. Last updated 2026-08-31.
 
 All data is plain JSON, no auth required. Fetch the raw files directly:
 
@@ -23,7 +23,7 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 
 - 📚 Tutoring: 39 providers, 47 requests
 - 🏗️ Contractor: 30 providers, 36 requests
-- 🍳 Catering: 29 providers, 25 requests
+- 🍳 Catering: 29 providers, 26 requests
 - 🏥 Doctor: 24 providers, 24 requests
 - 🌿 Landscaper: 15 providers, 23 requests
 - 🧹 Cleaner: 14 providers, 22 requests

@@ -20,8 +20,8 @@
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 29,
-    "query_count": 25,
-    "last_activity": "2026-08-25"
+    "query_count": 26,
+    "last_activity": "2026-08-31"
   },
   {
     "slug": "doctor",
@@ -168,20 +168,20 @@
     "last_activity": "2026-06-29"
   },
   {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 2,
+    "query_count": 16,
+    "last_activity": "2026-08-30"
+  },
+  {
     "slug": "window-cleaning",
     "name": "Window Cleaning",
     "emoji": "🪟",
     "entry_count": 6,
     "query_count": 8,
     "last_activity": "2026-08-10"
-  },
-  {
-    "slug": "handyman",
-    "name": "Handyman",
-    "emoji": "🔨",
-    "entry_count": 2,
-    "query_count": 15,
-    "last_activity": "2026-07-10"
   },
   {
     "slug": "aesthetician",
