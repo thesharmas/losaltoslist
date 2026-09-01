@@ -1,68 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-08-30T04:15:18Z",
+  "generated_at": "2026-09-01T04:15:18Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 13,
+  "upcoming_count": 10,
   "promo_count": 22,
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_5d2cbaf73b16",
-   "title": "Benefit Sale for Artist C Subramanyam's Family",
-   "kind": "local",
-   "start_date": "2026-08-29",
-   "end_date": null,
-   "time": "10:00 AM to 2:00 PM",
-   "venue": "Ramanathan Residence",
-   "city": "Los Altos Hills",
-   "organizer": null,
-   "cost": null,
-   "url": "https://www.eventbrite.com/e/museum-sari-viewing-and-sale-tickets-1997952810640",
-   "recurrence": null,
-   "description": "Join us for a fabric art sale to benefit the family of Kalamkari artist C Subramanyam.",
-   "first_seen": "2026-08-17T17:49:13Z",
-   "last_seen": "2026-08-17T17:49:13Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_60b77721e27c",
-   "title": "Heer Waris Shah",
-   "kind": "regional",
-   "start_date": "2026-08-29",
-   "end_date": null,
-   "time": "3:00 PM",
-   "venue": "Koret Auditorium, San Francisco Main Public Library",
-   "city": "San Francisco",
-   "organizer": "Panjabi Poetica",
-   "cost": "Free",
-   "url": "https://www.eventbrite.com/e/heer-waris-shah-tickets-1995396739362?aff=oddtdtcreator",
-   "recurrence": null,
-   "description": "A special production with live music, English narration, and original film reimagining a Panjabi literary masterpiece.",
-   "first_seen": "2026-08-04T01:11:25Z",
-   "last_seen": "2026-08-04T01:11:25Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_916ec251e404",
-   "title": "Special Gita Class by H. G. Shankaranand Prabhu",
-   "kind": "local",
-   "start_date": "2026-08-29",
-   "end_date": null,
-   "time": "5:00 PM onwards",
-   "venue": "275 Verano Dr, Los Altos, CA 94022",
-   "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": "https://forms.gle/zkc3cpBzsUe3kzNi8",
-   "recurrence": null,
-   "description": "Join a special Gita class by H. G. Shankaranand Prabhu.",
-   "first_seen": "2026-08-29T18:21:58Z",
-   "last_seen": "2026-08-29T18:21:58Z",
-   "from_image": true
-  },
   {
    "id": "evt_7a2080de1d21",
    "title": "OASYS Reformer Pilates & Wellness Retreat",
@@ -222,7 +168,7 @@
    "recurrence": null,
    "description": "Join Rashmi & Jinal for a night of dance and celebration with Sharda Music featuring Aanal & Achal Anjaria and Group.",
    "first_seen": "2026-08-18T19:14:24Z",
-   "last_seen": "2026-08-19T03:17:31Z",
+   "last_seen": "2026-08-31T17:55:51Z",
    "from_image": true
   },
   {
