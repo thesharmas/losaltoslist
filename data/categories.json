@@ -19,7 +19,7 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 29,
+    "entry_count": 30,
     "query_count": 26,
     "last_activity": "2026-08-31"
   },
@@ -128,20 +128,20 @@
     "last_activity": "2026-08-29"
   },
   {
+    "slug": "insurance",
+    "name": "Insurance",
+    "emoji": "🛡️",
+    "entry_count": 7,
+    "query_count": 8,
+    "last_activity": "2026-08-31"
+  },
+  {
     "slug": "tailor",
     "name": "Tailor",
     "emoji": "🪡",
     "entry_count": 6,
     "query_count": 10,
     "last_activity": "2026-08-07"
-  },
-  {
-    "slug": "insurance",
-    "name": "Insurance",
-    "emoji": "🛡️",
-    "entry_count": 7,
-    "query_count": 7,
-    "last_activity": "2026-08-01"
   },
   {
     "slug": "lawyer",
@@ -472,6 +472,14 @@
     "last_activity": "2026-04-22"
   },
   {
+    "slug": "roofer",
+    "name": "Roofer",
+    "emoji": "🏠",
+    "entry_count": 2,
+    "query_count": 3,
+    "last_activity": "2026-08-31"
+  },
+  {
     "slug": "storage-rental",
     "name": "Storage Rental",
     "emoji": "📌",
@@ -526,14 +534,6 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-06-03"
-  },
-  {
-    "slug": "roofer",
-    "name": "Roofer",
-    "emoji": "🏠",
-    "entry_count": 2,
-    "query_count": 2,
-    "last_activity": "2026-07-20"
   },
   {
     "slug": "swim-classes",
