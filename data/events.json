@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-09-01T04:15:18Z",
+  "generated_at": "2026-09-02T04:15:20Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 10,
+  "upcoming_count": 11,
   "promo_count": 22,
   "schema_version": 3
  },
@@ -80,6 +80,24 @@
    "first_seen": "2026-08-17T23:23:21Z",
    "last_seen": "2026-08-17T23:23:21Z",
    "from_image": true
+  },
+  {
+   "id": "evt_c9bbb5d2d2a8",
+   "title": "Scenic 5K/10K Run",
+   "kind": "regional",
+   "start_date": "2026-09-19",
+   "end_date": null,
+   "time": "9 AM",
+   "venue": "Pillar Point",
+   "city": "Half Moon Bay",
+   "organizer": "Arunay Foundation",
+   "cost": null,
+   "url": "https://runsignup.com/beachsafetyrun",
+   "recurrence": null,
+   "description": "Join us for a scenic 5K/10K run to support beach safety initiatives.",
+   "first_seen": "2026-09-01T21:47:44Z",
+   "last_seen": "2026-09-01T21:47:44Z",
+   "from_image": false
   },
   {
    "id": "evt_ee3324798a6b",
