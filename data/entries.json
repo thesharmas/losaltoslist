@@ -1868,6 +1868,31 @@
     "mention_count": 1
   },
   {
+    "id": "kawaljeet-kaur-cook-sfo",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Kawaljeet Kaur Cook SFO",
+    "contact": {
+      "phones": [
+        "(669) 243-6359"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Kawaljeet Kaur Cook SFO (+1 (669) 243-6359)",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1
+  },
+  {
     "id": "manjeet",
     "category": "catering",
     "categories": [
@@ -2090,6 +2115,29 @@
     ],
     "first_seen": "2026-02-20",
     "last_seen": "2026-02-20",
+    "mention_count": 1
+  },
+  {
+    "id": "sanjha-chulha",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "SANJHA CHULHA",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "🍲 SANJHA CHULHA 🍲\nHome Cooked • Fresh • Authentic\nThe prices below are for 16oz portions.\nAvailable in 16oz, 32oz & larger quantities upon request.\n📌 Please place your order at least 1 day in advance\n🚗 Delivery Information\n• FREE delivery within 5 miles (Minimum order $40)\n• After 5 miles – $5 de...",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
     "mention_count": 1
   },
   {
@@ -3602,6 +3650,31 @@
     "first_seen": "2026-01-10",
     "last_seen": "2026-03-24",
     "mention_count": 3
+  },
+  {
+    "id": "kinnari-tiffins",
+    "category": "cook",
+    "categories": [
+      "cook"
+    ],
+    "name": "Kinnari tiffins",
+    "contact": {
+      "phones": [
+        "(408) 373-1895"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Uncle and aunty made delicious Gujarati food",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1
   },
   {
     "id": "virupal-and-kamaljeet",
@@ -5924,10 +5997,40 @@
         "quote": "They are aiming to fill the gap for puja flowers, banana and mango leaves, other related items etc",
         "date": "2025-12-28",
         "type": "contact"
+      },
+      {
+        "quote": "Try Vivek Flowers in Sunnyvale. They offer both fresh and imitation flowers",
+        "date": "2026-09-02",
+        "type": "contact"
       }
     ],
     "first_seen": "2025-12-28",
-    "last_seen": "2025-12-28",
+    "last_seen": "2026-09-02",
+    "mention_count": 2
+  },
+  {
+    "id": "anbukumar",
+    "category": "florist",
+    "categories": [
+      "florist"
+    ],
+    "name": "Anbukumar",
+    "contact": {
+      "phones": [
+        "(669) 290-9760"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Anbukumar (+1 (669) 290-9760)",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
     "mention_count": 1
   },
   {
@@ -6463,6 +6566,31 @@
     "first_seen": "2026-01-20",
     "last_seen": "2026-01-20",
     "mention_count": 2
+  },
+  {
+    "id": "fernando",
+    "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
+    "name": "Fernando",
+    "contact": {
+      "phones": [
+        "(650) 385-9079"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Fernando is amazing!!",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1
   },
   {
     "id": "rogelio",
@@ -8578,6 +8706,31 @@
     ],
     "first_seen": "2026-06-05",
     "last_seen": "2026-06-05",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-4126573383",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [
+        "(412) 657-3383"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Mother’s helper/ housekeeper available with flexible schedule (up to full-time). Our nanny’s wonderful niece has stepped in to help us out while our nanny recovered from a medical issue and is now seeking new families to help. She is hardworking and responsible and takes initiative with her tasks.",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
     "mention_count": 1
   },
   {
@@ -11342,6 +11495,29 @@
     "mention_count": 1
   },
   {
+    "id": "madras-golu-dolls",
+    "category": "retail",
+    "categories": [
+      "retail"
+    ],
+    "name": "Madras Golu Dolls",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Madras Golu Dolls (+91 63834 17323)",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1
+  },
+  {
     "id": "evodyne-robotics",
     "category": "robotics",
     "categories": [
@@ -13745,6 +13921,77 @@
     ],
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
+    "mention_count": 1
+  },
+  {
+    "id": "esalen",
+    "category": "yoga retreat",
+    "categories": [
+      "yoga retreat"
+    ],
+    "name": "Esalen",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Esalen and Mount Madonna both offer yoga retreats. Both are beautiful trustworthy organizations, so I would trust their yoga teacher choices too.",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1
+  },
+  {
+    "id": "mount-madonna",
+    "category": "yoga retreat",
+    "categories": [
+      "yoga retreat"
+    ],
+    "name": "Mount Madonna",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Esalen and Mount Madonna both offer yoga retreats. Both are beautiful trustworthy organizations, so I would trust their yoga teacher choices too.",
+        "date": "2026-09-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1
+  },
+  {
+    "id": "sivananda-yoga-farm",
+    "category": "yoga retreat",
+    "categories": [
+      "yoga retreat"
+    ],
+    "name": "Sivananda Yoga farm",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://sivanandayogafarm.org/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Sivananda Yoga farm Grass Valley. If you want the traditional Hatha Yoga experience. They call it Yoga vacation - you can book a weekend. I’ve been there and it’s as close to the Indian traditional Hatha Yoga as you’ll get here.",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
     "mention_count": 1
   }
 ]

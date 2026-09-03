@@ -19,9 +19,9 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 30,
+    "entry_count": 32,
     "query_count": 26,
-    "last_activity": "2026-08-31"
+    "last_activity": "2026-09-02"
   },
   {
     "slug": "doctor",
@@ -51,9 +51,9 @@
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
-    "entry_count": 14,
+    "entry_count": 15,
     "query_count": 20,
-    "last_activity": "2026-08-30"
+    "last_activity": "2026-09-03"
   },
   {
     "slug": "plumber",
@@ -128,6 +128,14 @@
     "last_activity": "2026-08-29"
   },
   {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 3,
+    "query_count": 17,
+    "last_activity": "2026-09-03"
+  },
+  {
     "slug": "insurance",
     "name": "Insurance",
     "emoji": "🛡️",
@@ -168,14 +176,6 @@
     "last_activity": "2026-06-29"
   },
   {
-    "slug": "handyman",
-    "name": "Handyman",
-    "emoji": "🔨",
-    "entry_count": 2,
-    "query_count": 16,
-    "last_activity": "2026-08-30"
-  },
-  {
     "slug": "window-cleaning",
     "name": "Window Cleaning",
     "emoji": "🪟",
@@ -214,6 +214,14 @@
     "entry_count": 5,
     "query_count": 6,
     "last_activity": "2026-08-24"
+  },
+  {
+    "slug": "cook",
+    "name": "Cook",
+    "emoji": "👨‍🍳",
+    "entry_count": 3,
+    "query_count": 9,
+    "last_activity": "2026-09-02"
   },
   {
     "slug": "gardener",
@@ -326,14 +334,6 @@
     "entry_count": 5,
     "query_count": 1,
     "last_activity": "2026-08-05"
-  },
-  {
-    "slug": "cook",
-    "name": "Cook",
-    "emoji": "👨‍🍳",
-    "entry_count": 2,
-    "query_count": 7,
-    "last_activity": "2026-06-21"
   },
   {
     "slug": "dry-cleaning",
@@ -496,6 +496,14 @@
     "last_activity": "2026-05-28"
   },
   {
+    "slug": "yoga-retreat",
+    "name": "Yoga Retreat",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-09-03"
+  },
+  {
     "slug": "car-service",
     "name": "Car Service",
     "emoji": "📌",
@@ -526,6 +534,14 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-05-01"
+  },
+  {
+    "slug": "florist",
+    "name": "Florist",
+    "emoji": "💐",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-09-02"
   },
   {
     "slug": "gutter-cleaning",
@@ -880,14 +896,6 @@
     "last_activity": "2026-01-11"
   },
   {
-    "slug": "florist",
-    "name": "Florist",
-    "emoji": "💐",
-    "entry_count": 1,
-    "query_count": 1,
-    "last_activity": "2025-12-28"
-  },
-  {
     "slug": "grocery-service",
     "name": "Grocery Service",
     "emoji": "📌",
@@ -1110,6 +1118,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-08-30"
+  },
+  {
+    "slug": "retail",
+    "name": "Retail",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-09-03"
   },
   {
     "slug": "summer-camp",
