@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-02T04:15:20Z",
+  "generated_at": "2026-09-03T04:15:43Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 11,
-  "promo_count": 22,
+  "promo_count": 23,
   "schema_version": 3
  },
  "events": [
@@ -186,7 +186,7 @@
    "recurrence": null,
    "description": "Join Rashmi & Jinal for a night of dance and celebration with Sharda Music featuring Aanal & Achal Anjaria and Group.",
    "first_seen": "2026-08-18T19:14:24Z",
-   "last_seen": "2026-08-31T17:55:51Z",
+   "last_seen": "2026-09-02T05:43:02Z",
    "from_image": true
   },
   {
@@ -209,6 +209,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_0a6be74ba49d",
+   "name": "SANJHA CHULHA",
+   "what": "Home Cooked Fresh Authentic Food",
+   "url": null,
+   "description": "SANJHA CHULHA offers home-cooked, fresh, and authentic meals with delivery options.",
+   "first_seen": "2026-09-02T21:15:16Z",
+   "last_seen": "2026-09-02T21:15:16Z",
+   "expires": "2026-11-01"
+  },
   {
    "id": "prm_c8a16cd14c09",
    "name": "Calligraphy Wines",
