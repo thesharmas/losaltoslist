@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 39,
-    "query_count": 47,
-    "last_activity": "2026-08-28"
+    "entry_count": 40,
+    "query_count": 48,
+    "last_activity": "2026-09-03"
   },
   {
     "slug": "contractor",
@@ -192,6 +192,14 @@
     "last_activity": "2026-08-15"
   },
   {
+    "slug": "cook",
+    "name": "Cook",
+    "emoji": "👨‍🍳",
+    "entry_count": 4,
+    "query_count": 9,
+    "last_activity": "2026-09-03"
+  },
+  {
     "slug": "tree-service",
     "name": "Tree Service",
     "emoji": "🌳",
@@ -214,14 +222,6 @@
     "entry_count": 5,
     "query_count": 6,
     "last_activity": "2026-08-24"
-  },
-  {
-    "slug": "cook",
-    "name": "Cook",
-    "emoji": "👨‍🍳",
-    "entry_count": 3,
-    "query_count": 9,
-    "last_activity": "2026-09-02"
   },
   {
     "slug": "gardener",
@@ -408,6 +408,22 @@
     "last_activity": "2026-01-23"
   },
   {
+    "slug": "yoga-retreat",
+    "name": "Yoga Retreat",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 1,
+    "last_activity": "2026-09-03"
+  },
+  {
+    "slug": "accountant",
+    "name": "Accountant",
+    "emoji": "🧾",
+    "entry_count": 2,
+    "query_count": 4,
+    "last_activity": "2026-09-03"
+  },
+  {
     "slug": "elder-care",
     "name": "Elder Care",
     "emoji": "🧓",
@@ -496,14 +512,6 @@
     "last_activity": "2026-05-28"
   },
   {
-    "slug": "yoga-retreat",
-    "name": "Yoga Retreat",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 1,
-    "last_activity": "2026-09-03"
-  },
-  {
     "slug": "car-service",
     "name": "Car Service",
     "emoji": "📌",
@@ -574,14 +582,6 @@
     "entry_count": 3,
     "query_count": 0,
     "last_activity": "2026-08-14"
-  },
-  {
-    "slug": "accountant",
-    "name": "Accountant",
-    "emoji": "🧾",
-    "entry_count": 1,
-    "query_count": 3,
-    "last_activity": "2026-07-12"
   },
   {
     "slug": "camp",

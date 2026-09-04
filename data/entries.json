@@ -1,5 +1,35 @@
 [
   {
+    "id": "sanjiv-gupta",
+    "category": "accountant",
+    "categories": [
+      "accountant"
+    ],
+    "name": "Sanjiv Gupta",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://sanjivcpa.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Sanjiv Gupta has worked for me in the past for a similar situation",
+        "date": "2026-09-03",
+        "type": "review"
+      },
+      {
+        "quote": "https://sanjivcpa.com",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 2
+  },
+  {
     "id": "annette",
     "category": "accountant",
     "categories": [
@@ -3650,6 +3680,31 @@
     "first_seen": "2026-01-10",
     "last_seen": "2026-03-24",
     "mention_count": 3
+  },
+  {
+    "id": "geetha-ben",
+    "category": "cook",
+    "categories": [
+      "cook"
+    ],
+    "name": "Geetha Ben",
+    "contact": {
+      "phones": [
+        "(408) 663-8635"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "One of our neighbors has a gujju cook\nHere’s her contact I got a while back - Geetha Ben - +1 (408) 663-8635.",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1
   },
   {
     "id": "kinnari-tiffins",
@@ -12468,6 +12523,36 @@
     "mention_count": 2
   },
   {
+    "id": "icc",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "ICC",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.indiacc.org/robotics/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.indiacc.org/robotics/",
+        "date": "2026-09-03",
+        "type": "contact"
+      },
+      {
+        "quote": "ICC offers various robotics programs starting from grade 1-12.",
+        "date": "2026-09-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 2
+  },
+  {
     "id": "shivika",
     "category": "tutoring",
     "categories": [
@@ -13922,6 +14007,36 @@
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
     "mention_count": 1
+  },
+  {
+    "id": "sivananda-yoga",
+    "category": "yoga retreat",
+    "categories": [
+      "yoga retreat"
+    ],
+    "name": "Sivananda Yoga",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.reddit.com/r/yoga/comments/1mxr597/sivananda_yoga_saddened_by_experience_trigger/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Sivananda Yoga - saddened by experience (trigger warning)",
+        "date": "2026-09-03",
+        "type": "review"
+      },
+      {
+        "quote": "Honestly, I go for the practise, the setting and a few teachers who are really great!",
+        "date": "2026-09-03",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 2
   },
   {
     "id": "esalen",
