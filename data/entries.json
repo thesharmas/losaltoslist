@@ -2969,6 +2969,36 @@
     "mention_count": 2
   },
   {
+    "id": "gary-tiles-nash",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Gary Tiles Nash",
+    "contact": {
+      "phones": [
+        "(510) 697-3735"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Gary Tiles Nash (+1 (510) 697-3735)",
+        "date": "2026-09-04",
+        "type": "contact"
+      },
+      {
+        "quote": "Gary is terrific at all type of tiling. They are artistic and do high quality work at a reasonable price.",
+        "date": "2026-09-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 2
+  },
+  {
     "id": "george-ramos",
     "category": "contractor",
     "categories": [
@@ -12747,6 +12777,31 @@
     ],
     "first_seen": "2026-04-20",
     "last_seen": "2026-04-20",
+    "mention_count": 1
+  },
+  {
+    "id": "first-lego-league",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "FIRST LEGO League",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://firstlegoleague.org"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://firstlegoleague.org",
+        "date": "2026-09-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
     "mention_count": 1
   },
   {
