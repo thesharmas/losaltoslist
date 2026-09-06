@@ -53,7 +53,8 @@
     "bathroom",
     "fireplace",
     "skylight",
-    "concrete"
+    "concrete",
+    "home renovation"
   ],
   "pest-control": [
     "exterminator",
@@ -181,5 +182,15 @@
     "tax advisor",
     "income tax",
     "india tax"
+  ],
+  "henna": [
+    "mehendi"
+  ],
+  "florist": [
+    "flower vendor",
+    "flower shop"
+  ],
+  "retail": [
+    "indian boutique"
   ]
 }
