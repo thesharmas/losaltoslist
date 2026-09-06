@@ -1973,6 +1973,29 @@
     "mention_count": 1
   },
   {
+    "id": "mantra-catering",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Mantra catering",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I love how transparent their pricing is. Just go to their website.",
+        "date": "2026-09-05",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
     "id": "mexsal-taco-catering",
     "category": "catering",
     "categories": [
@@ -2120,6 +2143,31 @@
     ],
     "first_seen": "2026-05-12",
     "last_seen": "2026-05-12",
+    "mention_count": 1
+  },
+  {
+    "id": "rinku-catering",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Rinku - Catering",
+    "contact": {
+      "phones": [
+        "(510) 364-1561"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Rinku - Catering (+1 (510) 364-1561)",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "mention_count": 1
   },
   {
@@ -4813,6 +4861,29 @@
     "mention_count": 1
   },
   {
+    "id": "labcorp",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "LabCorp",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Check LabCorp",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
     "id": "mountain-view-oral-surgery-dr-nijhawan",
     "category": "doctor",
     "categories": [
@@ -4858,6 +4929,100 @@
     ],
     "first_seen": "2026-06-29",
     "last_seen": "2026-06-29",
+    "mention_count": 1
+  },
+  {
+    "id": "pamf-los-altos",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "PAMF Los Altos",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Pamf los altos has a lab",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
+    "id": "quest",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Quest",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "The Quest location on South drive is super efficient. Just create your online account.",
+        "date": "2026-09-05",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
+    "id": "stanford",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Stanford",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://stanfordhealthcare.org/medical-clinics/blood-draw-sites.html"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Stanford has several labs across the south and east bay",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
+    "id": "stanford-labs",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Stanford labs",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Stanford labs are open on weekends as well and you can walk in",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "mention_count": 1
   },
   {
@@ -11895,6 +12060,64 @@
     "mention_count": 2
   },
   {
+    "id": "pia-ka-ghar",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Pia ka Ghar",
+    "contact": {
+      "phones": [
+        "(650) 559-0825"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "They specialize in fitting brides perfectly, and they have impeccable outfits at various price ranges.",
+        "date": "2026-09-05",
+        "type": "review"
+      },
+      {
+        "quote": "Yes, @263629505060996 - (650) 559-0825",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 2
+  },
+  {
+    "id": "swati-couture",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Swati Couture",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Swati Couture is STUN-NING!",
+        "date": "2026-09-05",
+        "type": "review"
+      },
+      {
+        "quote": "And swati is also amazing",
+        "date": "2026-09-05",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 2
+  },
+  {
     "id": "maneesha-sari-palace",
     "category": "tailor",
     "categories": [
@@ -11961,6 +12184,31 @@
     ],
     "first_seen": "2026-01-04",
     "last_seen": "2026-01-04",
+    "mention_count": 1
+  },
+  {
+    "id": "swati-kapoor-sfo",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Swati Kapoor SFO",
+    "contact": {
+      "phones": [
+        "(510) 610-5990"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Swati Kapoor SFO (+1 (510) 610-5990)",
+        "date": "2026-09-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
     "mention_count": 1
   },
   {

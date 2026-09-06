@@ -4,8 +4,8 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 41,
-    "query_count": 49,
-    "last_activity": "2026-09-04"
+    "query_count": 51,
+    "last_activity": "2026-09-05"
   },
   {
     "slug": "contractor",
@@ -19,17 +19,17 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 32,
-    "query_count": 26,
-    "last_activity": "2026-09-02"
+    "entry_count": 34,
+    "query_count": 28,
+    "last_activity": "2026-09-05"
   },
   {
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
-    "entry_count": 24,
-    "query_count": 24,
-    "last_activity": "2026-08-30"
+    "entry_count": 29,
+    "query_count": 25,
+    "last_activity": "2026-09-05"
   },
   {
     "slug": "landscaper",
@@ -88,12 +88,20 @@
     "last_activity": "2026-08-22"
   },
   {
+    "slug": "tailor",
+    "name": "Tailor",
+    "emoji": "🪡",
+    "entry_count": 9,
+    "query_count": 11,
+    "last_activity": "2026-09-05"
+  },
+  {
     "slug": "appliance-repair",
     "name": "Appliance Repair",
     "emoji": "🔌",
     "entry_count": 6,
-    "query_count": 14,
-    "last_activity": "2026-08-25"
+    "query_count": 15,
+    "last_activity": "2026-09-05"
   },
   {
     "slug": "dentist",
@@ -150,14 +158,6 @@
     "entry_count": 7,
     "query_count": 8,
     "last_activity": "2026-09-05"
-  },
-  {
-    "slug": "tailor",
-    "name": "Tailor",
-    "emoji": "🪡",
-    "entry_count": 6,
-    "query_count": 10,
-    "last_activity": "2026-08-07"
   },
   {
     "slug": "lawyer",
@@ -1310,6 +1310,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-07-02"
+  },
+  {
+    "slug": "driving-instructor",
+    "name": "Driving Instructor",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-09-05"
   },
   {
     "slug": "entertainment",
