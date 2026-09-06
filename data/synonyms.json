@@ -171,7 +171,8 @@
   ],
   "car-mechanic": [
     "oil change",
-    "lube"
+    "lube",
+    "body shop"
   ],
   "dance-school": [
     "odissi"
@@ -191,6 +192,17 @@
     "flower shop"
   ],
   "retail": [
-    "indian boutique"
+    "indian boutique",
+    "indian clothing store"
+  ],
+  "fence": [
+    "fence repair",
+    "fence fix"
+  ],
+  "flooring": [
+    "carpet installation"
+  ],
+  "real-estate-agent": [
+    "real estate broker"
   ]
 }
