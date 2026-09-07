@@ -1,14 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-09-05T04:15:34Z",
+  "generated_at": "2026-09-07T04:15:46Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 11,
+  "upcoming_count": 14,
   "promo_count": 24,
   "schema_version": 3
  },
  "events": [
+  {
+   "id": "evt_bf3e0ca1f3df",
+   "title": "Garba Workshop",
+   "kind": "regional",
+   "start_date": "2026-09-10",
+   "end_date": "2026-09-17",
+   "time": "7:30 PM - 9 PM",
+   "venue": "Sindhoor Natya Center",
+   "city": "San Jose",
+   "organizer": "Rekha and Puja",
+   "cost": "$40 for both sessions",
+   "url": null,
+   "recurrence": "Thursdays",
+   "description": "A Garba workshop with guided steps and technique.",
+   "first_seen": "2026-09-07T01:17:42Z",
+   "last_seen": "2026-09-07T01:17:42Z",
+   "from_image": true
+  },
   {
    "id": "evt_7a2080de1d21",
    "title": "OASYS Reformer Pilates & Wellness Retreat",
@@ -82,6 +100,24 @@
    "from_image": true
   },
   {
+   "id": "evt_600a373bd3c2",
+   "title": "Riyaaz & Rebirth",
+   "kind": "local",
+   "start_date": "2026-09-18",
+   "end_date": "2026-09-19",
+   "time": "4:00 PM - 7:30 PM",
+   "venue": "Los Altos Golf & Country Club",
+   "city": "Los Altos",
+   "organizer": null,
+   "cost": null,
+   "url": "https://tinyurl.com/neevartbysehgal",
+   "recurrence": null,
+   "description": "An art exhibition featuring artist Abhay Sehgal.",
+   "first_seen": "2026-09-06T04:46:31Z",
+   "last_seen": "2026-09-06T04:46:31Z",
+   "from_image": false
+  },
+  {
    "id": "evt_c9bbb5d2d2a8",
    "title": "Scenic 5K/10K Run",
    "kind": "regional",
@@ -115,6 +151,24 @@
    "description": "Bollywood dance workout party with live DJ and chai.",
    "first_seen": "2026-08-20T02:56:44Z",
    "last_seen": "2026-08-20T02:56:44Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_35bd482a68e1",
+   "title": "Reclaim Your Center Women's Retreat",
+   "kind": "regional",
+   "start_date": "2026-09-24",
+   "end_date": "2026-09-27",
+   "time": null,
+   "venue": "Still Mountain Wellness Retreat",
+   "city": "California Hot Springs",
+   "organizer": "Pure Praana",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A 4-day women's retreat focusing on healing and ayurveda.",
+   "first_seen": "2026-09-06T13:59:02Z",
+   "last_seen": "2026-09-06T13:59:02Z",
    "from_image": true
   },
   {
