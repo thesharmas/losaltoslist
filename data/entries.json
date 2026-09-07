@@ -896,6 +896,29 @@
     "mention_count": 1
   },
   {
+    "id": "vara",
+    "category": "bridal couture",
+    "categories": [
+      "bridal couture"
+    ],
+    "name": "Vara",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Yes, Vara I am -6505590825 —do call for bridal couture",
+        "date": "2026-09-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1
+  },
+  {
     "id": "brainvyne",
     "category": "camp",
     "categories": [
@@ -1970,6 +1993,29 @@
     ],
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
+    "mention_count": 1
+  },
+  {
+    "id": "mantra",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Mantra",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Mantra",
+        "date": "2026-09-07",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
     "mention_count": 1
   },
   {
@@ -7519,6 +7565,36 @@
     "mention_count": 2
   },
   {
+    "id": "spundhann",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Spundhann",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/spundhann?stkn=NGtuM3oyc2JxeXhj"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I haven't used her for decor but purchased stuff from their shop at a pandal event. You can try them https://www.instagram.com/spundhann?stkn=NGtuM3oyc2JxeXhj",
+        "date": "2026-09-06",
+        "type": "contact"
+      },
+      {
+        "quote": "U used her for party decor and liked it.. 👍",
+        "date": "2026-09-07",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
+    "mention_count": 2
+  },
+  {
     "id": "andys-cabinet",
     "category": "interior design",
     "categories": [
@@ -10013,6 +10089,29 @@
     "mention_count": 1
   },
   {
+    "id": "clark-pest-control",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Clark Pest Control",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I’ve heard good things about Clark Pest Control: 6696908739",
+        "date": "2026-09-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1
+  },
+  {
     "id": "habitat-pest-control",
     "category": "pest control",
     "categories": [
@@ -12258,6 +12357,29 @@
     "mention_count": 1
   },
   {
+    "id": "vinita-sud-belani",
+    "category": "theater rental",
+    "categories": [
+      "theater rental"
+    ],
+    "name": "Vinita Sud Belani",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Call Vinita Sud Belani",
+        "date": "2026-09-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1
+  },
+  {
     "id": "children-s-health-council",
     "category": "therapist",
     "categories": [
@@ -14362,6 +14484,29 @@
     ],
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
+    "mention_count": 1
+  },
+  {
+    "id": "hiral-jhaveri",
+    "category": "yoga retreat",
+    "categories": [
+      "yoga retreat"
+    ],
+    "name": "Hiral Jhaveri",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "This on is from Sept 24-27 for further details feel free to call Hiral Jhaveri",
+        "date": "2026-09-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
     "mention_count": 1
   },
   {

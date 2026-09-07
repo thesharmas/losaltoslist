@@ -8,20 +8,20 @@
     "last_activity": "2026-09-05"
   },
   {
+    "slug": "catering",
+    "name": "Catering",
+    "emoji": "🍳",
+    "entry_count": 35,
+    "query_count": 29,
+    "last_activity": "2026-09-07"
+  },
+  {
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
     "entry_count": 31,
     "query_count": 36,
     "last_activity": "2026-09-04"
-  },
-  {
-    "slug": "catering",
-    "name": "Catering",
-    "emoji": "🍳",
-    "entry_count": 34,
-    "query_count": 28,
-    "last_activity": "2026-09-05"
   },
   {
     "slug": "doctor",
@@ -75,9 +75,9 @@
     "slug": "pest-control",
     "name": "Pest Control",
     "emoji": "🐜",
-    "entry_count": 11,
-    "query_count": 12,
-    "last_activity": "2026-08-17"
+    "entry_count": 12,
+    "query_count": 13,
+    "last_activity": "2026-09-06"
   },
   {
     "slug": "real-estate-agent",
@@ -92,8 +92,16 @@
     "name": "Tailor",
     "emoji": "🪡",
     "entry_count": 9,
-    "query_count": 11,
-    "last_activity": "2026-09-05"
+    "query_count": 12,
+    "last_activity": "2026-09-06"
+  },
+  {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 10,
+    "query_count": 8,
+    "last_activity": "2026-09-07"
   },
   {
     "slug": "appliance-repair",
@@ -110,14 +118,6 @@
     "entry_count": 10,
     "query_count": 6,
     "last_activity": "2026-08-06"
-  },
-  {
-    "slug": "interior-design",
-    "name": "Interior Design",
-    "emoji": "🛋️",
-    "entry_count": 9,
-    "query_count": 8,
-    "last_activity": "2026-08-26"
   },
   {
     "slug": "photographer",
@@ -376,6 +376,14 @@
     "last_activity": "2026-06-29"
   },
   {
+    "slug": "yoga-retreat",
+    "name": "Yoga Retreat",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 1,
+    "last_activity": "2026-09-06"
+  },
+  {
     "slug": "painter",
     "name": "Painter",
     "emoji": "🎨",
@@ -406,14 +414,6 @@
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-01-23"
-  },
-  {
-    "slug": "yoga-retreat",
-    "name": "Yoga Retreat",
-    "emoji": "📌",
-    "entry_count": 4,
-    "query_count": 1,
-    "last_activity": "2026-09-03"
   },
   {
     "slug": "accountant",
@@ -984,6 +984,14 @@
     "last_activity": "2026-05-17"
   },
   {
+    "slug": "theater-rental",
+    "name": "Theater Rental",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-09-06"
+  },
+  {
     "slug": "travel-agent",
     "name": "Travel Agent",
     "emoji": "📌",
@@ -1022,6 +1030,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-04-03"
+  },
+  {
+    "slug": "bridal-couture",
+    "name": "Bridal Couture",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-09-06"
   },
   {
     "slug": "care-services",
