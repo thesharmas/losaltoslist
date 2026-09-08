@@ -315,6 +315,38 @@
     "mention_count": 5
   },
   {
+    "id": "calvey",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair",
+      "cleaner"
+    ],
+    "name": "Calvey",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Calvey+Heating+and+Air,+247+E+St+John+St,+San+Jose,+CA+95112&ftid=0x808fb127dc956d4b:0xeaddd70dd1c36392&entry=gps&shh=CAE&lucs=,94297699,94275415,94284505,94231188,94280568,47071704,94218641,94282134,94286869,100796593&g_ep=CAISEjI1LjQ3LjAuODMzNTQyOTMwMBgAIIgnKlssOTQyOTc2OTksOTQyNzU0MTUsOTQyODQ1MDUsOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjksMTAwNzk2NTkzQgJVUw%3D%3D&skid=5b88575a-9172-4390-854c-32b776670536&g_st=ic",
+        "https://www.google.com/maps?q=Calvey+Heating+and+Air,+247+E+St+John+St,+San+Jose,+CA+95112&ftid=0x808fb127dc956d4b:0xeaddd70dd1c36392&entry=gps&shh=CAE&lucs=,94297699,100826475,94231188,94280568,47071704,94218641,94282134,94286869,100820247,100822499&g_ep=CAISEjI2LjMxLjUuOTU0MzA2MDQzMBgAIIgnKl0sOTQyOTc2OTksMTAwODI2NDc1LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAlVT&skid=2e7b5feb-3b2c-4bdb-afdc-2cff398ae28d&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Calvey. Used them for a long time for both AC duct and dryer vent cleaning.",
+        "date": "2026-02-09",
+        "type": "contact"
+      },
+      {
+        "quote": "I’ve used Calvey for a long time to clean the AC ducts and Dryer vents.",
+        "date": "2026-09-08",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-02-09",
+    "last_seen": "2026-09-08",
+    "mention_count": 2
+  },
+  {
     "id": "city-master",
     "category": "appliance repair",
     "categories": [
@@ -2620,31 +2652,6 @@
     ],
     "first_seen": "2026-06-12",
     "last_seen": "2026-06-12",
-    "mention_count": 1
-  },
-  {
-    "id": "calvey",
-    "category": "cleaner",
-    "categories": [
-      "cleaner"
-    ],
-    "name": "Calvey",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.google.com/maps?q=Calvey+Heating+and+Air,+247+E+St+John+St,+San+Jose,+CA+95112&ftid=0x808fb127dc956d4b:0xeaddd70dd1c36392&entry=gps&shh=CAE&lucs=,94297699,94275415,94284505,94231188,94280568,47071704,94218641,94282134,94286869,100796593&g_ep=CAISEjI1LjQ3LjAuODMzNTQyOTMwMBgAIIgnKlssOTQyOTc2OTksOTQyNzU0MTUsOTQyODQ1MDUsOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjksMTAwNzk2NTkzQgJVUw%3D%3D&skid=5b88575a-9172-4390-854c-32b776670536&g_st=ic"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "Calvey. Used them for a long time for both AC duct and dryer vent cleaning.",
-        "date": "2026-02-09",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-09",
-    "last_seen": "2026-02-09",
     "mention_count": 1
   },
   {
