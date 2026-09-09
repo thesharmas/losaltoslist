@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-07T04:15:46Z",
+  "generated_at": "2026-09-09T04:15:41Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 14,
-  "promo_count": 24,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -263,6 +263,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_2402baf497d4",
+   "name": "KarinaJ Denim",
+   "what": "premium denim brand",
+   "url": "karinajdenim.com",
+   "description": "KarinaJ Denim offers premium denim jeans with the ease and comfort of pull-on jeans, featuring a hidden stretch waistband.",
+   "first_seen": "2026-09-08T04:25:55Z",
+   "last_seen": "2026-09-08T04:25:55Z",
+   "expires": "2026-11-07"
+  },
   {
    "id": "prm_8b87c1cfe0ac",
    "name": "Pia's Atelier",
