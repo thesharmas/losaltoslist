@@ -1075,6 +1075,29 @@
     "mention_count": 1
   },
   {
+    "id": "ss-custom",
+    "category": "car mechanic",
+    "categories": [
+      "car mechanic"
+    ],
+    "name": "SS Custom",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Used SS Custom in the past. Was happy with their finish.",
+        "date": "2026-09-08",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "mention_count": 1
+  },
+  {
     "id": "uber",
     "category": "car service",
     "categories": [
@@ -10073,6 +10096,34 @@
     "mention_count": 2
   },
   {
+    "id": "terminix",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Terminix",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Got Terminix out and they identified all the work. Unfortunately for them they were 2x-3x more than our own contractor to do the work so we went with our contractor.",
+        "date": "2026-06-21",
+        "type": "review"
+      },
+      {
+        "quote": "Terminix has worked for us in the past as they come multiple times till unwanted pests are gone.",
+        "date": "2026-09-08",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-08",
+    "mention_count": 2
+  },
+  {
     "id": "attic-crew",
     "category": "pest control",
     "categories": [
@@ -10116,6 +10167,54 @@
     ],
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
+    "mention_count": 1
+  },
+  {
+    "id": "ecoguard",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Ecoguard",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We have used Ecoguard and they come regularly and as often as we request for interior and exterior of the house",
+        "date": "2026-09-08",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "mention_count": 1
+  },
+  {
+    "id": "ecoguard-pest-services",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Ecoguard Pest Services",
+    "contact": {
+      "phones": [
+        "(866) 326-2847"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Ecoguard Pest Services ((866) 326-2847)",
+        "date": "2026-09-08",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
     "mention_count": 1
   },
   {
@@ -10235,29 +10334,6 @@
     ],
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "mention_count": 1
-  },
-  {
-    "id": "terminix",
-    "category": "pest control",
-    "categories": [
-      "pest control"
-    ],
-    "name": "Terminix",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Got Terminix out and they identified all the work. Unfortunately for them they were 2x-3x more than our own contractor to do the work so we went with our contractor.",
-        "date": "2026-06-21",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
     "mention_count": 1
   },
   {
@@ -13912,6 +13988,54 @@
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-13",
     "mention_count": 2
+  },
+  {
+    "id": "chris",
+    "category": "vet",
+    "categories": [
+      "vet"
+    ],
+    "name": "Chris",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Chris is an amazing dog sitter, we have used him for many years",
+        "date": "2026-09-08",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "mention_count": 1
+  },
+  {
+    "id": "chris-klein",
+    "category": "vet",
+    "categories": [
+      "vet"
+    ],
+    "name": "Chris Klein",
+    "contact": {
+      "phones": [
+        "(408) 806-7845"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Chris Klein (+1 (408) 806-7845)",
+        "date": "2026-09-08",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "mention_count": 1
   },
   {
     "id": "aqua-tru",

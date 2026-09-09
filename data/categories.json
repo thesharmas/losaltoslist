@@ -64,20 +64,20 @@
     "last_activity": "2026-08-15"
   },
   {
+    "slug": "pest-control",
+    "name": "Pest Control",
+    "emoji": "🐜",
+    "entry_count": 14,
+    "query_count": 13,
+    "last_activity": "2026-09-08"
+  },
+  {
     "slug": "electrician",
     "name": "Electrician",
     "emoji": "⚡",
     "entry_count": 11,
     "query_count": 15,
     "last_activity": "2026-07-12"
-  },
-  {
-    "slug": "pest-control",
-    "name": "Pest Control",
-    "emoji": "🐜",
-    "entry_count": 12,
-    "query_count": 13,
-    "last_activity": "2026-09-06"
   },
   {
     "slug": "appliance-repair",
@@ -240,6 +240,14 @@
     "last_activity": "2026-06-10"
   },
   {
+    "slug": "car-mechanic",
+    "name": "Car Mechanic",
+    "emoji": "🚗",
+    "entry_count": 4,
+    "query_count": 6,
+    "last_activity": "2026-09-08"
+  },
+  {
     "slug": "dj",
     "name": "Dj",
     "emoji": "📌",
@@ -320,14 +328,6 @@
     "last_activity": "2026-08-10"
   },
   {
-    "slug": "car-mechanic",
-    "name": "Car Mechanic",
-    "emoji": "🚗",
-    "entry_count": 3,
-    "query_count": 5,
-    "last_activity": "2026-06-15"
-  },
-  {
     "slug": "college-counselor",
     "name": "College Counselor",
     "emoji": "📌",
@@ -390,6 +390,14 @@
     "entry_count": 4,
     "query_count": 2,
     "last_activity": "2026-08-05"
+  },
+  {
+    "slug": "vet",
+    "name": "Vet",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 2,
+    "last_activity": "2026-09-08"
   },
   {
     "slug": "blinds-installation",
@@ -686,14 +694,6 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-07-15"
-  },
-  {
-    "slug": "vet",
-    "name": "Vet",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 1,
-    "last_activity": "2026-05-13"
   },
   {
     "slug": "car-wash",
