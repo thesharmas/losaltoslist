@@ -7565,6 +7565,36 @@
     "mention_count": 4
   },
   {
+    "id": "arpita",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Arpita",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/spundhann?stkn=NGtuM3oyc2JxeXhj"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Arpita is excellent at themes decors and event decor.",
+        "date": "2026-09-09",
+        "type": "contact"
+      },
+      {
+        "quote": "Yes, totally recommend her.",
+        "date": "2026-09-09",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 2
+  },
+  {
     "id": "juarez-design",
     "category": "interior design",
     "categories": [

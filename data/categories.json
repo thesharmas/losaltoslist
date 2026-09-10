@@ -88,6 +88,14 @@
     "last_activity": "2026-09-08"
   },
   {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 11,
+    "query_count": 8,
+    "last_activity": "2026-09-09"
+  },
+  {
     "slug": "real-estate-agent",
     "name": "Real Estate Agent",
     "emoji": "🏡",
@@ -102,14 +110,6 @@
     "entry_count": 9,
     "query_count": 12,
     "last_activity": "2026-09-06"
-  },
-  {
-    "slug": "interior-design",
-    "name": "Interior Design",
-    "emoji": "🛋️",
-    "entry_count": 10,
-    "query_count": 8,
-    "last_activity": "2026-09-07"
   },
   {
     "slug": "dentist",
