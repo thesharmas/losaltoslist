@@ -55,6 +55,31 @@
     "mention_count": 1
   },
   {
+    "id": "sanjiv-cpa",
+    "category": "accountant",
+    "categories": [
+      "accountant"
+    ],
+    "name": "Sanjiv CPA",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://sanjivcpa.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "He understands both US and India taxe",
+        "date": "2026-09-10",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "mention_count": 1
+  },
+  {
     "id": "he-cares",
     "category": "acupuncturist",
     "categories": [
@@ -7953,6 +7978,36 @@
     "mention_count": 2
   },
   {
+    "id": "devon-gardener",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Devon Gardener",
+    "contact": {
+      "phones": [
+        "(413) 475-4681"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Devon Gardener (+1 (413) 475-4681)",
+        "date": "2026-09-10",
+        "type": "contact"
+      },
+      {
+        "quote": "Devon is very knowledgeable… he isn’t a gardener but very good with plants",
+        "date": "2026-09-10",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "mention_count": 2
+  },
+  {
     "id": "tilu",
     "category": "landscaper",
     "categories": [
@@ -10761,14 +10816,16 @@
     "id": "healthy-hands-therapy",
     "category": "physical therapy",
     "categories": [
-      "physical therapy"
+      "physical therapy",
+      "therapist"
     ],
     "name": "Healthy Hands Therapy",
     "contact": {
       "phones": [],
       "emails": [],
       "websites": [
-        "https://www.healthyhandstherapy.com"
+        "https://www.healthyhandstherapy.com",
+        "https://www.healthyhandstherapy.com/"
       ]
     },
     "mentions": [
@@ -10776,11 +10833,16 @@
         "quote": "You can check with Jyoti.",
         "date": "2026-01-27",
         "type": "contact"
+      },
+      {
+        "quote": "https://www.healthyhandstherapy.com/",
+        "date": "2026-09-10",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-27",
-    "last_seen": "2026-01-27",
-    "mention_count": 1
+    "last_seen": "2026-09-10",
+    "mention_count": 2
   },
   {
     "id": "peak-physical-therapy",

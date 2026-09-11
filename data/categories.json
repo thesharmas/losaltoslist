@@ -35,9 +35,9 @@
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
-    "entry_count": 15,
-    "query_count": 23,
-    "last_activity": "2026-08-30"
+    "entry_count": 16,
+    "query_count": 26,
+    "last_activity": "2026-09-10"
   },
   {
     "slug": "nanny",
@@ -80,20 +80,20 @@
     "last_activity": "2026-07-12"
   },
   {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 11,
+    "query_count": 9,
+    "last_activity": "2026-09-10"
+  },
+  {
     "slug": "appliance-repair",
     "name": "Appliance Repair",
     "emoji": "🔌",
     "entry_count": 7,
     "query_count": 16,
     "last_activity": "2026-09-08"
-  },
-  {
-    "slug": "interior-design",
-    "name": "Interior Design",
-    "emoji": "🛋️",
-    "entry_count": 11,
-    "query_count": 8,
-    "last_activity": "2026-09-09"
   },
   {
     "slug": "real-estate-agent",
@@ -200,6 +200,14 @@
     "last_activity": "2026-09-03"
   },
   {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 7,
+    "query_count": 3,
+    "last_activity": "2026-09-10"
+  },
+  {
     "slug": "tree-service",
     "name": "Tree Service",
     "emoji": "🌳",
@@ -280,20 +288,20 @@
     "last_activity": "2026-08-24"
   },
   {
-    "slug": "therapist",
-    "name": "Therapist",
-    "emoji": "📌",
-    "entry_count": 6,
-    "query_count": 2,
-    "last_activity": "2026-08-30"
-  },
-  {
     "slug": "eye-doctor",
     "name": "Eye Doctor",
     "emoji": "📌",
     "entry_count": 6,
     "query_count": 1,
     "last_activity": "2026-08-20"
+  },
+  {
+    "slug": "accountant",
+    "name": "Accountant",
+    "emoji": "🧾",
+    "entry_count": 3,
+    "query_count": 6,
+    "last_activity": "2026-09-10"
   },
   {
     "slug": "caregiver",
@@ -424,14 +432,6 @@
     "last_activity": "2026-01-23"
   },
   {
-    "slug": "accountant",
-    "name": "Accountant",
-    "emoji": "🧾",
-    "entry_count": 2,
-    "query_count": 4,
-    "last_activity": "2026-09-03"
-  },
-  {
     "slug": "elder-care",
     "name": "Elder Care",
     "emoji": "🧓",
@@ -485,7 +485,7 @@
     "emoji": "📌",
     "entry_count": 2,
     "query_count": 3,
-    "last_activity": "2026-05-19"
+    "last_activity": "2026-09-10"
   },
   {
     "slug": "pulmonologist",
