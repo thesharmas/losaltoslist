@@ -1,14 +1,32 @@
 {
  "meta": {
-  "generated_at": "2026-09-09T04:15:41Z",
+  "generated_at": "2026-09-11T04:15:51Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 14,
+  "upcoming_count": 18,
   "promo_count": 25,
   "schema_version": 3
  },
  "events": [
+  {
+   "id": "evt_66956414d49e",
+   "title": "Multifaith Peace Picnic and Prayer Service",
+   "kind": "regional",
+   "start_date": "2026-09-10",
+   "end_date": null,
+   "time": "5 PM - 7:30 PM",
+   "venue": "King Plaza",
+   "city": "Palo Alto",
+   "organizer": "American Muslim Voice Foundation",
+   "cost": "Free",
+   "url": "https://tinyurl.com/2pfj6dk3",
+   "recurrence": null,
+   "description": "Join the Multifaith Peace Picnic and Prayer Service to honor the victims of 9/11.",
+   "first_seen": "2026-09-11T02:15:11Z",
+   "last_seen": "2026-09-11T02:15:11Z",
+   "from_image": true
+  },
   {
    "id": "evt_bf3e0ca1f3df",
    "title": "Garba Workshop",
@@ -43,6 +61,24 @@
    "description": "Join the OASYS Reformer Pilates & Wellness Retreat in Portugal.",
    "first_seen": "2026-08-07T20:24:02Z",
    "last_seen": "2026-08-07T20:24:02Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_a3ab89004bff",
+   "title": "Gita Class",
+   "kind": "local",
+   "start_date": "2026-09-12",
+   "end_date": null,
+   "time": "5:00 PM onwards",
+   "venue": "275 Verano Dr, Los Altos, CA 94022",
+   "city": "Los Altos",
+   "organizer": "H. G. Sundaranand Prabhuji",
+   "cost": null,
+   "url": "https://forms.gle/CLpYSG6o3xk6KTmGA",
+   "recurrence": null,
+   "description": "Discussion on Bhagavad Gita Chapter 7.",
+   "first_seen": "2026-09-11T00:21:59Z",
+   "last_seen": "2026-09-11T00:21:59Z",
    "from_image": true
   },
   {
@@ -116,6 +152,42 @@
    "first_seen": "2026-09-06T04:46:31Z",
    "last_seen": "2026-09-06T04:46:31Z",
    "from_image": false
+  },
+  {
+   "id": "evt_4b6fcaf100c9",
+   "title": "Beach Safety Run",
+   "kind": "regional",
+   "start_date": "2026-09-19",
+   "end_date": null,
+   "time": null,
+   "venue": null,
+   "city": "Half Moon Bay",
+   "organizer": null,
+   "cost": null,
+   "url": "https://runsignup.com/beachsafetyrun",
+   "recurrence": null,
+   "description": "A 5K, 10K & Kids Fun Run to help fund a life ring for the coast.",
+   "first_seen": "2026-09-11T03:54:31Z",
+   "last_seen": "2026-09-11T04:00:44Z",
+   "from_image": false
+  },
+  {
+   "id": "evt_b33a3275fb04",
+   "title": "Lace Up for Safer Shores",
+   "kind": "regional",
+   "start_date": "2026-09-19",
+   "end_date": null,
+   "time": null,
+   "venue": "Pillar Point Harbor",
+   "city": "Half Moon Bay",
+   "organizer": "Arunay Foundation",
+   "cost": null,
+   "url": "https://runsignup.com/beachsafetyrun",
+   "recurrence": null,
+   "description": "Run one morning to fund a life ring that stays on the coast all year.",
+   "first_seen": "2026-09-11T03:53:45Z",
+   "last_seen": "2026-09-11T03:53:45Z",
+   "from_image": true
   },
   {
    "id": "evt_c9bbb5d2d2a8",
