@@ -3316,6 +3316,29 @@
     "mention_count": 1
   },
   {
+    "id": "bon-pergola",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Bon pergola",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Bon pergola",
+        "date": "2026-09-11",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1
+  },
+  {
     "id": "dan",
     "category": "contractor",
     "categories": [
@@ -3517,6 +3540,29 @@
     ],
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
+    "mention_count": 1
+  },
+  {
+    "id": "mirador-pergola",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Mirador pergola",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We have installed Mirador pergola purchased from Costco",
+        "date": "2026-09-11",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
     "mention_count": 1
   },
   {
@@ -3747,6 +3793,31 @@
     ],
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-02",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3308779544",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://bluesky-outdoor.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We have used https://bluesky-outdoor.com/",
+        "date": "2026-09-12",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
     "mention_count": 1
   },
   {
@@ -7224,6 +7295,46 @@
     "mention_count": 1
   },
   {
+    "id": "fuse-hvac",
+    "category": "hvac",
+    "categories": [
+      "hvac"
+    ],
+    "name": "Fuse HVAC",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://fuseservice.com/ads/specials/?"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Kostas from Fuse HVAC was amazing",
+        "date": "2026-01-05",
+        "type": "contact"
+      },
+      {
+        "quote": "I found that fuse is hard to communicate with once something goes wrong. Challenge is communication. My main plumber couldn't talk or understand English.",
+        "date": "2026-01-05",
+        "type": "review"
+      },
+      {
+        "quote": "I use Fuse HVAC and have been happy with them. They were able to come today and fix.",
+        "date": "2026-09-11",
+        "type": "review"
+      },
+      {
+        "quote": "https://fuseservice.com/ads/specials/?\n\nSeems they have 24/7 support..",
+        "date": "2026-09-11",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-01-05",
+    "last_seen": "2026-09-11",
+    "mention_count": 4
+  },
+  {
     "id": "irbis",
     "category": "hvac",
     "categories": [
@@ -7294,32 +7405,29 @@
     "mention_count": 3
   },
   {
-    "id": "fuse-hvac",
+    "id": "hoang",
     "category": "hvac",
     "categories": [
       "hvac"
     ],
-    "name": "Fuse HVAC",
+    "name": "Hoang",
     "contact": {
-      "phones": [],
+      "phones": [
+        "(408) 694-8727"
+      ],
       "emails": [],
       "websites": []
     },
     "mentions": [
       {
-        "quote": "Kostas from Fuse HVAC was amazing",
-        "date": "2026-01-05",
+        "quote": "Agencies didn’t have appointment until Tuesday. Luckily, I got the reference of Hoang - +1 (408) 694-8727, he is an individual contractor.",
+        "date": "2026-09-11",
         "type": "contact"
-      },
-      {
-        "quote": "I found that fuse is hard to communicate with once something goes wrong. Challenge is communication. My main plumber couldn't talk or understand English.",
-        "date": "2026-01-05",
-        "type": "review"
       }
     ],
-    "first_seen": "2026-01-05",
-    "last_seen": "2026-01-05",
-    "mention_count": 2
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1
   },
   {
     "id": "tff-hvac",

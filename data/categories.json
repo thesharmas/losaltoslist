@@ -8,20 +8,20 @@
     "last_activity": "2026-09-05"
   },
   {
+    "slug": "contractor",
+    "name": "Contractor",
+    "emoji": "🏗️",
+    "entry_count": 34,
+    "query_count": 38,
+    "last_activity": "2026-09-12"
+  },
+  {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 35,
     "query_count": 29,
     "last_activity": "2026-09-07"
-  },
-  {
-    "slug": "contractor",
-    "name": "Contractor",
-    "emoji": "🏗️",
-    "entry_count": 31,
-    "query_count": 37,
-    "last_activity": "2026-09-08"
   },
   {
     "slug": "doctor",
@@ -184,6 +184,22 @@
     "last_activity": "2026-08-10"
   },
   {
+    "slug": "hvac",
+    "name": "Hvac",
+    "emoji": "🌡️",
+    "entry_count": 6,
+    "query_count": 6,
+    "last_activity": "2026-09-11"
+  },
+  {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 7,
+    "query_count": 4,
+    "last_activity": "2026-09-11"
+  },
+  {
     "slug": "aesthetician",
     "name": "Aesthetician",
     "emoji": "📌",
@@ -198,14 +214,6 @@
     "entry_count": 4,
     "query_count": 9,
     "last_activity": "2026-09-03"
-  },
-  {
-    "slug": "therapist",
-    "name": "Therapist",
-    "emoji": "📌",
-    "entry_count": 7,
-    "query_count": 3,
-    "last_activity": "2026-09-10"
   },
   {
     "slug": "tree-service",
@@ -238,14 +246,6 @@
     "entry_count": 5,
     "query_count": 5,
     "last_activity": "2026-08-08"
-  },
-  {
-    "slug": "hvac",
-    "name": "Hvac",
-    "emoji": "🌡️",
-    "entry_count": 5,
-    "query_count": 5,
-    "last_activity": "2026-06-10"
   },
   {
     "slug": "car-mechanic",
