@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-09-11T04:15:51Z",
+  "generated_at": "2026-09-12T04:15:37Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -252,13 +252,13 @@
    "time": "6:30 PM",
    "venue": "Grant Park Community Center",
    "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": null,
+   "organizer": "DOLAH Team",
+   "cost": "$35 per person",
+   "url": "paypal.me/DOLAMusicalEvent",
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-08-19T06:43:12Z",
+   "last_seen": "2026-09-12T03:52:42Z",
    "from_image": true
   },
   {
