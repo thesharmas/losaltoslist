@@ -1,32 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-12T04:15:37Z",
+  "generated_at": "2026-09-13T04:15:44Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 18,
-  "promo_count": 25,
+  "upcoming_count": 17,
+  "promo_count": 24,
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_66956414d49e",
-   "title": "Multifaith Peace Picnic and Prayer Service",
-   "kind": "regional",
-   "start_date": "2026-09-10",
-   "end_date": null,
-   "time": "5 PM - 7:30 PM",
-   "venue": "King Plaza",
-   "city": "Palo Alto",
-   "organizer": "American Muslim Voice Foundation",
-   "cost": "Free",
-   "url": "https://tinyurl.com/2pfj6dk3",
-   "recurrence": null,
-   "description": "Join the Multifaith Peace Picnic and Prayer Service to honor the victims of 9/11.",
-   "first_seen": "2026-09-11T02:15:11Z",
-   "last_seen": "2026-09-11T02:15:11Z",
-   "from_image": true
-  },
   {
    "id": "evt_bf3e0ca1f3df",
    "title": "Garba Workshop",
@@ -258,7 +240,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-12T03:52:42Z",
+   "last_seen": "2026-09-12T22:22:15Z",
    "from_image": true
   },
   {
@@ -574,16 +556,6 @@
    "first_seen": "2026-07-15T20:20:11Z",
    "last_seen": "2026-07-15T20:20:11Z",
    "expires": "2026-09-13"
-  },
-  {
-   "id": "prm_2879f8d7025a",
-   "name": "AskGita.ai",
-   "what": "Ancient wisdom for modern life",
-   "url": "https://askgita.ai/start",
-   "description": "AskGita.ai offers support for real humans using ancient wisdom.",
-   "first_seen": "2026-07-13T21:28:24Z",
-   "last_seen": "2026-07-13T21:28:24Z",
-   "expires": "2026-09-11"
   }
  ]
 }
