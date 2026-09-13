@@ -34,7 +34,9 @@
     "outlet",
     "electrical panel",
     "ev charger",
-    "lighting"
+    "lighting",
+    "home theater wiring",
+    "av wiring"
   ],
   "hvac": [
     "furnace",
@@ -90,7 +92,8 @@
     "stove",
     "garbage disposal",
     "disposal unit",
-    "subzero repair"
+    "subzero repair",
+    "washing machine"
   ],
   "mover": [
     "moving",
@@ -204,5 +207,10 @@
   ],
   "real-estate-agent": [
     "real estate broker"
+  ],
+  "dry-cleaning": [
+    "indian outfit",
+    "ethnic wear cleaning",
+    "saree cleaning"
   ]
 }
