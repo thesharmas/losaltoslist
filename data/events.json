@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-13T04:15:44Z",
+  "generated_at": "2026-09-14T04:16:04Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 17,
-  "promo_count": 24,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -240,7 +240,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-12T22:22:15Z",
+   "last_seen": "2026-09-13T20:51:42Z",
    "from_image": true
   },
   {
@@ -317,6 +317,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_c40650241f22",
+   "name": "Great Maharaja Street Eats",
+   "what": "Live Pani Puri and other street eats",
+   "url": null,
+   "description": "Serving fresh chaat live at pop-ups and events.",
+   "first_seen": "2026-09-13T20:06:45Z",
+   "last_seen": "2026-09-13T20:06:45Z",
+   "expires": "2026-11-12"
+  },
   {
    "id": "prm_2402baf497d4",
    "name": "KarinaJ Denim",
