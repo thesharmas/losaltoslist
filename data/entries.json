@@ -1483,6 +1483,59 @@
     "mention_count": 1
   },
   {
+    "id": "go-chaatzz",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Go Chaatzz",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We have tried GoChaatz a couple times and had a great experience. a neighbor and her team come prepared and leave your place clean.",
+        "date": "2026-05-16",
+        "type": "review"
+      },
+      {
+        "quote": "We had GoChaatz cater an event at our place and they did a splendid job of setting up, serving, live stations (we did pav bhaaji & chole bature), chaat set up and then post event cleanup.",
+        "date": "2026-06-10",
+        "type": "review"
+      },
+      {
+        "quote": "We had GoChaatz cater an event at our place and they did a splendid job of setting up, serving, live stations (we did pav bhaaji & chole bature), chaat set up and then post event cleanup.",
+        "date": "2026-06-14",
+        "type": "review"
+      },
+      {
+        "quote": "Also chaat house  and GoChaatz",
+        "date": "2026-08-31",
+        "type": "contact"
+      },
+      {
+        "quote": "Go Chaatz or chaat bhavan or rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "➕for Go Chaatzz",
+        "date": "2026-09-13",
+        "type": "review"
+      },
+      {
+        "quote": "Go Chatzz- talk to a neighbor",
+        "date": "2026-09-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-09-13",
+    "mention_count": 7
+  },
+  {
     "id": "beetroot-catering-co",
     "category": "catering",
     "categories": [
@@ -1529,44 +1582,6 @@
     "mention_count": 5
   },
   {
-    "id": "gochaatz",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "GoChaatz",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "We have tried GoChaatz a couple times and had a great experience. a neighbor and her team come prepared and leave your place clean.",
-        "date": "2026-05-16",
-        "type": "review"
-      },
-      {
-        "quote": "We had GoChaatz cater an event at our place and they did a splendid job of setting up, serving, live stations (we did pav bhaaji & chole bature), chaat set up and then post event cleanup.",
-        "date": "2026-06-10",
-        "type": "review"
-      },
-      {
-        "quote": "We had GoChaatz cater an event at our place and they did a splendid job of setting up, serving, live stations (we did pav bhaaji & chole bature), chaat set up and then post event cleanup.",
-        "date": "2026-06-14",
-        "type": "review"
-      },
-      {
-        "quote": "Also chaat house  and GoChaatz",
-        "date": "2026-08-31",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-05-16",
-    "last_seen": "2026-08-31",
-    "mention_count": 4
-  },
-  {
     "id": "chaat-bhavan",
     "category": "catering",
     "categories": [
@@ -1593,11 +1608,16 @@
         "quote": "Chat bhavan",
         "date": "2026-08-31",
         "type": "contact"
+      },
+      {
+        "quote": "Go Chaatz or chaat bhavan or rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-31",
-    "mention_count": 3
+    "last_seen": "2026-09-13",
+    "mention_count": 4
   },
   {
     "id": "komalsgourmetkitchen-com",
@@ -1790,6 +1810,36 @@
     "mention_count": 2
   },
   {
+    "id": "rasa-catering",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Rasa Catering",
+    "contact": {
+      "phones": [
+        "(650) 336-4615"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Go Chaatz or chaat bhavan or rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "650-336-4615 rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 2
+  },
+  {
     "id": "annapurna",
     "category": "catering",
     "categories": [
@@ -1882,6 +1932,31 @@
     "mention_count": 1
   },
   {
+    "id": "butter-and-rose",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Butter and Rose",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/butter.and.rose?stkn=NTc4MTIwNjQ2YQ=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.instagram.com/butter.and.rose?stkn=NTc4MTIwNjQ2YQ==",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1
+  },
+  {
     "id": "chaat-house",
     "category": "catering",
     "categories": [
@@ -1902,6 +1977,29 @@
     ],
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
+    "mention_count": 1
+  },
+  {
+    "id": "garden-fresh",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Garden Fresh",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Garden Fresh at the corner of Miramonte and El Camino. Alice carries chocolate and carrot cakes.",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -2023,6 +2121,31 @@
     ],
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
+    "mention_count": 1
+  },
+  {
+    "id": "maharaja-chef",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Maharaja Chef",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/maharajachef?stkn=MW9kZHczM2F2cGpiaw=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.instagram.com/maharajachef?stkn=MW9kZHczM2F2cGpiaw==",
+        "date": "2026-09-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
     "mention_count": 1
   },
   {
@@ -2243,6 +2366,29 @@
     "mention_count": 1
   },
   {
+    "id": "rasa-sweets",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Rasa Sweets",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ravi in Palo Alto (Rasa Sweets) also does it and makes really good chile bhature and pani puri",
+        "date": "2026-09-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1
+  },
+  {
     "id": "reshu-goyal",
     "category": "catering",
     "categories": [
@@ -2365,6 +2511,29 @@
     ],
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
+    "mention_count": 1
+  },
+  {
+    "id": "whole-foods",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Whole Foods",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Whole Foods has vegan cakes",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -3205,6 +3374,36 @@
     ],
     "first_seen": "2026-08-06",
     "last_seen": "2026-08-06",
+    "mention_count": 2
+  },
+  {
+    "id": "moses-bay-area-fence",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Moses Bay Area Fence",
+    "contact": {
+      "phones": [
+        "(669) 300-4907"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Moses Bay Area Fence (+1 (669) 300-4907)",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "Moses and his team did a great job with our fence!!",
+        "date": "2026-09-13",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
     "mention_count": 2
   },
   {
@@ -11969,6 +12168,36 @@
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
     "mention_count": 1
+  },
+  {
+    "id": "pandit-bhushanji",
+    "category": "religious service",
+    "categories": [
+      "religious service"
+    ],
+    "name": "Pandit Bhushanji",
+    "contact": {
+      "phones": [
+        "(510) 862-5834"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Pandit Bhushanji (+1 (510) 862-5834)",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "Pandor Bhushanji has done a few poojas and Havans for us…he does everything with so much love, intention and has a positive energy …not after money",
+        "date": "2026-09-13",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 2
   },
   {
     "id": "vvgc-temple",

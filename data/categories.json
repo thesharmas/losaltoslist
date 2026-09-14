@@ -8,20 +8,20 @@
     "last_activity": "2026-09-05"
   },
   {
-    "slug": "contractor",
-    "name": "Contractor",
-    "emoji": "🏗️",
-    "entry_count": 34,
-    "query_count": 38,
-    "last_activity": "2026-09-12"
-  },
-  {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
+    "entry_count": 41,
+    "query_count": 32,
+    "last_activity": "2026-09-14"
+  },
+  {
+    "slug": "contractor",
+    "name": "Contractor",
+    "emoji": "🏗️",
     "entry_count": 35,
-    "query_count": 29,
-    "last_activity": "2026-09-07"
+    "query_count": 41,
+    "last_activity": "2026-09-14"
   },
   {
     "slug": "doctor",
@@ -88,6 +88,14 @@
     "last_activity": "2026-09-10"
   },
   {
+    "slug": "tailor",
+    "name": "Tailor",
+    "emoji": "🪡",
+    "entry_count": 9,
+    "query_count": 13,
+    "last_activity": "2026-09-13"
+  },
+  {
     "slug": "appliance-repair",
     "name": "Appliance Repair",
     "emoji": "🔌",
@@ -102,14 +110,6 @@
     "entry_count": 11,
     "query_count": 8,
     "last_activity": "2026-08-22"
-  },
-  {
-    "slug": "tailor",
-    "name": "Tailor",
-    "emoji": "🪡",
-    "entry_count": 9,
-    "query_count": 12,
-    "last_activity": "2026-09-06"
   },
   {
     "slug": "dentist",
@@ -560,12 +560,28 @@
     "last_activity": "2026-09-02"
   },
   {
+    "slug": "gardening",
+    "name": "Gardening",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-09-13"
+  },
+  {
     "slug": "gutter-cleaning",
     "name": "Gutter Cleaning",
     "emoji": "📌",
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-06-03"
+  },
+  {
+    "slug": "religious-service",
+    "name": "Religious Service",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-09-13"
   },
   {
     "slug": "swim-classes",
@@ -654,14 +670,6 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-01-05"
-  },
-  {
-    "slug": "gardening",
-    "name": "Gardening",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 1,
-    "last_activity": "2026-06-17"
   },
   {
     "slug": "home-alarm-system",
@@ -934,14 +942,6 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-05-14"
-  },
-  {
-    "slug": "religious-service",
-    "name": "Religious Service",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 1,
-    "last_activity": "2026-03-07"
   },
   {
     "slug": "robotics",
