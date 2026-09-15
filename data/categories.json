@@ -11,7 +11,7 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 41,
+    "entry_count": 45,
     "query_count": 32,
     "last_activity": "2026-09-14"
   },
@@ -35,9 +35,9 @@
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
-    "entry_count": 16,
-    "query_count": 26,
-    "last_activity": "2026-09-10"
+    "entry_count": 17,
+    "query_count": 27,
+    "last_activity": "2026-09-15"
   },
   {
     "slug": "nanny",
@@ -176,6 +176,14 @@
     "last_activity": "2026-06-29"
   },
   {
+    "slug": "restaurant",
+    "name": "Restaurant",
+    "emoji": "🍽️",
+    "entry_count": 7,
+    "query_count": 7,
+    "last_activity": "2026-09-15"
+  },
+  {
     "slug": "window-cleaning",
     "name": "Window Cleaning",
     "emoji": "🪟",
@@ -230,14 +238,6 @@
     "entry_count": 7,
     "query_count": 3,
     "last_activity": "2026-08-04"
-  },
-  {
-    "slug": "restaurant",
-    "name": "Restaurant",
-    "emoji": "🍽️",
-    "entry_count": 5,
-    "query_count": 6,
-    "last_activity": "2026-08-24"
   },
   {
     "slug": "gardener",
@@ -456,6 +456,14 @@
     "last_activity": "2026-06-21"
   },
   {
+    "slug": "grocery",
+    "name": "Grocery",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 3,
+    "last_activity": "2026-09-14"
+  },
+  {
     "slug": "medical-equipment",
     "name": "Medical Equipment",
     "emoji": "📌",
@@ -509,7 +517,7 @@
     "emoji": "📌",
     "entry_count": 3,
     "query_count": 1,
-    "last_activity": "2026-08-01"
+    "last_activity": "2026-09-15"
   },
   {
     "slug": "water-softener",
@@ -542,6 +550,14 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-08-07"
+  },
+  {
+    "slug": "entertainer",
+    "name": "Entertainer",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-09-14"
   },
   {
     "slug": "event-planner",
@@ -616,6 +632,14 @@
     "last_activity": "2026-09-07"
   },
   {
+    "slug": "bank",
+    "name": "Bank",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-09-15"
+  },
+  {
     "slug": "camp",
     "name": "Camp",
     "emoji": "📌",
@@ -646,14 +670,6 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-06-17"
-  },
-  {
-    "slug": "entertainer",
-    "name": "Entertainer",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 1,
-    "last_activity": "2026-06-19"
   },
   {
     "slug": "flooring",
@@ -718,14 +734,6 @@
     "entry_count": 2,
     "query_count": 0,
     "last_activity": "2026-06-13"
-  },
-  {
-    "slug": "grocery",
-    "name": "Grocery",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 2,
-    "last_activity": "2026-05-05"
   },
   {
     "slug": "henna",
@@ -1312,6 +1320,14 @@
     "last_activity": "2026-04-23"
   },
   {
+    "slug": "consultation-service",
+    "name": "Consultation Service",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-09-15"
+  },
+  {
     "slug": "dance-lessons",
     "name": "Dance Lessons",
     "emoji": "📌",
@@ -1486,6 +1502,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-02-07"
+  },
+  {
+    "slug": "meditative-retreat",
+    "name": "Meditative Retreat",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-09-14"
   },
   {
     "slug": "mother-s-helper",

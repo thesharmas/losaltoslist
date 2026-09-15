@@ -796,6 +796,63 @@
     "mention_count": 1
   },
   {
+    "id": "los-altos-vault",
+    "category": "bank",
+    "categories": [
+      "bank",
+      "storage rental"
+    ],
+    "name": "Los Altos Vault",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "BoA, WF, Chase all closed lockers few months ago. Unless they’ve very recently opened up slots?\nTry Los Altos Vault. They had availability in December. 🤷🏽‍♀️",
+        "date": "2026-03-31",
+        "type": "contact"
+      },
+      {
+        "quote": "Los Altos Vault in downtown LA. However, their hours and prices suck.",
+        "date": "2026-09-15",
+        "type": "contact"
+      },
+      {
+        "quote": "We use Los Altos Vault and frankly, the hours haven't made much of a difference, although the rental prices are much higher than what the banks have traditionally offered.",
+        "date": "2026-09-15",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-09-15",
+    "mention_count": 3
+  },
+  {
+    "id": "mountain-view-downtown-branch",
+    "category": "bank",
+    "categories": [
+      "bank"
+    ],
+    "name": "Mountain View downtown branch",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Mountain View downtown branch on Castro",
+        "date": "2026-09-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
+    "mention_count": 1
+  },
+  {
     "id": "sundrop-events",
     "category": "bartender",
     "categories": [
@@ -1840,6 +1897,34 @@
     "mention_count": 2
   },
   {
+    "id": "sweet-diplomacy",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Sweet diplomacy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sweet diplomacy in Los Altos downtown",
+        "date": "2026-09-14",
+        "type": "contact"
+      },
+      {
+        "quote": "I’ve ordered there too. As it’s gluten free, it makes the cake quite dense",
+        "date": "2026-09-14",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 2
+  },
+  {
     "id": "annapurna",
     "category": "catering",
     "categories": [
@@ -2268,6 +2353,29 @@
     "mention_count": 1
   },
   {
+    "id": "mr-cake-indian-bakery",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Mr.Cake Indian Bakery",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Also u can try Mr.Cake Indian Bakery for a regular vegan cake :)",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1
+  },
+  {
     "id": "my-healthy-tiffin",
     "category": "catering",
     "categories": [
@@ -2290,6 +2398,29 @@
     ],
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-16",
+    "mention_count": 1
+  },
+  {
+    "id": "paasage-to-india-bakery",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Paasage to India bakery",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Especially their mango cake is mouth watering!",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -2338,6 +2469,31 @@
     ],
     "first_seen": "2026-05-09",
     "last_seen": "2026-05-09",
+    "mention_count": 1
+  },
+  {
+    "id": "raaj-rani",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Raaj Rani",
+    "contact": {
+      "phones": [
+        "(408) 561-4308"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "She is a Punjabi lady who cooks North Indian vegetarian food. She can help with food prep as well.",
+        "date": "2026-09-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -6954,6 +7110,29 @@
     "mention_count": 1
   },
   {
+    "id": "24-mantra",
+    "category": "grocery",
+    "categories": [
+      "grocery"
+    ],
+    "name": "24 mantra",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I like the 24 mantra!",
+        "date": "2026-09-14",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1
+  },
+  {
     "id": "madras-groceries",
     "category": "grocery",
     "categories": [
@@ -8509,6 +8688,31 @@
     ],
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
+    "mention_count": 1
+  },
+  {
+    "id": "toby",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Toby",
+    "contact": {
+      "phones": [
+        "(650) 669-3162"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Very efficient & reasonable cost",
+        "date": "2026-09-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
     "mention_count": 1
   },
   {
@@ -12281,6 +12485,29 @@
     "mention_count": 1
   },
   {
+    "id": "hyderabad-biryani",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Hyderabad Biryani",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "HBD. Hyderabad Biryani",
+        "date": "2026-09-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
+    "mention_count": 1
+  },
+  {
     "id": "kathmandu",
     "category": "restaurant",
     "categories": [
@@ -12353,6 +12580,31 @@
     ],
     "first_seen": "2026-07-22",
     "last_seen": "2026-07-22",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3362542019",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Hyderabad+Dum+Biryani,+2105+Old+Middlefield+Way,+Mountain+View,+CA+94043,+United+States&ftid=0x808fbb5fd0f03111:0x226ca8a3237f95f3&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100835694,94286869,100820247,100822504&g_ep=CAISEjI2LjM2LjMuOTczNTQ4ODUxMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODM1Njk0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI1MDRCAlVT&skid=3c3574eb-5ed3-46c7-a4a3-a502afc10ba0&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://maps.app.goo.gl/H1v7DaMWq9FaRnzf6?g_st=ic",
+        "date": "2026-09-15",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
     "mention_count": 1
   },
   {
@@ -12470,29 +12722,6 @@
     ],
     "first_seen": "2026-05-31",
     "last_seen": "2026-05-31",
-    "mention_count": 1
-  },
-  {
-    "id": "los-altos-vault",
-    "category": "storage rental",
-    "categories": [
-      "storage rental"
-    ],
-    "name": "Los Altos Vault",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "BoA, WF, Chase all closed lockers few months ago. Unless they’ve very recently opened up slots?\nTry Los Altos Vault. They had availability in December. 🤷🏽‍♀️",
-        "date": "2026-03-31",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-03-31",
     "mention_count": 1
   },
   {
