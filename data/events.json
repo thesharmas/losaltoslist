@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-14T04:16:04Z",
+  "generated_at": "2026-09-15T04:15:43Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 17,
-  "promo_count": 25,
+  "upcoming_count": 16,
+  "promo_count": 24,
   "schema_version": 3
  },
  "events": [
@@ -43,24 +43,6 @@
    "description": "Join the OASYS Reformer Pilates & Wellness Retreat in Portugal.",
    "first_seen": "2026-08-07T20:24:02Z",
    "last_seen": "2026-08-07T20:24:02Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_a3ab89004bff",
-   "title": "Gita Class",
-   "kind": "local",
-   "start_date": "2026-09-12",
-   "end_date": null,
-   "time": "5:00 PM onwards",
-   "venue": "275 Verano Dr, Los Altos, CA 94022",
-   "city": "Los Altos",
-   "organizer": "H. G. Sundaranand Prabhuji",
-   "cost": null,
-   "url": "https://forms.gle/CLpYSG6o3xk6KTmGA",
-   "recurrence": null,
-   "description": "Discussion on Bhagavad Gita Chapter 7.",
-   "first_seen": "2026-09-11T00:21:59Z",
-   "last_seen": "2026-09-11T00:21:59Z",
    "from_image": true
   },
   {
@@ -114,7 +96,7 @@
    "recurrence": null,
    "description": "Join us to explore health, wellness, and safety with vendors and educational sessions.",
    "first_seen": "2026-08-17T23:23:21Z",
-   "last_seen": "2026-08-17T23:23:21Z",
+   "last_seen": "2026-09-15T02:54:03Z",
    "from_image": true
   },
   {
@@ -556,16 +538,6 @@
    "first_seen": "2026-07-15T20:20:12Z",
    "last_seen": "2026-07-16T03:14:07Z",
    "expires": "2026-09-14"
-  },
-  {
-   "id": "prm_e2ecab3b98bf",
-   "name": "Mylapore & Idly Express",
-   "what": "Home delivery of hot lunch",
-   "url": null,
-   "description": "Offering a pilot program for home delivery of South Indian hot lunch Monday to Friday.",
-   "first_seen": "2026-07-15T20:20:11Z",
-   "last_seen": "2026-07-15T20:20:11Z",
-   "expires": "2026-09-13"
   }
  ]
 }
