@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-15T04:15:43Z",
+  "generated_at": "2026-09-16T04:15:56Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 16,
-  "promo_count": 24,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -186,7 +186,7 @@
    "recurrence": null,
    "description": "Bollywood dance workout party with live DJ and chai.",
    "first_seen": "2026-08-20T02:56:44Z",
-   "last_seen": "2026-08-20T02:56:44Z",
+   "last_seen": "2026-09-15T18:24:09Z",
    "from_image": true
   },
   {
@@ -222,7 +222,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-13T20:51:42Z",
+   "last_seen": "2026-09-15T12:36:45Z",
    "from_image": true
   },
   {
@@ -299,6 +299,26 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_966f03bbdc49",
+   "name": "Homemade Modaks",
+   "what": "Traditional sweets for Ganesh Chaturthi",
+   "url": null,
+   "description": "Offering freshly handmade modaks with premium ingredients for Ganesh Chaturthi.",
+   "first_seen": "2026-09-15T16:38:56Z",
+   "last_seen": "2026-09-15T16:38:56Z",
+   "expires": "2026-11-14"
+  },
+  {
+   "id": "prm_c0ceeb163f04",
+   "name": "Bombay Express",
+   "what": "Indian cuisine catering",
+   "url": null,
+   "description": "Bombay Express offers tray catering for events with fresh and authentic Indian cuisine.",
+   "first_seen": "2026-09-15T04:51:34Z",
+   "last_seen": "2026-09-15T04:51:34Z",
+   "expires": "2026-11-14"
+  },
   {
    "id": "prm_c40650241f22",
    "name": "Great Maharaja Street Eats",
@@ -528,16 +548,6 @@
    "first_seen": "2026-07-17T23:11:33Z",
    "last_seen": "2026-07-17T23:11:33Z",
    "expires": "2026-09-15"
-  },
-  {
-   "id": "prm_f4bb6aca8dc8",
-   "name": "Hot Lunch Home Delivery",
-   "what": "home delivery of hot lunches",
-   "url": null,
-   "description": "A pilot program for Hot Lunch Home Delivery service is starting on July 20 with waived delivery charges during the trial phase.",
-   "first_seen": "2026-07-15T20:20:12Z",
-   "last_seen": "2026-07-16T03:14:07Z",
-   "expires": "2026-09-14"
   }
  ]
 }
