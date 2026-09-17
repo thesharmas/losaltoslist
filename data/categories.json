@@ -3,41 +3,41 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 42,
-    "query_count": 53,
-    "last_activity": "2026-09-15"
+    "entry_count": 43,
+    "query_count": 54,
+    "last_activity": "2026-09-16"
   },
   {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 45,
-    "query_count": 32,
-    "last_activity": "2026-09-14"
+    "query_count": 33,
+    "last_activity": "2026-09-16"
   },
   {
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
-    "entry_count": 35,
-    "query_count": 41,
-    "last_activity": "2026-09-14"
+    "entry_count": 36,
+    "query_count": 42,
+    "last_activity": "2026-09-17"
   },
   {
     "slug": "doctor",
     "name": "Doctor",
     "emoji": "🏥",
     "entry_count": 29,
-    "query_count": 25,
-    "last_activity": "2026-09-05"
+    "query_count": 26,
+    "last_activity": "2026-09-16"
   },
   {
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
-    "entry_count": 17,
-    "query_count": 27,
-    "last_activity": "2026-09-15"
+    "entry_count": 19,
+    "query_count": 28,
+    "last_activity": "2026-09-17"
   },
   {
     "slug": "nanny",
@@ -112,6 +112,14 @@
     "last_activity": "2026-08-22"
   },
   {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 12,
+    "query_count": 5,
+    "last_activity": "2026-09-16"
+  },
+  {
     "slug": "dentist",
     "name": "Dentist",
     "emoji": "🦷",
@@ -136,20 +144,12 @@
     "last_activity": "2026-08-29"
   },
   {
-    "slug": "therapist",
-    "name": "Therapist",
-    "emoji": "📌",
-    "entry_count": 10,
-    "query_count": 5,
-    "last_activity": "2026-09-16"
-  },
-  {
     "slug": "handyman",
     "name": "Handyman",
     "emoji": "🔨",
     "entry_count": 3,
-    "query_count": 17,
-    "last_activity": "2026-09-03"
+    "query_count": 18,
+    "last_activity": "2026-09-16"
   },
   {
     "slug": "insurance",

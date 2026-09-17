@@ -3946,6 +3946,31 @@
     "mention_count": 1
   },
   {
+    "id": "nabu-energy",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Nabu Energy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Nabu+Energy+-+Solar+PV+and+Energy+Storage+battery+Installation+Company.,+39899+Balentine+Dr+%23200,+Newark,+CA+94560&ftid=0x808fbf3fe63f0027:0x76ac16ec1ebd4613&entry=gps&shh=CAE&lucs=,94297699,100826475,94231188,94280568,47071704,94218641,94282134,94286869,100820247,100822504&g_ep=CAISEjI2LjMxLjUuOTU0MzA2MDQzMBgAIIgnKl0sOTQyOTc2OTksMTAwODI2NDc1LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI1MDRCAlVT&skid=a0d70745-d36f-41c0-9c99-3ad5a6b0f8ee&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "They were quite technical and did the installation too (no subcontractors)",
+        "date": "2026-09-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1
+  },
+  {
     "id": "nikta-aghasi",
     "category": "contractor",
     "categories": [
@@ -4927,6 +4952,34 @@
     "mention_count": 2
   },
   {
+    "id": "dr-neesheet-parikh",
+    "category": "doctor",
+    "categories": [
+      "doctor"
+    ],
+    "name": "Dr Neesheet Parikh",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Used to be a doctor in Santa Clara who did, Neesheet Parikh. You can try his office. He’s close to Whole Foods in Santa Clara.",
+        "date": "2026-06-29",
+        "type": "contact"
+      },
+      {
+        "quote": "Try Dr Neesheet Parikh. Just google him. Dont have his number anymore",
+        "date": "2026-09-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-09-16",
+    "mention_count": 2
+  },
+  {
     "id": "dr-yu",
     "category": "doctor",
     "categories": [
@@ -5458,29 +5511,6 @@
     ],
     "first_seen": "2026-08-06",
     "last_seen": "2026-08-06",
-    "mention_count": 1
-  },
-  {
-    "id": "neesheet-parikh",
-    "category": "doctor",
-    "categories": [
-      "doctor"
-    ],
-    "name": "Neesheet Parikh",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Used to be a doctor in Santa Clara who did, Neesheet Parikh. You can try his office. He’s close to Whole Foods in Santa Clara.",
-        "date": "2026-06-29",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-29",
-    "last_seen": "2026-06-29",
     "mention_count": 1
   },
   {
@@ -8615,6 +8645,56 @@
     ],
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
+    "mention_count": 1
+  },
+  {
+    "id": "axel-franco-gardner",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Axel Franco Gardner",
+    "contact": {
+      "phones": [
+        "(650) 630-8350"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Axel  Franco Gardner (+1 (650) 630-8350)",
+        "date": "2026-09-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1
+  },
+  {
+    "id": "gardener-eduardo",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Gardener Eduardo",
+    "contact": {
+      "phones": [
+        "(408) 449-3755"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Gardener Eduardo (+1 (408) 449-3755)",
+        "date": "2026-09-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
     "mention_count": 1
   },
   {
@@ -13173,11 +13253,39 @@
         "quote": "I’ve used them extensively to rehab after a bad hip injury.",
         "date": "2026-09-16",
         "type": "review"
+      },
+      {
+        "quote": "I went there for a couple of years. It depends on who you get as the PT, it can be a hit or a miss so maybe do some research before signing up",
+        "date": "2026-09-16",
+        "type": "review"
       }
     ],
     "first_seen": "2026-09-16",
     "last_seen": "2026-09-16",
-    "mention_count": 2
+    "mention_count": 3
+  },
+  {
+    "id": "agile",
+    "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
+    "name": "Agile",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I went at Agile in palp alto.",
+        "date": "2026-09-16",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "mention_count": 1
   },
   {
     "id": "agile-physical-therapy",
@@ -13196,6 +13304,29 @@
         "quote": "I really like Agile Physical Therapy.",
         "date": "2026-09-16",
         "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "mention_count": 1
+  },
+  {
+    "id": "agile-pt",
+    "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
+    "name": "Agile PT",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Rob Naber, agile PT in Los Gatos.",
+        "date": "2026-09-16",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-09-16",
@@ -13874,6 +14005,29 @@
     ],
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
+    "mention_count": 1
+  },
+  {
+    "id": "aj-tutoring",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "AJ Tutoring",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "AJ Tutoring",
+        "date": "2026-09-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
     "mention_count": 1
   },
   {
