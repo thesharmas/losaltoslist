@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-16T04:15:56Z",
+  "generated_at": "2026-09-17T04:15:46Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 16,
-  "promo_count": 25,
+  "promo_count": 24,
   "schema_version": 3
  },
  "events": [
@@ -538,16 +538,6 @@
    "first_seen": "2026-07-22T02:45:07Z",
    "last_seen": "2026-07-22T02:45:07Z",
    "expires": "2026-09-20"
-  },
-  {
-   "id": "prm_26ec87037821",
-   "name": "3D Printed Glasses",
-   "what": "Spain & Argentina themed glasses",
-   "url": null,
-   "description": "3D printed Spain & Argentina glasses for the FIFA World Cup game, $5 each, available for pickup near Los Altos High School.",
-   "first_seen": "2026-07-17T23:11:33Z",
-   "last_seen": "2026-07-17T23:11:33Z",
-   "expires": "2026-09-15"
   }
  ]
 }
