@@ -8821,6 +8821,31 @@
     "mention_count": 1
   },
   {
+    "id": "santa-clara-county-sheriff-s-office",
+    "category": "law enforcement",
+    "categories": [
+      "law enforcement"
+    ],
+    "name": "Santa Clara County Sheriff's Office",
+    "contact": {
+      "phones": [
+        "(408) 299-2311"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "The non-emergency number for law enforcement in Los Altos Hills is 408-299-2311, handled by the Santa Clara County Sheriff's Office.\n\nYou can call and report here \nSo you have the picture of the license plate?",
+        "date": "2026-09-18",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "mention_count": 1
+  },
+  {
     "id": "barry-sabahad",
     "category": "lawyer",
     "categories": [
