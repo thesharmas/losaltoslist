@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-09-17T04:15:46Z",
+  "generated_at": "2026-09-18T04:15:38Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -25,24 +25,6 @@
    "description": "A Garba workshop with guided steps and technique.",
    "first_seen": "2026-09-07T01:17:42Z",
    "last_seen": "2026-09-07T01:17:42Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_7a2080de1d21",
-   "title": "OASYS Reformer Pilates & Wellness Retreat",
-   "kind": "regional",
-   "start_date": "2026-09-11",
-   "end_date": "2026-09-15",
-   "time": null,
-   "venue": null,
-   "city": "Portugal",
-   "organizer": "@oasysstudios",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Join the OASYS Reformer Pilates & Wellness Retreat in Portugal.",
-   "first_seen": "2026-08-07T20:24:02Z",
-   "last_seen": "2026-08-07T20:24:02Z",
    "from_image": true
   },
   {
@@ -79,24 +61,6 @@
    "description": "Join the OASYS Reformer Pilates & Wellness Retreat in Portugal.",
    "first_seen": "2026-08-07T20:24:02Z",
    "last_seen": "2026-08-07T20:24:02Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_76660be4d7e5",
-   "title": "Live Well Age Well Health Expo",
-   "kind": "local",
-   "start_date": "2026-09-15",
-   "end_date": null,
-   "time": "12 - 3:30 PM",
-   "venue": "Los Altos Community Center",
-   "city": "Los Altos",
-   "organizer": "Los Altos/Los Altos Hills Senior Commission",
-   "cost": "Free",
-   "url": null,
-   "recurrence": null,
-   "description": "Join us to explore health, wellness, and safety with vendors and educational sessions.",
-   "first_seen": "2026-08-17T23:23:21Z",
-   "last_seen": "2026-09-15T02:54:03Z",
    "from_image": true
   },
   {
@@ -151,6 +115,24 @@
    "description": "Run one morning to fund a life ring that stays on the coast all year.",
    "first_seen": "2026-09-11T03:53:45Z",
    "last_seen": "2026-09-11T03:53:45Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_2f7f99ac069a",
+   "title": "Gita Class",
+   "kind": "local",
+   "start_date": "2026-09-19",
+   "end_date": null,
+   "time": "5:00 PM onwards",
+   "venue": "275 Verano Dr, Los Altos, CA 94022",
+   "city": "Los Altos",
+   "organizer": "H.G. Vraja Jivan Prabhu",
+   "cost": null,
+   "url": "https://forms.gle/DLzKb84U8ssWh2NV7",
+   "recurrence": null,
+   "description": "Join the discussion on Bhagavad Gita Chapter 7.",
+   "first_seen": "2026-09-18T01:49:39Z",
+   "last_seen": "2026-09-18T01:49:39Z",
    "from_image": true
   },
   {
@@ -226,6 +208,24 @@
    "from_image": true
   },
   {
+   "id": "evt_73a3a91d3d9a",
+   "title": "Mad and Divine by Rama Vaidyanathan",
+   "kind": "regional",
+   "start_date": "2026-10-04",
+   "end_date": null,
+   "time": "3:00 PM",
+   "venue": "Hillsdale Little Theater",
+   "city": "San Mateo",
+   "organizer": "Samudra Dance Creations & Layadhwani Academy",
+   "cost": null,
+   "url": "www.tugoz.com/mad-divine",
+   "recurrence": null,
+   "description": "A dance production based on the life and poetry of Janabai and Lalded.",
+   "first_seen": "2026-09-18T00:29:13Z",
+   "last_seen": "2026-09-18T00:29:13Z",
+   "from_image": true
+  },
+  {
    "id": "evt_e67145febc8f",
    "title": "Navratri Utsav",
    "kind": "regional",
@@ -276,7 +276,7 @@
    "recurrence": null,
    "description": "Join Rashmi & Jinal for a night of dance and celebration with Sharda Music featuring Aanal & Achal Anjaria and Group.",
    "first_seen": "2026-08-18T19:14:24Z",
-   "last_seen": "2026-09-02T05:43:02Z",
+   "last_seen": "2026-09-17T17:03:36Z",
    "from_image": true
   },
   {
