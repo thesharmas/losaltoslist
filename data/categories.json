@@ -36,16 +36,16 @@
     "name": "Landscaper",
     "emoji": "🌿",
     "entry_count": 19,
-    "query_count": 28,
-    "last_activity": "2026-09-17"
+    "query_count": 29,
+    "last_activity": "2026-09-18"
   },
   {
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
-    "entry_count": 15,
-    "query_count": 22,
-    "last_activity": "2026-09-04"
+    "entry_count": 16,
+    "query_count": 23,
+    "last_activity": "2026-09-18"
   },
   {
     "slug": "cleaner",
@@ -120,6 +120,14 @@
     "last_activity": "2026-09-16"
   },
   {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 5,
+    "query_count": 18,
+    "last_activity": "2026-09-18"
+  },
+  {
     "slug": "dentist",
     "name": "Dentist",
     "emoji": "🦷",
@@ -142,14 +150,6 @@
     "entry_count": 9,
     "query_count": 7,
     "last_activity": "2026-08-29"
-  },
-  {
-    "slug": "handyman",
-    "name": "Handyman",
-    "emoji": "🔨",
-    "entry_count": 3,
-    "query_count": 18,
-    "last_activity": "2026-09-16"
   },
   {
     "slug": "insurance",

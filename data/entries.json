@@ -7448,6 +7448,52 @@
     "mention_count": 1
   },
   {
+    "id": "ricardo",
+    "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
+    "name": "Ricardo",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Ricardo does great work.",
+        "date": "2026-09-18",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "mention_count": 1
+  },
+  {
+    "id": "ricardo-handyman",
+    "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
+    "name": "Ricardo Handyman",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Ricardo Handyman",
+        "date": "2026-09-18",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "mention_count": 1
+  },
+  {
     "id": "rogelio",
     "category": "handyman",
     "categories": [
@@ -9489,6 +9535,36 @@
     ],
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23",
+    "mention_count": 2
+  },
+  {
+    "id": "satwinder",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Satwinder",
+    "contact": {
+      "phones": [
+        "(669) 238-8371"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Satwinder (+1 (669) 238-8371)",
+        "date": "2026-09-18",
+        "type": "contact"
+      },
+      {
+        "quote": "I use Satwinder as a personal cab",
+        "date": "2026-09-18",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
     "mention_count": 2
   },
   {
