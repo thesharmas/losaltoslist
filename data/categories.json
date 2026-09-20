@@ -35,9 +35,9 @@
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
-    "entry_count": 19,
-    "query_count": 29,
-    "last_activity": "2026-09-18"
+    "entry_count": 20,
+    "query_count": 30,
+    "last_activity": "2026-09-19"
   },
   {
     "slug": "nanny",
@@ -104,20 +104,20 @@
     "last_activity": "2026-09-13"
   },
   {
+    "slug": "therapist",
+    "name": "Therapist",
+    "emoji": "📌",
+    "entry_count": 13,
+    "query_count": 5,
+    "last_activity": "2026-09-19"
+  },
+  {
     "slug": "real-estate-agent",
     "name": "Real Estate Agent",
     "emoji": "🏡",
     "entry_count": 11,
     "query_count": 8,
     "last_activity": "2026-08-22"
-  },
-  {
-    "slug": "therapist",
-    "name": "Therapist",
-    "emoji": "📌",
-    "entry_count": 12,
-    "query_count": 5,
-    "last_activity": "2026-09-16"
   },
   {
     "slug": "handyman",
@@ -408,6 +408,14 @@
     "last_activity": "2026-09-08"
   },
   {
+    "slug": "bank",
+    "name": "Bank",
+    "emoji": "📌",
+    "entry_count": 4,
+    "query_count": 1,
+    "last_activity": "2026-09-19"
+  },
+  {
     "slug": "blinds-installation",
     "name": "Blinds Installation",
     "emoji": "📌",
@@ -632,14 +640,6 @@
     "last_activity": "2026-09-07"
   },
   {
-    "slug": "bank",
-    "name": "Bank",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 1,
-    "last_activity": "2026-09-15"
-  },
-  {
     "slug": "camp",
     "name": "Camp",
     "emoji": "📌",
@@ -654,6 +654,14 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-02-19"
+  },
+  {
+    "slug": "clothing",
+    "name": "Clothing",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-09-20"
   },
   {
     "slug": "dental-surgeon",
@@ -1118,6 +1126,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-13"
+  },
+  {
+    "slug": "music-lessons",
+    "name": "Music Lessons",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-09-19"
   },
   {
     "slug": "obgyn",
@@ -1590,6 +1606,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-05-27"
+  },
+  {
+    "slug": "pet-sitter",
+    "name": "Pet Sitter",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-09-19"
   },
   {
     "slug": "real-estate",

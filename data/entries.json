@@ -830,6 +830,29 @@
     "mention_count": 3
   },
   {
+    "id": "fifth-third",
+    "category": "bank",
+    "categories": [
+      "bank"
+    ],
+    "name": "Fifth Third",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Also check Fifth Third (previously Comerica)",
+        "date": "2026-09-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1
+  },
+  {
     "id": "mountain-view-downtown-branch",
     "category": "bank",
     "categories": [
@@ -850,6 +873,29 @@
     ],
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-15",
+    "mention_count": 1
+  },
+  {
+    "id": "wells-fargo",
+    "category": "bank",
+    "categories": [
+      "bank"
+    ],
+    "name": "Wells Fargo",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Well Fargo rents it. Check the Mountain View branch.",
+        "date": "2026-09-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
     "mention_count": 1
   },
   {
@@ -3173,6 +3219,54 @@
     ],
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
+    "mention_count": 1
+  },
+  {
+    "id": "love-the-world-today",
+    "category": "clothing",
+    "categories": [
+      "clothing"
+    ],
+    "name": "Love The World Today",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.lovetheworldtoday.in"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.lovetheworldtoday.in",
+        "date": "2026-09-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "mention_count": 1
+  },
+  {
+    "id": "the-saree-room",
+    "category": "clothing",
+    "categories": [
+      "clothing"
+    ],
+    "name": "The Saree Room",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Try- The Saree Room. Have bought some nice lehengas for upper teens.",
+        "date": "2026-09-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
     "mention_count": 1
   },
   {
@@ -8771,6 +8865,31 @@
     "mention_count": 1
   },
   {
+    "id": "guilermo-landscaping",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Guilermo Landscaping",
+    "contact": {
+      "phones": [
+        "(408) 768-7262"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Guilermo Landscaping (+1 (408) 768-7262)",
+        "date": "2026-09-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1
+  },
+  {
     "id": "ingenious-general-construction",
     "category": "landscaper",
     "categories": [
@@ -9348,6 +9467,29 @@
     ],
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-02",
+    "mention_count": 1
+  },
+  {
+    "id": "iskcon-silicon-valley",
+    "category": "music lessons",
+    "categories": [
+      "music lessons"
+    ],
+    "name": "ISKCON Silicon Valley",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Exciting news for our neighborhood! 🎶✨\nISKCON Silicon Valley is offering Carnatic Music Lessons as part of its Vedic Academy.\n\n🌸 Beginners (Ages 4+) & Elementary/Geetham (Ages 7+)\n\n💻 Format: Online from the comfort of your home\n\n🗓️ Starting this week!\n\nLimited spots are available. If you’d like d...",
+        "date": "2026-09-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
     "mention_count": 1
   },
   {
@@ -13483,6 +13625,29 @@
     ],
     "first_seen": "2026-01-22",
     "last_seen": "2026-01-22",
+    "mention_count": 1
+  },
+  {
+    "id": "jyoti-kiran",
+    "category": "therapist",
+    "categories": [
+      "therapist"
+    ],
+    "name": "Jyoti Kiran",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Jyoti kiran is a very thoughful and holistic looking counsellor.",
+        "date": "2026-09-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
     "mention_count": 1
   },
   {
