@@ -1,32 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-09-19T04:15:40Z",
+  "generated_at": "2026-09-20T04:15:43Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 16,
-  "promo_count": 24,
+  "upcoming_count": 17,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
-  {
-   "id": "evt_bf3e0ca1f3df",
-   "title": "Garba Workshop",
-   "kind": "regional",
-   "start_date": "2026-09-10",
-   "end_date": "2026-09-17",
-   "time": "7:30 PM - 9 PM",
-   "venue": "Sindhoor Natya Center",
-   "city": "San Jose",
-   "organizer": "Rekha and Puja",
-   "cost": "$40 for both sessions",
-   "url": null,
-   "recurrence": "Thursdays",
-   "description": "A Garba workshop with guided steps and technique.",
-   "first_seen": "2026-09-07T01:17:42Z",
-   "last_seen": "2026-09-07T01:17:42Z",
-   "from_image": true
-  },
   {
    "id": "evt_eabfba6dfe24",
    "title": "Hindi For Kids",
@@ -154,6 +136,24 @@
    "from_image": false
   },
   {
+   "id": "evt_8122af2b5f90",
+   "title": "Carnatic Lessons",
+   "kind": "regional",
+   "start_date": "2026-09-20",
+   "end_date": "2027-05-31",
+   "time": "Level 1: Every Sunday 8:30 AM PST, Level 2: Every Friday 6:30 PM PST",
+   "venue": "Online",
+   "city": null,
+   "organizer": "ISKCON of Silicon Valley",
+   "cost": "$750",
+   "url": null,
+   "recurrence": "Level 1: Every Sunday, Level 2: Every Friday",
+   "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
+   "first_seen": "2026-09-19T15:29:17Z",
+   "last_seen": "2026-09-19T15:29:17Z",
+   "from_image": true
+  },
+  {
    "id": "evt_ee3324798a6b",
    "title": "Chai Rave 2.0",
    "kind": "local",
@@ -204,7 +204,25 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-18T14:54:49Z",
+   "last_seen": "2026-09-19T21:59:55Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_56d07c1edd47",
+   "title": "UC Admissions 101",
+   "kind": "regional",
+   "start_date": "2026-09-26",
+   "end_date": null,
+   "time": "4:00 PM - 5:00 PM",
+   "venue": "Virtual",
+   "city": null,
+   "organizer": "Jain College Consulting",
+   "cost": null,
+   "url": "www.jaincollegeconsulting.com",
+   "recurrence": null,
+   "description": "A virtual webinar to navigate UC requirements and the holistic review process.",
+   "first_seen": "2026-09-19T05:09:08Z",
+   "last_seen": "2026-09-19T05:09:08Z",
    "from_image": true
   },
   {
@@ -299,6 +317,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_38ffd6a37b71",
+   "name": "Shruti Shloka Academy",
+   "what": "Beginner's Carnatic music classes",
+   "url": "www.shrutishlokaacademy.com",
+   "description": "Soumya offers beginner-level Carnatic music classes for kids and adults.",
+   "first_seen": "2026-09-19T18:55:42Z",
+   "last_seen": "2026-09-19T18:55:42Z",
+   "expires": "2026-11-18"
+  },
   {
    "id": "prm_966f03bbdc49",
    "name": "Homemade Modaks",
