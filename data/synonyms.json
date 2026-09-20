@@ -152,7 +152,10 @@
   ],
   "handyman": [
     "carpenter",
-    "carpentry"
+    "carpentry",
+    "screen door",
+    "screen door repair",
+    "screen door installation"
   ],
   "tailor": [
     "blouse",
@@ -175,7 +178,8 @@
   "car-mechanic": [
     "oil change",
     "lube",
-    "body shop"
+    "body shop",
+    "auto repair"
   ],
   "dance-school": [
     "odissi"
@@ -212,5 +216,14 @@
     "indian outfit",
     "ethnic wear cleaning",
     "saree cleaning"
+  ],
+  "clothing": [
+    "festive clothes",
+    "festive wear",
+    "ethnic festive"
+  ],
+  "cook": [
+    "gujarati cook",
+    "gujarati cuisine"
   ]
 }
