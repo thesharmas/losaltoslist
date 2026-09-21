@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-20T04:15:43Z",
+  "generated_at": "2026-09-21T04:15:31Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 17,
-  "promo_count": 25,
+  "promo_count": 26,
   "schema_version": 3
  },
  "events": [
@@ -317,6 +317,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_559119c326fc",
+   "name": "PetLight",
+   "what": "pet rehabilitation services",
+   "url": "http://petlight.vet",
+   "description": "PetLight offers clinical-grade LED light therapy for various pet health issues.",
+   "first_seen": "2026-09-20T17:25:00Z",
+   "last_seen": "2026-09-20T17:25:00Z",
+   "expires": "2026-11-19"
+  },
   {
    "id": "prm_38ffd6a37b71",
    "name": "Shruti Shloka Academy",
