@@ -13,7 +13,7 @@
     "emoji": "🍳",
     "entry_count": 45,
     "query_count": 33,
-    "last_activity": "2026-09-16"
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "contractor",
@@ -28,16 +28,16 @@
     "name": "Doctor",
     "emoji": "🏥",
     "entry_count": 29,
-    "query_count": 26,
-    "last_activity": "2026-09-16"
+    "query_count": 27,
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "landscaper",
     "name": "Landscaper",
     "emoji": "🌿",
     "entry_count": 20,
-    "query_count": 30,
-    "last_activity": "2026-09-19"
+    "query_count": 31,
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "nanny",
@@ -477,7 +477,7 @@
     "emoji": "📌",
     "entry_count": 3,
     "query_count": 1,
-    "last_activity": "2026-01-04"
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "party-service",
@@ -766,6 +766,14 @@
     "entry_count": 0,
     "query_count": 4,
     "last_activity": "2026-08-07"
+  },
+  {
+    "slug": "retailer",
+    "name": "Retailer",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 0,
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "tennis-coach",
@@ -1094,6 +1102,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-22"
+  },
+  {
+    "slug": "event-staffing",
+    "name": "Event Staffing",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-09-21"
   },
   {
     "slug": "home-garden-consultant",

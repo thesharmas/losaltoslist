@@ -1758,6 +1758,42 @@
     "mention_count": 3
   },
   {
+    "id": "raaj-rani",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Raaj Rani",
+    "contact": {
+      "phones": [
+        "(408) 561-4308",
+        "(408) 561-4309"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "She is a Punjabi lady who cooks North Indian vegetarian food. She can help with food prep as well.",
+        "date": "2026-09-14",
+        "type": "contact"
+      },
+      {
+        "quote": "She is a Punjabi lady who cooks North Indian vegetarian food. She can help with food prep as well.",
+        "date": "2026-09-21",
+        "type": "contact"
+      },
+      {
+        "quote": "She is a Punjabi lady who cooks North Indian vegetarian food. She can help with food prep as well.",
+        "date": "2026-09-21",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-21",
+    "mention_count": 3
+  },
+  {
     "id": "weave-whisk",
     "category": "catering",
     "categories": [
@@ -2515,31 +2551,6 @@
     ],
     "first_seen": "2026-05-09",
     "last_seen": "2026-05-09",
-    "mention_count": 1
-  },
-  {
-    "id": "raaj-rani",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Raaj Rani",
-    "contact": {
-      "phones": [
-        "(408) 561-4308"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "She is a Punjabi lady who cooks North Indian vegetarian food. She can help with food prep as well.",
-        "date": "2026-09-14",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -6658,6 +6669,31 @@
     "mention_count": 2
   },
   {
+    "id": "shija",
+    "category": "event staffing",
+    "categories": [
+      "event staffing"
+    ],
+    "name": "Shija",
+    "contact": {
+      "phones": [
+        "(408) 828-4202"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact is Shija - (408) 828-4202",
+        "date": "2026-09-21",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
+    "mention_count": 1
+  },
+  {
     "id": "eye-lite-optometry",
     "category": "eye doctor",
     "categories": [
@@ -9257,6 +9293,35 @@
     "mention_count": 1
   },
   {
+    "id": "costco",
+    "category": "medical equipment",
+    "categories": [
+      "medical equipment",
+      "retailer"
+    ],
+    "name": "Costco",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "we purchased one from Costco and it works well as a reclining and zero gravity bed",
+        "date": "2026-01-04",
+        "type": "contact"
+      },
+      {
+        "quote": "yes, last year - it was a smooth experience.",
+        "date": "2026-09-21",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-01-04",
+    "last_seen": "2026-09-21",
+    "mention_count": 2
+  },
+  {
     "id": "avocado",
     "category": "medical equipment",
     "categories": [
@@ -9271,29 +9336,6 @@
     "mentions": [
       {
         "quote": "A lot of the new bed frames offer reclining / zero gravity options. We have been using ones from Avocado and they work pretty well.",
-        "date": "2026-01-04",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-01-04",
-    "last_seen": "2026-01-04",
-    "mention_count": 1
-  },
-  {
-    "id": "costco",
-    "category": "medical equipment",
-    "categories": [
-      "medical equipment"
-    ],
-    "name": "Costco",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "we purchased one from Costco and it works well as a reclining and zero gravity bed",
         "date": "2026-01-04",
         "type": "contact"
       }
@@ -12982,6 +13024,31 @@
     ],
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
+    "mention_count": 1
+  },
+  {
+    "id": "new-sethi-garments",
+    "category": "retailer",
+    "categories": [
+      "retailer"
+    ],
+    "name": "New Sethi Garments",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/newsethigarments?stkn=ODEyd29iZHVnaWZp"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I just ordered a bunch of Indian clothes for my teenage daughter from here last night. The quality seems to be good.",
+        "date": "2026-09-21",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-21",
     "mention_count": 1
   },
   {
