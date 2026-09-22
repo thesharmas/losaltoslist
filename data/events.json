@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-21T04:15:31Z",
+  "generated_at": "2026-09-22T04:15:55Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 17,
-  "promo_count": 26,
+  "upcoming_count": 11,
+  "promo_count": 23,
   "schema_version": 3
  },
  "events": [
@@ -26,114 +26,6 @@
    "first_seen": "2026-08-10T23:42:19Z",
    "last_seen": "2026-08-10T23:42:19Z",
    "from_image": true
-  },
-  {
-   "id": "evt_80f28e4502a8",
-   "title": "OASYS Reformer Pilates & Wellness Retreat",
-   "kind": "regional",
-   "start_date": "2026-09-15",
-   "end_date": "2026-09-19",
-   "time": null,
-   "venue": null,
-   "city": "Portugal",
-   "organizer": "@oasysstudios",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Join the OASYS Reformer Pilates & Wellness Retreat in Portugal.",
-   "first_seen": "2026-08-07T20:24:02Z",
-   "last_seen": "2026-08-07T20:24:02Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_600a373bd3c2",
-   "title": "Riyaaz & Rebirth",
-   "kind": "local",
-   "start_date": "2026-09-18",
-   "end_date": "2026-09-19",
-   "time": "4:00 PM - 7:30 PM",
-   "venue": "Los Altos Golf & Country Club",
-   "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": "https://tinyurl.com/neevartbysehgal",
-   "recurrence": null,
-   "description": "An art exhibition featuring artist Abhay Sehgal.",
-   "first_seen": "2026-09-06T04:46:31Z",
-   "last_seen": "2026-09-06T04:46:31Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_4b6fcaf100c9",
-   "title": "Beach Safety Run",
-   "kind": "regional",
-   "start_date": "2026-09-19",
-   "end_date": null,
-   "time": null,
-   "venue": null,
-   "city": "Half Moon Bay",
-   "organizer": null,
-   "cost": null,
-   "url": "https://runsignup.com/beachsafetyrun",
-   "recurrence": null,
-   "description": "A 5K, 10K & Kids Fun Run to help fund a life ring for the coast.",
-   "first_seen": "2026-09-11T03:54:31Z",
-   "last_seen": "2026-09-11T04:00:44Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_b33a3275fb04",
-   "title": "Lace Up for Safer Shores",
-   "kind": "regional",
-   "start_date": "2026-09-19",
-   "end_date": null,
-   "time": null,
-   "venue": "Pillar Point Harbor",
-   "city": "Half Moon Bay",
-   "organizer": "Arunay Foundation",
-   "cost": null,
-   "url": "https://runsignup.com/beachsafetyrun",
-   "recurrence": null,
-   "description": "Run one morning to fund a life ring that stays on the coast all year.",
-   "first_seen": "2026-09-11T03:53:45Z",
-   "last_seen": "2026-09-11T03:53:45Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_2f7f99ac069a",
-   "title": "Gita Class",
-   "kind": "local",
-   "start_date": "2026-09-19",
-   "end_date": null,
-   "time": "5:00 PM onwards",
-   "venue": "275 Verano Dr, Los Altos, CA 94022",
-   "city": "Los Altos",
-   "organizer": "H.G. Vraja Jivan Prabhu",
-   "cost": null,
-   "url": "https://forms.gle/DLzKb84U8ssWh2NV7",
-   "recurrence": null,
-   "description": "Join the discussion on Bhagavad Gita Chapter 7.",
-   "first_seen": "2026-09-18T01:49:39Z",
-   "last_seen": "2026-09-18T01:49:39Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_c9bbb5d2d2a8",
-   "title": "Scenic 5K/10K Run",
-   "kind": "regional",
-   "start_date": "2026-09-19",
-   "end_date": null,
-   "time": "9 AM",
-   "venue": "Pillar Point",
-   "city": "Half Moon Bay",
-   "organizer": "Arunay Foundation",
-   "cost": null,
-   "url": "https://runsignup.com/beachsafetyrun",
-   "recurrence": null,
-   "description": "Join us for a scenic 5K/10K run to support beach safety initiatives.",
-   "first_seen": "2026-09-01T21:47:44Z",
-   "last_seen": "2026-09-01T21:47:44Z",
-   "from_image": false
   },
   {
    "id": "evt_8122af2b5f90",
@@ -168,7 +60,7 @@
    "recurrence": null,
    "description": "Bollywood dance workout party with live DJ and chai.",
    "first_seen": "2026-08-20T02:56:44Z",
-   "last_seen": "2026-09-15T18:24:09Z",
+   "last_seen": "2026-09-21T22:18:24Z",
    "from_image": true
   },
   {
@@ -204,7 +96,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-19T21:59:55Z",
+   "last_seen": "2026-09-21T04:20:03Z",
    "from_image": true
   },
   {
@@ -546,36 +438,6 @@
    "first_seen": "2026-07-26T17:49:29Z",
    "last_seen": "2026-07-26T17:49:29Z",
    "expires": "2026-09-24"
-  },
-  {
-   "id": "prm_7a75d98ef336",
-   "name": "Backyard Nourish",
-   "what": "home garden consulting",
-   "url": "www.backyardnourish.com",
-   "description": "Backyard Nourish offers home garden consulting services.",
-   "first_seen": "2026-07-22T19:54:27Z",
-   "last_seen": "2026-07-22T19:54:27Z",
-   "expires": "2026-09-20"
-  },
-  {
-   "id": "prm_9046fe48f161",
-   "name": "Magic in a Box",
-   "what": "character entertainment business asset package",
-   "url": null,
-   "description": "A unique opportunity to acquire a premium character entertainment business asset package and launch or expand a flexible home-based business.",
-   "first_seen": "2026-07-22T19:27:56Z",
-   "last_seen": "2026-07-22T19:27:56Z",
-   "expires": "2026-09-20"
-  },
-  {
-   "id": "prm_a0a13c69e8fb",
-   "name": "Spice Valley",
-   "what": "thin Gujarati rotis",
-   "url": null,
-   "description": "Sandeepbhai from Spice Valley makes thin Gujarati rotis and offers DoorDash delivery.",
-   "first_seen": "2026-07-22T02:45:07Z",
-   "last_seen": "2026-07-22T02:45:07Z",
-   "expires": "2026-09-20"
   }
  ]
 }
