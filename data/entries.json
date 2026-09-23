@@ -372,6 +372,29 @@
     "mention_count": 2
   },
   {
+    "id": "big-guys-appliance",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "big guys appliance",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Try big guys appliance. They are familiar with Vikings gas ranges",
+        "date": "2026-09-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "mention_count": 1
+  },
+  {
     "id": "city-master",
     "category": "appliance repair",
     "categories": [
@@ -394,6 +417,29 @@
     ],
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
+    "mention_count": 1
+  },
+  {
+    "id": "davies-appliance",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Davies appliance",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Davies appliance also does it in Redwood City.",
+        "date": "2026-09-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
     "mention_count": 1
   },
   {
@@ -442,6 +488,31 @@
     ],
     "first_seen": "2026-03-25",
     "last_seen": "2026-03-25",
+    "mention_count": 1
+  },
+  {
+    "id": "smartfix-appliance-repair",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Smartfix Appliance Repair",
+    "contact": {
+      "phones": [
+        "(408) 912-0096"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Elshan from Smartfix Appliance Repair has been great - fixed our gas range, refrigerator compressor and comes out once a year to deep clean our dryer",
+        "date": "2026-09-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
     "mention_count": 1
   },
   {
