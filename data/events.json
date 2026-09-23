@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-22T04:15:55Z",
+  "generated_at": "2026-09-23T04:16:02Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 11,
-  "promo_count": 23,
+  "upcoming_count": 15,
+  "promo_count": 24,
   "schema_version": 3
  },
  "events": [
@@ -43,6 +43,24 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_b7753003925b",
+   "title": "Let's Talk: Relationships, Boundaries & You",
+   "kind": "regional",
+   "start_date": "2026-09-23",
+   "end_date": null,
+   "time": "6 - 7:30 PM",
+   "venue": "Online",
+   "city": null,
+   "organizer": "Trust Mental Health",
+   "cost": "$25 per session",
+   "url": null,
+   "recurrence": "every Wednesday",
+   "description": "A 6-week workshop for teens to build real-life skills and confidence to communicate.",
+   "first_seen": "2026-09-22T18:35:10Z",
+   "last_seen": "2026-09-22T18:35:10Z",
    "from_image": true
   },
   {
@@ -100,6 +118,24 @@
    "from_image": true
   },
   {
+   "id": "evt_68472e406e47",
+   "title": "Kids Garba Workshop",
+   "kind": "regional",
+   "start_date": "2026-09-26",
+   "end_date": null,
+   "time": "11 AM–12 PM",
+   "venue": "Marshall Park",
+   "city": "Fremont",
+   "organizer": "Move and Grove with Silvi Soni",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A fun-filled Kids Garba Workshop for ages 9–13 to learn and enjoy Garba.",
+   "first_seen": "2026-09-22T20:55:09Z",
+   "last_seen": "2026-09-22T20:55:09Z",
+   "from_image": true
+  },
+  {
    "id": "evt_56d07c1edd47",
    "title": "UC Admissions 101",
    "kind": "regional",
@@ -116,6 +152,42 @@
    "first_seen": "2026-09-19T05:09:08Z",
    "last_seen": "2026-09-19T05:09:08Z",
    "from_image": true
+  },
+  {
+   "id": "evt_6de47f167b6b",
+   "title": "Dakla & Galgoto Steps Workshop",
+   "kind": "regional",
+   "start_date": "2026-09-27",
+   "end_date": null,
+   "time": "11:00 AM – 12:00 PM",
+   "venue": "Marshall Park",
+   "city": "Fremont",
+   "organizer": "Move and Grove with Silvi Soni",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "Join a workshop to learn and practice Dakla and Galgoto steps.",
+   "first_seen": "2026-09-22T20:57:17Z",
+   "last_seen": "2026-09-22T20:57:17Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_aeae303d329d",
+   "title": "Holiday Festive Edit",
+   "kind": "regional",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-03",
+   "time": "3–7 PM",
+   "venue": null,
+   "city": "San Jose",
+   "organizer": "Sage & Veda",
+   "cost": null,
+   "url": "https://bit.ly/3Vpyq4A",
+   "recurrence": null,
+   "description": "Sage & Veda is hosting a Holiday Festive Edit with South Asian women-led brands.",
+   "first_seen": "2026-09-22T17:11:00Z",
+   "last_seen": "2026-09-22T17:11:00Z",
+   "from_image": false
   },
   {
    "id": "evt_73a3a91d3d9a",
@@ -209,6 +281,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_1d3e29ec83cb",
+   "name": "What the River Knows",
+   "what": "a book by Aysha",
+   "url": "https://a.co/d/0baZdK2I",
+   "description": "Aysha has released a book titled 'What the River Knows' available on Amazon.",
+   "first_seen": "2026-09-23T02:14:18Z",
+   "last_seen": "2026-09-23T02:14:18Z",
+   "expires": "2026-11-22"
+  },
   {
    "id": "prm_559119c326fc",
    "name": "PetLight",
