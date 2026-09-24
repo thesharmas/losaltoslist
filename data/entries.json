@@ -977,7 +977,9 @@
     ],
     "name": "Sundrop events",
     "contact": {
-      "phones": [],
+      "phones": [
+        "(415) 260-7276"
+      ],
       "emails": [],
       "websites": []
     },
@@ -991,11 +993,16 @@
         "quote": "They make excellent drinks and great setup",
         "date": "2026-08-27",
         "type": "review"
+      },
+      {
+        "quote": "sundrip events are great bartenders",
+        "date": "2026-09-23",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-27",
-    "mention_count": 2
+    "last_seen": "2026-09-23",
+    "mention_count": 3
   },
   {
     "id": "we-set-the-bar-oakland",
@@ -11153,6 +11160,36 @@
     "mention_count": 2
   },
   {
+    "id": "palo-alto-animal-services",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "Palo Alto Animal Services",
+    "contact": {
+      "phones": [
+        "(650) 329-2413"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "You could call Palo Alto Animal Services too. They serve Los Altos as well.",
+        "date": "2026-09-23",
+        "type": "contact"
+      },
+      {
+        "quote": "I’ve called Palo Alto Animal Services a couple of times in the past. Quite prompt.",
+        "date": "2026-09-23",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "mention_count": 2
+  },
+  {
     "id": "terminix",
     "category": "pest control",
     "categories": [
@@ -11559,6 +11596,36 @@
     ],
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
+    "mention_count": 2
+  },
+  {
+    "id": "sourabh",
+    "category": "photographer",
+    "categories": [
+      "photographer"
+    ],
+    "name": "Sourabh",
+    "contact": {
+      "phones": [
+        "(650) 309-9685"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Sourabh (+1 (650) 309-9685)",
+        "date": "2026-09-23",
+        "type": "contact"
+      },
+      {
+        "quote": "Sourabh does a great job with photography/videography.",
+        "date": "2026-09-23",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
     "mention_count": 2
   },
   {
