@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-24T04:15:52Z",
+  "generated_at": "2026-09-25T04:15:54Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 15,
-  "promo_count": 25,
+  "upcoming_count": 16,
+  "promo_count": 26,
   "schema_version": 3
  },
  "events": [
@@ -100,6 +100,24 @@
    "from_image": true
   },
   {
+   "id": "evt_3b7b0a897587",
+   "title": "Ramo Re with Jigradan Gadhavi Garba 2026",
+   "kind": "regional",
+   "start_date": "2026-09-25",
+   "end_date": null,
+   "time": "6:00 PM - 10:00 PM",
+   "venue": "Baylands Park",
+   "city": "Sunnyvale, CA",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A night of music, dance, and memories with Jigradan Gadhavi.",
+   "first_seen": "2026-09-24T22:07:59Z",
+   "last_seen": "2026-09-24T22:07:59Z",
+   "from_image": true
+  },
+  {
    "id": "evt_8efd8f3d2317",
    "title": "DOLAH Dandiya Night",
    "kind": "community",
@@ -114,7 +132,7 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-21T04:20:03Z",
+   "last_seen": "2026-09-25T02:35:46Z",
    "from_image": true
   },
   {
@@ -282,6 +300,36 @@
  ],
  "promos": [
   {
+   "id": "prm_1d3e29ec83cb",
+   "name": "What the River Knows",
+   "what": "a book by Aysha",
+   "url": "https://a.co/d/0baZdK2I",
+   "description": "Aysha has released a book titled 'What the River Knows' available on Amazon.",
+   "first_seen": "2026-09-23T02:14:18Z",
+   "last_seen": "2026-09-25T01:35:26Z",
+   "expires": "2026-11-24"
+  },
+  {
+   "id": "prm_38ffd6a37b71",
+   "name": "Shruti Shloka Academy",
+   "what": "Beginner's Carnatic music classes",
+   "url": "www.shrutishlokaacademy.com",
+   "description": "Soumya offers beginner-level Carnatic music classes for kids and adults.",
+   "first_seen": "2026-09-19T18:55:42Z",
+   "last_seen": "2026-09-24T18:42:45Z",
+   "expires": "2026-11-23"
+  },
+  {
+   "id": "prm_1e90c21def1f",
+   "name": "SpiceVow",
+   "what": "Indian-Filipino fusion catering",
+   "url": "www.spicevow.com",
+   "description": "SpiceVow offers catering services for special occasions with Indian-Filipino fusion cuisine.",
+   "first_seen": "2026-09-24T14:27:00Z",
+   "last_seen": "2026-09-24T14:27:00Z",
+   "expires": "2026-11-23"
+  },
+  {
    "id": "prm_438828f6540b",
    "name": "Admit Hero College Counseling",
    "what": "Personalized college counseling",
@@ -292,16 +340,6 @@
    "expires": "2026-11-23"
   },
   {
-   "id": "prm_1d3e29ec83cb",
-   "name": "What the River Knows",
-   "what": "a book by Aysha",
-   "url": "https://a.co/d/0baZdK2I",
-   "description": "Aysha has released a book titled 'What the River Knows' available on Amazon.",
-   "first_seen": "2026-09-23T02:14:18Z",
-   "last_seen": "2026-09-23T02:14:18Z",
-   "expires": "2026-11-22"
-  },
-  {
    "id": "prm_559119c326fc",
    "name": "PetLight",
    "what": "pet rehabilitation services",
@@ -310,16 +348,6 @@
    "first_seen": "2026-09-20T17:25:00Z",
    "last_seen": "2026-09-20T17:25:00Z",
    "expires": "2026-11-19"
-  },
-  {
-   "id": "prm_38ffd6a37b71",
-   "name": "Shruti Shloka Academy",
-   "what": "Beginner's Carnatic music classes",
-   "url": "www.shrutishlokaacademy.com",
-   "description": "Soumya offers beginner-level Carnatic music classes for kids and adults.",
-   "first_seen": "2026-09-19T18:55:42Z",
-   "last_seen": "2026-09-19T18:55:42Z",
-   "expires": "2026-11-18"
   },
   {
    "id": "prm_966f03bbdc49",
