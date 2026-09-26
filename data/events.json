@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-25T04:15:54Z",
+  "generated_at": "2026-09-26T04:15:42Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 16,
-  "promo_count": 26,
+  "upcoming_count": 17,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -46,42 +46,6 @@
    "from_image": true
   },
   {
-   "id": "evt_b7753003925b",
-   "title": "Let's Talk: Relationships, Boundaries & You",
-   "kind": "regional",
-   "start_date": "2026-09-23",
-   "end_date": null,
-   "time": "6 - 7:30 PM",
-   "venue": "Online",
-   "city": null,
-   "organizer": "Trust Mental Health",
-   "cost": "$25 per session",
-   "url": null,
-   "recurrence": "every Wednesday",
-   "description": "A 6-week workshop for teens to build real-life skills and confidence to communicate.",
-   "first_seen": "2026-09-22T18:35:10Z",
-   "last_seen": "2026-09-22T18:35:10Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_ee3324798a6b",
-   "title": "Chai Rave 2.0",
-   "kind": "local",
-   "start_date": "2026-09-23",
-   "end_date": null,
-   "time": "7:00 - 8:30 PM",
-   "venue": "Los Altos Community Center",
-   "city": "Los Altos",
-   "organizer": "Shez & Shai",
-   "cost": "$20",
-   "url": "https://tinyurl.com/2rmnwp49",
-   "recurrence": null,
-   "description": "Bollywood dance workout party with live DJ and chai.",
-   "first_seen": "2026-08-20T02:56:44Z",
-   "last_seen": "2026-09-21T22:18:24Z",
-   "from_image": true
-  },
-  {
    "id": "evt_35bd482a68e1",
    "title": "Reclaim Your Center Women's Retreat",
    "kind": "regional",
@@ -97,6 +61,24 @@
    "description": "A 4-day women's retreat focusing on healing and ayurveda.",
    "first_seen": "2026-09-06T13:59:02Z",
    "last_seen": "2026-09-06T13:59:02Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_ffb9a4414ad4",
+   "title": "Success Sadhana - Your Attention Portfolio",
+   "kind": "regional",
+   "start_date": "2026-09-25",
+   "end_date": null,
+   "time": "12:00 PM",
+   "venue": "Online via Zoom",
+   "city": null,
+   "organizer": "Bhakti Community",
+   "cost": null,
+   "url": "https://us06web.zoom.us/j/98428616585",
+   "recurrence": null,
+   "description": "A talk by Vaish on managing your attention portfolio.",
+   "first_seen": "2026-09-25T17:53:00Z",
+   "last_seen": "2026-09-25T17:53:00Z",
    "from_image": true
   },
   {
@@ -132,7 +114,25 @@
    "recurrence": null,
    "description": "A Dandiya night event for Los Altos and Los Altos Hills residents.",
    "first_seen": "2026-08-07T00:40:29Z",
-   "last_seen": "2026-09-25T02:35:46Z",
+   "last_seen": "2026-09-25T22:01:35Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_8eb9ae3933fe",
+   "title": "Heartifacts Saree Showcase",
+   "kind": "local",
+   "start_date": "2026-09-26",
+   "end_date": null,
+   "time": "10 AM - 3 PM",
+   "venue": "12101 Edgecliff Place",
+   "city": "Los Altos Hills",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "Join us for an exclusive saree showcase featuring beautiful sarees and custom blouses.",
+   "first_seen": "2026-09-25T16:23:03Z",
+   "last_seen": "2026-09-25T16:23:03Z",
    "from_image": true
   },
   {
@@ -169,6 +169,24 @@
    "description": "A virtual webinar to navigate UC requirements and the holistic review process.",
    "first_seen": "2026-09-19T05:09:08Z",
    "last_seen": "2026-09-19T05:09:08Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_3f2105b40a8b",
+   "title": "Srimad Bhagavad Gita Class",
+   "kind": "local",
+   "start_date": "2026-09-26",
+   "end_date": null,
+   "time": "5:00 PM - 8:00 PM",
+   "venue": "275 Verano Dr, Los Altos",
+   "city": "Los Altos",
+   "organizer": "Shipra and Bikash Agarwalla",
+   "cost": null,
+   "url": "https://forms.gle/ymPAo6LjgX1WkMFJ7",
+   "recurrence": null,
+   "description": "Join for a Gita class and prasadam session.",
+   "first_seen": "2026-09-26T01:59:49Z",
+   "last_seen": "2026-09-26T01:59:49Z",
    "from_image": true
   },
   {
@@ -548,16 +566,6 @@
    "first_seen": "2026-07-28T15:25:55Z",
    "last_seen": "2026-07-28T15:25:55Z",
    "expires": "2026-09-26"
-  },
-  {
-   "id": "prm_20bd396e6ab5",
-   "name": "Eden Energy Medicine",
-   "what": "mini-energy-balancing sessions",
-   "url": null,
-   "description": "Offering mini-energy-balancing sessions at a wellness center during the Saratoga Car Show.",
-   "first_seen": "2026-07-26T17:49:29Z",
-   "last_seen": "2026-07-26T17:49:29Z",
-   "expires": "2026-09-24"
   }
  ]
 }
