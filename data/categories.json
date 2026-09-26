@@ -112,20 +112,20 @@
     "last_activity": "2026-09-19"
   },
   {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 5,
+    "query_count": 20,
+    "last_activity": "2026-09-25"
+  },
+  {
     "slug": "real-estate-agent",
     "name": "Real Estate Agent",
     "emoji": "🏡",
     "entry_count": 11,
     "query_count": 8,
     "last_activity": "2026-08-22"
-  },
-  {
-    "slug": "handyman",
-    "name": "Handyman",
-    "emoji": "🔨",
-    "entry_count": 5,
-    "query_count": 19,
-    "last_activity": "2026-09-24"
   },
   {
     "slug": "photographer",
