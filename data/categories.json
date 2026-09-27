@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 43,
+    "entry_count": 44,
     "query_count": 54,
-    "last_activity": "2026-09-16"
+    "last_activity": "2026-09-26"
   },
   {
     "slug": "catering",
@@ -76,8 +76,8 @@
     "name": "Appliance Repair",
     "emoji": "🔌",
     "entry_count": 10,
-    "query_count": 18,
-    "last_activity": "2026-09-22"
+    "query_count": 19,
+    "last_activity": "2026-09-26"
   },
   {
     "slug": "electrician",
@@ -144,6 +144,14 @@
     "last_activity": "2026-08-06"
   },
   {
+    "slug": "restaurant",
+    "name": "Restaurant",
+    "emoji": "🍽️",
+    "entry_count": 9,
+    "query_count": 8,
+    "last_activity": "2026-09-27"
+  },
+  {
     "slug": "architect",
     "name": "Architect",
     "emoji": "📐",
@@ -182,14 +190,6 @@
     "entry_count": 7,
     "query_count": 7,
     "last_activity": "2026-06-29"
-  },
-  {
-    "slug": "restaurant",
-    "name": "Restaurant",
-    "emoji": "🍽️",
-    "entry_count": 7,
-    "query_count": 7,
-    "last_activity": "2026-09-15"
   },
   {
     "slug": "window-cleaning",
@@ -336,6 +336,14 @@
     "last_activity": "2026-08-10"
   },
   {
+    "slug": "vet",
+    "name": "Vet",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 2,
+    "last_activity": "2026-09-26"
+  },
+  {
     "slug": "college-counselor",
     "name": "College Counselor",
     "emoji": "📌",
@@ -398,14 +406,6 @@
     "entry_count": 5,
     "query_count": 1,
     "last_activity": "2026-09-06"
-  },
-  {
-    "slug": "vet",
-    "name": "Vet",
-    "emoji": "📌",
-    "entry_count": 4,
-    "query_count": 2,
-    "last_activity": "2026-09-08"
   },
   {
     "slug": "bank",
@@ -1208,6 +1208,14 @@
     "last_activity": "2026-09-03"
   },
   {
+    "slug": "solar",
+    "name": "Solar",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-09-26"
+  },
+  {
     "slug": "summer-camp",
     "name": "Summer Camp",
     "emoji": "📌",
@@ -1662,14 +1670,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-05-04"
-  },
-  {
-    "slug": "solar",
-    "name": "Solar",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-08-24"
   },
   {
     "slug": "soldering-training",

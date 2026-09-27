@@ -295,12 +295,12 @@
     "mention_count": 1
   },
   {
-    "id": "lev-city-appliance-repair",
+    "id": "mark-s-dad-appliance-repair",
     "category": "appliance repair",
     "categories": [
       "appliance repair"
     ],
-    "name": "Lev City Appliance Repair",
+    "name": "Mark's Dad [Appliance Repair]",
     "contact": {
       "phones": [
         "(650) 772-1479"
@@ -333,11 +333,16 @@
         "quote": "Both are good however I have found Lev to be more expensive than Eric.",
         "date": "2026-08-25",
         "type": "review"
+      },
+      {
+        "quote": "Contact: Mark's Dad [Appliance Repair] (+1 (650) 772-1479)",
+        "date": "2026-09-26",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-25",
-    "mention_count": 5
+    "last_seen": "2026-09-26",
+    "mention_count": 6
   },
   {
     "id": "calvey",
@@ -369,6 +374,36 @@
     ],
     "first_seen": "2026-02-09",
     "last_seen": "2026-09-08",
+    "mention_count": 2
+  },
+  {
+    "id": "erik-applicane-repair-dolah",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Erik Applicane Repair Dolah",
+    "contact": {
+      "phones": [
+        "(408) 905-4103"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Eric Appliance Repair (+1 (408) 905-4103)",
+        "date": "2026-08-25",
+        "type": "contact"
+      },
+      {
+        "quote": "HI did you find anyone other than Eric? He is not picking phone",
+        "date": "2026-09-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-09-26",
     "mention_count": 2
   },
   {
@@ -440,31 +475,6 @@
     ],
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
-    "mention_count": 1
-  },
-  {
-    "id": "eric-appliance-repair",
-    "category": "appliance repair",
-    "categories": [
-      "appliance repair"
-    ],
-    "name": "Eric Appliance Repair",
-    "contact": {
-      "phones": [
-        "(408) 905-4103"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Eric Appliance Repair (+1 (408) 905-4103)",
-        "date": "2026-08-25",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-08-25",
     "mention_count": 1
   },
   {
@@ -13026,6 +13036,36 @@
     "mention_count": 3
   },
   {
+    "id": "off-the-grid",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Off the grid",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://offthegrid.com/event/presidio-picnic/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Off the grid in Fort mason had a good food truck collection when I went many years back.",
+        "date": "2026-09-27",
+        "type": "review"
+      },
+      {
+        "quote": "https://offthegrid.com/event/presidio-picnic/",
+        "date": "2026-09-27",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 2
+  },
+  {
     "id": "dumpling-city",
     "category": "restaurant",
     "categories": [
@@ -13096,6 +13136,29 @@
     ],
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
+    "mention_count": 1
+  },
+  {
+    "id": "los-altos-farmers-market",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Los Altos farmers market",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Los Altos farmers market has 10 ish food trucks every Thursday",
+        "date": "2026-09-27",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
     "mention_count": 1
   },
   {
@@ -14651,6 +14714,31 @@
     "mention_count": 1
   },
   {
+    "id": "empowerly",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Empowerly",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://tinyurl.com/v6b7s"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Hi everyone! Just passing this along for a friend in case it's helpful.\n\nHer son worked with this college counseling program, Empowerly, and had a really positive experience. They're hosting a free dinner in Palo Alto tomorrow (September 27th) for parents and students. It will feature 3 Stanford ...",
+        "date": "2026-09-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1
+  },
+  {
     "id": "first-lego-league",
     "category": "tutoring",
     "categories": [
@@ -15453,6 +15541,29 @@
     ],
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
+    "mention_count": 1
+  },
+  {
+    "id": "petlight-therapy",
+    "category": "vet",
+    "categories": [
+      "vet"
+    ],
+    "name": "PetLight Therapy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "PetLight Therapy in Cupertino also gave a lot of relief to my young cat. Highly recommend them. Everyone there is warm & kind.",
+        "date": "2026-09-26",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
     "mention_count": 1
   },
   {
