@@ -117,7 +117,10 @@
   ],
   "pool-service": [
     "pool cleaning",
-    "pool maintenance"
+    "pool maintenance",
+    "solar pool heater",
+    "solar heating",
+    "solar water heating"
   ],
   "window-cleaning": [
     "window washing",
@@ -132,7 +135,9 @@
     "eye surgeon"
   ],
   "lawyer": [
-    "real estate attorney"
+    "real estate attorney",
+    "trust attorney",
+    "estate planning"
   ],
   "insurance": [
     "broker",
@@ -225,5 +230,10 @@
   "cook": [
     "gujarati cook",
     "gujarati cuisine"
+  ],
+  "bakery": [
+    "indian sweets",
+    "mithai",
+    "indian dessert"
   ]
 }
