@@ -9233,6 +9233,29 @@
     "mention_count": 1
   },
   {
+    "id": "murthy",
+    "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
+    "name": "Murthy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We used Murthy for sponsoring my parents. They were great to work with",
+        "date": "2026-09-27",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1
+  },
+  {
     "id": "thoits-law",
     "category": "lawyer",
     "categories": [
@@ -9253,6 +9276,29 @@
     ],
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
+    "mention_count": 1
+  },
+  {
+    "id": "tristani-law",
+    "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
+    "name": "Tristani law",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We used Tristani law for immigration purposes (not family based). Would recommend them.",
+        "date": "2026-09-27",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
     "mention_count": 1
   },
   {
