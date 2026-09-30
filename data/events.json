@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-09-29T04:15:37Z",
+  "generated_at": "2026-09-30T04:15:42Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
-  "promo_count": 24,
+  "upcoming_count": 11,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -43,60 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_35bd482a68e1",
-   "title": "Reclaim Your Center Women's Retreat",
-   "kind": "regional",
-   "start_date": "2026-09-24",
-   "end_date": "2026-09-27",
-   "time": null,
-   "venue": "Still Mountain Wellness Retreat",
-   "city": "California Hot Springs",
-   "organizer": "Pure Praana",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "A 4-day women's retreat focusing on healing and ayurveda.",
-   "first_seen": "2026-09-06T13:59:02Z",
-   "last_seen": "2026-09-06T13:59:02Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_99ec3cef52cb",
-   "title": "Empowerly Free Dinner",
-   "kind": "regional",
-   "start_date": "2026-09-27",
-   "end_date": null,
-   "time": null,
-   "venue": null,
-   "city": "Palo Alto",
-   "organizer": "Empowerly",
-   "cost": "Free",
-   "url": "https://tinyurl.com/v6b7s",
-   "recurrence": null,
-   "description": "A free dinner event featuring Stanford students and a Former Stanford and Berkeley Admission Officer.",
-   "first_seen": "2026-09-26T21:21:01Z",
-   "last_seen": "2026-09-26T21:21:01Z",
-   "from_image": false
-  },
-  {
-   "id": "evt_6de47f167b6b",
-   "title": "Dakla & Galgoto Steps Workshop",
-   "kind": "regional",
-   "start_date": "2026-09-27",
-   "end_date": null,
-   "time": "11:00 AM – 12:00 PM",
-   "venue": "Marshall Park",
-   "city": "Fremont",
-   "organizer": "Move and Grove with Silvi Soni",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Join a workshop to learn and practice Dakla and Galgoto steps.",
-   "first_seen": "2026-09-22T20:57:17Z",
-   "last_seen": "2026-09-22T20:57:17Z",
    "from_image": true
   },
   {
@@ -172,6 +118,42 @@
    "from_image": true
   },
   {
+   "id": "evt_2d1613399423",
+   "title": "Garba at Sunnyvale Temple",
+   "kind": "regional",
+   "start_date": "2026-10-10",
+   "end_date": null,
+   "time": "9 PM onwards",
+   "venue": "Sunnyvale Hindu Temple",
+   "city": "Sunnyvale",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": "every day",
+   "description": "Sunnyvale Hindu temple will have Garba every day starting October 10th.",
+   "first_seen": "2026-09-30T01:50:06Z",
+   "last_seen": "2026-09-30T01:50:06Z",
+   "from_image": false
+  },
+  {
+   "id": "evt_b5ac80a1e2ac",
+   "title": "Gathering with Lifeguard",
+   "kind": "regional",
+   "start_date": "2026-10-10",
+   "end_date": null,
+   "time": "evening",
+   "venue": "Rupinder's home",
+   "city": null,
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A gathering at Rupinder's home with a lifeguard for pool safety.",
+   "first_seen": "2026-09-29T18:59:13Z",
+   "last_seen": "2026-09-29T18:59:13Z",
+   "from_image": false
+  },
+  {
    "id": "evt_210e20d4116e",
    "title": "The Parent Pause",
    "kind": "local",
@@ -227,6 +209,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_9ab02b7faf2c",
+   "name": "Farsan House",
+   "what": "traditional Gujju food",
+   "url": "https://www.farsanhouse.com/",
+   "description": "Manju ben has modernized and now has a commercial kitchen and website offering traditional Gujju food.",
+   "first_seen": "2026-09-30T01:43:11Z",
+   "last_seen": "2026-09-30T01:43:11Z",
+   "expires": "2026-11-29"
+  },
   {
    "id": "prm_1d3e29ec83cb",
    "name": "What the River Knows",
