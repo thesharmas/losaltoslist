@@ -4,16 +4,16 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 44,
-    "query_count": 54,
-    "last_activity": "2026-09-26"
+    "query_count": 56,
+    "last_activity": "2026-09-29"
   },
   {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 45,
+    "entry_count": 48,
     "query_count": 33,
-    "last_activity": "2026-09-21"
+    "last_activity": "2026-09-30"
   },
   {
     "slug": "contractor",
@@ -88,6 +88,14 @@
     "last_activity": "2026-07-12"
   },
   {
+    "slug": "tailor",
+    "name": "Tailor",
+    "emoji": "🪡",
+    "entry_count": 9,
+    "query_count": 14,
+    "last_activity": "2026-09-29"
+  },
+  {
     "slug": "handyman",
     "name": "Handyman",
     "emoji": "🔨",
@@ -102,14 +110,6 @@
     "entry_count": 11,
     "query_count": 9,
     "last_activity": "2026-09-10"
-  },
-  {
-    "slug": "tailor",
-    "name": "Tailor",
-    "emoji": "🪡",
-    "entry_count": 9,
-    "query_count": 13,
-    "last_activity": "2026-09-13"
   },
   {
     "slug": "therapist",
@@ -760,6 +760,14 @@
     "last_activity": "2026-01-28"
   },
   {
+    "slug": "lifeguard",
+    "name": "Lifeguard",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-09-29"
+  },
+  {
     "slug": "musician",
     "name": "Musician",
     "emoji": "📌",
@@ -950,14 +958,6 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-03-29"
-  },
-  {
-    "slug": "lifeguard",
-    "name": "Lifeguard",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 1,
-    "last_activity": "2026-03-28"
   },
   {
     "slug": "optician",

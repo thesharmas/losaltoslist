@@ -2260,6 +2260,32 @@
     "mention_count": 1
   },
   {
+    "id": "farsan-house",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Farsan House",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.farsanhouse.com/",
+        "https://www.farsanhouse.com/menu"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I have known her and had her traditional gujju food for over 25 years. My top favorites are her Khaman, Khandvi, Mohantal, and Chorafali.",
+        "date": "2026-09-30",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "mention_count": 1
+  },
+  {
     "id": "garden-fresh",
     "category": "catering",
     "categories": [
@@ -2376,6 +2402,32 @@
     ],
     "first_seen": "2026-07-28",
     "last_seen": "2026-07-28",
+    "mention_count": 1
+  },
+  {
+    "id": "kanteen-sf",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Kanteen SF",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.kanteensf.com/products/diwali-festive-menu-2026",
+        "https://varqsweets.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Folks have been asking about Diwali sweets and Catering - my recommendation:\nSweets - https://varqsweets.com/\nCatering - https://www.kanteensf.com/products/diwali-festive-menu-2026",
+        "date": "2026-09-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
     "mention_count": 1
   },
   {
@@ -2837,6 +2889,32 @@
     ],
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
+    "mention_count": 1
+  },
+  {
+    "id": "varq-sweets",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Varq Sweets",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://varqsweets.com/",
+        "https://www.kanteensf.com/products/diwali-festive-menu-2026"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Folks have been asking about Diwali sweets and Catering - my recommendation:\nSweets - https://varqsweets.com/\nCatering - https://www.kanteensf.com/products/diwali-festive-menu-2026",
+        "date": "2026-09-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
     "mention_count": 1
   },
   {
@@ -13628,6 +13706,34 @@
     "mention_count": 2
   },
   {
+    "id": "rashmi-bhargava",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Rashmi Bhargava",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "She did blouse alterations and is also great at saree tying as well. She was amazingly efficient for my daughter's wedding. Got 7 giggly girls and one bride organized!",
+        "date": "2026-01-04",
+        "type": "contact"
+      },
+      {
+        "quote": "Rashmi was amazing. great service and reasonable prices. Great recommendation.",
+        "date": "2026-09-29",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-01-04",
+    "last_seen": "2026-09-29",
+    "mention_count": 2
+  },
+  {
     "id": "swati-couture",
     "category": "tailor",
     "categories": [
@@ -13699,29 +13805,6 @@
     ],
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "mention_count": 1
-  },
-  {
-    "id": "rashmi-bhargava",
-    "category": "tailor",
-    "categories": [
-      "tailor"
-    ],
-    "name": "Rashmi Bhargava",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "She did blouse alterations and is also great at saree tying as well. She was amazingly efficient for my daughter's wedding. Got 7 giggly girls and one bride organized!",
-        "date": "2026-01-04",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-01-04",
-    "last_seen": "2026-01-04",
     "mention_count": 1
   },
   {
