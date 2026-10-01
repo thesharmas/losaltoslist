@@ -1942,6 +1942,37 @@
     "mention_count": 3
   },
   {
+    "id": "farsan-house",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Farsan House",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.farsanhouse.com/",
+        "https://www.farsanhouse.com/menu"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I have known her and had her traditional gujju food for over 25 years. My top favorites are her Khaman, Khandvi, Mohantal, and Chorafali.",
+        "date": "2026-09-30",
+        "type": "review"
+      },
+      {
+        "quote": "https://www.farsanhouse.com/menu",
+        "date": "2026-09-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "mention_count": 2
+  },
+  {
     "id": "idk-eatz",
     "category": "catering",
     "categories": [
@@ -2257,32 +2288,6 @@
     ],
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
-    "mention_count": 1
-  },
-  {
-    "id": "farsan-house",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Farsan House",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.farsanhouse.com/",
-        "https://www.farsanhouse.com/menu"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "I have known her and had her traditional gujju food for over 25 years. My top favorites are her Khaman, Khandvi, Mohantal, and Chorafali.",
-        "date": "2026-09-30",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30",
     "mention_count": 1
   },
   {
@@ -3668,11 +3673,16 @@
         "quote": "Our contractor is Miguel at +1 (209) 300-4879",
         "date": "2026-06-21",
         "type": "contact"
+      },
+      {
+        "quote": "Miguel @+1 (209) 300-4879 he fixed and expanded our brick fixed",
+        "date": "2026-09-30",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-06-21",
-    "mention_count": 3
+    "last_seen": "2026-09-30",
+    "mention_count": 4
   },
   {
     "id": "ashkan",
@@ -9311,6 +9321,29 @@
     "mention_count": 1
   },
   {
+    "id": "maitri",
+    "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
+    "name": "Maitri",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "A neighbor - Maitri or Narika should have a list of specialized DV Attorneys.",
+        "date": "2026-09-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "mention_count": 1
+  },
+  {
     "id": "murthy",
     "category": "lawyer",
     "categories": [
@@ -9331,6 +9364,29 @@
     ],
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
+    "mention_count": 1
+  },
+  {
+    "id": "narika",
+    "category": "lawyer",
+    "categories": [
+      "lawyer"
+    ],
+    "name": "Narika",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "A neighbor - Maitri or Narika should have a list of specialized DV Attorneys.",
+        "date": "2026-09-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
     "mention_count": 1
   },
   {
