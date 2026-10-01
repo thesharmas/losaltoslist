@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-09-30T04:15:42Z",
+  "generated_at": "2026-10-01T04:15:31Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -46,24 +46,6 @@
    "from_image": true
   },
   {
-   "id": "evt_ee7c64c8caa3",
-   "title": "Not Yours to Carry",
-   "kind": "regional",
-   "start_date": "2026-09-28",
-   "end_date": null,
-   "time": "5:30 PM",
-   "venue": null,
-   "city": null,
-   "organizer": "Bhakti Community",
-   "cost": null,
-   "url": "https://zoom.us/j/99501860637",
-   "recurrence": null,
-   "description": "A talk by Vaish about handling pressures and understanding your role.",
-   "first_seen": "2026-09-28T18:09:03Z",
-   "last_seen": "2026-09-28T18:09:03Z",
-   "from_image": true
-  },
-  {
    "id": "evt_aeae303d329d",
    "title": "Holiday Festive Edit",
    "kind": "regional",
@@ -97,6 +79,24 @@
    "description": "A dance production based on the life and poetry of Janabai and Lalded.",
    "first_seen": "2026-09-18T00:29:13Z",
    "last_seen": "2026-09-18T04:21:26Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_4a23923ca01a",
+   "title": "Candlelight Vigil",
+   "kind": "regional",
+   "start_date": "2026-10-07",
+   "end_date": null,
+   "time": "6:00 PM - 7:30 PM",
+   "venue": "Downtown Event Center",
+   "city": "Fremont",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "Join the Annual Domestic Violence Awareness Walk and Candlelight Vigil in Fremont.",
+   "first_seen": "2026-09-30T15:18:49Z",
+   "last_seen": "2026-09-30T15:18:49Z",
    "from_image": true
   },
   {
@@ -216,7 +216,7 @@
    "url": "https://www.farsanhouse.com/",
    "description": "Manju ben has modernized and now has a commercial kitchen and website offering traditional Gujju food.",
    "first_seen": "2026-09-30T01:43:11Z",
-   "last_seen": "2026-09-30T01:43:11Z",
+   "last_seen": "2026-09-30T19:31:48Z",
    "expires": "2026-11-29"
   },
   {
