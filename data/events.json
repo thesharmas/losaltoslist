@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-01T04:15:31Z",
+  "generated_at": "2026-10-03T04:15:38Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 11,
-  "promo_count": 25,
+  "promo_count": 24,
   "schema_version": 3
  },
  "events": [
@@ -448,16 +448,6 @@
    "first_seen": "2026-08-04T18:05:09Z",
    "last_seen": "2026-08-04T18:05:09Z",
    "expires": "2026-10-03"
-  },
-  {
-   "id": "prm_441a17da9b2a",
-   "name": "Parna Basu",
-   "what": "dance classes",
-   "url": "https://www.youtube.com/watch?v=AklB_GswTtw",
-   "description": "Parna Basu is starting dance classes this fall and encourages parents to consider a classical pursuit for their children.",
-   "first_seen": "2026-08-02T20:18:03Z",
-   "last_seen": "2026-08-02T20:18:03Z",
-   "expires": "2026-10-01"
   }
  ]
 }
