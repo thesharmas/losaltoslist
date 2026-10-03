@@ -3,9 +3,9 @@
 > Community-sourced directory of local service providers (plumbers, tutors,
 > doctors, caterers, contractors, and more) for Los Altos, CA and nearby.
 > Auto-generated from a neighborhood WhatsApp group's recommendations and
-> updated daily. 630 providers across
-> 224 categories; 327 entries include direct
-> contact info. Last updated 2026-10-02.
+> updated daily. 631 providers across
+> 227 categories; 328 entries include direct
+> contact info. Last updated 2026-10-03.
 
 All data is plain JSON, no auth required. Fetch the raw files directly:
 
@@ -21,9 +21,9 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 
 ## Top categories
 
-- 📚 Tutoring: 44 providers, 57 requests
-- 🍳 Catering: 48 providers, 34 requests
-- 🏗️ Contractor: 36 providers, 43 requests
+- 📚 Tutoring: 44 providers, 58 requests
+- 🍳 Catering: 48 providers, 35 requests
+- 🏗️ Contractor: 36 providers, 44 requests
 - 🏥 Doctor: 29 providers, 27 requests
 - 🌿 Landscaper: 20 providers, 32 requests
 - 👶 Nanny: 16 providers, 24 requests
@@ -32,10 +32,10 @@ All data is plain JSON, no auth required. Fetch the raw files directly:
 - 🐜 Pest Control: 15 providers, 14 requests
 - 🔌 Appliance Repair: 10 providers, 19 requests
 - ⚡ Electrician: 11 providers, 15 requests
+- 🛋️ Interior Design: 12 providers, 10 requests
 - ⚖️ Lawyer: 9 providers, 15 requests
 - 🪡 Tailor: 9 providers, 14 requests
 - 🔨 Handyman: 5 providers, 21 requests
-- 🛋️ Interior Design: 11 providers, 9 requests
 
 ## Notes
 

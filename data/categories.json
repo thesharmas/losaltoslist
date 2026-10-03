@@ -4,24 +4,24 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 44,
-    "query_count": 57,
-    "last_activity": "2026-09-30"
+    "query_count": 58,
+    "last_activity": "2026-10-02"
   },
   {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 48,
-    "query_count": 34,
-    "last_activity": "2026-09-30"
+    "query_count": 35,
+    "last_activity": "2026-10-02"
   },
   {
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
     "entry_count": 36,
-    "query_count": 43,
-    "last_activity": "2026-09-30"
+    "query_count": 44,
+    "last_activity": "2026-10-03"
   },
   {
     "slug": "doctor",
@@ -88,6 +88,14 @@
     "last_activity": "2026-07-12"
   },
   {
+    "slug": "interior-design",
+    "name": "Interior Design",
+    "emoji": "🛋️",
+    "entry_count": 12,
+    "query_count": 10,
+    "last_activity": "2026-10-03"
+  },
+  {
     "slug": "lawyer",
     "name": "Lawyer",
     "emoji": "⚖️",
@@ -110,14 +118,6 @@
     "entry_count": 5,
     "query_count": 21,
     "last_activity": "2026-09-27"
-  },
-  {
-    "slug": "interior-design",
-    "name": "Interior Design",
-    "emoji": "🛋️",
-    "entry_count": 11,
-    "query_count": 9,
-    "last_activity": "2026-09-10"
   },
   {
     "slug": "therapist",
@@ -341,7 +341,7 @@
     "emoji": "📌",
     "entry_count": 5,
     "query_count": 2,
-    "last_activity": "2026-09-26"
+    "last_activity": "2026-10-02"
   },
   {
     "slug": "college-counselor",
@@ -968,6 +968,14 @@
     "last_activity": "2026-08-20"
   },
   {
+    "slug": "pet-sitting",
+    "name": "Pet Sitting",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-10-02"
+  },
+  {
     "slug": "piano-teacher",
     "name": "Piano Teacher",
     "emoji": "📌",
@@ -1456,6 +1464,14 @@
     "last_activity": "2026-03-18"
   },
   {
+    "slug": "fitness-instructor",
+    "name": "Fitness Instructor",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-10-02"
+  },
+  {
     "slug": "furniture-repair",
     "name": "Furniture Repair",
     "emoji": "📌",
@@ -1470,6 +1486,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-06-04"
+  },
+  {
+    "slug": "graphic-design",
+    "name": "Graphic Design",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-10-02"
   },
   {
     "slug": "grocery-delivery",

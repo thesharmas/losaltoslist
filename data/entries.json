@@ -8669,6 +8669,34 @@
     "mention_count": 1
   },
   {
+    "id": "nicole",
+    "category": "interior design",
+    "categories": [
+      "interior design"
+    ],
+    "name": "Nicole",
+    "contact": {
+      "phones": [],
+      "emails": [
+        "Wishesandwows@gmail.com"
+      ],
+      "websites": [
+        "Wishesandwows.com",
+        "gmail.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Nicole is an event planner. She should be able to do this.",
+        "date": "2026-10-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "mention_count": 1
+  },
+  {
     "id": "nina-takesh",
     "category": "interior design",
     "categories": [
@@ -11651,6 +11679,37 @@
     "mention_count": 1
   },
   {
+    "id": "chris-klein",
+    "category": "pet sitting",
+    "categories": [
+      "pet sitting",
+      "vet"
+    ],
+    "name": "Chris Klein",
+    "contact": {
+      "phones": [
+        "(408) 806-7845"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Chris Klein (+1 (408) 806-7845)",
+        "date": "2026-09-08",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Chris Klein (+1 (408) 806-7845)",
+        "date": "2026-10-02",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-02",
+    "mention_count": 2
+  },
+  {
     "id": "at-t",
     "category": "phone carrier",
     "categories": [
@@ -14517,11 +14576,16 @@
         "quote": "Can attest to Manjari’s tutoring - she great!",
         "date": "2026-02-15",
         "type": "review"
+      },
+      {
+        "quote": "She’s really good",
+        "date": "2026-10-02",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-02-15",
-    "last_seen": "2026-02-15",
-    "mention_count": 3
+    "last_seen": "2026-10-02",
+    "mention_count": 4
   },
   {
     "id": "privateers",
@@ -15697,31 +15761,6 @@
         "quote": "Chris is an amazing dog sitter, we have used him for many years",
         "date": "2026-09-08",
         "type": "review"
-      }
-    ],
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08",
-    "mention_count": 1
-  },
-  {
-    "id": "chris-klein",
-    "category": "vet",
-    "categories": [
-      "vet"
-    ],
-    "name": "Chris Klein",
-    "contact": {
-      "phones": [
-        "(408) 806-7845"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Chris Klein (+1 (408) 806-7845)",
-        "date": "2026-09-08",
-        "type": "contact"
       }
     ],
     "first_seen": "2026-09-08",
