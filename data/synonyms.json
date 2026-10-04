@@ -36,7 +36,12 @@
     "ev charger",
     "lighting",
     "home theater wiring",
-    "av wiring"
+    "av wiring",
+    "chandelier",
+    "chandelier installation",
+    "chandelier repair",
+    "light fixture",
+    "fixture replacement"
   ],
   "hvac": [
     "furnace",
@@ -235,5 +240,10 @@
     "indian sweets",
     "mithai",
     "indian dessert"
+  ],
+  "music-lessons": [
+    "guitar lessons",
+    "guitar teacher",
+    "guitar instruction"
   ]
 }
