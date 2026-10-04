@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-10-03T04:15:38Z",
+  "generated_at": "2026-10-04T04:15:33Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 11,
+  "upcoming_count": 12,
   "promo_count": 24,
   "schema_version": 3
  },
@@ -62,6 +62,24 @@
    "first_seen": "2026-09-22T17:11:00Z",
    "last_seen": "2026-09-22T17:11:00Z",
    "from_image": false
+  },
+  {
+   "id": "evt_63f67200267e",
+   "title": "Women Impact Group Festive Wear Trunk Show",
+   "kind": "regional",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "time": "11 AM to 5 PM",
+   "venue": "Plumas Dr, Saratoga",
+   "city": "Saratoga",
+   "organizer": "Narika",
+   "cost": "Free",
+   "url": "http://www.narika.org",
+   "recurrence": null,
+   "description": "Purchase festive Indian ethnic clothes to support Narika, aiding survivors of domestic violence.",
+   "first_seen": "2026-10-03T17:18:51Z",
+   "last_seen": "2026-10-03T17:18:51Z",
+   "from_image": true
   },
   {
    "id": "evt_73a3a91d3d9a",
