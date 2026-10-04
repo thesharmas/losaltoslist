@@ -1169,6 +1169,29 @@
     "mention_count": 1
   },
   {
+    "id": "title-boxing",
+    "category": "boxing classes",
+    "categories": [
+      "boxing classes"
+    ],
+    "name": "Title Boxing",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Not wrestling, but I love Title Boxing classes. I’ve been their regular for a while and my son would often join when he was younger and local.",
+        "date": "2026-10-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "mention_count": 1
+  },
+  {
     "id": "vara",
     "category": "bridal couture",
     "categories": [
@@ -1836,6 +1859,42 @@
     "mention_count": 4
   },
   {
+    "id": "farsan-house",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Farsan House",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.farsanhouse.com/",
+        "https://www.farsanhouse.com/menu"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "I have known her and had her traditional gujju food for over 25 years. My top favorites are her Khaman, Khandvi, Mohantal, and Chorafali.",
+        "date": "2026-09-30",
+        "type": "review"
+      },
+      {
+        "quote": "https://www.farsanhouse.com/menu",
+        "date": "2026-09-30",
+        "type": "contact"
+      },
+      {
+        "quote": "Thank you for this recommedation, big +1. We found the gujarati snacks amazing.",
+        "date": "2026-10-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-04",
+    "mention_count": 3
+  },
+  {
     "id": "komalsgourmetkitchen-com",
     "category": "catering",
     "categories": [
@@ -1940,37 +1999,6 @@
     "first_seen": "2026-04-15",
     "last_seen": "2026-04-16",
     "mention_count": 3
-  },
-  {
-    "id": "farsan-house",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Farsan House",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.farsanhouse.com/",
-        "https://www.farsanhouse.com/menu"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "I have known her and had her traditional gujju food for over 25 years. My top favorites are her Khaman, Khandvi, Mohantal, and Chorafali.",
-        "date": "2026-09-30",
-        "type": "review"
-      },
-      {
-        "quote": "https://www.farsanhouse.com/menu",
-        "date": "2026-09-30",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30",
-    "mention_count": 2
   },
   {
     "id": "idk-eatz",
@@ -4022,6 +4050,31 @@
     ],
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
+    "mention_count": 1
+  },
+  {
+    "id": "chase-arnold-inc",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "CHASE & ARNOLD, INC.",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.houzz.com/professionals/general-contractors/chase-and-arnold-inc-pfvwus-pf~1258739382"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "CHASE & ARNOLD, INC. - Project Photos & Reviews - Aptos, CA US | Houzz https://share.google/i1O6yh0nz34seN1Ze",
+        "date": "2026-10-03",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
     "mention_count": 1
   },
   {
@@ -7359,11 +7412,16 @@
         "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
         "date": "2026-08-08",
         "type": "contact"
+      },
+      {
+        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
+        "date": "2026-10-04",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-08",
-    "mention_count": 2
+    "last_seen": "2026-10-04",
+    "mention_count": 3
   },
   {
     "id": "vincent",

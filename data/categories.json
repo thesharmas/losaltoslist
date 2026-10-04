@@ -12,14 +12,14 @@
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 48,
-    "query_count": 35,
-    "last_activity": "2026-10-02"
+    "query_count": 36,
+    "last_activity": "2026-10-04"
   },
   {
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
-    "entry_count": 36,
+    "entry_count": 37,
     "query_count": 44,
     "last_activity": "2026-10-03"
   },
@@ -37,7 +37,7 @@
     "emoji": "🌿",
     "entry_count": 20,
     "query_count": 32,
-    "last_activity": "2026-09-30"
+    "last_activity": "2026-10-04"
   },
   {
     "slug": "nanny",
@@ -244,8 +244,8 @@
     "name": "Gardener",
     "emoji": "🌱",
     "entry_count": 5,
-    "query_count": 5,
-    "last_activity": "2026-08-08"
+    "query_count": 6,
+    "last_activity": "2026-10-04"
   },
   {
     "slug": "car-mechanic",
@@ -312,6 +312,14 @@
     "last_activity": "2026-07-23"
   },
   {
+    "slug": "college-counselor",
+    "name": "College Counselor",
+    "emoji": "📌",
+    "entry_count": 5,
+    "query_count": 2,
+    "last_activity": "2026-10-03"
+  },
+  {
     "slug": "orthodontist",
     "name": "Orthodontist",
     "emoji": "📌",
@@ -342,14 +350,6 @@
     "entry_count": 5,
     "query_count": 2,
     "last_activity": "2026-10-02"
-  },
-  {
-    "slug": "college-counselor",
-    "name": "College Counselor",
-    "emoji": "📌",
-    "entry_count": 5,
-    "query_count": 1,
-    "last_activity": "2026-08-05"
   },
   {
     "slug": "dry-cleaning",
@@ -1080,6 +1080,14 @@
     "last_activity": "2026-04-03"
   },
   {
+    "slug": "boxing-classes",
+    "name": "Boxing Classes",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-10-04"
+  },
+  {
     "slug": "bridal-couture",
     "name": "Bridal Couture",
     "emoji": "📌",
@@ -1158,6 +1166,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-13"
+  },
+  {
+    "slug": "mother-s-helper",
+    "name": "Mother'S Helper",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 2,
+    "last_activity": "2026-10-04"
   },
   {
     "slug": "music-lessons",
@@ -1608,14 +1624,6 @@
     "last_activity": "2026-09-14"
   },
   {
-    "slug": "mother-s-helper",
-    "name": "Mother'S Helper",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-06-04"
-  },
-  {
     "slug": "music",
     "name": "Music",
     "emoji": "📌",
@@ -1798,6 +1806,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-01-14"
+  },
+  {
+    "slug": "wrestling-classes",
+    "name": "Wrestling Classes",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-10-03"
   },
   {
     "slug": "yoga-instructor",
