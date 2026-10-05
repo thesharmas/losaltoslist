@@ -1290,6 +1290,29 @@
     "mention_count": 1
   },
   {
+    "id": "b2-perfection",
+    "category": "car mechanic",
+    "categories": [
+      "car mechanic"
+    ],
+    "name": "B2 Perfection",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "B2 Perfection in Sunnyvale is great. It’s been years, so not sure if he still works there but Ernesto was helpful, upfront and friendly.",
+        "date": "2026-10-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "mention_count": 1
+  },
+  {
     "id": "german-motors",
     "category": "car mechanic",
     "categories": [
@@ -10211,6 +10234,31 @@
     "mention_count": 1
   },
   {
+    "id": "jasbir",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Jasbir",
+    "contact": {
+      "phones": [
+        "(408) 829-8554"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Hello my cook is looking for a full time nanny job .Jasbir -408-829-8554",
+        "date": "2026-10-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "mention_count": 1
+  },
+  {
     "id": "kuldeep",
     "category": "nanny",
     "categories": [
@@ -13849,6 +13897,36 @@
     "mention_count": 2
   },
   {
+    "id": "kalyani-alterations",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "kalyani alterations",
+    "contact": {
+      "phones": [
+        "(408) 781-5352"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: kalyani alterations ((408) 781-5352)",
+        "date": "2026-10-04",
+        "type": "contact"
+      },
+      {
+        "quote": "home based - very reasonable for alterations",
+        "date": "2026-10-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
+    "mention_count": 2
+  },
+  {
     "id": "pia-ka-ghar",
     "category": "tailor",
     "categories": [
@@ -14003,6 +14081,31 @@
     ],
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-05",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3582198554",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.google.com/maps?q=Kim's+Alterations+%26+Cleaners,+820+E+El+Camino+Real+ef,+Mountain+View,+CA+94040&ftid=0x808fb6ddbdb9bfcb:0xa6fc7e29a3422354&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821555,47071704,94218641,94282134,100835699,94286869,100820247,100822504,100838877,121816461&g_ep=CAISEjI2LjM5LjAuOTg0OTU2MzcwMBgAIIgnKnssOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsMTAwODIxNTU1LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDEwMDgzNTY5OSw5NDI4Njg2OSwxMDA4MjAyNDcsMTAwODIyNTA0LDEwMDgzODg3NywxMjE4MTY0NjFCAlVT&skid=98ad54bc-0cd8-47b7-bf59-6a0510889fce&g_st=ic"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://maps.app.goo.gl/VYLJ8X2sBZjh8sem6?g_st=ic",
+        "date": "2026-10-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
     "mention_count": 1
   },
   {
@@ -16093,6 +16196,31 @@
     ],
     "first_seen": "2026-04-17",
     "last_seen": "2026-04-17",
+    "mention_count": 1
+  },
+  {
+    "id": "andreias-husband",
+    "category": "window cleaning",
+    "categories": [
+      "window cleaning"
+    ],
+    "name": "Andreia’s husband",
+    "contact": {
+      "phones": [
+        "(650) 630-3744"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Andreia’s husband : (650) 630-3744\nFeel free to give my reference. a neighbor",
+        "date": "2026-10-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-04",
     "mention_count": 1
   },
   {
