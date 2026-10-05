@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-04T04:15:33Z",
+  "generated_at": "2026-10-05T04:15:45Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
-  "promo_count": 24,
+  "upcoming_count": 13,
+  "promo_count": 25,
   "schema_version": 3
  },
  "events": [
@@ -190,6 +190,24 @@
    "from_image": true
   },
   {
+   "id": "evt_d72132050b0d",
+   "title": "Baybasi Autumn Festival 2026",
+   "kind": "regional",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "time": "Friday 5:00 PM - 9:00 PM, Saturday 11:00 AM - 8:00 PM, Sunday 11:00 AM - 6:00 PM",
+   "venue": "Foster City Recreation Center meadows",
+   "city": "Foster City, CA",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "Attend the Baybasi Autumn Festival 2026 for new arrivals and festive offers.",
+   "first_seen": "2026-10-05T03:27:16Z",
+   "last_seen": "2026-10-05T03:27:16Z",
+   "from_image": true
+  },
+  {
    "id": "evt_f0742b257ddd",
    "title": "Garba & Dandiya by RJ Events",
    "kind": "regional",
@@ -227,6 +245,26 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_d150e11e6b79",
+   "name": "Manisha Boutique",
+   "what": "Festive clothing and accessories",
+   "url": null,
+   "description": "Manisha Boutique offers a collection of handloom and festive clothing.",
+   "first_seen": "2026-10-05T03:27:16Z",
+   "last_seen": "2026-10-05T03:27:16Z",
+   "expires": "2026-12-04"
+  },
+  {
+   "id": "prm_9e645d2da76d",
+   "name": "Clean Side",
+   "what": "Professional Cleaning Services",
+   "url": null,
+   "description": "Clean Side offers window cleaning, pressure washing, gutter cleaning, solar panel cleaning, and house cleaning.",
+   "first_seen": "2026-10-04T20:27:54Z",
+   "last_seen": "2026-10-04T20:27:54Z",
+   "expires": "2026-12-03"
+  },
   {
    "id": "prm_9ab02b7faf2c",
    "name": "Farsan House",
@@ -456,16 +494,6 @@
    "first_seen": "2026-08-07T04:57:04Z",
    "last_seen": "2026-08-07T04:57:04Z",
    "expires": "2026-10-06"
-  },
-  {
-   "id": "prm_f07eeeb3861c",
-   "name": "Nalini Desai",
-   "what": "Home-Based Stitching & Alteration Services",
-   "url": null,
-   "description": "Nalini Desai offers stitching of garments, alterations, and custom tailoring services.",
-   "first_seen": "2026-08-04T18:05:09Z",
-   "last_seen": "2026-08-04T18:05:09Z",
-   "expires": "2026-10-03"
   }
  ]
 }
