@@ -2813,7 +2813,7 @@
     },
     "mentions": [
       {
-        "quote": "Ravi in Palo Alto (Rasa Sweets) also does it and makes really good chile bhature and pani puri",
+        "quote": "A neighbor in Palo Alto (Rasa Sweets) also does it and makes really good chile bhature and pani puri",
         "date": "2026-09-13",
         "type": "contact"
       }
@@ -4223,6 +4223,31 @@
     ],
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-16",
+    "mention_count": 1
+  },
+  {
+    "id": "jeff-home-finishing-contractor",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Jeff Home Finishing Contractor",
+    "contact": {
+      "phones": [
+        "(408) 832-0779"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Jeff Home Finishing Contractor (+1 (408) 832-0779)",
+        "date": "2026-10-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-05",
     "mention_count": 1
   },
   {
@@ -11572,6 +11597,31 @@
     "mention_count": 2
   },
   {
+    "id": "3-step-rodent-proofing",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "3 Step Rodent Proofing",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://3steprodentproofing.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://3steprodentproofing.com/",
+        "date": "2026-10-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-05",
+    "mention_count": 1
+  },
+  {
     "id": "attic-crew",
     "category": "pest control",
     "categories": [
@@ -14011,6 +14061,29 @@
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-05",
     "mention_count": 2
+  },
+  {
+    "id": "bernardo-shoe-repair",
+    "category": "tailor",
+    "categories": [
+      "tailor"
+    ],
+    "name": "Bernardo shoe repair",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "he has been great with zipper and strap repairs for luggage",
+        "date": "2026-10-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-05",
+    "mention_count": 1
   },
   {
     "id": "maneesha-sari-palace",
