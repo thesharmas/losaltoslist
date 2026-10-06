@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-10-05T04:15:45Z",
+  "generated_at": "2026-10-06T04:15:29Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -44,24 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_aeae303d329d",
-   "title": "Holiday Festive Edit",
-   "kind": "regional",
-   "start_date": "2026-10-02",
-   "end_date": "2026-10-03",
-   "time": "3–7 PM",
-   "venue": null,
-   "city": "San Jose",
-   "organizer": "Sage & Veda",
-   "cost": null,
-   "url": "https://bit.ly/3Vpyq4A",
-   "recurrence": null,
-   "description": "Sage & Veda is hosting a Holiday Festive Edit with South Asian women-led brands.",
-   "first_seen": "2026-09-22T17:11:00Z",
-   "last_seen": "2026-09-22T17:11:00Z",
-   "from_image": false
   },
   {
    "id": "evt_63f67200267e",
@@ -115,6 +97,24 @@
    "description": "Join the Annual Domestic Violence Awareness Walk and Candlelight Vigil in Fremont.",
    "first_seen": "2026-09-30T15:18:49Z",
    "last_seen": "2026-09-30T15:18:49Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_2cca057cb2a6",
+   "title": "Investing in Girls and Women",
+   "kind": "local",
+   "start_date": "2026-10-08",
+   "end_date": null,
+   "time": "6 - 8 pm",
+   "venue": "12830 Deer Creek Ln",
+   "city": "Los Altos Hills",
+   "organizer": "Pratham USA and Antara International",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A conversation featuring Srividya Prakash and Meenakshi Ramesh.",
+   "first_seen": "2026-10-05T14:39:36Z",
+   "last_seen": "2026-10-05T14:39:36Z",
    "from_image": true
   },
   {
