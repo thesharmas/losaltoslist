@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-06T04:15:29Z",
+  "generated_at": "2026-10-07T04:15:33Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 13,
-  "promo_count": 25,
+  "upcoming_count": 12,
+  "promo_count": 26,
   "schema_version": 3
  },
  "events": [
@@ -43,42 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_63f67200267e",
-   "title": "Women Impact Group Festive Wear Trunk Show",
-   "kind": "regional",
-   "start_date": "2026-10-03",
-   "end_date": "2026-10-04",
-   "time": "11 AM to 5 PM",
-   "venue": "Plumas Dr, Saratoga",
-   "city": "Saratoga",
-   "organizer": "Narika",
-   "cost": "Free",
-   "url": "http://www.narika.org",
-   "recurrence": null,
-   "description": "Purchase festive Indian ethnic clothes to support Narika, aiding survivors of domestic violence.",
-   "first_seen": "2026-10-03T17:18:51Z",
-   "last_seen": "2026-10-03T17:18:51Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_73a3a91d3d9a",
-   "title": "Mad and Divine by Rama Vaidyanathan",
-   "kind": "regional",
-   "start_date": "2026-10-04",
-   "end_date": null,
-   "time": "3:00 PM",
-   "venue": "Hillsdale Little Theater",
-   "city": "San Mateo",
-   "organizer": "Samudra Dance Creations & Layadhwani Academy",
-   "cost": null,
-   "url": "www.tugoz.com/mad-divine",
-   "recurrence": null,
-   "description": "A dance production based on the life and poetry of Janabai and Lalded.",
-   "first_seen": "2026-09-18T00:29:13Z",
-   "last_seen": "2026-09-18T04:21:26Z",
    "from_image": true
   },
   {
@@ -208,6 +172,24 @@
    "from_image": true
   },
   {
+   "id": "evt_d5906e1389e1",
+   "title": "RJ Garba with Aanand & Achal Anjaria",
+   "kind": "regional",
+   "start_date": "2026-10-18",
+   "end_date": null,
+   "time": "6:00 PM - 9:00 PM",
+   "venue": "IFES Mountain View",
+   "city": "Mountain View",
+   "organizer": "RJ Garba",
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A spectacular evening of Garba with Aanand & Achal Anjaria.",
+   "first_seen": "2026-10-06T20:06:57Z",
+   "last_seen": "2026-10-06T20:06:57Z",
+   "from_image": true
+  },
+  {
    "id": "evt_f0742b257ddd",
    "title": "Garba & Dandiya by RJ Events",
    "kind": "regional",
@@ -245,6 +227,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_0f2c4123692a",
+   "name": "Sakshi's Children's Book",
+   "what": "children's book with fun activities",
+   "url": "https://a.co/d/0hoeDR0N",
+   "description": "Sakshi has published a children's book for K-5 readers, now available on Amazon.",
+   "first_seen": "2026-10-06T17:49:57Z",
+   "last_seen": "2026-10-06T17:49:57Z",
+   "expires": "2026-12-05"
+  },
   {
    "id": "prm_d150e11e6b79",
    "name": "Manisha Boutique",
