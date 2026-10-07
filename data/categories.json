@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 44,
-    "query_count": 58,
-    "last_activity": "2026-10-02"
+    "entry_count": 46,
+    "query_count": 60,
+    "last_activity": "2026-10-06"
   },
   {
     "slug": "catering",
@@ -19,9 +19,9 @@
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
-    "entry_count": 38,
-    "query_count": 45,
-    "last_activity": "2026-10-05"
+    "entry_count": 39,
+    "query_count": 46,
+    "last_activity": "2026-10-06"
   },
   {
     "slug": "doctor",
@@ -56,20 +56,20 @@
     "last_activity": "2026-10-05"
   },
   {
+    "slug": "pest-control",
+    "name": "Pest Control",
+    "emoji": "🐜",
+    "entry_count": 17,
+    "query_count": 14,
+    "last_activity": "2026-10-06"
+  },
+  {
     "slug": "plumber",
     "name": "Plumber",
     "emoji": "🔧",
     "entry_count": 13,
     "query_count": 22,
     "last_activity": "2026-08-15"
-  },
-  {
-    "slug": "pest-control",
-    "name": "Pest Control",
-    "emoji": "🐜",
-    "entry_count": 16,
-    "query_count": 14,
-    "last_activity": "2026-10-05"
   },
   {
     "slug": "tailor",
@@ -96,20 +96,20 @@
     "last_activity": "2026-07-12"
   },
   {
+    "slug": "handyman",
+    "name": "Handyman",
+    "emoji": "🔨",
+    "entry_count": 5,
+    "query_count": 24,
+    "last_activity": "2026-10-06"
+  },
+  {
     "slug": "interior-design",
     "name": "Interior Design",
     "emoji": "🛋️",
     "entry_count": 12,
     "query_count": 10,
     "last_activity": "2026-10-03"
-  },
-  {
-    "slug": "handyman",
-    "name": "Handyman",
-    "emoji": "🔨",
-    "entry_count": 5,
-    "query_count": 23,
-    "last_activity": "2026-10-05"
   },
   {
     "slug": "lawyer",
@@ -317,7 +317,7 @@
     "emoji": "📌",
     "entry_count": 5,
     "query_count": 2,
-    "last_activity": "2026-10-03"
+    "last_activity": "2026-10-06"
   },
   {
     "slug": "hair-stylist",
@@ -869,7 +869,7 @@
     "emoji": "📌",
     "entry_count": 1,
     "query_count": 1,
-    "last_activity": "2026-08-05"
+    "last_activity": "2026-10-06"
   },
   {
     "slug": "consultation-service",

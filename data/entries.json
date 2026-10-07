@@ -3532,7 +3532,8 @@
     "category": "college counseling",
     "categories": [
       "college counseling",
-      "college counselor"
+      "college counselor",
+      "tutoring"
     ],
     "name": "My College Counseling",
     "contact": {
@@ -3554,11 +3555,16 @@
         "quote": "Contact: Surbhi Counselor (+1 (408) 230-6799)",
         "date": "2026-08-05",
         "type": "contact"
+      },
+      {
+        "quote": "Contact: Surbhi Counselor (+1 (408) 230-6799)",
+        "date": "2026-10-06",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-26",
-    "last_seen": "2026-08-05",
-    "mention_count": 2
+    "last_seen": "2026-10-06",
+    "mention_count": 3
   },
   {
     "id": "goal-admit",
@@ -4580,6 +4586,31 @@
     ],
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
+    "mention_count": 1
+  },
+  {
+    "id": "safety-garage-door",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Safety Garage door",
+    "contact": {
+      "phones": [
+        "(415) 233-6534"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Safety Garage door: (415) 233-6534",
+        "date": "2026-10-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "mention_count": 1
   },
   {
@@ -11480,6 +11511,36 @@
     "mention_count": 3
   },
   {
+    "id": "3-step-rodents",
+    "category": "pest control",
+    "categories": [
+      "pest control"
+    ],
+    "name": "3 Step Rodents",
+    "contact": {
+      "phones": [
+        "(650) 771-7971"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: 3 Step Rodents Trevor (+1 (650) 771-7971)",
+        "date": "2026-10-06",
+        "type": "contact"
+      },
+      {
+        "quote": "For rodents we used them and highly recommend , not a handyman but rodent control",
+        "date": "2026-10-06",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "mention_count": 2
+  },
+  {
     "id": "felipe-cassillas",
     "category": "pest control",
     "categories": [
@@ -15698,6 +15759,29 @@
     ],
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
+    "mention_count": 1
+  },
+  {
+    "id": "surbhi",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Surbhi",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My daughter’s counselor (Surbhi) who’s local here is extremely knowledgeable and very supportive.",
+        "date": "2026-10-06",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
     "mention_count": 1
   },
   {
