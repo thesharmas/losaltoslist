@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-10-07T04:15:33Z",
+  "generated_at": "2026-10-08T04:15:32Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -227,6 +227,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_889d02d1d652",
+   "name": "PetDentalServices",
+   "what": "Non-Anesthesia Dental Cleanings for pets",
+   "url": "https://yelp.to/QWmoHKG5FZ",
+   "description": "Offering non-anesthesia dental cleanings for pets, safer for seniors and those with health conditions.",
+   "first_seen": "2026-10-07T19:02:52Z",
+   "last_seen": "2026-10-07T19:02:52Z",
+   "expires": "2026-12-06"
+  },
   {
    "id": "prm_0f2c4123692a",
    "name": "Sakshi's Children's Book",
@@ -476,16 +486,6 @@
    "first_seen": "2026-08-10T07:00:01Z",
    "last_seen": "2026-08-10T07:00:01Z",
    "expires": "2026-10-09"
-  },
-  {
-   "id": "prm_294a739add9c",
-   "name": "Ghar Ka Swaad",
-   "what": "home-cooked meals",
-   "url": null,
-   "description": "Ghar Ka Swaad offers home-cooked meals using avocado oil or desi ghee.",
-   "first_seen": "2026-08-07T04:57:04Z",
-   "last_seen": "2026-08-07T04:57:04Z",
-   "expires": "2026-10-06"
   }
  ]
 }
