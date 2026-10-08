@@ -4848,6 +4848,54 @@
     "mention_count": 1
   },
   {
+    "id": "kanchana-venkat",
+    "category": "dance instructor",
+    "categories": [
+      "dance instructor"
+    ],
+    "name": "Kanchana Venkat",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Kanchana venkat is near loyola school. DM me if that location works for you",
+        "date": "2026-10-08",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "mention_count": 1
+  },
+  {
+    "id": "vishwa-shanthi",
+    "category": "dance instructor",
+    "categories": [
+      "dance instructor"
+    ],
+    "name": "Vishwa Shanthi",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.vishwashanthi.com/home/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.vishwashanthi.com/home/ - classes are held at Palo Alto location",
+        "date": "2026-10-07",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "mention_count": 1
+  },
+  {
     "id": "antara",
     "category": "dance school",
     "categories": [
@@ -7378,6 +7426,41 @@
     "first_seen": "2025-12-27",
     "last_seen": "2025-12-27",
     "mention_count": 1
+  },
+  {
+    "id": "cory",
+    "category": "garage door",
+    "categories": [
+      "garage door"
+    ],
+    "name": "Cory",
+    "contact": {
+      "phones": [
+        "(408) 963-8834"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Cory (+1 (408) 963-8834)",
+        "date": "2026-10-07",
+        "type": "contact"
+      },
+      {
+        "quote": "Cory helped us with garage repair and tune up.",
+        "date": "2026-10-07",
+        "type": "review"
+      },
+      {
+        "quote": "Cory helped with repair and tune up.",
+        "date": "2026-10-07",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "mention_count": 3
   },
   {
     "id": "sousa-garage",

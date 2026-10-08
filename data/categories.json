@@ -736,6 +736,14 @@
     "last_activity": "2026-07-28"
   },
   {
+    "slug": "dance-instructor",
+    "name": "Dance Instructor",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 0,
+    "last_activity": "2026-10-08"
+  },
+  {
     "slug": "donation-center",
     "name": "Donation Center",
     "emoji": "📌",
@@ -950,6 +958,14 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-01-11"
+  },
+  {
+    "slug": "garage-door",
+    "name": "Garage Door",
+    "emoji": "🚪",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-10-07"
   },
   {
     "slug": "grocery-service",
@@ -1496,12 +1512,12 @@
     "last_activity": "2026-05-26"
   },
   {
-    "slug": "garage-door",
-    "name": "Garage Door",
-    "emoji": "🚪",
+    "slug": "garage",
+    "name": "Garage",
+    "emoji": "📌",
     "entry_count": 0,
     "query_count": 1,
-    "last_activity": "2026-06-04"
+    "last_activity": "2026-10-07"
   },
   {
     "slug": "graphic-design",
