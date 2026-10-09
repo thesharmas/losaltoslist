@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-10-08T04:15:32Z",
+  "generated_at": "2026-10-09T04:15:28Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
+  "upcoming_count": 13,
   "promo_count": 26,
   "schema_version": 3
  },
@@ -79,6 +79,24 @@
    "description": "A conversation featuring Srividya Prakash and Meenakshi Ramesh.",
    "first_seen": "2026-10-05T14:39:36Z",
    "last_seen": "2026-10-05T14:39:36Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_c742f37efdf2",
+   "title": "Bazaar & Bites",
+   "kind": "regional",
+   "start_date": "2026-10-10",
+   "end_date": null,
+   "time": "12 - 6 PM",
+   "venue": "19450 Burgundy Way",
+   "city": "Saratoga",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "Enjoy shopping and food at the Bazaar & Bites event featuring South Asian brands.",
+   "first_seen": "2026-10-08T22:44:23Z",
+   "last_seen": "2026-10-08T22:44:23Z",
    "from_image": true
   },
   {
