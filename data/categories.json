@@ -11,9 +11,9 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 48,
-    "query_count": 37,
-    "last_activity": "2026-10-04"
+    "entry_count": 49,
+    "query_count": 38,
+    "last_activity": "2026-10-09"
   },
   {
     "slug": "contractor",
@@ -1166,6 +1166,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-14"
+  },
+  {
+    "slug": "jewelry",
+    "name": "Jewelry",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-10-09"
   },
   {
     "slug": "law-enforcement",

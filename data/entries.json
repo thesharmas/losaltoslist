@@ -2174,6 +2174,36 @@
     "mention_count": 2
   },
   {
+    "id": "sntial-treats",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Sntial Treats",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.instagram.com/sntialtreats?cplk=MW9uaDlsMjBjcjBqbA=="
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.instagram.com/sntialtreats?cplk=MW9uaDlsMjBjcjBqbA==",
+        "date": "2026-10-09",
+        "type": "contact"
+      },
+      {
+        "quote": "The sweets are phenomenal and very creative. Highly recommend",
+        "date": "2026-10-09",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "mention_count": 2
+  },
+  {
     "id": "sweet-diplomacy",
     "category": "catering",
     "categories": [
@@ -9010,6 +9040,31 @@
     ],
     "first_seen": "2026-05-04",
     "last_seen": "2026-05-04",
+    "mention_count": 1
+  },
+  {
+    "id": "png-jewelers",
+    "category": "jewelry",
+    "categories": [
+      "jewelry"
+    ],
+    "name": "PNG Jewelers",
+    "contact": {
+      "phones": [
+        "(408) 245-6764"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Since the festive season has started, thought I'd share this here!\n\nCelebrate your Diwali with PNG Jewelers incredible offers:\n- Free Gold coin on jewelry purchase above $1000 net value\n- Flat 40% off on 18 Karat certified natural diamond jewelry \n- 22 Karat gold jewelry starting from 0% making c...",
+        "date": "2026-10-09",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
     "mention_count": 1
   },
   {
