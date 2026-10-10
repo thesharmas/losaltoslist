@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-09T04:15:28Z",
+  "generated_at": "2026-10-10T04:15:33Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 13,
-  "promo_count": 26,
+  "upcoming_count": 12,
+  "promo_count": 27,
   "schema_version": 3
  },
  "events": [
@@ -43,24 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_4a23923ca01a",
-   "title": "Candlelight Vigil",
-   "kind": "regional",
-   "start_date": "2026-10-07",
-   "end_date": null,
-   "time": "6:00 PM - 7:30 PM",
-   "venue": "Downtown Event Center",
-   "city": "Fremont",
-   "organizer": null,
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Join the Annual Domestic Violence Awareness Walk and Candlelight Vigil in Fremont.",
-   "first_seen": "2026-09-30T15:18:49Z",
-   "last_seen": "2026-09-30T15:18:49Z",
    "from_image": true
   },
   {
@@ -245,6 +227,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_1673c2a387e9",
+   "name": "PNG Jewelers",
+   "what": "jewelry offers",
+   "url": null,
+   "description": "Celebrate your Diwali with PNG Jewelers' incredible offers including free gold coin on jewelry purchase above $1000 and flat 40% off on 18 Karat certified natural diamond jewelry.",
+   "first_seen": "2026-10-09T21:17:47Z",
+   "last_seen": "2026-10-09T21:17:47Z",
+   "expires": "2026-12-08"
+  },
   {
    "id": "prm_889d02d1d652",
    "name": "PetDentalServices",
