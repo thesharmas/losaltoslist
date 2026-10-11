@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-10T04:15:33Z",
+  "generated_at": "2026-10-11T04:15:39Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 12,
-  "promo_count": 27,
+  "promo_count": 26,
   "schema_version": 3
  },
  "events": [
@@ -43,24 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_2cca057cb2a6",
-   "title": "Investing in Girls and Women",
-   "kind": "local",
-   "start_date": "2026-10-08",
-   "end_date": null,
-   "time": "6 - 8 pm",
-   "venue": "12830 Deer Creek Ln",
-   "city": "Los Altos Hills",
-   "organizer": "Pratham USA and Antara International",
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "A conversation featuring Srividya Prakash and Meenakshi Ramesh.",
-   "first_seen": "2026-10-05T14:39:36Z",
-   "last_seen": "2026-10-05T14:39:36Z",
    "from_image": true
   },
   {
@@ -134,6 +116,24 @@
    "first_seen": "2026-09-29T18:59:13Z",
    "last_seen": "2026-09-29T18:59:13Z",
    "from_image": false
+  },
+  {
+   "id": "evt_86fd7f3c6f93",
+   "title": "JITO USA Women's Entrepreneur Mela",
+   "kind": "regional",
+   "start_date": "2026-10-11",
+   "end_date": null,
+   "time": "10:00 AM - 6:00 PM",
+   "venue": "India Community Center (ICC)",
+   "city": "Milpitas",
+   "organizer": null,
+   "cost": "Free",
+   "url": null,
+   "recurrence": null,
+   "description": "Nishka Jewel Creations is exhibiting at the JITO USA Women's Entrepreneur Mela.",
+   "first_seen": "2026-10-10T17:37:36Z",
+   "last_seen": "2026-10-10T17:37:36Z",
+   "from_image": true
   },
   {
    "id": "evt_210e20d4116e",
@@ -486,16 +486,6 @@
    "first_seen": "2026-08-10T21:27:06Z",
    "last_seen": "2026-08-11T03:49:19Z",
    "expires": "2026-10-10"
-  },
-  {
-   "id": "prm_31fae144c017",
-   "name": "Swar-Abhyaas",
-   "what": "music classes",
-   "url": null,
-   "description": "Offering voice culture, Hindustani classical vocal, semi-classical, bhajans, folk and Garba singing, and karaoke Bollywood classes.",
-   "first_seen": "2026-08-10T07:00:01Z",
-   "last_seen": "2026-08-10T07:00:01Z",
-   "expires": "2026-10-09"
   }
  ]
 }
