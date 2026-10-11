@@ -6,7 +6,7 @@ Guidance for AI agents and LLM-powered tools consuming this repository.
 
 A machine-readable directory of local service providers for Los Altos, CA,
 built from neighborhood WhatsApp group recommendations. 649
-providers, 232 categories. Regenerated daily by an
+providers, 233 categories. Regenerated daily by an
 automated pipeline; every update is a git commit, so history is auditable.
 
 ## How to use the data

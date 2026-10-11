@@ -12,8 +12,8 @@
     "name": "Catering",
     "emoji": "🍳",
     "entry_count": 49,
-    "query_count": 38,
-    "last_activity": "2026-10-09"
+    "query_count": 39,
+    "last_activity": "2026-10-10"
   },
   {
     "slug": "contractor",
@@ -982,6 +982,14 @@
     "entry_count": 1,
     "query_count": 1,
     "last_activity": "2026-08-20"
+  },
+  {
+    "slug": "other",
+    "name": "Other",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 3,
+    "last_activity": "2026-10-10"
   },
   {
     "slug": "pet-sitting",
