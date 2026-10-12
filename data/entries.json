@@ -2144,6 +2144,38 @@
     "mention_count": 2
   },
   {
+    "id": "manoj",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Manoj",
+    "contact": {
+      "phones": [
+        "(929) 287-6777"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/chatori-chaat-santa-clara"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Manoj has chatori chaat and also do live stations https://yelp.to/tV2MxEPvY9",
+        "date": "2026-06-03",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Manoj (+1 (929) 287-6777)",
+        "date": "2026-10-11",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-10-11",
+    "mention_count": 2
+  },
+  {
     "id": "rasa-catering",
     "category": "catering",
     "categories": [
@@ -2589,31 +2621,6 @@
     ],
     "first_seen": "2026-05-13",
     "last_seen": "2026-05-13",
-    "mention_count": 1
-  },
-  {
-    "id": "manoj",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Manoj",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.yelp.com/biz/chatori-chaat-santa-clara"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "Manoj has chatori chaat and also do live stations https://yelp.to/tV2MxEPvY9",
-        "date": "2026-06-03",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
     "mention_count": 1
   },
   {
@@ -15088,6 +15095,34 @@
     "first_seen": "2026-03-02",
     "last_seen": "2026-08-10",
     "mention_count": 3
+  },
+  {
+    "id": "alvaro-spanish-teacher",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Alvaro Spanish Teacher",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Alvaro Spanish Teacher (+502 4663 6811)",
+        "date": "2026-10-11",
+        "type": "contact"
+      },
+      {
+        "quote": "He is in Mexico and does virtual sessions",
+        "date": "2026-10-11",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 2
   },
   {
     "id": "bintang",
