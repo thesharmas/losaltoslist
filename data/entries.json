@@ -7288,6 +7288,29 @@
     "mention_count": 1
   },
   {
+    "id": "deanza-college",
+    "category": "farmers market",
+    "categories": [
+      "farmers market"
+    ],
+    "name": "DeAnza College",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "DeAnza college on Sundays 9-1",
+        "date": "2026-10-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1
+  },
+  {
     "id": "all-fence",
     "category": "fence",
     "categories": [
@@ -16028,6 +16051,31 @@
     ],
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-3136518821",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://instagram.com/virtualpreskool?cplk=NTc4MTIwNjQ2YQ%3D%3D"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://instagram.com/virtualpreskool?cplk=NTc4MTIwNjQ2YQ%3D%3D",
+        "date": "2026-10-13",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
     "mention_count": 1
   },
   {

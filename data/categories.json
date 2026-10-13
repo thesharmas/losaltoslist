@@ -3,9 +3,9 @@
     "slug": "tutoring",
     "name": "Tutoring",
     "emoji": "📚",
-    "entry_count": 47,
-    "query_count": 61,
-    "last_activity": "2026-10-11"
+    "entry_count": 48,
+    "query_count": 62,
+    "last_activity": "2026-10-13"
   },
   {
     "slug": "catering",
@@ -52,8 +52,8 @@
     "name": "Cleaner",
     "emoji": "🧹",
     "entry_count": 14,
-    "query_count": 24,
-    "last_activity": "2026-10-05"
+    "query_count": 25,
+    "last_activity": "2026-10-13"
   },
   {
     "slug": "pest-control",
@@ -1158,6 +1158,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-09-21"
+  },
+  {
+    "slug": "farmers-market",
+    "name": "Farmers Market",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-10-13"
   },
   {
     "slug": "home-garden-consultant",
