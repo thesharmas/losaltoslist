@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-13T04:17:15Z",
+  "generated_at": "2026-10-14T04:16:08Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 8,
-  "promo_count": 25,
+  "upcoming_count": 6,
+  "promo_count": 23,
   "schema_version": 3
  },
  "events": [
@@ -43,42 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_86fd7f3c6f93",
-   "title": "JITO USA Women's Entrepreneur Mela",
-   "kind": "regional",
-   "start_date": "2026-10-11",
-   "end_date": null,
-   "time": "10:00 AM - 6:00 PM",
-   "venue": "India Community Center (ICC)",
-   "city": "Milpitas",
-   "organizer": null,
-   "cost": "Free",
-   "url": null,
-   "recurrence": null,
-   "description": "Nishka Jewel Creations is exhibiting at the JITO USA Women's Entrepreneur Mela.",
-   "first_seen": "2026-10-10T17:37:36Z",
-   "last_seen": "2026-10-10T17:37:36Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_210e20d4116e",
-   "title": "The Parent Pause",
-   "kind": "local",
-   "start_date": "2026-10-11",
-   "end_date": null,
-   "time": "4 - 5 PM",
-   "venue": null,
-   "city": "Los Altos",
-   "organizer": "AskGita",
-   "cost": "$25 per person",
-   "url": null,
-   "recurrence": null,
-   "description": "An interactive workshop for parents inspired by timeless wisdom from the Bhagavad Gita.",
-   "first_seen": "2026-08-28T21:52:49Z",
-   "last_seen": "2026-08-28T21:52:49Z",
    "from_image": true
   },
   {
@@ -384,26 +348,6 @@
    "first_seen": "2026-08-16T14:08:35Z",
    "last_seen": "2026-08-16T14:08:35Z",
    "expires": "2026-10-15"
-  },
-  {
-   "id": "prm_7b187d83d9f0",
-   "name": "Matic Robots",
-   "what": "robotics launch",
-   "url": "https://x.com/maticrobots/status/2087962897267990915?s=46&t=hI0QvM9pDE5rThfSRqX9xQ",
-   "description": "Matic Robots is having a big launch day.",
-   "first_seen": "2026-08-13T18:59:46Z",
-   "last_seen": "2026-08-13T18:59:46Z",
-   "expires": "2026-10-12"
-  },
-  {
-   "id": "prm_e2000296bd7d",
-   "name": "Komal's Gourmet Kitchen",
-   "what": "gourmet kitchen services",
-   "url": "http://komalsgourmetkitchen.com",
-   "description": "Komal's Gourmet Kitchen offers gourmet kitchen services.",
-   "first_seen": "2026-08-13T00:59:16Z",
-   "last_seen": "2026-08-13T00:59:16Z",
-   "expires": "2026-10-12"
   }
  ]
 }
