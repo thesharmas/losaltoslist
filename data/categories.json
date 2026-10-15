@@ -36,8 +36,8 @@
     "name": "Landscaper",
     "emoji": "🌿",
     "entry_count": 20,
-    "query_count": 32,
-    "last_activity": "2026-10-04"
+    "query_count": 33,
+    "last_activity": "2026-10-14"
   },
   {
     "slug": "nanny",
@@ -253,7 +253,7 @@
     "emoji": "🌱",
     "entry_count": 5,
     "query_count": 6,
-    "last_activity": "2026-10-04"
+    "last_activity": "2026-10-14"
   },
   {
     "slug": "dj",
@@ -488,6 +488,14 @@
     "last_activity": "2026-09-21"
   },
   {
+    "slug": "mehndi-artist",
+    "name": "Mehndi Artist",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 1,
+    "last_activity": "2026-10-14"
+  },
+  {
     "slug": "party-service",
     "name": "Party Service",
     "emoji": "📌",
@@ -662,6 +670,14 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-09-20"
+  },
+  {
+    "slug": "consultant",
+    "name": "Consultant",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-10-14"
   },
   {
     "slug": "dental-surgeon",
@@ -1454,14 +1470,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-04-23"
-  },
-  {
-    "slug": "consultant",
-    "name": "Consultant",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-10-13"
   },
   {
     "slug": "dance-lessons",

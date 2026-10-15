@@ -3712,6 +3712,54 @@
     "mention_count": 1
   },
   {
+    "id": "monica-sanchez",
+    "category": "consultant",
+    "categories": [
+      "consultant"
+    ],
+    "name": "Monica Sanchez",
+    "contact": {
+      "phones": [
+        "(669) 208-2158"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Monica Sanchez (+1 (669) 208-2158)",
+        "date": "2026-10-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1
+  },
+  {
+    "id": "proven-connections",
+    "category": "consultant",
+    "categories": [
+      "consultant"
+    ],
+    "name": "Proven Connections",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Monica is the owner of Proven Connections, she can manage anything to do with PG&E pretty well. We’ve been working with her on our project for the past year.",
+        "date": "2026-10-14",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1
+  },
+  {
     "id": "meenakshi-sundararaman",
     "category": "consultation service",
     "categories": [
@@ -7651,6 +7699,47 @@
     "mention_count": 1
   },
   {
+    "id": "santiago-lopez",
+    "category": "gardener",
+    "categories": [
+      "gardener",
+      "landscaper"
+    ],
+    "name": "Santiago Lopez",
+    "contact": {
+      "phones": [
+        "(408) 406-7302"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
+        "date": "2026-06-23",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
+        "date": "2026-08-08",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
+        "date": "2026-10-04",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
+        "date": "2026-10-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-10-14",
+    "mention_count": 4
+  },
+  {
     "id": "santiago",
     "category": "gardener",
     "categories": [
@@ -7682,42 +7771,6 @@
     ],
     "first_seen": "2026-03-08",
     "last_seen": "2026-08-08",
-    "mention_count": 3
-  },
-  {
-    "id": "santiago-lopez",
-    "category": "gardener",
-    "categories": [
-      "gardener",
-      "landscaper"
-    ],
-    "name": "Santiago Lopez",
-    "contact": {
-      "phones": [
-        "(408) 406-7302"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
-        "date": "2026-06-23",
-        "type": "contact"
-      },
-      {
-        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
-        "date": "2026-08-08",
-        "type": "contact"
-      },
-      {
-        "quote": "Contact: Santiago Lopez (+1 (408) 406-7302)",
-        "date": "2026-10-04",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-10-04",
     "mention_count": 3
   },
   {
@@ -10066,6 +10119,90 @@
     ],
     "first_seen": "2026-01-04",
     "last_seen": "2026-01-04",
+    "mention_count": 1
+  },
+  {
+    "id": "henna-by-jinal",
+    "category": "mehndi artist",
+    "categories": [
+      "mehndi artist"
+    ],
+    "name": "Henna by Jinal",
+    "contact": {
+      "phones": [
+        "(607) 759-4320"
+      ],
+      "emails": [
+        "hennabyjindal@gmail.com"
+      ],
+      "websites": [
+        "gmail.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "-\tHenna by Jinal – 607-759-4320 – hennabyjindal@gmail.com",
+        "date": "2026-10-14",
+        "type": "contact"
+      },
+      {
+        "quote": "she also has a team that does hair n make-up and saree draping\n\nwe are getting someone from her team for our office Diwali Party for Mehndi",
+        "date": "2026-10-14",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 2
+  },
+  {
+    "id": "just-wow-by-dhwani",
+    "category": "mehndi artist",
+    "categories": [
+      "mehndi artist"
+    ],
+    "name": "Just wow By Dhwani",
+    "contact": {
+      "phones": [
+        "(612) 200-4104"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Just wow By Dhwani (+1 (612) 200-4104)",
+        "date": "2026-10-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1
+  },
+  {
+    "id": "kush-mehndi-girl-sfo",
+    "category": "mehndi artist",
+    "categories": [
+      "mehndi artist"
+    ],
+    "name": "Kush Mehndi Girl Sfo",
+    "contact": {
+      "phones": [
+        "(510) 946-0632"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Kush Mehndi Girl Sfo (+1 (510) 946-0632)",
+        "date": "2026-10-14",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
     "mention_count": 1
   },
   {
