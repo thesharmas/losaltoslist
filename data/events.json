@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-10-14T04:16:08Z",
+  "generated_at": "2026-10-16T04:15:30Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 6,
+  "upcoming_count": 8,
   "promo_count": 23,
   "schema_version": 3
  },
@@ -61,6 +61,42 @@
    "description": "Attend the Baybasi Autumn Festival 2026 for new arrivals and festive offers.",
    "first_seen": "2026-10-05T03:27:16Z",
    "last_seen": "2026-10-05T03:27:16Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_1a1933194bb9",
+   "title": "Ramlila: A Musical Drama",
+   "kind": "regional",
+   "start_date": "2026-10-17",
+   "end_date": null,
+   "time": "6:30 PM",
+   "venue": "India Community Center",
+   "city": "Milpitas",
+   "organizer": "India Community Center & Ayaansh Group",
+   "cost": "Free",
+   "url": "http://ramlila.us",
+   "recurrence": null,
+   "description": "Experience the timeless saga of Lord Shri Rama through music, drama, and devotion.",
+   "first_seen": "2026-10-15T12:56:18Z",
+   "last_seen": "2026-10-15T12:56:18Z",
+   "from_image": true
+  },
+  {
+   "id": "evt_85ccec55c365",
+   "title": "The Making of Hindustani Music in the Modern Era",
+   "kind": "regional",
+   "start_date": "2026-10-18",
+   "end_date": null,
+   "time": "3 PM to 5 PM",
+   "venue": "India Community Center",
+   "city": "Milpitas, CA",
+   "organizer": "India Community Center",
+   "cost": "Free",
+   "url": null,
+   "recurrence": null,
+   "description": "A lecture-demonstration on Hindustani music by Professor Dard Neuman and scholar-musicians.",
+   "first_seen": "2026-10-15T12:56:28Z",
+   "last_seen": "2026-10-15T12:56:28Z",
    "from_image": true
   },
   {
