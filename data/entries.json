@@ -30,6 +30,36 @@
     "mention_count": 2
   },
   {
+    "id": "shaker-khan",
+    "category": "accountant",
+    "categories": [
+      "accountant"
+    ],
+    "name": "Shaker Khan",
+    "contact": {
+      "phones": [
+        "(312) 813-9079"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Shaker Khan Working Num (+1 (312) 813-9079)",
+        "date": "2026-10-15",
+        "type": "contact"
+      },
+      {
+        "quote": "Been with Shaker for over 10 years, always offers great advice, reasonable rates as well",
+        "date": "2026-10-15",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 2
+  },
+  {
     "id": "annette",
     "category": "accountant",
     "categories": [
@@ -10149,11 +10179,16 @@
         "quote": "she also has a team that does hair n make-up and saree draping\n\nwe are getting someone from her team for our office Diwali Party for Mehndi",
         "date": "2026-10-14",
         "type": "review"
+      },
+      {
+        "quote": "She is really good and I have done mehendi from her every year. She has moved to Fremont though this year",
+        "date": "2026-10-15",
+        "type": "review"
       }
     ],
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14",
-    "mention_count": 2
+    "last_seen": "2026-10-15",
+    "mention_count": 3
   },
   {
     "id": "just-wow-by-dhwani",

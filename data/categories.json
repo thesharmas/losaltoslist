@@ -256,6 +256,14 @@
     "last_activity": "2026-10-14"
   },
   {
+    "slug": "accountant",
+    "name": "Accountant",
+    "emoji": "🧾",
+    "entry_count": 4,
+    "query_count": 7,
+    "last_activity": "2026-10-15"
+  },
+  {
     "slug": "dj",
     "name": "Dj",
     "emoji": "📌",
@@ -302,14 +310,6 @@
     "entry_count": 6,
     "query_count": 1,
     "last_activity": "2026-08-20"
-  },
-  {
-    "slug": "accountant",
-    "name": "Accountant",
-    "emoji": "🧾",
-    "entry_count": 3,
-    "query_count": 6,
-    "last_activity": "2026-09-10"
   },
   {
     "slug": "caregiver",
@@ -493,7 +493,7 @@
     "emoji": "📌",
     "entry_count": 3,
     "query_count": 1,
-    "last_activity": "2026-10-14"
+    "last_activity": "2026-10-15"
   },
   {
     "slug": "party-service",
