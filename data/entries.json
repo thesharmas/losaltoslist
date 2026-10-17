@@ -2294,6 +2294,29 @@
     "mention_count": 2
   },
   {
+    "id": "achi-appa-kadhai",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Achi Appa Kadhai",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We recently did achi appa kadhai and we loved their food",
+        "date": "2026-10-16",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "mention_count": 1
+  },
+  {
     "id": "annapurna",
     "category": "catering",
     "categories": [
@@ -5315,6 +5338,29 @@
     ],
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
+    "mention_count": 1
+  },
+  {
+    "id": "pearl-smile-dental",
+    "category": "dentist",
+    "categories": [
+      "dentist"
+    ],
+    "name": "Pearl Smile Dental",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We go to Milpitas to Pearl smile dental for the whole family. Dr Ishita is great",
+        "date": "2026-10-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "mention_count": 1
   },
   {
@@ -9256,6 +9302,46 @@
     "mention_count": 1
   },
   {
+    "id": "tobanche-landscaping",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Tobanche Landscaping",
+    "contact": {
+      "phones": [
+        "(650) 669-3162"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Very efficient & reasonable cost",
+        "date": "2026-09-15",
+        "type": "contact"
+      },
+      {
+        "quote": "his crew did our hardscape work and did a really neat job. Skilled guys, clean work, easy to have around. Reasonable pricing.",
+        "date": "2026-10-16",
+        "type": "contact"
+      },
+      {
+        "quote": "Toby is working on our yard right now and I am pleased so far with his crew and their work. Some hardscape, some plants, some turf. He’s easy to communicate with and respectful. He gave me ideas and suggestions on where I can save money (always a plus). His quote was the best out of 7.",
+        "date": "2026-10-16",
+        "type": "review"
+      },
+      {
+        "quote": "We hired Toby as well & would second that",
+        "date": "2026-10-16",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-16",
+    "mention_count": 4
+  },
+  {
     "id": "eric",
     "category": "landscaper",
     "categories": [
@@ -9686,31 +9772,6 @@
     ],
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
-    "mention_count": 1
-  },
-  {
-    "id": "toby",
-    "category": "landscaper",
-    "categories": [
-      "landscaper"
-    ],
-    "name": "Toby",
-    "contact": {
-      "phones": [
-        "(650) 669-3162"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Very efficient & reasonable cost",
-        "date": "2026-09-15",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
     "mention_count": 1
   },
   {
@@ -11603,6 +11664,31 @@
     ],
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-mark-dal-porto",
+    "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
+    "name": "Dr. Mark Dal Porto",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.svpdo.com/mark-dal-porto/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "My daughter went here and we really liked him",
+        "date": "2026-10-16",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
     "mention_count": 1
   },
   {
