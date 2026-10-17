@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-16T04:15:30Z",
+  "generated_at": "2026-10-17T04:15:25Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 8,
-  "promo_count": 23,
+  "promo_count": 22,
   "schema_version": 3
  },
  "events": [
@@ -374,16 +374,6 @@
    "first_seen": "2026-08-21T05:52:48Z",
    "last_seen": "2026-08-22T16:29:30Z",
    "expires": "2026-10-21"
-  },
-  {
-   "id": "prm_0bfd4c43e38a",
-   "name": "Mini Kalkat",
-   "what": "real estate services",
-   "url": "minikalkat.com",
-   "description": "Mini Kalkat is a top-ranked Realtor® in Los Altos and California.",
-   "first_seen": "2026-08-16T14:08:35Z",
-   "last_seen": "2026-08-16T14:08:35Z",
-   "expires": "2026-10-15"
   }
  ]
 }
