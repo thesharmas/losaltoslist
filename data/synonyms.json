@@ -143,7 +143,10 @@
   "lawyer": [
     "real estate attorney",
     "trust attorney",
-    "estate planning"
+    "estate planning",
+    "oci law",
+    "immigration attorney",
+    "oci legal"
   ],
   "insurance": [
     "broker",
@@ -249,5 +252,10 @@
   ],
   "event-planner": [
     "event decorator"
+  ],
+  "painter": [
+    "wallpaper",
+    "wallpaper installation",
+    "wallpapering"
   ]
 }
