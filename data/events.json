@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-17T04:15:25Z",
+  "generated_at": "2026-10-18T04:15:32Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 8,
-  "promo_count": 22,
+  "upcoming_count": 10,
+  "promo_count": 23,
   "schema_version": 3
  },
  "events": [
@@ -100,6 +100,24 @@
    "from_image": true
   },
   {
+   "id": "evt_a77e11c0de53",
+   "title": "Dusshera Celebrations",
+   "kind": "regional",
+   "start_date": "2026-10-18",
+   "end_date": null,
+   "time": "5:00 - 6:30 PM",
+   "venue": "Shreemaya Krishnadham",
+   "city": "San Jose",
+   "organizer": "Bay Area Youth Vaishnav Parivar",
+   "cost": null,
+   "url": "www.bayvp.org",
+   "recurrence": null,
+   "description": "Cultural program followed by Raavan Dahan at Shreemaya Krishnadham.",
+   "first_seen": "2026-10-17T19:32:29Z",
+   "last_seen": "2026-10-17T19:32:29Z",
+   "from_image": true
+  },
+  {
    "id": "evt_d5906e1389e1",
    "title": "RJ Garba with Aanand & Achal Anjaria",
    "kind": "regional",
@@ -152,9 +170,37 @@
    "first_seen": "2026-07-25T00:15:32Z",
    "last_seen": "2026-07-25T00:15:32Z",
    "from_image": false
+  },
+  {
+   "id": "evt_c8905e8d45ff",
+   "title": "SVM Diwali Carnival Festival",
+   "kind": "regional",
+   "start_date": "2026-11-01",
+   "end_date": null,
+   "time": "11:30 AM - 2:00 PM",
+   "venue": "175 Nortech Parkway",
+   "city": "San Jose",
+   "organizer": "Shreemay Community Services",
+   "cost": "Free",
+   "url": null,
+   "recurrence": null,
+   "description": "Join the vibrant Diwali Carnival Festival with lights, food, music, and games.",
+   "first_seen": "2026-10-17T16:46:22Z",
+   "last_seen": "2026-10-17T19:32:02Z",
+   "from_image": true
   }
  ],
  "promos": [
+  {
+   "id": "prm_e921e246677a",
+   "name": "Bombay Glow Beauty Salon",
+   "what": "beauty services",
+   "url": "www.BombayGlowBeautySalon.com",
+   "description": "Bombay Glow Beauty Salon recently opened across from Mancini offering excellent service including Mehndi for Karvachauth, makeup, hair, and threading.",
+   "first_seen": "2026-10-18T02:10:52Z",
+   "last_seen": "2026-10-18T02:11:33Z",
+   "expires": "2026-12-17"
+  },
   {
    "id": "prm_38ffd6a37b71",
    "name": "Shruti Shloka Academy",
