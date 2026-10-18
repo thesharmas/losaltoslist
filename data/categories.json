@@ -40,19 +40,19 @@
     "last_activity": "2026-10-16"
   },
   {
+    "slug": "cleaner",
+    "name": "Cleaner",
+    "emoji": "🧹",
+    "entry_count": 17,
+    "query_count": 26,
+    "last_activity": "2026-10-17"
+  },
+  {
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
     "entry_count": 17,
     "query_count": 24,
-    "last_activity": "2026-10-04"
-  },
-  {
-    "slug": "cleaner",
-    "name": "Cleaner",
-    "emoji": "🧹",
-    "entry_count": 14,
-    "query_count": 26,
     "last_activity": "2026-10-17"
   },
   {
@@ -461,7 +461,7 @@
     "emoji": "🏠",
     "entry_count": 2,
     "query_count": 4,
-    "last_activity": "2026-10-16"
+    "last_activity": "2026-10-17"
   },
   {
     "slug": "bartender",
@@ -1118,6 +1118,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-04-03"
+  },
+  {
+    "slug": "beauty-salon",
+    "name": "Beauty Salon",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-10-18"
   },
   {
     "slug": "boxing-classes",

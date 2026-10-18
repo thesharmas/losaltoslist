@@ -1070,6 +1070,31 @@
     "mention_count": 1
   },
   {
+    "id": "bombay-glow-beauty-salon",
+    "category": "beauty salon",
+    "categories": [
+      "beauty salon"
+    ],
+    "name": "Bombay Glow Beauty Salon",
+    "contact": {
+      "phones": [
+        "(650) 924-9001"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Please try Bombay Glow Beauty Salon recently opened across from Mancini! Brand new! Beautiful! Excellent service. Please ask for a neighbor.",
+        "date": "2026-10-18",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "mention_count": 1
+  },
+  {
     "id": "beeguild-org",
     "category": "beekeeper",
     "categories": [
@@ -3212,6 +3237,42 @@
     "mention_count": 2
   },
   {
+    "id": "minerva",
+    "category": "cleaner",
+    "categories": [
+      "cleaner",
+      "nanny"
+    ],
+    "name": "Minerva",
+    "contact": {
+      "phones": [
+        "(650) 862-9990"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Second Minerva, she has been great!",
+        "date": "2026-06-08",
+        "type": "review"
+      },
+      {
+        "quote": "Minerva has been great for us. Very reasonably priced, her team is very punctual, cleans thoroughly, they are in and out very quick, and do a really good job. She’s been cleaning our house for almost 5 yrs now. We also had her/her team help with packing/unpacking when we moved. She helps out for ...",
+        "date": "2026-10-17",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Minerva (+1 (650) 862-9990)",
+        "date": "2026-10-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-10-17",
+    "mention_count": 3
+  },
+  {
     "id": "sequoia-cleaning-inc",
     "category": "cleaner",
     "categories": [
@@ -3469,6 +3530,54 @@
     ],
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
+    "mention_count": 1
+  },
+  {
+    "id": "maria",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Maria",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Maria has been great. Comes every week to house for 8 years now.",
+        "date": "2026-10-17",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1
+  },
+  {
+    "id": "maria-vasquez",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Maria Vasquez",
+    "contact": {
+      "phones": [
+        "(650) 518-3897"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Maria Vasquez (+1 (650) 518-3897)",
+        "date": "2026-10-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
     "mention_count": 1
   },
   {
@@ -10864,29 +10973,6 @@
     "mention_count": 1
   },
   {
-    "id": "minerva",
-    "category": "nanny",
-    "categories": [
-      "nanny"
-    ],
-    "name": "Minerva",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Second Minerva, she has been great!",
-        "date": "2026-06-08",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "mention_count": 1
-  },
-  {
     "id": "parneet",
     "category": "nanny",
     "categories": [
@@ -14263,6 +14349,34 @@
     "mention_count": 1
   },
   {
+    "id": "los-gatos-roofing",
+    "category": "roofer",
+    "categories": [
+      "roofer"
+    ],
+    "name": "Los Gatos Roofing",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Los Gatos Roofing has been great to identify and fix / repair roof in past. We have used them earlier.",
+        "date": "2026-02-17",
+        "type": "review"
+      },
+      {
+        "quote": "Try Los Gatos roofing. They did ours with gutter guards along with new roof. Best company for anything roof related",
+        "date": "2026-10-17",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-02-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 2
+  },
+  {
     "id": "done-right-roofing",
     "category": "roofer",
     "categories": [
@@ -14281,29 +14395,6 @@
         "quote": "These guys helped fix a leak last year",
         "date": "2026-02-17",
         "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-17",
-    "last_seen": "2026-02-17",
-    "mention_count": 1
-  },
-  {
-    "id": "los-gatos-roofing",
-    "category": "roofer",
-    "categories": [
-      "roofer"
-    ],
-    "name": "Los Gatos Roofing",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Los Gatos Roofing has been great to identify and fix / repair roof in past. We have used them earlier.",
-        "date": "2026-02-17",
-        "type": "review"
       }
     ],
     "first_seen": "2026-02-17",
