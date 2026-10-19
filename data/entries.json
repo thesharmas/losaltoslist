@@ -9386,6 +9386,31 @@
     "mention_count": 1
   },
   {
+    "id": "james-contractor",
+    "category": "irrigation",
+    "categories": [
+      "irrigation"
+    ],
+    "name": "James contractor",
+    "contact": {
+      "phones": [
+        "(408) 309-0145"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: James contractor (+1 (408) 309-0145)",
+        "date": "2026-10-18",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "mention_count": 1
+  },
+  {
     "id": "png-jewelers",
     "category": "jewelry",
     "categories": [
@@ -10707,6 +10732,41 @@
     "mention_count": 1
   },
   {
+    "id": "satwinder",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Satwinder",
+    "contact": {
+      "phones": [
+        "(669) 238-8371"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Satwinder (+1 (669) 238-8371)",
+        "date": "2026-09-18",
+        "type": "contact"
+      },
+      {
+        "quote": "I use Satwinder as a personal cab",
+        "date": "2026-09-18",
+        "type": "review"
+      },
+      {
+        "quote": "Contact: Satwinder (+1 (669) 238-8371)",
+        "date": "2026-10-19",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-19",
+    "mention_count": 3
+  },
+  {
     "id": "amandeep",
     "category": "nanny",
     "categories": [
@@ -10762,36 +10822,6 @@
     ],
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23",
-    "mention_count": 2
-  },
-  {
-    "id": "satwinder",
-    "category": "nanny",
-    "categories": [
-      "nanny"
-    ],
-    "name": "Satwinder",
-    "contact": {
-      "phones": [
-        "(669) 238-8371"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Satwinder (+1 (669) 238-8371)",
-        "date": "2026-09-18",
-        "type": "contact"
-      },
-      {
-        "quote": "I use Satwinder as a personal cab",
-        "date": "2026-09-18",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
     "mention_count": 2
   },
   {
@@ -13075,11 +13105,21 @@
         "quote": "Just used Javier from castle plumbing for a blocked sewage line.",
         "date": "2026-06-14",
         "type": "contact"
+      },
+      {
+        "quote": "Contact: Javier Castle plumbing (+1 (408) 417-3091)",
+        "date": "2026-10-18",
+        "type": "contact"
+      },
+      {
+        "quote": "I used him for a different purpose but try him",
+        "date": "2026-10-18",
+        "type": "review"
       }
     ],
     "first_seen": "2026-01-09",
-    "last_seen": "2026-06-14",
-    "mention_count": 7
+    "last_seen": "2026-10-18",
+    "mention_count": 9
   },
   {
     "id": "24-hour-drain-pro-plumbing",
@@ -13989,6 +14029,36 @@
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
     "mention_count": 1
+  },
+  {
+    "id": "k-kishor-sharma",
+    "category": "religious service",
+    "categories": [
+      "religious service"
+    ],
+    "name": "K. Kishor Sharma",
+    "contact": {
+      "phones": [
+        "(408) 480-7940"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: K. Kishor Sharma (+1 (408) 480-7940)",
+        "date": "2026-10-18",
+        "type": "contact"
+      },
+      {
+        "quote": "He did a few services for us and was great.",
+        "date": "2026-10-18",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "mention_count": 2
   },
   {
     "id": "pandit-bhushanji",

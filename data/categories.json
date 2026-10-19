@@ -52,8 +52,8 @@
     "name": "Nanny",
     "emoji": "👶",
     "entry_count": 17,
-    "query_count": 24,
-    "last_activity": "2026-10-17"
+    "query_count": 25,
+    "last_activity": "2026-10-19"
   },
   {
     "slug": "pest-control",
@@ -69,7 +69,7 @@
     "emoji": "🔧",
     "entry_count": 13,
     "query_count": 22,
-    "last_activity": "2026-08-15"
+    "last_activity": "2026-10-18"
   },
   {
     "slug": "tailor",
@@ -344,6 +344,14 @@
     "last_activity": "2026-10-06"
   },
   {
+    "slug": "music-teacher",
+    "name": "Music Teacher",
+    "emoji": "🎵",
+    "entry_count": 5,
+    "query_count": 2,
+    "last_activity": "2026-10-18"
+  },
+  {
     "slug": "orthodontist",
     "name": "Orthodontist",
     "emoji": "📌",
@@ -382,14 +390,6 @@
     "entry_count": 4,
     "query_count": 3,
     "last_activity": "2026-08-01"
-  },
-  {
-    "slug": "music-teacher",
-    "name": "Music Teacher",
-    "emoji": "🎵",
-    "entry_count": 5,
-    "query_count": 1,
-    "last_activity": "2026-01-27"
   },
   {
     "slug": "painter",
@@ -446,6 +446,14 @@
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-01-23"
+  },
+  {
+    "slug": "religious-service",
+    "name": "Religious Service",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-10-18"
   },
   {
     "slug": "elder-care",
@@ -616,14 +624,6 @@
     "last_activity": "2026-06-03"
   },
   {
-    "slug": "religious-service",
-    "name": "Religious Service",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 2,
-    "last_activity": "2026-09-13"
-  },
-  {
     "slug": "swim-classes",
     "name": "Swim Classes",
     "emoji": "📌",
@@ -782,6 +782,14 @@
     "entry_count": 1,
     "query_count": 2,
     "last_activity": "2026-01-28"
+  },
+  {
+    "slug": "irrigation",
+    "name": "Irrigation",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 2,
+    "last_activity": "2026-10-18"
   },
   {
     "slug": "lifeguard",
@@ -1045,7 +1053,7 @@
     "emoji": "📌",
     "entry_count": 1,
     "query_count": 1,
-    "last_activity": "2026-06-14"
+    "last_activity": "2026-10-18"
   },
   {
     "slug": "structural-engineer",
@@ -1544,6 +1552,14 @@
     "last_activity": "2026-03-18"
   },
   {
+    "slug": "fitness",
+    "name": "Fitness",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-10-18"
+  },
+  {
     "slug": "fitness-instructor",
     "name": "Fitness Instructor",
     "emoji": "📌",
@@ -1630,14 +1646,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-04-30"
-  },
-  {
-    "slug": "irrigation",
-    "name": "Irrigation",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-05-20"
   },
   {
     "slug": "language-teacher",
