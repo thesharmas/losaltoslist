@@ -28,8 +28,8 @@
     "name": "Doctor",
     "emoji": "🏥",
     "entry_count": 29,
-    "query_count": 27,
-    "last_activity": "2026-09-21"
+    "query_count": 28,
+    "last_activity": "2026-10-19"
   },
   {
     "slug": "landscaper",
@@ -92,8 +92,8 @@
     "name": "Electrician",
     "emoji": "⚡",
     "entry_count": 11,
-    "query_count": 15,
-    "last_activity": "2026-07-12"
+    "query_count": 16,
+    "last_activity": "2026-10-20"
   },
   {
     "slug": "handyman",
@@ -200,6 +200,14 @@
     "last_activity": "2026-06-29"
   },
   {
+    "slug": "pediatric-dentist",
+    "name": "Pediatric Dentist",
+    "emoji": "📌",
+    "entry_count": 8,
+    "query_count": 4,
+    "last_activity": "2026-10-20"
+  },
+  {
     "slug": "hvac",
     "name": "Hvac",
     "emoji": "🌡️",
@@ -262,14 +270,6 @@
     "entry_count": 4,
     "query_count": 7,
     "last_activity": "2026-10-15"
-  },
-  {
-    "slug": "pediatric-dentist",
-    "name": "Pediatric Dentist",
-    "emoji": "📌",
-    "entry_count": 6,
-    "query_count": 3,
-    "last_activity": "2026-10-16"
   },
   {
     "slug": "dj",
@@ -622,6 +622,14 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-06-03"
+  },
+  {
+    "slug": "party-helper",
+    "name": "Party Helper",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 4,
+    "last_activity": "2026-10-19"
   },
   {
     "slug": "swim-classes",
@@ -1262,14 +1270,6 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-04-23"
-  },
-  {
-    "slug": "party-helper",
-    "name": "Party Helper",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 2,
-    "last_activity": "2026-06-03"
   },
   {
     "slug": "paving",

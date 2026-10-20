@@ -11554,6 +11554,36 @@
     "mention_count": 1
   },
   {
+    "id": "maryna-puhach-party-helper",
+    "category": "party helper",
+    "categories": [
+      "party helper"
+    ],
+    "name": "Maryna Puhach Party Helper",
+    "contact": {
+      "phones": [
+        "(650) 660-1063"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Maryna Puhach Party Helper (+1 (650) 660-1063)",
+        "date": "2026-10-19",
+        "type": "contact"
+      },
+      {
+        "quote": "She is really good party helper",
+        "date": "2026-10-19",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "mention_count": 2
+  },
+  {
     "id": "archana-akrisha-events",
     "category": "party planner",
     "categories": [
@@ -11730,6 +11760,37 @@
     "mention_count": 1
   },
   {
+    "id": "cupertino-pediatric-dentistry",
+    "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
+    "name": "Cupertino Pediatric Dentistry",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.cupertinopediatricdentistry.com/doctors/aneesha",
+        "https://www.cupertinopediatricdentistry.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "https://www.cupertinopediatricdentistry.com/doctors/aneesha",
+        "date": "2026-06-14",
+        "type": "contact"
+      },
+      {
+        "quote": "https://www.cupertinopediatricdentistry.com/",
+        "date": "2026-10-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-20",
+    "mention_count": 2
+  },
+  {
     "id": "dr-sarita-wang",
     "category": "pediatric dentist",
     "categories": [
@@ -11758,28 +11819,26 @@
     "mention_count": 2
   },
   {
-    "id": "cupertino-pediatric-dentistry",
+    "id": "dr-aneesha-amarnath",
     "category": "pediatric dentist",
     "categories": [
       "pediatric dentist"
     ],
-    "name": "Cupertino Pediatric Dentistry",
+    "name": "Dr. Aneesha Amarnath",
     "contact": {
       "phones": [],
       "emails": [],
-      "websites": [
-        "https://www.cupertinopediatricdentistry.com/doctors/aneesha"
-      ]
+      "websites": []
     },
     "mentions": [
       {
-        "quote": "https://www.cupertinopediatricdentistry.com/doctors/aneesha",
-        "date": "2026-06-14",
+        "quote": "Dr. Aneesha Amarnath \n10393 Torre Ave Suite #L Cupertino, CA 95014 \n(Opposite the Cupertino library)",
+        "date": "2026-10-20",
         "type": "contact"
       }
     ],
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
     "mention_count": 1
   },
   {
@@ -11805,6 +11864,31 @@
     ],
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
+    "mention_count": 1
+  },
+  {
+    "id": "dr-nick-gorgani",
+    "category": "pediatric dentist",
+    "categories": [
+      "pediatric dentist"
+    ],
+    "name": "Dr Nick Gorgani",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.pediatricdentistryoflosaltos.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We absolutely adore Dr Nick Gorgani!",
+        "date": "2026-10-20",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
     "mention_count": 1
   },
   {
