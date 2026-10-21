@@ -2319,6 +2319,35 @@
     "mention_count": 2
   },
   {
+    "id": "whole-foods",
+    "category": "catering",
+    "categories": [
+      "catering",
+      "pharmacy"
+    ],
+    "name": "Whole Foods",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Whole Foods has vegan cakes",
+        "date": "2026-09-14",
+        "type": "contact"
+      },
+      {
+        "quote": "I have seen some at Whole Foods.",
+        "date": "2026-10-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-10-20",
+    "mention_count": 2
+  },
+  {
     "id": "achi-appa-kadhai",
     "category": "catering",
     "categories": [
@@ -3086,29 +3115,6 @@
     ],
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "mention_count": 1
-  },
-  {
-    "id": "whole-foods",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Whole Foods",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Whole Foods has vegan cakes",
-        "date": "2026-09-14",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-14",
     "mention_count": 1
   },
   {
@@ -7017,6 +7023,67 @@
     "mention_count": 2
   },
   {
+    "id": "fernando",
+    "category": "electrician",
+    "categories": [
+      "electrician",
+      "handyman"
+    ],
+    "name": "Fernando",
+    "contact": {
+      "phones": [
+        "(650) 385-9079"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Fernando is amazing!!",
+        "date": "2026-09-03",
+        "type": "contact"
+      },
+      {
+        "quote": "Fernando is great  - (650) 385-9079",
+        "date": "2026-10-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-20",
+    "mention_count": 2
+  },
+  {
+    "id": "mel-electrician",
+    "category": "electrician",
+    "categories": [
+      "electrician"
+    ],
+    "name": "Mel Electrician",
+    "contact": {
+      "phones": [
+        "(408) 204-4419"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Mel Electrician (+1 (408) 204-4419)",
+        "date": "2026-07-10",
+        "type": "contact"
+      },
+      {
+        "quote": "Contact: Mel Electrician (+1 (408) 204-4419)",
+        "date": "2026-10-21",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-10-21",
+    "mention_count": 2
+  },
+  {
     "id": "ahmed-rasooli",
     "category": "electrician",
     "categories": [
@@ -7183,31 +7250,6 @@
     ],
     "first_seen": "2026-03-14",
     "last_seen": "2026-03-14",
-    "mention_count": 1
-  },
-  {
-    "id": "mel-electrician",
-    "category": "electrician",
-    "categories": [
-      "electrician"
-    ],
-    "name": "Mel Electrician",
-    "contact": {
-      "phones": [
-        "(408) 204-4419"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Mel Electrician (+1 (408) 204-4419)",
-        "date": "2026-07-10",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-07-10",
-    "last_seen": "2026-07-10",
     "mention_count": 1
   },
   {
@@ -8345,31 +8387,6 @@
     "first_seen": "2026-01-20",
     "last_seen": "2026-01-20",
     "mention_count": 2
-  },
-  {
-    "id": "fernando",
-    "category": "handyman",
-    "categories": [
-      "handyman"
-    ],
-    "name": "Fernando",
-    "contact": {
-      "phones": [
-        "(650) 385-9079"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Fernando is amazing!!",
-        "date": "2026-09-03",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
-    "mention_count": 1
   },
   {
     "id": "ricardo",
@@ -12626,6 +12643,29 @@
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-02",
     "mention_count": 2
+  },
+  {
+    "id": "sprouts",
+    "category": "pharmacy",
+    "categories": [
+      "pharmacy"
+    ],
+    "name": "Sprouts",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sprouts has some too! If it’s not very urgent you can try online on iherb.",
+        "date": "2026-10-20",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "mention_count": 1
   },
   {
     "id": "at-t",
