@@ -44,8 +44,8 @@
     "name": "Cleaner",
     "emoji": "🧹",
     "entry_count": 17,
-    "query_count": 26,
-    "last_activity": "2026-10-17"
+    "query_count": 27,
+    "last_activity": "2026-10-21"
   },
   {
     "slug": "nanny",
@@ -56,20 +56,20 @@
     "last_activity": "2026-10-19"
   },
   {
+    "slug": "plumber",
+    "name": "Plumber",
+    "emoji": "🔧",
+    "entry_count": 13,
+    "query_count": 23,
+    "last_activity": "2026-10-21"
+  },
+  {
     "slug": "pest-control",
     "name": "Pest Control",
     "emoji": "🐜",
     "entry_count": 17,
     "query_count": 14,
     "last_activity": "2026-10-06"
-  },
-  {
-    "slug": "plumber",
-    "name": "Plumber",
-    "emoji": "🔧",
-    "entry_count": 13,
-    "query_count": 22,
-    "last_activity": "2026-10-18"
   },
   {
     "slug": "tailor",
