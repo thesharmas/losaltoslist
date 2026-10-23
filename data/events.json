@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-22T04:15:34Z",
+  "generated_at": "2026-10-23T04:15:24Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 10,
-  "promo_count": 23,
+  "upcoming_count": 11,
+  "promo_count": 22,
   "schema_version": 3
  },
  "events": [
@@ -61,6 +61,24 @@
    "description": "Los Altos City will provide free lunch and cultural programs for seniors.",
    "first_seen": "2026-07-25T00:15:32Z",
    "last_seen": "2026-07-25T00:15:32Z",
+   "from_image": false
+  },
+  {
+   "id": "evt_5098b4c592ab",
+   "title": "Kids Kirtan & Krishna Katha",
+   "kind": "local",
+   "start_date": "2026-10-23",
+   "end_date": null,
+   "time": null,
+   "venue": "Aditi's home",
+   "city": "Los Altos",
+   "organizer": null,
+   "cost": null,
+   "url": null,
+   "recurrence": null,
+   "description": "A community meetup for devotional singing and storytelling.",
+   "first_seen": "2026-10-23T02:52:16Z",
+   "last_seen": "2026-10-23T02:52:16Z",
    "from_image": false
   },
   {
@@ -191,6 +209,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_6b7a68a23769",
+   "name": "The Diabetes Blueprint",
+   "what": "book on diabetes management",
+   "url": "https://mybook.link/book/B0HLN4HY8H",
+   "description": "The Diabetes Blueprint has reached #1 on Amazon’s Best Sellers list in Healthcare Industry (USA) and is available for $0.99 on Kindle today.",
+   "first_seen": "2026-10-22T18:56:21Z",
+   "last_seen": "2026-10-22T18:56:21Z",
+   "expires": "2026-12-21"
+  },
   {
    "id": "prm_e921e246677a",
    "name": "Bombay Glow Beauty Salon",
@@ -400,26 +428,6 @@
    "first_seen": "2026-08-24T15:27:58Z",
    "last_seen": "2026-08-24T15:27:58Z",
    "expires": "2026-10-23"
-  },
-  {
-   "id": "prm_31b7d8fce7d9",
-   "name": "Reena's Booth",
-   "what": "custom orders of macrame and crochet work",
-   "url": "https://www.instagram.com/reel/DcWlOsTvjjo/?igsi=NjFhOGMzYTE3ZQ==",
-   "description": "Reena's daughter Sanjana is showcasing her macrame and crochet work at the Artisan Fair.",
-   "first_seen": "2026-08-22T19:28:56Z",
-   "last_seen": "2026-08-22T19:28:56Z",
-   "expires": "2026-10-21"
-  },
-  {
-   "id": "prm_08dba9580f3c",
-   "name": "Creating Joy India",
-   "what": "hand-crafted polki and silver Rakhis",
-   "url": "https://creatingjoyindia.com/collections/rakhi",
-   "description": "Creating Joy India offers hand-crafted polki and silver Rakhis with gifts, goodies, and flowers, available for delivery across India and the US.",
-   "first_seen": "2026-08-21T05:52:48Z",
-   "last_seen": "2026-08-22T16:29:30Z",
-   "expires": "2026-10-21"
   }
  ]
 }
