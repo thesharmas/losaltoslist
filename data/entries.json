@@ -10842,6 +10842,36 @@
     "mention_count": 2
   },
   {
+    "id": "leticia",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Leticia",
+    "contact": {
+      "phones": [
+        "(916) 856-0180"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Our family helper Leticia has been with us for 4 years. Very reliable and helpful.",
+        "date": "2026-06-14",
+        "type": "contact"
+      },
+      {
+        "quote": "She been with us for the last 4 years and is extremely reliable. She helps with household work and childcare (dropping off/picking up kids).",
+        "date": "2026-10-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-22",
+    "mention_count": 2
+  },
+  {
     "id": "sunita-lamichhane",
     "category": "nanny",
     "categories": [
@@ -10967,31 +10997,6 @@
     ],
     "first_seen": "2026-04-30",
     "last_seen": "2026-04-30",
-    "mention_count": 1
-  },
-  {
-    "id": "leticia",
-    "category": "nanny",
-    "categories": [
-      "nanny"
-    ],
-    "name": "Leticia",
-    "contact": {
-      "phones": [
-        "(916) 856-0180"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Our family helper Leticia has been with us for 4 years. Very reliable and helpful.",
-        "date": "2026-06-14",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
     "mention_count": 1
   },
   {
@@ -14447,6 +14452,29 @@
     "mention_count": 1
   },
   {
+    "id": "swaminarayan-temple-milpitas",
+    "category": "restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "name": "Swaminarayan temple Milpitas",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Swaminarayan temple Milpitas",
+        "date": "2026-10-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "mention_count": 1
+  },
+  {
     "id": "unnamed-3362542019",
     "category": "restaurant",
     "categories": [
@@ -15766,6 +15794,34 @@
     "mention_count": 2
   },
   {
+    "id": "bay-area-chess",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Bay Area Chess",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Bay Area Chess is a big organization that hosts tournaments every weekend, if your child is into that.",
+        "date": "2026-10-22",
+        "type": "contact"
+      },
+      {
+        "quote": "+1 to bay area chess. It can handle all levels of chess and is one of the most reputed orgs in the bay",
+        "date": "2026-10-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "mention_count": 2
+  },
+  {
     "id": "bintang",
     "category": "tutoring",
     "categories": [
@@ -16000,6 +16056,31 @@
     ],
     "first_seen": "2026-01-27",
     "last_seen": "2026-01-27",
+    "mention_count": 1
+  },
+  {
+    "id": "chess-queen-s-club",
+    "category": "tutoring",
+    "categories": [
+      "tutoring"
+    ],
+    "name": "Chess Queen's Club",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.chessqueensclub.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We tried here in the past and it was quite good",
+        "date": "2026-10-22",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
     "mention_count": 1
   },
   {
