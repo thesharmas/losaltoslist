@@ -11,17 +11,17 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 50,
-    "query_count": 41,
-    "last_activity": "2026-10-20"
+    "entry_count": 51,
+    "query_count": 42,
+    "last_activity": "2026-10-24"
   },
   {
     "slug": "contractor",
     "name": "Contractor",
     "emoji": "🏗️",
     "entry_count": 39,
-    "query_count": 46,
-    "last_activity": "2026-10-06"
+    "query_count": 47,
+    "last_activity": "2026-10-23"
   },
   {
     "slug": "doctor",
@@ -43,9 +43,9 @@
     "slug": "cleaner",
     "name": "Cleaner",
     "emoji": "🧹",
-    "entry_count": 17,
+    "entry_count": 18,
     "query_count": 27,
-    "last_activity": "2026-10-21"
+    "last_activity": "2026-10-23"
   },
   {
     "slug": "nanny",
@@ -381,7 +381,7 @@
     "emoji": "👔",
     "entry_count": 4,
     "query_count": 3,
-    "last_activity": "2026-05-05"
+    "last_activity": "2026-10-23"
   },
   {
     "slug": "massage",
@@ -1734,6 +1734,14 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-06-11"
+  },
+  {
+    "slug": "optometrist",
+    "name": "Optometrist",
+    "emoji": "📌",
+    "entry_count": 0,
+    "query_count": 1,
+    "last_activity": "2026-10-23"
   },
   {
     "slug": "organic-products",

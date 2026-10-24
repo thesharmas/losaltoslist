@@ -2109,6 +2109,34 @@
     "mention_count": 2
   },
   {
+    "id": "khandani-blends",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Khandani Blends",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Khandani Blends - feel free to give him my reference :)",
+        "date": "2026-10-24",
+        "type": "contact"
+      },
+      {
+        "quote": "Reach out to Aquib at Khandani blends. He was amazing to work with.",
+        "date": "2026-10-24",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "mention_count": 2
+  },
+  {
     "id": "komal-s-gourmet-kitchen",
     "category": "catering",
     "categories": [
@@ -3402,6 +3430,37 @@
     ],
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
+    "mention_count": 2
+  },
+  {
+    "id": "purple-tie",
+    "category": "cleaner",
+    "categories": [
+      "cleaner",
+      "dry cleaning"
+    ],
+    "name": "Purple Tie",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.purpletie.com/"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We love https://www.purpletie.com/",
+        "date": "2026-02-18",
+        "type": "contact"
+      },
+      {
+        "quote": "I’ve used Purple Tie (app based) for Indian clothes with great success. Plus the convenience of home pick up and delivery.",
+        "date": "2026-10-23",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-02-18",
+    "last_seen": "2026-10-23",
     "mention_count": 2
   },
   {
@@ -6802,31 +6861,6 @@
     ],
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "mention_count": 1
-  },
-  {
-    "id": "purpletie",
-    "category": "dry cleaning",
-    "categories": [
-      "dry cleaning"
-    ],
-    "name": "PurpleTie",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.purpletie.com/"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "We love https://www.purpletie.com/",
-        "date": "2026-02-18",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-18",
-    "last_seen": "2026-02-18",
     "mention_count": 1
   },
   {
