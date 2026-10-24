@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-10-23T04:15:24Z",
+  "generated_at": "2026-10-24T04:15:27Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 11,
+  "upcoming_count": 12,
   "promo_count": 22,
   "schema_version": 3
  },
@@ -44,24 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_5e1ea8a01fea",
-   "title": "Senior Diwali",
-   "kind": "local",
-   "start_date": "2026-10-21",
-   "end_date": null,
-   "time": null,
-   "venue": "97 Hillview Avenue",
-   "city": "Los Altos",
-   "organizer": "Los Altos City",
-   "cost": "Free",
-   "url": "https://secure.rec1.com/CA/LosAltosRecreation/catalog?filter=c2VhcmNoPTQxNjY0NDU=",
-   "recurrence": null,
-   "description": "Los Altos City will provide free lunch and cultural programs for seniors.",
-   "first_seen": "2026-07-25T00:15:32Z",
-   "last_seen": "2026-07-25T00:15:32Z",
-   "from_image": false
   },
   {
    "id": "evt_5098b4c592ab",
@@ -116,6 +98,24 @@
    "first_seen": "2026-10-19T17:01:32Z",
    "last_seen": "2026-10-19T17:01:32Z",
    "from_image": true
+  },
+  {
+   "id": "evt_1d9c57b2cc9c",
+   "title": "Gulzarish Musical Event",
+   "kind": "regional",
+   "start_date": "2026-10-24",
+   "end_date": null,
+   "time": "4 PM",
+   "venue": "Oshman Family JCC",
+   "city": "Palo Alto",
+   "organizer": null,
+   "cost": null,
+   "url": "https://sv.ashanet.org/gulzarish-2026/",
+   "recurrence": null,
+   "description": "A musical event based on the works of Gulzar.",
+   "first_seen": "2026-10-23T16:14:08Z",
+   "last_seen": "2026-10-23T16:14:08Z",
+   "from_image": false
   },
   {
    "id": "evt_14470212419e",
@@ -206,6 +206,24 @@
    "first_seen": "2026-10-21T19:08:03Z",
    "last_seen": "2026-10-21T19:08:03Z",
    "from_image": true
+  },
+  {
+   "id": "evt_68419ba28c13",
+   "title": "Waldorf School Winter Fair",
+   "kind": "local",
+   "start_date": "2026-12-05",
+   "end_date": null,
+   "time": "10 AM - 3 PM",
+   "venue": "Los Altos campus",
+   "city": "Los Altos",
+   "organizer": "Waldorf School of the Peninsula",
+   "cost": "Free",
+   "url": "https://www.waldorfpeninsula.org/winter-fair",
+   "recurrence": null,
+   "description": "The Waldorf School of the Peninsula's annual Winter Fair is open to the public and draws around 600 families.",
+   "first_seen": "2026-10-23T23:46:29Z",
+   "last_seen": "2026-10-23T23:46:29Z",
+   "from_image": false
   }
  ],
  "promos": [
