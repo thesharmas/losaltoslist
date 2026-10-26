@@ -760,6 +760,14 @@
     "last_activity": "2026-07-15"
   },
   {
+    "slug": "window-replacement",
+    "name": "Window Replacement",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 3,
+    "last_activity": "2026-10-25"
+  },
+  {
     "slug": "car-wash",
     "name": "Car Wash",
     "emoji": "📌",
@@ -846,14 +854,6 @@
     "entry_count": 1,
     "query_count": 2,
     "last_activity": "2026-07-13"
-  },
-  {
-    "slug": "window-replacement",
-    "name": "Window Replacement",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 2,
-    "last_activity": "2026-05-29"
   },
   {
     "slug": "acupuncturist",
