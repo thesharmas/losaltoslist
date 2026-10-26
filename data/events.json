@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-10-25T04:15:22Z",
+  "generated_at": "2026-10-26T04:15:25Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
@@ -44,24 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_5098b4c592ab",
-   "title": "Kids Kirtan & Krishna Katha",
-   "kind": "local",
-   "start_date": "2026-10-23",
-   "end_date": null,
-   "time": null,
-   "venue": "Aditi's home",
-   "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "A community meetup for devotional singing and storytelling.",
-   "first_seen": "2026-10-23T02:52:16Z",
-   "last_seen": "2026-10-23T02:52:16Z",
-   "from_image": false
   },
   {
    "id": "evt_3b98f50b3a70",
@@ -152,6 +134,24 @@
    "first_seen": "2026-10-18T16:08:16Z",
    "last_seen": "2026-10-18T16:08:16Z",
    "from_image": true
+  },
+  {
+   "id": "evt_e7d49bcffe34",
+   "title": "Los Altos Scholastic Chess Club Tournament",
+   "kind": "local",
+   "start_date": "2026-10-31",
+   "end_date": null,
+   "time": "10 AM – 2 PM",
+   "venue": "Los Altos Library, Orchard Room",
+   "city": "Los Altos",
+   "organizer": "Kabir",
+   "cost": "$15",
+   "url": "https://caissachess.net/register/11114796",
+   "recurrence": null,
+   "description": "A chess tournament for kids with both competitive and beginner sections.",
+   "first_seen": "2026-10-26T03:51:54Z",
+   "last_seen": "2026-10-26T03:51:54Z",
+   "from_image": false
   },
   {
    "id": "evt_c8905e8d45ff",
