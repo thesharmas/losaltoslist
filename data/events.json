@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-26T04:15:25Z",
+  "generated_at": "2026-10-27T04:15:38Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 12,
-  "promo_count": 19,
+  "upcoming_count": 10,
+  "promo_count": 21,
   "schema_version": 3
  },
  "events": [
@@ -44,60 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_3b98f50b3a70",
-   "title": "Divalicious Jewelry Preview",
-   "kind": "local",
-   "start_date": "2026-10-24",
-   "end_date": null,
-   "time": "11:00 AM - 2:00 PM",
-   "venue": "Tasmia's",
-   "city": "Los Altos",
-   "organizer": null,
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "Exclusive festive preview of a jewelry collection.",
-   "first_seen": "2026-10-21T16:10:18Z",
-   "last_seen": "2026-10-21T16:10:18Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_30c9b3358439",
-   "title": "Sage & Veda Pop-Up at Anthropologie",
-   "kind": "regional",
-   "start_date": "2026-10-24",
-   "end_date": null,
-   "time": "12 PM - 4 PM",
-   "venue": "Anthropologie Valley Fair",
-   "city": "San Jose",
-   "organizer": "The Jazba Collective",
-   "cost": null,
-   "url": "https://www.sageandveda.com",
-   "recurrence": null,
-   "description": "Exclusive pop-up featuring Sage & Veda's bestselling oils and fragrance collection.",
-   "first_seen": "2026-10-19T17:01:32Z",
-   "last_seen": "2026-10-19T17:01:32Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_1d9c57b2cc9c",
-   "title": "Gulzarish Musical Event",
-   "kind": "regional",
-   "start_date": "2026-10-24",
-   "end_date": null,
-   "time": "4 PM",
-   "venue": "Oshman Family JCC",
-   "city": "Palo Alto",
-   "organizer": null,
-   "cost": null,
-   "url": "https://sv.ashanet.org/gulzarish-2026/",
-   "recurrence": null,
-   "description": "A musical event based on the works of Gulzar.",
-   "first_seen": "2026-10-23T16:14:08Z",
-   "last_seen": "2026-10-23T16:14:08Z",
-   "from_image": false
   },
   {
    "id": "evt_14470212419e",
@@ -172,6 +118,24 @@
    "from_image": true
   },
   {
+   "id": "evt_cdf7d0ecf826",
+   "title": "Gentle Yoga Fundraiser Classes",
+   "kind": "regional",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-22",
+   "time": "Various times",
+   "venue": "Online via Zoom",
+   "city": null,
+   "organizer": null,
+   "cost": "Donation ($20+ suggested)",
+   "url": "https://shfb.org",
+   "recurrence": "Sundays, Wednesdays, Fridays in November",
+   "description": "Beginner-friendly yoga classes to support Second Harvest Food Bank.",
+   "first_seen": "2026-10-26T23:11:52Z",
+   "last_seen": "2026-10-26T23:11:52Z",
+   "from_image": true
+  },
+  {
    "id": "evt_337e817d49c1",
    "title": "Heart Health Conversation",
    "kind": "regional",
@@ -227,6 +191,26 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_c987af267efb",
+   "name": "SNTial Treats",
+   "what": "Diwali festive confections",
+   "url": null,
+   "description": "SNTial Treats offers a variety of festive confections for Diwali, including chocolates and dessert jars.",
+   "first_seen": "2026-10-27T00:46:52Z",
+   "last_seen": "2026-10-27T00:46:52Z",
+   "expires": "2026-12-26"
+  },
+  {
+   "id": "prm_ae414246ff17",
+   "name": "Utsav Kriti",
+   "what": "Diwali Glam Backdrop rental",
+   "url": null,
+   "description": "Offering a Pinterest-inspired Diwali photo wall for rent in Los Altos/Bay Area, perfect for parties and events.",
+   "first_seen": "2026-10-26T18:51:21Z",
+   "last_seen": "2026-10-26T18:51:21Z",
+   "expires": "2026-12-25"
+  },
   {
    "id": "prm_6b7a68a23769",
    "name": "The Diabetes Blueprint",
