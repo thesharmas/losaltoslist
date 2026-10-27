@@ -4,16 +4,16 @@
     "name": "Tutoring",
     "emoji": "📚",
     "entry_count": 50,
-    "query_count": 64,
-    "last_activity": "2026-10-22"
+    "query_count": 65,
+    "last_activity": "2026-10-26"
   },
   {
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 51,
-    "query_count": 42,
-    "last_activity": "2026-10-24"
+    "entry_count": 52,
+    "query_count": 43,
+    "last_activity": "2026-10-27"
   },
   {
     "slug": "contractor",
@@ -51,9 +51,9 @@
     "slug": "nanny",
     "name": "Nanny",
     "emoji": "👶",
-    "entry_count": 17,
+    "entry_count": 18,
     "query_count": 25,
-    "last_activity": "2026-10-22"
+    "last_activity": "2026-10-26"
   },
   {
     "slug": "plumber",
@@ -440,6 +440,14 @@
     "last_activity": "2026-08-26"
   },
   {
+    "slug": "grocery",
+    "name": "Grocery",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 3,
+    "last_activity": "2026-10-26"
+  },
+  {
     "slug": "homeowner-insurance",
     "name": "Homeowner Insurance",
     "emoji": "📌",
@@ -486,14 +494,6 @@
     "entry_count": 3,
     "query_count": 1,
     "last_activity": "2026-06-21"
-  },
-  {
-    "slug": "grocery",
-    "name": "Grocery",
-    "emoji": "📌",
-    "entry_count": 2,
-    "query_count": 3,
-    "last_activity": "2026-09-14"
   },
   {
     "slug": "medical-equipment",
@@ -582,6 +582,14 @@
     "entry_count": 2,
     "query_count": 2,
     "last_activity": "2026-07-13"
+  },
+  {
+    "slug": "chef",
+    "name": "Chef",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 2,
+    "last_activity": "2026-10-26"
   },
   {
     "slug": "entertainer",
@@ -904,14 +912,6 @@
     "last_activity": "2026-02-01"
   },
   {
-    "slug": "chef",
-    "name": "Chef",
-    "emoji": "📌",
-    "entry_count": 1,
-    "query_count": 1,
-    "last_activity": "2026-06-16"
-  },
-  {
     "slug": "college-counseling",
     "name": "College Counseling",
     "emoji": "📌",
@@ -1198,6 +1198,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-22"
+  },
+  {
+    "slug": "event-service",
+    "name": "Event Service",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-10-26"
   },
   {
     "slug": "event-staffing",

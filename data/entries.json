@@ -1937,6 +1937,41 @@
     "mention_count": 4
   },
   {
+    "id": "balsa-catering",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "Balsa catering",
+    "contact": {
+      "phones": [
+        "(650) 336-4615"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Go Chaatz or chaat bhavan or rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "650-336-4615 rasa catering",
+        "date": "2026-09-13",
+        "type": "contact"
+      },
+      {
+        "quote": "Balsa catering",
+        "date": "2026-10-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-10-26",
+    "mention_count": 3
+  },
+  {
     "id": "farsan-house",
     "category": "catering",
     "categories": [
@@ -2197,36 +2232,6 @@
     "mention_count": 2
   },
   {
-    "id": "kuldeep-kaur",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Kuldeep Kaur",
-    "contact": {
-      "phones": [
-        "(669) 231-9447"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Contact: Kuldeep kaur (+1 (669) 231-9447)",
-        "date": "2026-06-22",
-        "type": "contact"
-      },
-      {
-        "quote": "Kuldeep Kaur is a good cook who cooks daily breakfast lunch and dinner for our family and elderly in in law. Along with punjabi dishes, she also cooks very good south indian upma, kurma from coconut gravies, sambar, chutney etc. She is also very efficient.",
-        "date": "2026-06-22",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "mention_count": 2
-  },
-  {
     "id": "manoj",
     "category": "catering",
     "categories": [
@@ -2256,36 +2261,6 @@
     ],
     "first_seen": "2026-06-03",
     "last_seen": "2026-10-11",
-    "mention_count": 2
-  },
-  {
-    "id": "rasa-catering",
-    "category": "catering",
-    "categories": [
-      "catering"
-    ],
-    "name": "Rasa Catering",
-    "contact": {
-      "phones": [
-        "(650) 336-4615"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Go Chaatz or chaat bhavan or rasa catering",
-        "date": "2026-09-13",
-        "type": "contact"
-      },
-      {
-        "quote": "650-336-4615 rasa catering",
-        "date": "2026-09-13",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-09-13",
-    "last_seen": "2026-09-13",
     "mention_count": 2
   },
   {
@@ -3120,6 +3095,31 @@
     "mention_count": 1
   },
   {
+    "id": "unnamed-3724487512",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://madhuidiyappakadai.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "If you are looking for South Indian catering, we recently catered live dosa+uttapams. Food was tasty and fresh.",
+        "date": "2026-10-27",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1
+  },
+  {
     "id": "varq-sweets",
     "category": "catering",
     "categories": [
@@ -3167,6 +3167,54 @@
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
     "mention_count": 1
+  },
+  {
+    "id": "shiwani-house-help-chaudhary",
+    "category": "chef",
+    "categories": [
+      "chef",
+      "catering"
+    ],
+    "name": "Shiwani House Help Chaudhary",
+    "contact": {
+      "phones": [
+        "(669) 231-9447",
+        "(209) 305-7233",
+        "(669) 269-1908"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Kuldeep kaur (+1 (669) 231-9447)",
+        "date": "2026-06-22",
+        "type": "contact"
+      },
+      {
+        "quote": "Kuldeep Kaur is a good cook who cooks daily breakfast lunch and dinner for our family and elderly in in law. Along with punjabi dishes, she also cooks very good south indian upma, kurma from coconut gravies, sambar, chutney etc. She is also very efficient.",
+        "date": "2026-06-22",
+        "type": "review"
+      },
+      {
+        "quote": "Contacts:\nContact: Kuldeep kaur Househelp (+1 (669) 231-9447)\nContact: Sarbjeet House Help (+1 (209) 305-7233)\nContact: Shiwani House Help Chaudhary (+1 (669) 269-1908)",
+        "date": "2026-10-26",
+        "type": "contact"
+      },
+      {
+        "quote": "Contacts:\nContact: Kuldeep kaur Househelp (+1 (669) 231-9447)\nContact: Sarbjeet House Help (+1 (209) 305-7233)\nContact: Shiwani House Help Chaudhary (+1 (669) 269-1908)",
+        "date": "2026-10-26",
+        "type": "contact"
+      },
+      {
+        "quote": "Contacts:\nContact: Kuldeep kaur Househelp (+1 (669) 231-9447)\nContact: Sarbjeet House Help (+1 (209) 305-7233)\nContact: Shiwani House Help Chaudhary (+1 (669) 269-1908)",
+        "date": "2026-10-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-10-26",
+    "mention_count": 5
   },
   {
     "id": "chefkart",
@@ -7471,6 +7519,29 @@
     "mention_count": 2
   },
   {
+    "id": "iskcon-temple",
+    "category": "event service",
+    "categories": [
+      "event service"
+    ],
+    "name": "ISKCON Temple",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Celebrate Kartik Maas with divine melodies! 🪔 The ISKCON Temple monks are now offering Kirtan services for the holy month Reach out to them to book a Kirtan session for your upcoming pujas and festivals!",
+        "date": "2026-10-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1
+  },
+  {
     "id": "shija",
     "category": "event staffing",
     "categories": [
@@ -8165,6 +8236,34 @@
     "mention_count": 1
   },
   {
+    "id": "madras-groceries",
+    "category": "grocery",
+    "categories": [
+      "grocery"
+    ],
+    "name": "Madras Groceries",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I’ve gotten from Madras Groceries. Very satisfied.",
+        "date": "2026-05-05",
+        "type": "review"
+      },
+      {
+        "quote": "Available at coconut hill or Madras groceries in sunnyvale",
+        "date": "2026-10-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-10-26",
+    "mention_count": 2
+  },
+  {
     "id": "24-mantra",
     "category": "grocery",
     "categories": [
@@ -8188,12 +8287,12 @@
     "mention_count": 1
   },
   {
-    "id": "madras-groceries",
+    "id": "coconut-hill",
     "category": "grocery",
     "categories": [
       "grocery"
     ],
-    "name": "Madras Groceries",
+    "name": "Coconut Hill",
     "contact": {
       "phones": [],
       "emails": [],
@@ -8201,13 +8300,13 @@
     },
     "mentions": [
       {
-        "quote": "I’ve gotten from Madras Groceries. Very satisfied.",
-        "date": "2026-05-05",
-        "type": "review"
+        "quote": "Available at coconut hill or Madras groceries in sunnyvale",
+        "date": "2026-10-26",
+        "type": "contact"
       }
     ],
-    "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
     "mention_count": 1
   },
   {
@@ -10903,6 +11002,36 @@
     ],
     "first_seen": "2026-06-14",
     "last_seen": "2026-10-22",
+    "mention_count": 2
+  },
+  {
+    "id": "manjeet-kaur",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Manjeet Kaur",
+    "contact": {
+      "phones": [
+        "(408) 498-2173"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "My son’s ex-nanny is available starting Nov 1. We know her since over a decade. She’s hard working, accommodating, and above all trustworthy. She prefers Sunnyvale, Mountain View and Los Altos areas.\n\nManjeet Kaur: +1 (408) 498-2173",
+        "date": "2026-10-26",
+        "type": "contact"
+      },
+      {
+        "quote": "She’s looking for full time only.",
+        "date": "2026-10-26",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
     "mention_count": 2
   },
   {
