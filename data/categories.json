@@ -108,8 +108,8 @@
     "name": "Interior Design",
     "emoji": "🛋️",
     "entry_count": 12,
-    "query_count": 10,
-    "last_activity": "2026-10-03"
+    "query_count": 11,
+    "last_activity": "2026-10-27"
   },
   {
     "slug": "lawyer",
@@ -416,6 +416,14 @@
     "last_activity": "2026-09-06"
   },
   {
+    "slug": "grocery",
+    "name": "Grocery",
+    "emoji": "📌",
+    "entry_count": 3,
+    "query_count": 4,
+    "last_activity": "2026-10-28"
+  },
+  {
     "slug": "bank",
     "name": "Bank",
     "emoji": "📌",
@@ -438,14 +446,6 @@
     "entry_count": 3,
     "query_count": 3,
     "last_activity": "2026-08-26"
-  },
-  {
-    "slug": "grocery",
-    "name": "Grocery",
-    "emoji": "📌",
-    "entry_count": 3,
-    "query_count": 3,
-    "last_activity": "2026-10-26"
   },
   {
     "slug": "homeowner-insurance",
