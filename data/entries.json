@@ -4696,6 +4696,29 @@
     "mention_count": 1
   },
   {
+    "id": "lemon-remodeling",
+    "category": "contractor",
+    "categories": [
+      "contractor"
+    ],
+    "name": "Lemon Remodeling",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "DM me if you need feedback on Lemon remodeling",
+        "date": "2026-10-28",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1
+  },
+  {
     "id": "mirador-pergola",
     "category": "contractor",
     "categories": [
@@ -7940,6 +7963,52 @@
     ],
     "first_seen": "2025-12-27",
     "last_seen": "2025-12-27",
+    "mention_count": 1
+  },
+  {
+    "id": "decorative-plumbing-supply",
+    "category": "furniture",
+    "categories": [
+      "furniture"
+    ],
+    "name": "Decorative Plumbing Supply",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "They have a good selection on display and good service",
+        "date": "2026-10-29",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1
+  },
+  {
+    "id": "ferguson",
+    "category": "furniture",
+    "categories": [
+      "furniture"
+    ],
+    "name": "Ferguson",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Try Ferguson for vanity",
+        "date": "2026-10-28",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
     "mention_count": 1
   },
   {
