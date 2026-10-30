@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-28T04:15:30Z",
+  "generated_at": "2026-10-30T04:15:32Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
   "upcoming_count": 10,
-  "promo_count": 21,
+  "promo_count": 22,
   "schema_version": 3
  },
  "events": [
@@ -44,24 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_14470212419e",
-   "title": "South Asian Parent Alliance Meet and Greet",
-   "kind": "regional",
-   "start_date": "2026-10-27",
-   "end_date": null,
-   "time": null,
-   "venue": null,
-   "city": null,
-   "organizer": "South Asian Parent Alliance",
-   "cost": null,
-   "url": "https://chat.whatsapp.com/IW0qHnfFFmg7yUDXooSljc",
-   "recurrence": null,
-   "description": "A gathering for MVHS families to meet fellow parents and discuss forming a parent affinity group.",
-   "first_seen": "2026-10-20T16:40:26Z",
-   "last_seen": "2026-10-27T23:00:47Z",
-   "from_image": false
   },
   {
    "id": "evt_adce01549805",
@@ -136,6 +118,24 @@
    "from_image": true
   },
   {
+   "id": "evt_95ed85c4a321",
+   "title": "What the Land Remembers Art Show",
+   "kind": "local",
+   "start_date": "2026-11-02",
+   "end_date": "2026-11-29",
+   "time": "5 PM - 8 PM",
+   "venue": "Gallery 9",
+   "city": "Los Altos",
+   "organizer": "Ragini Prasad",
+   "cost": null,
+   "url": "www.raginiart.com",
+   "recurrence": "Tuesday to Sunday",
+   "description": "Gallery 9 presents a solo exhibition by artist Ragini Prasad.",
+   "first_seen": "2026-10-30T02:06:13Z",
+   "last_seen": "2026-10-30T02:06:14Z",
+   "from_image": true
+  },
+  {
    "id": "evt_337e817d49c1",
    "title": "Heart Health Conversation",
    "kind": "regional",
@@ -191,6 +191,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_eb406e532ed7",
+   "name": "Manju Farsan",
+   "what": "Gujarati and Farsan style snacks",
+   "url": "http://Farsanhouse.com",
+   "description": "Manju Farsan is back and taking orders for Gujarati and Farsan style snacks.",
+   "first_seen": "2026-10-29T19:32:31Z",
+   "last_seen": "2026-10-29T19:32:31Z",
+   "expires": "2026-12-28"
+  },
   {
    "id": "prm_c987af267efb",
    "name": "SNTial Treats",
