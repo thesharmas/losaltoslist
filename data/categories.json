@@ -52,8 +52,8 @@
     "name": "Nanny",
     "emoji": "👶",
     "entry_count": 18,
-    "query_count": 25,
-    "last_activity": "2026-10-26"
+    "query_count": 26,
+    "last_activity": "2026-10-30"
   },
   {
     "slug": "plumber",
@@ -189,7 +189,7 @@
     "emoji": "📦",
     "entry_count": 7,
     "query_count": 8,
-    "last_activity": "2026-09-05"
+    "last_activity": "2026-10-30"
   },
   {
     "slug": "pool-service",
@@ -742,6 +742,14 @@
     "entry_count": 2,
     "query_count": 1,
     "last_activity": "2026-04-24"
+  },
+  {
+    "slug": "organizer",
+    "name": "Organizer",
+    "emoji": "📌",
+    "entry_count": 2,
+    "query_count": 1,
+    "last_activity": "2026-10-30"
   },
   {
     "slug": "pharmacy",
@@ -1774,14 +1782,6 @@
     "entry_count": 0,
     "query_count": 1,
     "last_activity": "2026-07-22"
-  },
-  {
-    "slug": "organizer",
-    "name": "Organizer",
-    "emoji": "📌",
-    "entry_count": 0,
-    "query_count": 1,
-    "last_activity": "2026-10-29"
   },
   {
     "slug": "orthopedic",

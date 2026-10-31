@@ -10686,6 +10686,37 @@
     "mention_count": 1
   },
   {
+    "id": "maggie",
+    "category": "mover",
+    "categories": [
+      "mover",
+      "organizer"
+    ],
+    "name": "Maggie",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.yelp.com/biz/madalena-personal-organizer-pleasanton-2"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Maggie is fabulous and has helped me unpack during two moves",
+        "date": "2026-05-02",
+        "type": "contact"
+      },
+      {
+        "quote": "Maggie is the best. She has helped me pack/unpack-organize a few times over the years",
+        "date": "2026-10-30",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-10-30",
+    "mention_count": 2
+  },
+  {
     "id": "a2b-movers",
     "category": "mover",
     "categories": [
@@ -10802,31 +10833,6 @@
     ],
     "first_seen": "2026-01-11",
     "last_seen": "2026-01-11",
-    "mention_count": 1
-  },
-  {
-    "id": "maggie",
-    "category": "mover",
-    "categories": [
-      "mover"
-    ],
-    "name": "Maggie",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": [
-        "https://www.yelp.com/biz/madalena-personal-organizer-pleasanton-2"
-      ]
-    },
-    "mentions": [
-      {
-        "quote": "Maggie is fabulous and has helped me unpack during two moves",
-        "date": "2026-05-02",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
     "mention_count": 1
   },
   {
@@ -10982,6 +10988,41 @@
     "mention_count": 1
   },
   {
+    "id": "leticia",
+    "category": "nanny",
+    "categories": [
+      "nanny"
+    ],
+    "name": "Leticia",
+    "contact": {
+      "phones": [
+        "(916) 856-0180"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Our family helper Leticia has been with us for 4 years. Very reliable and helpful.",
+        "date": "2026-06-14",
+        "type": "contact"
+      },
+      {
+        "quote": "She been with us for the last 4 years and is extremely reliable. She helps with household work and childcare (dropping off/picking up kids).",
+        "date": "2026-10-22",
+        "type": "contact"
+      },
+      {
+        "quote": "Our family helper Leticia is looking for more hours over the weekends and Thursdays before 2pm. She been with us for the last 4 years and is extremely reliable.",
+        "date": "2026-10-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-30",
+    "mention_count": 3
+  },
+  {
     "id": "satwinder",
     "category": "nanny",
     "categories": [
@@ -11072,36 +11113,6 @@
     ],
     "first_seen": "2026-03-23",
     "last_seen": "2026-03-23",
-    "mention_count": 2
-  },
-  {
-    "id": "leticia",
-    "category": "nanny",
-    "categories": [
-      "nanny"
-    ],
-    "name": "Leticia",
-    "contact": {
-      "phones": [
-        "(916) 856-0180"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "Our family helper Leticia has been with us for 4 years. Very reliable and helpful.",
-        "date": "2026-06-14",
-        "type": "contact"
-      },
-      {
-        "quote": "She been with us for the last 4 years and is extremely reliable. She helps with household work and childcare (dropping off/picking up kids).",
-        "date": "2026-10-22",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-10-22",
     "mention_count": 2
   },
   {
@@ -11612,6 +11623,31 @@
     ],
     "first_seen": "2026-04-23",
     "last_seen": "2026-04-23",
+    "mention_count": 1
+  },
+  {
+    "id": "madalena-maggie",
+    "category": "organizer",
+    "categories": [
+      "organizer"
+    ],
+    "name": "Madalena (Maggie)",
+    "contact": {
+      "phones": [
+        "(408) 849-9590"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Madalena (Maggie) (+1 (408) 849-9590)",
+        "date": "2026-10-30",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
     "mention_count": 1
   },
   {
