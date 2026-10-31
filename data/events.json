@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-10-30T04:15:32Z",
+  "generated_at": "2026-10-31T04:15:27Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 10,
+  "upcoming_count": 9,
   "promo_count": 22,
   "schema_version": 3
  },
@@ -43,24 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_adce01549805",
-   "title": "Chipotle Fundraiser for Los Altos High School Badminton",
-   "kind": "regional",
-   "start_date": "2026-10-28",
-   "end_date": null,
-   "time": "5-9 PM",
-   "venue": "1039 El Monte Ave Ste A",
-   "city": "Mountain View",
-   "organizer": null,
-   "cost": null,
-   "url": null,
-   "recurrence": null,
-   "description": "25% of event sales get donated to the Los Altos High School badminton team.",
-   "first_seen": "2026-10-18T16:08:16Z",
-   "last_seen": "2026-10-18T16:08:16Z",
    "from_image": true
   },
   {
