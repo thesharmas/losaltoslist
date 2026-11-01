@@ -119,7 +119,9 @@
   ],
   "catering": [
     "caterer",
-    "party food"
+    "party food",
+    "diwali catering",
+    "indian event catering"
   ],
   "pool-service": [
     "pool cleaning",
@@ -257,5 +259,11 @@
     "wallpaper",
     "wallpaper installation",
     "wallpapering"
+  ],
+  "yoga": [
+    "yoga instructor"
+  ],
+  "driving-school": [
+    "driving instructor"
   ]
 }
