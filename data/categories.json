@@ -11,9 +11,9 @@
     "slug": "catering",
     "name": "Catering",
     "emoji": "🍳",
-    "entry_count": 53,
-    "query_count": 44,
-    "last_activity": "2026-10-29"
+    "entry_count": 54,
+    "query_count": 45,
+    "last_activity": "2026-10-31"
   },
   {
     "slug": "contractor",
@@ -168,20 +168,20 @@
     "last_activity": "2026-08-29"
   },
   {
+    "slug": "insurance",
+    "name": "Insurance",
+    "emoji": "🛡️",
+    "entry_count": 8,
+    "query_count": 9,
+    "last_activity": "2026-10-31"
+  },
+  {
     "slug": "window-cleaning",
     "name": "Window Cleaning",
     "emoji": "🪟",
     "entry_count": 7,
     "query_count": 10,
     "last_activity": "2026-10-16"
-  },
-  {
-    "slug": "insurance",
-    "name": "Insurance",
-    "emoji": "🛡️",
-    "entry_count": 7,
-    "query_count": 8,
-    "last_activity": "2026-08-31"
   },
   {
     "slug": "mover",

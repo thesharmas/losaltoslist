@@ -2639,6 +2639,29 @@
     "mention_count": 1
   },
   {
+    "id": "kanteen-catering",
+    "category": "catering",
+    "categories": [
+      "catering"
+    ],
+    "name": "kanteen catering",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "It’s really good. I just attended an event that they catered. Really nice 👍",
+        "date": "2026-10-31",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1
+  },
+  {
     "id": "kanteen-sf",
     "category": "catering",
     "categories": [
@@ -9236,6 +9259,35 @@
     ],
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
+    "mention_count": 1
+  },
+  {
+    "id": "hub-international-insurance-services-inc",
+    "category": "insurance",
+    "categories": [
+      "insurance"
+    ],
+    "name": "HUB International Insurance Services Inc.",
+    "contact": {
+      "phones": [
+        "(650) 237-3040"
+      ],
+      "emails": [
+        "valerie.buteaux@hubinternational.com"
+      ],
+      "websites": [
+        "hubinternational.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "Valerie Buteaux \nSenior Account Manager\n\nHUB International Insurance Services Inc.\n\n701 ​University ​Ave ​Ste ​100\nSacramento, CA ​95882\n\nIndividual Producer License Number: 0771814\n\nMobile: 916-​205-4821\nOffice:  650-237-3040 Direct\nToll-free: 800-​964-8121\nFax: 916-​993-7270\n\nEmail: valerie.but...",
+        "date": "2026-10-31",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
     "mention_count": 1
   },
   {
