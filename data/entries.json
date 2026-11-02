@@ -3625,6 +3625,31 @@
     "mention_count": 2
   },
   {
+    "id": "bertha-lujano",
+    "category": "cleaner",
+    "categories": [
+      "cleaner"
+    ],
+    "name": "Bertha Lujano",
+    "contact": {
+      "phones": [
+        "(408) 661-2723"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Bertha Lujano (+1 (408) 661-2723)",
+        "date": "2026-11-01",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1
+  },
+  {
     "id": "brenda",
     "category": "cleaner",
     "categories": [
