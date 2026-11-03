@@ -7533,6 +7533,31 @@
     "mention_count": 1
   },
   {
+    "id": "baps",
+    "category": "event",
+    "categories": [
+      "event"
+    ],
+    "name": "BAPS",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://www.baps.org/losangeles/events/diwali-festival-of-lights-2026"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "We went to the BAPS Diwali celebrations last year. It was a tremendous hit with the kids with carnival rides, food, Diwali art, decor and stores",
+        "date": "2026-11-02",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-02",
+    "mention_count": 1
+  },
+  {
     "id": "pallavi",
     "category": "event planner",
     "categories": [
@@ -10496,6 +10521,29 @@
     ],
     "first_seen": "2026-07-13",
     "last_seen": "2026-07-13",
+    "mention_count": 1
+  },
+  {
+    "id": "sunnyvale-martial-arts-academy",
+    "category": "martial arts",
+    "categories": [
+      "martial arts"
+    ],
+    "name": "Sunnyvale Martial Arts Academy",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Our boys trained at Sunnyvale Martial Arts Academy (SVMAA) and they got to their Black Belt \u001f94b\n\nI\u0019ve trained at various dojos over the years, still train at SVMAA - instructors are fantastic and great with kids.",
+        "date": "2026-11-02",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-02",
     "mention_count": 1
   },
   {

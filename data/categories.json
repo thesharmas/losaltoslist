@@ -1032,6 +1032,14 @@
     "last_activity": "2026-03-29"
   },
   {
+    "slug": "martial-arts",
+    "name": "Martial Arts",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 1,
+    "last_activity": "2026-11-02"
+  },
+  {
     "slug": "optician",
     "name": "Optician",
     "emoji": "📌",
@@ -1214,6 +1222,14 @@
     "entry_count": 1,
     "query_count": 0,
     "last_activity": "2026-07-22"
+  },
+  {
+    "slug": "event",
+    "name": "Event",
+    "emoji": "📌",
+    "entry_count": 1,
+    "query_count": 0,
+    "last_activity": "2026-11-02"
   },
   {
     "slug": "event-service",
