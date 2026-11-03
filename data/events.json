@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-31T04:15:27Z",
+  "generated_at": "2026-11-03T05:15:21Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 9,
-  "promo_count": 22,
+  "upcoming_count": 8,
+  "promo_count": 21,
   "schema_version": 3
  },
  "events": [
@@ -44,24 +44,6 @@
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
    "from_image": true
-  },
-  {
-   "id": "evt_e7d49bcffe34",
-   "title": "Los Altos Scholastic Chess Club Tournament",
-   "kind": "local",
-   "start_date": "2026-10-31",
-   "end_date": null,
-   "time": "10 AM – 2 PM",
-   "venue": "Los Altos Library, Orchard Room",
-   "city": "Los Altos",
-   "organizer": "Kabir",
-   "cost": "$15",
-   "url": "https://caissachess.net/register/11114796",
-   "recurrence": null,
-   "description": "A chess tournament for kids with both competitive and beginner sections.",
-   "first_seen": "2026-10-26T03:51:54Z",
-   "last_seen": "2026-10-26T03:51:54Z",
-   "from_image": false
   },
   {
    "id": "evt_c8905e8d45ff",
@@ -382,16 +364,6 @@
    "first_seen": "2026-09-05T04:05:16Z",
    "last_seen": "2026-09-05T04:05:16Z",
    "expires": "2026-11-04"
-  },
-  {
-   "id": "prm_0a6be74ba49d",
-   "name": "SANJHA CHULHA",
-   "what": "Home Cooked Fresh Authentic Food",
-   "url": null,
-   "description": "SANJHA CHULHA offers home-cooked, fresh, and authentic meals with delivery options.",
-   "first_seen": "2026-09-02T21:15:16Z",
-   "last_seen": "2026-09-02T21:15:16Z",
-   "expires": "2026-11-01"
   }
  ]
 }
