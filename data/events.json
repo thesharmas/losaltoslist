@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T05:15:21Z",
+  "generated_at": "2026-11-04T05:15:19Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 8,
+  "upcoming_count": 7,
   "promo_count": 21,
   "schema_version": 3
  },
@@ -43,24 +43,6 @@
    "description": "Carnatic music lessons for beginners and elementary levels from September 2026 to May 2027.",
    "first_seen": "2026-09-19T15:29:17Z",
    "last_seen": "2026-09-19T15:29:17Z",
-   "from_image": true
-  },
-  {
-   "id": "evt_c8905e8d45ff",
-   "title": "SVM Diwali Carnival Festival",
-   "kind": "regional",
-   "start_date": "2026-11-01",
-   "end_date": null,
-   "time": "11:30 AM - 2:00 PM",
-   "venue": "175 Nortech Parkway",
-   "city": "San Jose",
-   "organizer": "Shreemay Community Services",
-   "cost": "Free",
-   "url": null,
-   "recurrence": null,
-   "description": "Join the vibrant Diwali Carnival Festival with lights, food, music, and games.",
-   "first_seen": "2026-10-17T16:46:22Z",
-   "last_seen": "2026-10-17T19:32:02Z",
    "from_image": true
   },
   {
