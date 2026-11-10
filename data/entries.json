@@ -375,6 +375,36 @@
     "mention_count": 6
   },
   {
+    "id": "box-appliance-service",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Box Appliance Service",
+    "contact": {
+      "phones": [
+        "(888) 782-9653"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "I used Box Appliance for SubZero refrigerator repair and happy with it.",
+        "date": "2026-11-04",
+        "type": "review"
+      },
+      {
+        "quote": "I had called Box Appliance couple of weeks back they are very busy and earliest appointment I got is Nov 12. Carlos will try to come later today.",
+        "date": "2026-11-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "mention_count": 2
+  },
+  {
     "id": "calvey",
     "category": "appliance repair",
     "categories": [
@@ -437,6 +467,34 @@
     "mention_count": 2
   },
   {
+    "id": "usa-appliance-services",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "USA Appliance Services",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Thanks, Carlos worked out well. Sharing the details here for others USA Appliance Services 4089036734, 5108164550, 6509671350. They do air conditioning and wine cooler/room too.",
+        "date": "2026-11-05",
+        "type": "contact"
+      },
+      {
+        "quote": "Check out with USA Appliance Services 4089036734, 5108164550, 6509671350. They might be able to help…",
+        "date": "2026-11-08",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-08",
+    "mention_count": 2
+  },
+  {
     "id": "big-guys-appliance",
     "category": "appliance repair",
     "categories": [
@@ -457,6 +515,31 @@
     ],
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
+    "mention_count": 1
+  },
+  {
+    "id": "carlos",
+    "category": "appliance repair",
+    "categories": [
+      "appliance repair"
+    ],
+    "name": "Carlos",
+    "contact": {
+      "phones": [
+        "(408) 499-0713"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Carlos 1 (408) 499-0713",
+        "date": "2026-11-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
     "mention_count": 1
   },
   {
@@ -4144,7 +4227,8 @@
     "categories": [
       "contractor",
       "landscaper",
-      "pest control"
+      "pest control",
+      "plumber"
     ],
     "name": "Miguel",
     "contact": {
@@ -4174,11 +4258,16 @@
         "quote": "Miguel @+1 (209) 300-4879 he fixed and expanded our brick fixed",
         "date": "2026-09-30",
         "type": "contact"
+      },
+      {
+        "quote": "Call Miguel he has a plumber on short notice.",
+        "date": "2026-11-09",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-03-17",
-    "last_seen": "2026-09-30",
-    "mention_count": 4
+    "last_seen": "2026-11-09",
+    "mention_count": 5
   },
   {
     "id": "ashkan",
@@ -7659,7 +7748,7 @@
     },
     "mentions": [
       {
-        "quote": "Celebrate Kartik Maas with divine melodies! 🪔 The ISKCON Temple monks are now offering Kirtan services for the holy month Reach out to them to book a Kirtan session for your upcoming pujas and festivals!",
+        "quote": "Celebrate a neighbor Maas with divine melodies! 🪔 The ISKCON Temple monks are now offering Kirtan services for the holy month Reach out to them to book a Kirtan session for your upcoming pujas and festivals!",
         "date": "2026-10-26",
         "type": "contact"
       }
@@ -8763,6 +8852,54 @@
     ],
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
+    "mention_count": 1
+  },
+  {
+    "id": "wilmar",
+    "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
+    "name": "Wilmar",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Wilmar usually responds within the hour and may be come over the same day",
+        "date": "2026-11-09",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "mention_count": 1
+  },
+  {
+    "id": "wilmar-b-handyman",
+    "category": "handyman",
+    "categories": [
+      "handyman"
+    ],
+    "name": "Wilmar B Handyman",
+    "contact": {
+      "phones": [
+        "(408) 418-2909"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Wilmar  B Handyman (+1 (408) 418-2909)",
+        "date": "2026-11-09",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
     "mention_count": 1
   },
   {
@@ -9989,6 +10126,36 @@
     "mention_count": 2
   },
   {
+    "id": "saul",
+    "category": "landscaper",
+    "categories": [
+      "landscaper"
+    ],
+    "name": "Saul",
+    "contact": {
+      "phones": [
+        "(650) 771-7803"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Saul (+1 (650) 771-7803)",
+        "date": "2026-11-04",
+        "type": "contact"
+      },
+      {
+        "quote": "He has trimmed our tree in the past, would highly recommend him",
+        "date": "2026-11-04",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "mention_count": 2
+  },
+  {
     "id": "tilu",
     "category": "landscaper",
     "categories": [
@@ -10521,6 +10688,31 @@
     ],
     "first_seen": "2026-07-13",
     "last_seen": "2026-07-13",
+    "mention_count": 1
+  },
+  {
+    "id": "ohana-martial-arts",
+    "category": "martial arts",
+    "categories": [
+      "martial arts"
+    ],
+    "name": "Ohana Martial Arts",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "https://ohanamac.com"
+      ]
+    },
+    "mentions": [
+      {
+        "quote": "My daughter trained at Ohana Martial Arts. The instructor is very friendly, teaches through games and I’d recommend for a 7 year old.",
+        "date": "2026-11-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
     "mention_count": 1
   },
   {
@@ -11110,6 +11302,54 @@
     ],
     "first_seen": "2026-01-10",
     "last_seen": "2026-01-10",
+    "mention_count": 1
+  },
+  {
+    "id": "sirish",
+    "category": "musician",
+    "categories": [
+      "musician"
+    ],
+    "name": "Sirish",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Sirish is an amazing Tabla player and teacher",
+        "date": "2026-11-06",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-4082037828",
+    "category": "musician",
+    "categories": [
+      "musician"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [
+        "(408) 203-7828"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Ish a neighbor Saripalle (+1 (408) 203-7828)",
+        "date": "2026-11-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
     "mention_count": 1
   },
   {
@@ -11997,6 +12237,31 @@
     ],
     "first_seen": "2026-04-26",
     "last_seen": "2026-04-26",
+    "mention_count": 1
+  },
+  {
+    "id": "unnamed-4088353380",
+    "category": "painter",
+    "categories": [
+      "painter"
+    ],
+    "name": null,
+    "contact": {
+      "phones": [
+        "(408) 835-3380"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Miguel and his team are amazing. Call him +1 (408) 835-3380. They did a fantastic job inside and outside my home",
+        "date": "2026-11-06",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
     "mention_count": 1
   },
   {
@@ -13668,11 +13933,16 @@
         "quote": "I used him for a different purpose but try him",
         "date": "2026-10-18",
         "type": "review"
+      },
+      {
+        "quote": "Javier Castle Plumbing sent folks asap to us in an emergency: +1 (408) 417-3091",
+        "date": "2026-11-09",
+        "type": "contact"
       }
     ],
     "first_seen": "2026-01-09",
-    "last_seen": "2026-10-18",
-    "mention_count": 9
+    "last_seen": "2026-11-09",
+    "mention_count": 10
   },
   {
     "id": "24-hour-drain-pro-plumbing",
@@ -13773,6 +14043,34 @@
     "mention_count": 2
   },
   {
+    "id": "roto-rooter",
+    "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
+    "name": "Roto Rooter",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "You need to call Roto Rooter or similar service that can snake your lines/ clear out anything obstructing your sewer clean out.",
+        "date": "2026-02-23",
+        "type": "contact"
+      },
+      {
+        "quote": "they usually have same day appointments",
+        "date": "2026-11-09",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-02-23",
+    "last_seen": "2026-11-09",
+    "mention_count": 2
+  },
+  {
     "id": "castle-plumber",
     "category": "plumber",
     "categories": [
@@ -13793,6 +14091,31 @@
     ],
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-08",
+    "mention_count": 1
+  },
+  {
+    "id": "chris-cruz-leak-detection",
+    "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
+    "name": "Chris Cruz leak detection",
+    "contact": {
+      "phones": [
+        "(209) 321-0788"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Chris Cruz leak detection +1 (209) 321-0788",
+        "date": "2026-11-04",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
     "mention_count": 1
   },
   {
@@ -13867,6 +14190,54 @@
     "mention_count": 1
   },
   {
+    "id": "julio",
+    "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
+    "name": "Julio",
+    "contact": {
+      "phones": [],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Julio has helped us the same day a few times in the past",
+        "date": "2026-11-09",
+        "type": "review"
+      }
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "mention_count": 1
+  },
+  {
+    "id": "julio-rigo",
+    "category": "plumber",
+    "categories": [
+      "plumber"
+    ],
+    "name": "Julio Rigo",
+    "contact": {
+      "phones": [
+        "(669) 770-5502"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "Contact: Plumber Julio Rigo (+1 (669) 770-5502)",
+        "date": "2026-11-09",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "mention_count": 1
+  },
+  {
     "id": "plumber-jerry-krupzynski",
     "category": "plumber",
     "categories": [
@@ -13887,29 +14258,6 @@
     ],
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-08",
-    "mention_count": 1
-  },
-  {
-    "id": "roto-rooter",
-    "category": "plumber",
-    "categories": [
-      "plumber"
-    ],
-    "name": "Roto Rooter",
-    "contact": {
-      "phones": [],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "You need to call Roto Rooter or similar service that can snake your lines/ clear out anything obstructing your sewer clean out.",
-        "date": "2026-02-23",
-        "type": "contact"
-      }
-    ],
-    "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
     "mention_count": 1
   },
   {
@@ -15898,6 +16246,42 @@
     "mention_count": 1
   },
   {
+    "id": "ulises-trees",
+    "category": "tree service",
+    "categories": [
+      "tree service",
+      "landscaper"
+    ],
+    "name": "Ulises Trees",
+    "contact": {
+      "phones": [
+        "(925) 497-1185"
+      ],
+      "emails": [],
+      "websites": []
+    },
+    "mentions": [
+      {
+        "quote": "We just did ours yesterday - they were really good.",
+        "date": "2026-05-02",
+        "type": "contact"
+      },
+      {
+        "quote": "They did 15 trees of ours and very friendly",
+        "date": "2026-05-02",
+        "type": "review"
+      },
+      {
+        "quote": "A neighbor,\nWe just did ours yesterday - they were really good. Ulises Trees - +1 (925) 497-1185",
+        "date": "2026-11-05",
+        "type": "contact"
+      }
+    ],
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-11-05",
+    "mention_count": 3
+  },
+  {
     "id": "bartlett-trees",
     "category": "tree service",
     "categories": [
@@ -15959,36 +16343,6 @@
     ],
     "first_seen": "2026-02-24",
     "last_seen": "2026-02-25",
-    "mention_count": 2
-  },
-  {
-    "id": "ulises-trees",
-    "category": "tree service",
-    "categories": [
-      "tree service"
-    ],
-    "name": "Ulises Trees",
-    "contact": {
-      "phones": [
-        "(925) 497-1185"
-      ],
-      "emails": [],
-      "websites": []
-    },
-    "mentions": [
-      {
-        "quote": "We just did ours yesterday - they were really good.",
-        "date": "2026-05-02",
-        "type": "contact"
-      },
-      {
-        "quote": "They did 15 trees of ours and very friendly",
-        "date": "2026-05-02",
-        "type": "review"
-      }
-    ],
-    "first_seen": "2026-05-02",
-    "last_seen": "2026-05-02",
     "mention_count": 2
   },
   {
