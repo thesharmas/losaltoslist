@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-11-04T05:15:19Z",
+  "generated_at": "2026-11-10T05:15:50Z",
   "groups": [
    "Los Altos neighborhood WhatsApp groups"
   ],
-  "upcoming_count": 7,
-  "promo_count": 21,
+  "upcoming_count": 8,
+  "promo_count": 20,
   "schema_version": 3
  },
  "events": [
@@ -82,6 +82,24 @@
    "from_image": true
   },
   {
+   "id": "evt_5cc709e438ce",
+   "title": "What the Land Remembers",
+   "kind": "local",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-29",
+   "time": "5 PM - 8 PM",
+   "venue": "Gallery 9",
+   "city": "Los Altos",
+   "organizer": "Ragini Prasad",
+   "cost": null,
+   "url": "http://www.raginiart.com",
+   "recurrence": null,
+   "description": "Opening reception for Ragini Prasad's solo exhibition at Gallery 9.",
+   "first_seen": "2026-11-06T02:48:43Z",
+   "last_seen": "2026-11-06T02:48:43Z",
+   "from_image": true
+  },
+  {
    "id": "evt_337e817d49c1",
    "title": "Heart Health Conversation",
    "kind": "regional",
@@ -137,6 +155,16 @@
   }
  ],
  "promos": [
+  {
+   "id": "prm_9258efd323ff",
+   "name": "Aamra",
+   "what": "jewelry brand",
+   "url": "aamrastudio.com",
+   "description": "Aamra offers timeless, modern jewelry inspired by the legacy of Amrapali.",
+   "first_seen": "2026-11-06T01:05:58Z",
+   "last_seen": "2026-11-06T01:05:58Z",
+   "expires": "2027-01-05"
+  },
   {
    "id": "prm_eb406e532ed7",
    "name": "Manju Farsan",
@@ -326,26 +354,6 @@
    "first_seen": "2026-09-13T20:06:45Z",
    "last_seen": "2026-09-13T20:06:45Z",
    "expires": "2026-11-12"
-  },
-  {
-   "id": "prm_2402baf497d4",
-   "name": "KarinaJ Denim",
-   "what": "premium denim brand",
-   "url": "karinajdenim.com",
-   "description": "KarinaJ Denim offers premium denim jeans with the ease and comfort of pull-on jeans, featuring a hidden stretch waistband.",
-   "first_seen": "2026-09-08T04:25:55Z",
-   "last_seen": "2026-09-08T04:25:55Z",
-   "expires": "2026-11-07"
-  },
-  {
-   "id": "prm_8b87c1cfe0ac",
-   "name": "Pia's Atelier",
-   "what": "atelier in an old haveli",
-   "url": "www.piakaghar.com",
-   "description": "Pia has an atelier in an old haveli in the hills of Los Altos.",
-   "first_seen": "2026-09-05T04:05:16Z",
-   "last_seen": "2026-09-05T04:05:16Z",
-   "expires": "2026-11-04"
   }
  ]
 }
